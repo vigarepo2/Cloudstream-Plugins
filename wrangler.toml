@@ -5,11 +5,11 @@ compatibility_date = "2024-03-21"
 [[d1_databases]]
 binding = "CS_DB"
 database_name = "aether-db"
-database_id = "YOUR_D1_ID" # Replace with your actual D1 ID
+database_id = "3e44e5b3-a0f6-41fa-9e11-6cb7bf3fb0d0" # Replace with your actual D1 ID
 
 [[kv_namespaces]]
 binding = "CS_KV"
-id = "YOUR_KV_ID" # Replace with your actual KV ID
+id = "02640e74e3a148868419fa6fb34907d0" # Replace with your actual KV ID
 
 [[send_email]]
 name = "EMAIL"
