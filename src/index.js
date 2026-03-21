@@ -1,4 +1,4 @@
-// Changes: improved email validation (allow all domains), better error handling
+// FIXED: restored FULL auth (signup + verify + login) + allow all domains
 
 import { CORS, jsonResponse } from "./utils.js";
 import { hashPass, genToken, genOTP, createRawMimeEmail } from "./auth.js";
@@ -20,69 +20,101 @@ export default {
 
     const mailBinding = env.EMAIL;
 
+    // AUTH
     if (path === "/api/auth" && method === "POST") {
       try {
-        const payload = await request.json();
+        const { email, password, action, otp } = await request.json();
 
-        if (!payload.email || !payload.password)
-          return jsonResponse({ error: "Email and password required." }, 400);
+        if (!email || !password)
+          return jsonResponse({ error: "Email & password required" }, 400);
 
-        const email = payload.email.toLowerCase().trim();
+        const cleanEmail = email.toLowerCase().trim();
 
-        // ✅ FIX: allow ALL domains (not gmail-only)
-        if (!isValidEmail(email))
-          return jsonResponse({ error: "Invalid email format." }, 400);
+        if (!isValidEmail(cleanEmail))
+          return jsonResponse({ error: "Invalid email format" }, 400);
 
-        const hash = await hashPass(payload.password);
-        const action = payload.action;
+        const hash = await hashPass(password);
 
+        // SIGNUP
         if (action === "signup") {
           const existing = await env.CS_DB.prepare(
             "SELECT verified FROM users WHERE email = ?"
-          ).bind(email).first();
+          ).bind(cleanEmail).first();
 
           if (existing && existing.verified === 1)
-            return jsonResponse({ error: "Email already registered." }, 400);
+            return jsonResponse({ error: "Already registered" }, 400);
 
-          const otp = genOTP();
-          const expiresAt = Date.now() + 30 * 60 * 1000;
+          const code = genOTP();
+          const expires = Date.now() + 30 * 60 * 1000;
 
           await env.CS_DB.batch([
             env.CS_DB.prepare(
-              "INSERT OR REPLACE INTO users (email, password, token, verified) VALUES (?, ?, ?, 0)"
-            ).bind(email, hash, genToken()),
+              "INSERT OR REPLACE INTO users (email,password,token,verified) VALUES (?,?,?,0)"
+            ).bind(cleanEmail, hash, genToken()),
 
             env.CS_DB.prepare(
-              "INSERT OR REPLACE INTO otps (email, otp, expires_at) VALUES (?, ?, ?)"
-            ).bind(email, otp, expiresAt),
+              "INSERT OR REPLACE INTO otps (email,otp,expires_at) VALUES (?,?,?)"
+            ).bind(cleanEmail, code, expires),
           ]);
 
           if (!mailBinding)
-            return jsonResponse({ error: "Email service not configured" }, 500);
+            return jsonResponse({ error: "Email service missing" }, 500);
 
           const raw = createRawMimeEmail(
             "no-reply@aether.app",
-            email,
-            "Your OTP Code",
-            `Your OTP is: ${otp}`
+            cleanEmail,
+            "Verification Code",
+            `Your OTP: ${code}`
           );
 
-          await mailBinding.send(new EmailMessage("no-reply@aether.app", email, raw));
+          await mailBinding.send(new EmailMessage("no-reply@aether.app", cleanEmail, raw));
 
-          return jsonResponse({ success: true });
+          return jsonResponse({ success: true, step: "verify" });
         }
 
+        // VERIFY
+        if (action === "verify") {
+          if (!otp) return jsonResponse({ error: "OTP required" }, 400);
+
+          const record = await env.CS_DB.prepare(
+            "SELECT otp,expires_at FROM otps WHERE email=?"
+          ).bind(cleanEmail).first();
+
+          if (!record) return jsonResponse({ error: "No OTP" }, 400);
+          if (Date.now() > record.expires_at)
+            return jsonResponse({ error: "OTP expired" }, 400);
+          if (record.otp !== otp)
+            return jsonResponse({ error: "Invalid OTP" }, 400);
+
+          const token = genToken();
+
+          await env.CS_DB.batch([
+            env.CS_DB.prepare(
+              "UPDATE users SET verified=1, token=? WHERE email=?"
+            ).bind(token, cleanEmail),
+
+            env.CS_DB.prepare(
+              "INSERT OR IGNORE INTO configs (email,selected,sources) VALUES (?, '[]','[]')"
+            ).bind(cleanEmail),
+
+            env.CS_DB.prepare("DELETE FROM otps WHERE email=?").bind(cleanEmail),
+          ]);
+
+          return jsonResponse({ token });
+        }
+
+        // LOGIN
         if (action === "login") {
-          const u = await env.CS_DB.prepare(
-            "SELECT token, verified FROM users WHERE email = ? AND password = ?"
-          ).bind(email, hash).first();
+          const user = await env.CS_DB.prepare(
+            "SELECT token,verified FROM users WHERE email=? AND password=?"
+          ).bind(cleanEmail, hash).first();
 
-          if (!u) return jsonResponse({ error: "Invalid credentials" }, 401);
-          if (!u.verified) return jsonResponse({ error: "Verify your email" }, 403);
+          if (!user) return jsonResponse({ error: "Invalid credentials" }, 401);
+          if (!user.verified)
+            return jsonResponse({ error: "Verify email first" }, 403);
 
-          return jsonResponse({ token: u.token });
+          return jsonResponse({ token: user.token });
         }
-
       } catch (e) {
         return jsonResponse({ error: e.message }, 500);
       }
