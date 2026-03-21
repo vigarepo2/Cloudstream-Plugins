@@ -1,2 +1,15 @@
+name = "aether-registry"
+main = "src/index.js"
+compatibility_date = "2024-03-21"
+
+[[d1_databases]]
+binding = "CS_DB"
+database_name = "aether-db"
+database_id = "YOUR_D1_ID" # Replace with your actual D1 ID
+
+[[kv_namespaces]]
+binding = "CS_KV"
+id = "YOUR_KV_ID" # Replace with your actual KV ID
+
 [[send_email]]
 name = "EMAIL"
