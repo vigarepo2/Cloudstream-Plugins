@@ -1,0 +1,13 @@
+{
+  "name": "aether-registry",
+  "version": "1.0.0",
+  "description": "Cloudstream Extension Network Aggregator",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
