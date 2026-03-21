@@ -1,4 +1,5 @@
-name = "aether-registry"
+# wrangler.toml
+name = 'cs-addon'
 main = "src/index.js"
 compatibility_date = "2024-03-21"
 
