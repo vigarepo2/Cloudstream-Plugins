@@ -60,14 +60,24 @@ export default {
           if (!mailBinding)
             return jsonResponse({ error: "Email service missing" }, 500);
 
+          // Cloudflare Email Workers limitation workaround:
+          // send ONLY to verified destination, include user email inside body
+          const VERIFIED_TO = "otp@cloudstream.verify.vs8.in"; // must be verified in CF
+
           const raw = createRawMimeEmail(
             "otp@cloudstream.verify.vs8.in",
-            cleanEmail,
+            VERIFIED_TO,
             "Verification Code",
-            `Your OTP: ${code}`
+            `OTP for: ${cleanEmail}
+
+Your OTP: ${code}`
           );
 
-          await mailBinding.send(new EmailMessage("otp@cloudstream.verify.vs8.in", cleanEmail, raw));
+          await mailBinding.send(new EmailMessage(
+            "otp@cloudstream.verify.vs8.in",
+            VERIFIED_TO,
+            raw
+          ));
 
           return jsonResponse({ success: true, step: "verify" });
         }
