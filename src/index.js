@@ -61,13 +61,13 @@ export default {
             return jsonResponse({ error: "Email service missing" }, 500);
 
           const raw = createRawMimeEmail(
-            "no-reply@aether.app",
+            "otp@cloudstream.verify.vs8.in",
             cleanEmail,
             "Verification Code",
             `Your OTP: ${code}`
           );
 
-          await mailBinding.send(new EmailMessage("no-reply@aether.app", cleanEmail, raw));
+          await mailBinding.send(new EmailMessage("otp@cloudstream.verify.vs8.in", cleanEmail, raw));
 
           return jsonResponse({ success: true, step: "verify" });
         }
