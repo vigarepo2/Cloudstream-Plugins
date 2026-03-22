@@ -1,97 +1,15 @@
+import { setupDatabase, hashData, generateId, trackClick } from "./db.js";
+import { getBundledExtensions } from "./aggregator.js";
 import { uiHTML } from "./frontend.js";
 
 const CORS = {
   "Access-Control-Allow-Origin": "*",
-  "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+  "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
   "Access-Control-Allow-Headers": "Content-Type, Authorization",
 };
 
-function jsonRes(data, status = 200) {
+function json(data, status = 200) {
   return new Response(JSON.stringify(data), { status, headers: { "Content-Type": "application/json", ...CORS } });
-}
-
-async function hashPassword(str) {
-  const data = new TextEncoder().encode(str);
-  const hashBuffer = await crypto.subtle.digest('SHA-256', data);
-  return Array.from(new Uint8Array(hashBuffer)).map(b => b.toString(16).padStart(2, '0')).join('');
-}
-
-function generateToken() {
-  return crypto.randomUUID().replace(/-/g, '') + Date.now().toString(36);
-}
-
-function cleanUsername(username) {
-  if (!username) return "";
-  return username.toString().trim().toLowerCase().replace(/[^a-z0-9]/g, '');
-}
-
-async function ensureDb(db) {
-  await db.batch([
-    db.prepare(`CREATE TABLE IF NOT EXISTS users (username TEXT PRIMARY KEY, password TEXT, token TEXT UNIQUE)`),
-    db.prepare(`CREATE TABLE IF NOT EXISTS settings (username TEXT PRIMARY KEY, selected TEXT DEFAULT '[]', sources TEXT DEFAULT '[]', is_public INTEGER DEFAULT 0)`)
-  ]);
-}
-
-const DEFAULT_SOURCES = [
-  "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/plugins.json",
-  "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json",
-  "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/plugins.json",
-  "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/plugins.json",
-  "https://raw.githubusercontent.com/rockhero1234/cinephile/builds/plugins.json",
-  "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/plugins.json",
-  "https://cloudstream.lasyhost.tech/plugins.json",
-  "https://raw.githubusercontent.com/crafteraadarsh/vibemax/builds/plugins.json"
-];
-
-async function fetchSource(url, depth = 0) {
-  if (depth > 2) return [];
-  const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 4000);
-  try {
-    const res = await fetch(url, { cf: { cacheTtl: 300, cacheEverything: true }, signal: controller.signal });
-    clearTimeout(timeoutId);
-    if (!res.ok) return [];
-    const data = await res.json();
-    if (Array.isArray(data)) return data;
-    if (data.plugins && Array.isArray(data.plugins)) return data.plugins;
-    if (data.pluginLists && Array.isArray(data.pluginLists)) {
-      const subPromises = data.pluginLists.map(subUrl => fetchSource(subUrl, depth + 1));
-      const subResults = await Promise.all(subPromises);
-      return subResults.flat();
-    }
-    return [];
-  } catch (err) {
-    clearTimeout(timeoutId);
-    return [];
-  }
-}
-
-async function getExtensions(customUrls = []) {
-  const allUrls = [...DEFAULT_SOURCES, ...customUrls];
-  const promises = allUrls.map(url => fetchSource(url));
-  const results = await Promise.all(promises);
-  const rawList = results.flat();
-  
-  const processed = [];
-  const names = new Map();
-
-  for (const item of rawList) {
-    if (!item || typeof item !== 'object' || !item.name || item.status === 0) continue;
-    let key = item.internalName || item.name.replace(/\s+/g, '');
-    if (names.has(key)) {
-      const count = names.get(key) + 1;
-      names.set(key, count);
-      item.internalName = `${key}_${count}`;
-      item.name = `${item.name} (${count})`;
-    } else {
-      names.set(key, 1);
-      item.internalName = key;
-    }
-    if (typeof item.type === 'string' && !item.tvTypes) item.tvTypes = item.type.split(',').map(s => s.trim().toUpperCase());
-    else if (!item.tvTypes) item.tvTypes = ["VOD"];
-    processed.push(item);
-  }
-  return processed.sort((a, b) => a.name.localeCompare(b.name));
 }
 
 export default {
@@ -103,115 +21,154 @@ export default {
     const method = request.method;
     const token = request.headers.get("Authorization");
 
+    // --- AUTHENTICATION API ---
     if (path === "/api/auth" && method === "POST") {
       try {
-        await ensureDb(env.CS_DB); 
+        await setupDatabase(env.CS_DB); 
         const body = await request.json();
-        const username = cleanUsername(body.username);
-        if (!username || !body.password) return jsonRes({ error: "Username and password required" }, 400);
-        const hash = await hashPassword(body.password);
+        const username = body.username?.trim().toLowerCase();
+        if (!username || !body.password) return json({ error: "Missing fields" }, 400);
+        
+        const hash = await hashData(body.password);
 
         if (body.action === "signup") {
           const exists = await env.CS_DB.prepare("SELECT username FROM users WHERE username = ?").bind(username).first();
-          if (exists) return jsonRes({ error: "Username already taken" }, 400);
-          const newToken = generateToken();
-          await env.CS_DB.batch([
-            env.CS_DB.prepare("INSERT INTO users (username, password, token) VALUES (?, ?, ?)").bind(username, hash, newToken),
-            env.CS_DB.prepare("INSERT INTO settings (username) VALUES (?)").bind(username)
-          ]);
-          return jsonRes({ token: newToken, username });
+          if (exists) return json({ error: "Username taken" }, 400);
+          
+          const session = generateId(24);
+          await env.CS_DB.prepare("INSERT INTO users (username, password, session_token) VALUES (?, ?, ?)").bind(username, hash, session).run();
+          return json({ token: session, username });
         }
 
         if (body.action === "login") {
-          const user = await env.CS_DB.prepare("SELECT token FROM users WHERE username = ? AND password = ?").bind(username, hash).first();
-          if (!user) return jsonRes({ error: "Incorrect username or password" }, 401);
-          return jsonRes({ token: user.token, username });
+          const user = await env.CS_DB.prepare("SELECT password, session_token FROM users WHERE username = ?").bind(username).first();
+          if (!user) return json({ error: "user_not_found" }, 401);
+          if (user.password !== hash) return json({ error: "wrong_password" }, 401);
+          return json({ token: user.session_token, username });
         }
-      } catch (e) { return jsonRes({ error: "System error: " + e.message }, 500); }
+      } catch (e) { return json({ error: "System Error" }, 500); }
     }
 
-    if (path === "/api/user" && method === "GET") {
-      if (!token) return jsonRes({ error: "Please log in" }, 401);
-      const user = await env.CS_DB.prepare("SELECT username, token FROM users WHERE token = ?").bind(token).first();
-      if (!user) return jsonRes({ error: "Please log in" }, 401);
-      const settings = await env.CS_DB.prepare("SELECT selected, sources, is_public FROM settings WHERE username = ?").bind(user.username).first();
-      return jsonRes({
-        username: user.username,
-        token: user.token,
-        selected: JSON.parse(settings.selected || '[]'),
-        sources: JSON.parse(settings.sources || '[]'),
-        isPublic: settings.is_public === 1
-      });
+    // --- ACCESS LINKS MANAGEMENT API ---
+    if (path.startsWith("/api/links")) {
+        if (!token) return json({ error: "Unauthorized" }, 401);
+        const user = await env.CS_DB.prepare("SELECT username FROM users WHERE session_token = ?").bind(token).first();
+        if (!user) return json({ error: "Unauthorized" }, 401);
+
+        if (method === "GET") {
+            const query = `
+                SELECT l.*, 
+                COUNT(a.timestamp) as total_clicks,
+                COUNT(DISTINCT a.visitor_hash) as unique_visitors
+                FROM links l
+                LEFT JOIN analytics a ON l.link_id = a.link_id
+                WHERE l.username = ?
+                GROUP BY l.link_id
+                ORDER BY l.created_at DESC
+            `;
+            const { results } = await env.CS_DB.prepare(query).bind(user.username).all();
+            return json(results);
+        }
+
+        if (method === "POST") {
+            const body = await request.json();
+            let linkId = body.id ? body.id.toLowerCase().replace(/[^a-z0-9]/g, '') : generateId(10);
+            if (linkId.length === 0) linkId = generateId(10);
+            
+            const exists = await env.CS_DB.prepare("SELECT link_id FROM links WHERE link_id = ?").bind(linkId).first();
+            if (exists) return json({ error: "Custom ID already in use" }, 400);
+
+            await env.CS_DB.prepare("INSERT INTO links (link_id, username, name) VALUES (?, ?, ?)").bind(linkId, user.username, body.name).run();
+            return json({ success: true, linkId });
+        }
+
+        const linkMatch = path.match(/^\/api\/links\/([a-zA-Z0-9]+)$/);
+        if (linkMatch) {
+            const targetId = linkMatch[1];
+            
+            // Verify Ownership
+            const linkData = await env.CS_DB.prepare("SELECT username FROM links WHERE link_id = ?").bind(targetId).first();
+            if(!linkData || linkData.username !== user.username) return json({ error: "Not found" }, 404);
+
+            if (method === "PUT") {
+                const body = await request.json();
+                await env.CS_DB.prepare("UPDATE links SET is_active = ? WHERE link_id = ?").bind(body.is_active, targetId).run();
+                await env.CS_KV.delete(`repo_${targetId}_sfw`);
+                await env.CS_KV.delete(`repo_${targetId}_nsfw`);
+                return json({ success: true });
+            }
+
+            if (method === "DELETE") {
+                await env.CS_DB.batch([
+                    env.CS_DB.prepare("DELETE FROM links WHERE link_id = ?").bind(targetId),
+                    env.CS_DB.prepare("DELETE FROM analytics WHERE link_id = ?").bind(targetId)
+                ]);
+                await env.CS_KV.delete(`repo_${targetId}_sfw`);
+                await env.CS_KV.delete(`repo_${targetId}_nsfw`);
+                return json({ success: true });
+            }
+        }
     }
 
-    if (path === "/api/user" && method === "POST") {
-      if (!token) return jsonRes({ error: "Please log in" }, 401);
-      const user = await env.CS_DB.prepare("SELECT username, token FROM users WHERE token = ?").bind(token).first();
-      if (!user) return jsonRes({ error: "Please log in" }, 401);
-      const body = await request.json();
-      await env.CS_DB.prepare("UPDATE settings SET selected = ?, sources = ?, is_public = ? WHERE username = ?")
-        .bind(JSON.stringify(body.selected), JSON.stringify(body.sources), body.isPublic ? 1 : 0, user.username).run();
-      await env.CS_KV.delete(`app_${user.token}_safe`);
-      await env.CS_KV.delete(`app_${user.token}_18plus`);
-      return jsonRes({ success: true });
-    }
+    // --- REPOSITORY DELIVERY (THE ACTUAL PLUGINS) ---
+    const repoMatch = path.match(/^\/?([a-zA-Z0-9]+)?\/(sfw|nsfw)\/(repo|plugins)\.json$/);
+    if (repoMatch && method === "GET") {
+      let linkId = repoMatch[1] || 'default';
+      let mode = repoMatch[2];
+      let file = repoMatch[3];
 
-    if (path === "/api/extensions" && method === "GET") {
-      if (!token) return jsonRes({ error: "Please log in" }, 401);
-      const user = await env.CS_DB.prepare("SELECT username FROM users WHERE token = ?").bind(token).first();
-      if (!user) return jsonRes({ error: "Please log in" }, 401);
-      const settings = await env.CS_DB.prepare("SELECT sources FROM settings WHERE username = ?").bind(user.username).first();
-      const customUrls = JSON.parse(settings.sources || '[]');
-      const data = await getExtensions(customUrls);
-      return jsonRes(data);
-    }
+      // If it's a custom link, check if it exists and is active
+      if (linkId !== 'default') {
+          const linkCheck = await env.CS_DB.prepare("SELECT is_active FROM links WHERE link_id = ?").bind(linkId).first();
+          if (!linkCheck || linkCheck.is_active === 0) return json({ error: "Access Denied or Link Disabled" }, 403);
+          
+          // Track the click analytics!
+          if (file === "repo") {
+             // Run analytics in background without blocking the response
+             env.ctx ? env.ctx.waitUntil(trackClick(env.CS_DB, linkId, request)) : trackClick(env.CS_DB, linkId, request);
+          }
+      }
 
-    const appMatch = path.match(/^\/([a-zA-Z0-9]+)\/(safe|18plus)\/(repo|plugins)\.json$/);
-    if (appMatch && method === "GET") {
-      const appToken = appMatch[1];
-      const mode = appMatch[2];
-      const file = appMatch[3];
-
-      const user = await env.CS_DB.prepare("SELECT username FROM users WHERE token = ?").bind(appToken).first();
-      if (!user) return jsonRes({ error: "Link not found" }, 404);
+      const libraryName = mode === 'sfw' ? 'Movies, Series & Anime' : 'Adult Content (18+)';
 
       if (file === "repo") {
-        return jsonRes({
-          name: `My Extensions (${mode === 'safe' ? 'Safe' : '18+'})`,
-          description: `Created by ${user.username}`,
+        const repoUrl = linkId === 'default' 
+            ? `${url.origin}/${mode}/plugins.json` 
+            : `${url.origin}/${linkId}/${mode}/plugins.json`;
+
+        return json({
+          name: `CloudStream Bundle - ${libraryName}`,
+          description: `Auto-generated repository`,
           manifestVersion: 1,
-          pluginLists: [`${url.origin}/${appToken}/${mode}/plugins.json`]
+          pluginLists: [repoUrl]
         });
       }
 
       if (file === "plugins") {
-        const cacheKey = `app_${appToken}_${mode}`;
+        const cacheKey = `repo_${linkId}_${mode}`;
         const cached = await env.CS_KV.get(cacheKey);
         if (cached) return new Response(cached, { headers: { "Content-Type": "application/json", ...CORS } });
 
-        const settings = await env.CS_DB.prepare("SELECT selected, sources FROM settings WHERE username = ?").bind(user.username).first();
-        const selected = new Set(JSON.parse(settings.selected || '[]'));
-        const customUrls = JSON.parse(settings.sources || '[]');
-        const allExt = await getExtensions(customUrls);
+        const allExt = await getBundledExtensions([]); // Fetch all default sources
         
         const finalExt = allExt.filter(p => {
-          if (!selected.has(p.internalName)) return false;
-          const isAdult = Array.isArray(p.tvTypes) && p.tvTypes.some(t => t.toUpperCase() === "NSFW");
-          if (mode === "safe" && isAdult) return false;
-          if (mode === "18plus" && !isAdult) return false;
+          if (mode === "sfw" && p.isAdult) return false;
+          if (mode === "nsfw" && !p.isAdult) return false;
           return true;
         });
 
         const resData = JSON.stringify(finalExt);
-        await env.CS_KV.put(cacheKey, resData, { expirationTtl: 300 });
+        await env.CS_KV.put(cacheKey, resData, { expirationTtl: 300 }); // Cache for 5 mins
         return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
       }
     }
 
-    if (path === "/" || path === "") {
+    // --- FRONTEND ROUTING ---
+    // Serve the SPA shell for all undefined routes
+    if (!path.startsWith('/api/') && !path.endsWith('.json')) {
       return new Response(uiHTML, { headers: { "Content-Type": "text/html;charset=UTF-8" } });
     }
 
-    return jsonRes({ error: "Page not found" }, 404);
+    return json({ error: "Not found" }, 404);
   }
 };
