@@ -5,7 +5,7 @@ export const uiHTML = `<!DOCTYPE html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>My CloudStream</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         body { font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif; background-color: #f2f2f7; color: #1c1c1e; -webkit-tap-highlight-color: transparent; }
         .shadow-ios { box-shadow: 0 4px 14px 0 rgba(0,0,0,0.04), 0 0 1px 0 rgba(0,0,0,0.1); }
@@ -49,13 +49,13 @@ export const uiHTML = `<!DOCTYPE html>
             </div>
             
             <div class="hidden md:flex gap-1 items-center">
-                <a onclick="App.navigate('/dashboard')" id="nav-/dashboard" class="nav-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg> Home</a>
-                <a onclick="App.navigate('/plugins')" id="nav-/plugins" class="nav-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg> Plugins</a>
-                <a onclick="App.navigate('/settings')" id="nav-/settings" class="nav-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg> Settings</a>
+                <a onclick="App.navigate('/dashboard')" id="nav-/dashboard" class="nav-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg> Home</a>
+                <a onclick="App.navigate('/plugins')" id="nav-/plugins" class="nav-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg> Plugins</a>
+                <a onclick="App.navigate('/settings')" id="nav-/settings" class="nav-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg> Settings</a>
                 
                 <a href="https://github.com/recloudstream/cloudstream/releases/" target="_blank" class="nav-link !bg-gray-100 !text-gray-900 ml-2 hover:!bg-gray-200"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg> Get App</a>
                 <div class="w-px h-4 bg-gray-300 mx-2"></div>
-                <a onclick="App.logout()" class="nav-link text-red-500 hover:text-red-600 hover:bg-red-50"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg> Out</a>
+                <a onclick="App.logout()" class="nav-link text-red-500 hover:text-red-600 hover:bg-red-50"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg> Out</a>
             </div>
             <button class="md:hidden p-1.5 text-gray-600 bg-gray-100 rounded-lg" onclick="document.getElementById('mobileMenu').classList.toggle('hidden')">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
@@ -66,7 +66,7 @@ export const uiHTML = `<!DOCTYPE html>
             <div>
                 <p class="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-2 px-1">Navigation</p>
                 <div class="bg-gray-50 rounded-2xl overflow-hidden border border-gray-100">
-                    <a onclick="App.navigate('/dashboard'); document.getElementById('mobileMenu').classList.add('hidden')" class="flex items-center gap-3 font-semibold text-gray-700 p-4 border-b border-gray-100 active:bg-gray-200"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg> Dashboard</a>
+                    <a onclick="App.navigate('/dashboard'); document.getElementById('mobileMenu').classList.add('hidden')" class="flex items-center gap-3 font-semibold text-gray-700 p-4 border-b border-gray-100 active:bg-gray-200"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg> Home</a>
                     <a onclick="App.navigate('/plugins'); document.getElementById('mobileMenu').classList.add('hidden')" class="flex items-center gap-3 font-semibold text-gray-700 p-4 border-b border-gray-100 active:bg-gray-200"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg> Manage Plugins</a>
                     <a onclick="App.navigate('/settings'); document.getElementById('mobileMenu').classList.add('hidden')" class="flex items-center gap-3 font-semibold text-gray-700 p-4 active:bg-gray-200"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg> Settings</a>
                 </div>
@@ -81,7 +81,7 @@ export const uiHTML = `<!DOCTYPE html>
         </div>
     </nav>
 
-    <main id="app-root" class="max-w-[100rem] mx-auto px-3 py-6"></main>
+    <main id="app-root" class="max-w-[100rem] mx-auto px-4 py-8"></main>
 
     <script>
       const App = {
@@ -267,8 +267,11 @@ export const uiHTML = `<!DOCTYPE html>
             App.filterType = type;
             ['all', 'sfw', 'nsfw'].forEach(t => {
                 const btn = document.getElementById('f-' + t);
-                if(t === type) { btn.classList.add('bg-[#1c1c1e]', 'text-white'); btn.classList.remove('bg-gray-100', 'text-gray-600'); }
-                else { btn.classList.remove('bg-[#1c1c1e]', 'text-white'); btn.classList.add('bg-gray-100', 'text-gray-600'); }
+                if(t === type) { 
+                    btn.className = "flex-1 sm:flex-none px-4 py-1.5 rounded-[8px] text-xs font-bold transition-all shadow-sm bg-white text-black"; 
+                } else { 
+                    btn.className = "flex-1 sm:flex-none px-4 py-1.5 rounded-[8px] text-xs font-bold transition-all text-gray-500 hover:text-black"; 
+                }
             });
             App.renderExtGrid();
         },
@@ -283,26 +286,26 @@ export const uiHTML = `<!DOCTYPE html>
                 if (App.filterType === 'nsfw' && !p.isAdult) return;
 
                 const isSelected = App.selected.has(p.internalName);
-                const img = p.iconUrl || p.icon ? \`<img src="\${p.iconUrl || p.icon}" class="w-9 h-9 rounded-[10px] object-cover bg-gray-50 border border-gray-100 shrink-0">\` : \`<div class="w-9 h-9 rounded-[10px] bg-gray-100 flex items-center justify-center text-gray-400 text-[9px] font-bold border border-gray-200 shrink-0">N/A</div>\`;
-                const badge = p.isAdult ? '<span class="text-red-600 font-bold bg-red-50 border border-red-100 px-1.5 py-0.5 rounded-md text-[8px] tracking-wide uppercase">18+</span>' : '<span class="text-green-600 font-bold bg-green-50 border border-green-100 px-1.5 py-0.5 rounded-md text-[8px] tracking-wide uppercase">SFW</span>';
+                const img = p.iconUrl || p.icon ? \`<img src="\${p.iconUrl || p.icon}" class="w-10 h-10 rounded-[10px] object-cover bg-gray-50 border border-gray-100 shrink-0">\` : \`<div class="w-10 h-10 rounded-[10px] bg-gray-100 flex items-center justify-center text-gray-400 text-[9px] font-bold border border-gray-200 shrink-0">N/A</div>\`;
+                const badge = p.isAdult ? '<span class="text-red-600 font-bold bg-red-50 border border-red-100 px-1.5 py-0.5 rounded-md text-[9px] tracking-wide uppercase">18+ Adult</span>' : '<span class="text-green-600 font-bold bg-green-50 border border-green-100 px-1.5 py-0.5 rounded-md text-[9px] tracking-wide uppercase">Safe Content</span>';
                 
                 html += \`
-                <div class="bg-white rounded-[16px] p-2.5 shadow-ios border transition-all cursor-pointer select-none flex flex-col justify-between \${isSelected ? 'border-blue-500 bg-blue-50/20 ring-1 ring-blue-500/50' : 'border-gray-200 hover:border-gray-300'}" onclick="App.togglePlugin('\${p.internalName}')">
-                    <div class="flex items-center gap-2.5 mb-2.5">
+                <div class="bg-white rounded-[16px] p-3 shadow-ios border transition-all cursor-pointer select-none flex flex-col justify-between \${isSelected ? 'border-blue-500 bg-blue-50/20 ring-1 ring-blue-500/50' : 'border-gray-200 hover:border-gray-300'}" onclick="App.togglePlugin('\${p.internalName}')">
+                    <div class="flex items-center gap-3 mb-2.5">
                         \${img}
                         <div class="flex-1 min-w-0 pt-0.5">
-                            <h3 class="font-bold text-gray-900 text-[11px] truncate leading-tight" title="\${p.name}">\${p.name}</h3>
-                            <p class="text-[9px] text-gray-500 font-medium truncate mt-0.5">\${Array.isArray(p.authors) ? p.authors[0] : (p.authors || 'N/A')}</p>
+                            <h3 class="font-bold text-gray-900 text-xs truncate leading-tight" title="\${p.name}">\${p.name}</h3>
+                            <p class="text-[10px] text-gray-500 font-medium truncate mt-0.5">\${Array.isArray(p.authors) ? p.authors[0] : (p.authors || 'N/A')}</p>
                         </div>
                         <label class="ios-switch shrink-0 pointer-events-none transform scale-[0.85] origin-right">
                             <input type="checkbox" \${isSelected ? 'checked' : ''}><span class="ios-slider"></span>
                         </label>
                     </div>
-                    <div class="flex flex-wrap items-center gap-1">
+                    <div class="flex flex-wrap items-center gap-1.5">
                         \${badge}
-                        <span class="text-gray-500 px-1.5 py-0.5 rounded-md text-[8px] font-semibold uppercase bg-gray-50 border border-gray-100">\${p.language || 'EN'}</span>
-                        <span class="text-gray-500 px-1.5 py-0.5 rounded-md text-[8px] font-semibold bg-gray-50 border border-gray-100">v\${p.version || 1}</span>
-                        <span class="text-gray-500 px-1.5 py-0.5 rounded-md text-[8px] font-semibold bg-gray-50 border border-gray-100">\${p.formattedSize}</span>
+                        <span class="text-gray-500 px-1.5 py-0.5 rounded-md text-[9px] font-semibold uppercase bg-gray-50 border border-gray-100">\${p.language || 'EN'}</span>
+                        <span class="text-gray-500 px-1.5 py-0.5 rounded-md text-[9px] font-semibold bg-gray-50 border border-gray-100">v\${p.version || 1}</span>
+                        <span class="text-gray-500 px-1.5 py-0.5 rounded-md text-[9px] font-semibold bg-gray-50 border border-gray-100">\${p.formattedSize}</span>
                     </div>
                 </div>\`;
             });
@@ -347,7 +350,7 @@ export const uiHTML = `<!DOCTYPE html>
 
         views: {
           login: () => 
-            '<div class="max-w-xs mx-auto mt-16 px-4"><div class="text-center mb-8"><div class="w-16 h-16 bg-black rounded-2xl mx-auto flex items-center justify-center mb-5 shadow-ios"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg></div><h1 class="text-2xl font-bold tracking-tight">Welcome to My CS</h1></div>' +
+            '<div class="max-w-sm mx-auto mt-16 px-4"><div class="text-center mb-8"><div class="w-16 h-16 bg-black rounded-2xl mx-auto flex items-center justify-center mb-5 shadow-ios"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg></div><h1 class="text-2xl font-bold tracking-tight">Welcome to My CS</h1></div>' +
             '<div class="bg-white p-7 rounded-[28px] shadow-ios border border-gray-100 space-y-4">' +
             '<div><label class="text-[10px] font-bold text-gray-400 uppercase tracking-widest ml-1 mb-1.5 block">Username</label><input id="usr" class="w-full input-ios px-4 py-3 rounded-[14px] text-sm font-semibold" placeholder="admin"></div>' +
             '<div><label class="text-[10px] font-bold text-gray-400 uppercase tracking-widest ml-1 mb-1.5 block">Password</label><input id="pwd" type="password" class="w-full input-ios px-4 py-3 rounded-[14px] text-sm font-semibold" placeholder="••••••••"></div>' +
@@ -355,7 +358,7 @@ export const uiHTML = `<!DOCTYPE html>
             '<button onclick="App.navigate(\\'/signup\\')" class="w-full bg-gray-50 text-gray-700 font-bold py-3.5 rounded-[14px] text-sm mt-2 hover:bg-gray-100 transition">Create Account</button></div></div>',
             
           signup: () => 
-            '<div class="max-w-xs mx-auto mt-16 px-4"><div class="text-center mb-8"><h1 class="text-2xl font-bold tracking-tight">Setup Account</h1></div>' +
+            '<div class="max-w-sm mx-auto mt-16 px-4"><div class="text-center mb-8"><h1 class="text-2xl font-bold tracking-tight">Setup Account</h1></div>' +
             '<div class="bg-white p-7 rounded-[28px] shadow-ios border border-gray-100 space-y-4">' +
             '<div><label class="text-[10px] font-bold text-gray-400 uppercase tracking-widest ml-1 mb-1.5 block">Username</label><input id="usr" class="w-full input-ios px-4 py-3 rounded-[14px] text-sm font-semibold" placeholder="Choose a username"></div>' +
             '<div><label class="text-[10px] font-bold text-gray-400 uppercase tracking-widest ml-1 mb-1.5 block">Password</label><input id="pwd" type="password" class="w-full input-ios px-4 py-3 rounded-[14px] text-sm font-semibold" placeholder="Create a password"></div>' +
@@ -365,9 +368,9 @@ export const uiHTML = `<!DOCTYPE html>
           dashboard: () => 
             '<div class="max-w-2xl mx-auto"><div class="mb-6"><h1 class="text-2xl font-bold text-gray-900 mb-1">My Links</h1><p class="text-sm text-gray-500">Copy these URLs into CloudStream. They auto-sync with your plugins.</p></div>' +
             '<div class="space-y-4">' +
-            '<div class="bg-white p-6 rounded-[24px] shadow-ios border border-gray-100"><div class="flex flex-col sm:flex-row justify-between sm:items-center gap-3 mb-4"><span class="font-bold text-gray-900 text-base flex items-center gap-2"><div class="w-2.5 h-2.5 bg-purple-500 rounded-full"></div> All-in-One Bundle (Mixed)</span><button onclick="App.copy(\\'def-all\\')" class="bg-gray-100 text-gray-800 px-4 py-2 rounded-xl text-xs font-bold hover:bg-gray-200 transition">Copy URL</button></div><input id="def-all" readonly class="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-3 text-xs text-gray-600 font-medium outline-none font-mono"></div>' +
-            '<div class="bg-white p-6 rounded-[24px] shadow-ios border border-gray-100"><div class="flex flex-col sm:flex-row justify-between sm:items-center gap-3 mb-4"><span class="font-bold text-gray-900 text-base flex items-center gap-2"><div class="w-2.5 h-2.5 bg-blue-500 rounded-full"></div> Standard Library (SFW)</span><button onclick="App.copy(\\'def-movies\\')" class="bg-gray-100 text-gray-800 px-4 py-2 rounded-xl text-xs font-bold hover:bg-gray-200 transition">Copy URL</button></div><input id="def-movies" readonly class="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-3 text-xs text-gray-600 font-medium outline-none font-mono"></div>' +
-            '<div class="bg-white p-6 rounded-[24px] shadow-ios border border-red-50"><div class="flex flex-col sm:flex-row justify-between sm:items-center gap-3 mb-4"><span class="font-bold text-red-600 text-base flex items-center gap-2"><div class="w-2.5 h-2.5 bg-red-500 rounded-full"></div> Adult Library (18+)</span><button onclick="App.copy(\\'def-adult\\')" class="bg-red-50 text-red-700 px-4 py-2 rounded-xl text-xs font-bold hover:bg-red-100 transition">Copy URL</button></div><input id="def-adult" readonly class="w-full bg-red-50/30 border border-red-100 rounded-xl px-4 py-3 text-xs text-red-800 font-medium outline-none font-mono"></div>' +
+            '<div class="bg-white p-6 rounded-[24px] shadow-ios border border-gray-100"><div class="flex flex-col sm:flex-row justify-between sm:items-center gap-3 mb-4"><span class="font-bold text-gray-900 text-base flex items-center gap-2"><div class="w-2.5 h-2.5 bg-purple-500 rounded-full"></div> Everything (All-in-One Bundle)</span><button onclick="App.copy(\\'def-all\\')" class="bg-gray-100 text-gray-800 px-4 py-2 rounded-xl text-xs font-bold hover:bg-gray-200 transition">Copy URL</button></div><input id="def-all" readonly class="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-3 text-xs text-gray-600 font-medium outline-none font-mono"></div>' +
+            '<div class="bg-white p-6 rounded-[24px] shadow-ios border border-gray-100"><div class="flex flex-col sm:flex-row justify-between sm:items-center gap-3 mb-4"><span class="font-bold text-gray-900 text-base flex items-center gap-2"><div class="w-2.5 h-2.5 bg-blue-500 rounded-full"></div> Safe Content (Movies, Anime)</span><button onclick="App.copy(\\'def-movies\\')" class="bg-gray-100 text-gray-800 px-4 py-2 rounded-xl text-xs font-bold hover:bg-gray-200 transition">Copy URL</button></div><input id="def-movies" readonly class="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-3 text-xs text-gray-600 font-medium outline-none font-mono"></div>' +
+            '<div class="bg-white p-6 rounded-[24px] shadow-ios border border-red-50"><div class="flex flex-col sm:flex-row justify-between sm:items-center gap-3 mb-4"><span class="font-bold text-red-600 text-base flex items-center gap-2"><div class="w-2.5 h-2.5 bg-red-500 rounded-full"></div> Adult Content (18+)</span><button onclick="App.copy(\\'def-adult\\')" class="bg-red-50 text-red-700 px-4 py-2 rounded-xl text-xs font-bold hover:bg-red-100 transition">Copy URL</button></div><input id="def-adult" readonly class="w-full bg-red-50/30 border border-red-100 rounded-xl px-4 py-3 text-xs text-red-800 font-medium outline-none font-mono"></div>' +
             '</div></div>',
             
           plugins: () =>
@@ -385,18 +388,18 @@ export const uiHTML = `<!DOCTYPE html>
             '<div class="flex-1">' +
                '<div class="bg-white/80 backdrop-blur-md p-2 rounded-[16px] shadow-sm border border-gray-200 flex flex-col sm:flex-row gap-2 mb-4 sticky top-16 z-30">' +
                   '<div class="flex gap-1.5 items-center w-full">' +
-                      '<div class="flex gap-1 bg-[#f2f2f7] p-1 rounded-xl w-full flex-wrap sm:flex-nowrap justify-center">' +
-                         '<button id="f-all" onclick="App.setFilter(\\'all\\')" class="flex-1 px-4 py-1.5 bg-[#1c1c1e] text-white rounded-lg text-[11px] font-bold transition">All Plugins</button>' +
-                         '<button id="f-sfw" onclick="App.setFilter(\\'sfw\\')" class="flex-1 px-4 py-1.5 text-gray-600 rounded-lg text-[11px] font-bold transition hover:bg-white">SFW Only</button>' +
-                         '<button id="f-nsfw" onclick="App.setFilter(\\'nsfw\\')" class="flex-1 px-4 py-1.5 text-gray-600 rounded-lg text-[11px] font-bold transition hover:bg-white">18+ Only</button>' +
+                      '<div class="flex gap-1 bg-[#e5e5ea] p-1.5 rounded-xl w-full sm:w-auto">' +
+                         '<button id="f-all" onclick="App.setFilter(\\'all\\')" class="flex-1 sm:flex-none px-4 py-1.5 rounded-[8px] text-xs font-bold transition-all shadow-sm bg-white text-black">All Extensions</button>' +
+                         '<button id="f-sfw" onclick="App.setFilter(\\'sfw\\')" class="flex-1 sm:flex-none px-4 py-1.5 rounded-[8px] text-xs font-bold transition-all text-gray-500 hover:text-black">Safe Content</button>' +
+                         '<button id="f-nsfw" onclick="App.setFilter(\\'nsfw\\')" class="flex-1 sm:flex-none px-4 py-1.5 rounded-[8px] text-xs font-bold transition-all text-gray-500 hover:text-black">Adult Content (18+)</button>' +
                       '</div>' +
-                      '<button onclick="App.refreshPlugins()" class="bg-gray-100 text-gray-700 p-2 rounded-xl border border-gray-200 hover:bg-gray-200 transition shrink-0" title="Refresh Latest Plugins">' +
+                      '<button onclick="App.refreshPlugins()" class="bg-gray-100 text-gray-700 p-2.5 rounded-xl border border-gray-200 hover:bg-gray-200 transition shrink-0 ml-auto" title="Refresh Latest Plugins">' +
                           '<svg id="refreshIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"></polyline><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path></svg>' +
                       '</button>' +
                   '</div>' +
                '</div>' +
                // ULTRA DENSE GRID
-               '<div id="extGrid" class="grid grid-cols-2 min-[480px]:grid-cols-3 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-2.5 pb-10"></div>' +
+               '<div id="extGrid" class="grid grid-cols-1 min-[480px]:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-3 pb-10"></div>' +
             '</div>' +
             '</div>',
 
