@@ -25,9 +25,9 @@ export const uiHTML = `<!DOCTYPE html>
         .nav-link.active { color: #2563eb; background: #dbeafe; }
         
         .loader { border: 3px solid #e2e8f0; border-top-color: #2563eb; border-radius: 50%; width: 22px; height: 22px; animation: spin 0.8s linear infinite; margin: 0 auto; }
+        .spin-fast { animation: spin 0.5s linear infinite; }
         @keyframes spin { to { transform: rotate(360deg); } }
 
-        /* Compact Toggle Switch */
         .ios-switch { position: relative; display: inline-block; width: 36px; height: 20px; }
         .ios-switch input { opacity: 0; width: 0; height: 0; }
         .ios-slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #e2e8f0; transition: .3s; border-radius: 20px; }
@@ -40,7 +40,7 @@ export const uiHTML = `<!DOCTYPE html>
     <div id="toast-zone"></div>
 
     <nav id="topNav" class="bg-white border-b border-gray-200 sticky top-0 z-40 hidden">
-        <div class="max-w-6xl mx-auto px-4 h-16 flex justify-between items-center">
+        <div class="max-w-[90rem] mx-auto px-4 h-16 flex justify-between items-center">
             <div class="flex items-center gap-3">
                 <div class="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
                     <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="white" stroke-width="2.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
@@ -67,7 +67,7 @@ export const uiHTML = `<!DOCTYPE html>
         </div>
     </nav>
 
-    <main id="app-root" class="max-w-6xl mx-auto px-4 py-8"></main>
+    <main id="app-root" class="max-w-[90rem] mx-auto px-4 py-8"></main>
 
     <script>
       const App = {
@@ -206,12 +206,27 @@ export const uiHTML = `<!DOCTYPE html>
             } catch (e) {}
         },
 
+        refreshPlugins: async () => {
+            const icon = document.getElementById('refreshIcon');
+            icon.classList.add('spin-fast');
+            App.notify('Fetching latest plugins...');
+            document.getElementById('extGrid').innerHTML = '<div class="col-span-full py-20 text-center"><div class="loader"></div></div>';
+            
+            try {
+                App.extData = await App.api('/api/plugins/refresh', 'POST');
+                App.renderExtGrid();
+                App.notify('Plugins successfully synced!');
+            } catch (e) {
+                App.notify('Failed to sync plugins', true);
+            }
+            icon.classList.remove('spin-fast');
+        },
+
         loadSettings: async () => {
             try {
                 document.getElementById('currentUsr').innerText = App.user;
                 const me = await App.api('/api/me');
                 App.customSources = me.sources;
-                App.selected = new Set(me.selected);
                 App.renderSources();
             } catch (e) {}
         },
@@ -248,10 +263,7 @@ export const uiHTML = `<!DOCTYPE html>
 
         renderExtGrid: () => {
             const grid = document.getElementById('extGrid');
-            if (!App.extData) {
-                grid.innerHTML = '<div class="col-span-full py-20 text-center"><div class="loader"></div></div>';
-                return;
-            }
+            if (!App.extData) return;
 
             let html = '';
             App.extData.forEach(p => {
@@ -293,12 +305,14 @@ export const uiHTML = `<!DOCTYPE html>
             input.value = '';
             App.saveSelections();
             App.renderSources();
+            App.refreshPlugins();
         },
 
         removeSource: (index) => {
             App.customSources.splice(index, 1);
             App.saveSelections();
             App.renderSources();
+            App.refreshPlugins();
         },
 
         renderSources: () => {
@@ -307,7 +321,7 @@ export const uiHTML = `<!DOCTYPE html>
             list.innerHTML = App.customSources.map((s, i) => \`
                 <div class="flex justify-between items-center bg-gray-50 border border-gray-200 p-3 rounded-xl mb-2">
                     <span class="text-xs font-mono text-gray-600 truncate mr-3">\${s}</span>
-                    <button onclick="App.removeSource(\${i})" class="text-red-500 font-bold text-xs bg-red-50 px-3 py-1.5 rounded-lg border border-red-100 hover:bg-red-100">Remove</button>
+                    <button onclick="App.removeSource(\${i})" class="text-red-500 font-bold text-xs bg-red-50 px-3 py-1.5 rounded-lg border border-red-100 hover:bg-red-100 transition">Remove</button>
                 </div>
             \`).join('') || '<p class="text-xs text-gray-400 font-bold uppercase py-2">No custom sources added.</p>';
         },
@@ -343,7 +357,7 @@ export const uiHTML = `<!DOCTYPE html>
             '</div></div>',
             
           plugins: () =>
-            '<div class="flex flex-col lg:flex-row gap-6">' +
+            '<div class="flex flex-col lg:flex-row gap-6 max-w-[90rem] mx-auto">' +
             '<div class="w-full lg:w-72 shrink-0 space-y-4">' +
                '<div class="bg-white p-5 rounded-3xl shadow-soft border border-gray-100 sticky top-20">' +
                   '<h2 class="font-extrabold text-gray-900 text-xl mb-1">My Bundle</h2>' +
@@ -354,13 +368,18 @@ export const uiHTML = `<!DOCTYPE html>
             '<div class="flex-1">' +
                '<div class="bg-white p-3 rounded-2xl shadow-soft border border-gray-100 flex flex-col sm:flex-row gap-3 mb-5 sticky top-16 z-30">' +
                   '<input onkeyup="App.searchExt(this.value)" placeholder="Search plugins..." class="flex-1 bg-gray-50 border border-gray-200 px-4 py-3 rounded-xl text-sm font-medium outline-none">' +
-                  '<div class="flex gap-1.5 bg-gray-100 p-1.5 rounded-xl">' +
-                     '<button id="f-all" onclick="App.setFilter(\\'all\\')" class="flex-1 sm:flex-none px-5 py-2 bg-gray-900 text-white rounded-lg text-xs font-bold transition">All</button>' +
-                     '<button id="f-sfw" onclick="App.setFilter(\\'sfw\\')" class="flex-1 sm:flex-none px-5 py-2 text-gray-600 rounded-lg text-xs font-bold transition hover:bg-white">SFW</button>' +
-                     '<button id="f-nsfw" onclick="App.setFilter(\\'nsfw\\')" class="flex-1 sm:flex-none px-5 py-2 text-gray-600 rounded-lg text-xs font-bold transition hover:bg-white">18+</button>' +
+                  '<div class="flex gap-2 items-center">' +
+                      '<div class="flex gap-1.5 bg-gray-100 p-1.5 rounded-xl w-full sm:w-auto">' +
+                         '<button id="f-all" onclick="App.setFilter(\\'all\\')" class="flex-1 sm:flex-none px-5 py-2 bg-gray-900 text-white rounded-lg text-xs font-bold transition">All</button>' +
+                         '<button id="f-sfw" onclick="App.setFilter(\\'sfw\\')" class="flex-1 sm:flex-none px-5 py-2 text-gray-600 rounded-lg text-xs font-bold transition hover:bg-white">SFW</button>' +
+                         '<button id="f-nsfw" onclick="App.setFilter(\\'nsfw\\')" class="flex-1 sm:flex-none px-5 py-2 text-gray-600 rounded-lg text-xs font-bold transition hover:bg-white">18+</button>' +
+                      '</div>' +
+                      '<button onclick="App.refreshPlugins()" class="bg-blue-50 text-blue-600 p-3 rounded-xl border border-blue-100 hover:bg-blue-100 transition" title="Refresh Latest Plugins">' +
+                          '<svg id="refreshIcon" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.59-9.21l-3.08-3.08"/></svg>' +
+                      '</button>' +
                   '</div>' +
                '</div>' +
-               '<div id="extGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-5 gap-3 pb-10"></div>' +
+               '<div id="extGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-3 pb-10"></div>' +
             '</div>' +
             '</div>',
 
