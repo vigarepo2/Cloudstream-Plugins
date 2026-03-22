@@ -15,9 +15,7 @@ const DEFAULT_SOURCES = [
 
 function formatBytes(bytes) {
   if (!bytes || isNaN(bytes) || bytes === 0) return 'N/A';
-  const k = 1024;
-  const sizes = ['B', 'KB', 'MB'];
-  const i = Math.floor(Math.log(bytes) / Math.log(k));
+  const k = 1024, sizes = ['B', 'KB', 'MB'], i = Math.floor(Math.log(bytes) / Math.log(k));
   return parseFloat((bytes / Math.pow(k, i)).toFixed(1)) + ' ' + sizes[i];
 }
 
@@ -42,23 +40,16 @@ async function fetchSource(url, depth = 0) {
     return coll;
   } catch (err) {
     clearTimeout(timeoutId);
-    console.warn(`[Fetch Failed] ${url}:`, err.message);
-    return []; // Return empty array to prevent crashing the whole list
+    return []; 
   }
 }
 
 export async function getBundledExtensions(customUrls = []) {
   const allUrls = [...new Set([...DEFAULT_SOURCES, ...(customUrls || [])])];
-  
-  // Using allSettled so one broken repo doesn't ruin the whole fetch
   const results = await Promise.allSettled(allUrls.map(url => fetchSource(url)));
-  const rawList = results
-    .filter(r => r.status === 'fulfilled')
-    .map(r => r.value)
-    .flat();
+  const rawList = results.filter(r => r.status === 'fulfilled').map(r => r.value).flat();
   
-  const processed = [];
-  const namesMap = new Map();
+  const processed = [], namesMap = new Map();
 
   for (const item of rawList) {
     if (!item || typeof item !== 'object' || !item.name) continue;
@@ -79,7 +70,7 @@ export async function getBundledExtensions(customUrls = []) {
         if (Array.isArray(item.tvTypes)) typesArray = item.tvTypes.map(t => typeof t === 'string' ? t.trim() : '');
         else if (typeof item.tvTypes === 'string') typesArray = item.tvTypes.split(',').map(t => t.trim());
         else if (typeof item.type === 'string') typesArray = item.type.split(',').map(t => t.trim());
-    } catch(e) { console.error("Error parsing types for", item.name); }
+    } catch(e) {}
     
     item.tvTypes = typesArray.filter(t => t.length > 0);
     if(item.tvTypes.length === 0) item.tvTypes = ["VOD"];
