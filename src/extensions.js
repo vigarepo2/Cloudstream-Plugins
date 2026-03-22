@@ -24,7 +24,7 @@ function formatBytes(bytes) {
 async function fetchSource(url, depth = 0) {
   if (depth > 2) return [];
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 8000); // Extended timeout for large lists
+  const timeoutId = setTimeout(() => controller.abort(), 6000); 
   try {
     const res = await fetch(url, { cf: { cacheTtl: 300, cacheEverything: true }, signal: controller.signal });
     clearTimeout(timeoutId);
@@ -47,7 +47,6 @@ async function fetchSource(url, depth = 0) {
 }
 
 export async function getBundledExtensions(customUrls = []) {
-  // Combine and remove duplicate URLs
   const allUrls = [...new Set([...DEFAULT_SOURCES, ...(customUrls || [])])];
   const promises = allUrls.map(url => fetchSource(url));
   const results = await Promise.all(promises);
@@ -57,7 +56,6 @@ export async function getBundledExtensions(customUrls = []) {
   const namesMap = new Map();
 
   for (const item of rawList) {
-    // Note: status === 0 is NO LONGER filtered out so you see everything
     if (!item || typeof item !== 'object' || !item.name) continue;
     
     let baseName = item.name;
