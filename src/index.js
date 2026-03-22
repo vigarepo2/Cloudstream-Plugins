@@ -22,6 +22,7 @@ export default {
     const method = request.method;
     const token = request.headers.get("Authorization");
 
+    // API: Auth
     if (path === "/api/auth" && method === "POST") {
       try {
         await setupDatabase(env.CS_DB); 
@@ -52,6 +53,7 @@ export default {
       } catch (e) { return json({ error: "System Error" }, 500); }
     }
 
+    // API: Update Credentials
     if (path === "/api/me/credentials" && method === "PUT") {
         if (!token) return json({ error: "Unauthorized" }, 401);
         await setupDatabase(env.CS_DB);
@@ -83,6 +85,7 @@ export default {
         return json({ success: true, username: finalUsername });
     }
 
+    // API: Get Data (Selected & Sources)
     if (path === "/api/me" && method === "GET") {
         if (!token) return json({ error: "Unauthorized" }, 401);
         await setupDatabase(env.CS_DB);
@@ -96,6 +99,7 @@ export default {
         });
     }
 
+    // API: Save Selections
     if (path === "/api/me/plugins" && method === "POST") {
         if (!token) return json({ error: "Unauthorized" }, 401);
         await setupDatabase(env.CS_DB);
@@ -110,6 +114,7 @@ export default {
         return json({ success: true });
     }
 
+    // API: Get Plugins
     if (path === "/api/plugins" && method === "GET") {
         if (!token) return json({ error: "Unauthorized" }, 401);
         await setupDatabase(env.CS_DB);
@@ -129,6 +134,7 @@ export default {
         return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
     }
     
+    // API: Refresh Plugins (Clears KV and rebuilds)
     if (path === "/api/plugins/refresh" && method === "POST") {
         if (!token) return json({ error: "Unauthorized" }, 401);
         await setupDatabase(env.CS_DB);
@@ -146,6 +152,7 @@ export default {
         return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
     }
 
+    // MAGIC REPOSITORY GENERATOR (/USERNAME/SFW/REPO.JSON)
     const repoMatch = path.match(/^\/([a-zA-Z0-9_-]+)\/(sfw|nsfw)\/(repo|plugins)\.json$/);
     if (repoMatch && method === "GET") {
       let reqUsername = repoMatch[1];
@@ -192,11 +199,12 @@ export default {
         });
 
         const resData = JSON.stringify(finalExt);
-        await setCache(env.CS_KV, cacheKey, resData, 86400); // Cache repo for 1 day
+        await setCache(env.CS_KV, cacheKey, resData, 86400); // Cache for 1 day
         return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
       }
     }
 
+    // Serve UI for anything else
     if (!path.startsWith('/api/') && !path.endsWith('.json')) {
       return new Response(uiHTML, { headers: { "Content-Type": "text/html;charset=UTF-8" } });
     }
