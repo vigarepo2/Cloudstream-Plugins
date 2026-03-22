@@ -28,29 +28,34 @@ async function fetchSource(url, depth = 0) {
   try {
     const res = await fetch(url, { cf: { cacheTtl: 300, cacheEverything: true }, signal: controller.signal });
     clearTimeout(timeoutId);
-    if (!res.ok) return [];
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
     let coll = [];
     if (Array.isArray(data)) coll = data;
     else {
       if (data.plugins && Array.isArray(data.plugins)) coll = coll.concat(data.plugins);
       if (data.pluginLists && Array.isArray(data.pluginLists)) {
-        const sub = await Promise.all(data.pluginLists.map(u => fetchSource(u, depth + 1)));
-        coll = coll.concat(sub.flat());
+        const sub = await Promise.allSettled(data.pluginLists.map(u => fetchSource(u, depth + 1)));
+        sub.forEach(result => { if(result.status === 'fulfilled') coll = coll.concat(result.value); });
       }
     }
     return coll;
   } catch (err) {
     clearTimeout(timeoutId);
-    return [];
+    console.warn(`[Fetch Failed] ${url}:`, err.message);
+    return []; // Return empty array to prevent crashing the whole list
   }
 }
 
 export async function getBundledExtensions(customUrls = []) {
   const allUrls = [...new Set([...DEFAULT_SOURCES, ...(customUrls || [])])];
-  const promises = allUrls.map(url => fetchSource(url));
-  const results = await Promise.all(promises);
-  const rawList = results.flat();
+  
+  // Using allSettled so one broken repo doesn't ruin the whole fetch
+  const results = await Promise.allSettled(allUrls.map(url => fetchSource(url)));
+  const rawList = results
+    .filter(r => r.status === 'fulfilled')
+    .map(r => r.value)
+    .flat();
   
   const processed = [];
   const namesMap = new Map();
@@ -63,10 +68,10 @@ export async function getBundledExtensions(customUrls = []) {
       const count = namesMap.get(baseName) + 1;
       namesMap.set(baseName, count);
       item.name = `${baseName} (${count})`;
-      item.internalName = `${item.internalName || baseName.replace(/\\s+/g, '')}_${count}`;
+      item.internalName = `${item.internalName || baseName.replace(/\s+/g, '')}_${count}`;
     } else {
       namesMap.set(baseName, 1);
-      item.internalName = item.internalName || baseName.replace(/\\s+/g, '');
+      item.internalName = item.internalName || baseName.replace(/\s+/g, '');
     }
     
     let typesArray = [];
@@ -74,7 +79,7 @@ export async function getBundledExtensions(customUrls = []) {
         if (Array.isArray(item.tvTypes)) typesArray = item.tvTypes.map(t => typeof t === 'string' ? t.trim() : '');
         else if (typeof item.tvTypes === 'string') typesArray = item.tvTypes.split(',').map(t => t.trim());
         else if (typeof item.type === 'string') typesArray = item.type.split(',').map(t => t.trim());
-    } catch(e) {}
+    } catch(e) { console.error("Error parsing types for", item.name); }
     
     item.tvTypes = typesArray.filter(t => t.length > 0);
     if(item.tvTypes.length === 0) item.tvTypes = ["VOD"];
