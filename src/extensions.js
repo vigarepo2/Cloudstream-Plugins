@@ -9,7 +9,8 @@ const DEFAULT_SOURCES = [
   "https://raw.githubusercontent.com/crafteraadarsh/vibemax/builds/plugins.json",
   "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/plugins.json",
   "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/refs/heads/builds/plugins.json",
-  "https://raw.githubusercontent.com/phisher98/CXXX/builds/plugins.json"
+  "https://raw.githubusercontent.com/phisher98/CXXX/builds/plugins.json",
+  "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/refs/heads/builds/plugins.json"
 ];
 
 function formatBytes(bytes) {
@@ -23,7 +24,7 @@ function formatBytes(bytes) {
 async function fetchSource(url, depth = 0) {
   if (depth > 2) return [];
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 5000);
+  const timeoutId = setTimeout(() => controller.abort(), 8000); // Extended timeout for large lists
   try {
     const res = await fetch(url, { cf: { cacheTtl: 300, cacheEverything: true }, signal: controller.signal });
     clearTimeout(timeoutId);
@@ -46,7 +47,8 @@ async function fetchSource(url, depth = 0) {
 }
 
 export async function getBundledExtensions(customUrls = []) {
-  const allUrls = [...DEFAULT_SOURCES, ...(customUrls || [])];
+  // Combine and remove duplicate URLs
+  const allUrls = [...new Set([...DEFAULT_SOURCES, ...(customUrls || [])])];
   const promises = allUrls.map(url => fetchSource(url));
   const results = await Promise.all(promises);
   const rawList = results.flat();
@@ -55,7 +57,8 @@ export async function getBundledExtensions(customUrls = []) {
   const namesMap = new Map();
 
   for (const item of rawList) {
-    if (!item || typeof item !== 'object' || !item.name || item.status === 0) continue;
+    // Note: status === 0 is NO LONGER filtered out so you see everything
+    if (!item || typeof item !== 'object' || !item.name) continue;
     
     let baseName = item.name;
     if (namesMap.has(baseName)) {
@@ -80,6 +83,7 @@ export async function getBundledExtensions(customUrls = []) {
     
     item.isAdult = item.tvTypes.some(t => t.toUpperCase() === "NSFW");
     item.formattedSize = formatBytes(item.fileSize);
+    item.isBroken = item.status === 0;
     
     processed.push(item);
   }
