@@ -1,5 +1,5 @@
 name = "cs-addon"
-main = "src/backend/index.js"
+main = "src/index.js"
 compatibility_date = "2024-03-21"
 
 [[d1_databases]]
@@ -10,6 +10,3 @@ database_id = "3e44e5b3-a0f6-41fa-9e11-6cb7bf3fb0d0"
 [[kv_namespaces]]
 binding = "CS_KV"
 id = "02640e74e3a148868419fa6fb34907d0"
-
-[[send_email]]
-name = "EMAIL"
