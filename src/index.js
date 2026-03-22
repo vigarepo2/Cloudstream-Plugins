@@ -1,5 +1,5 @@
 import { setupDatabase, hashData, generateId, trackClick, getUser, getUserByToken } from "./db.js";
-import { getCache, setCache, clearLinkCache } from "./kv.js";
+import { getCache, setCache, clearUserCaches } from "./kv.js";
 import { getBundledExtensions } from "./extensions.js";
 import { uiHTML } from "./frontend.js";
 
@@ -36,7 +36,10 @@ export default {
           if (exists) return json({ error: "Username taken" }, 400);
           
           const session = generateId(24);
-          await env.CS_DB.prepare("INSERT INTO users (username, password, session_token) VALUES (?, ?, ?)").bind(username, hash, session).run();
+          await env.CS_DB.batch([
+            env.CS_DB.prepare("INSERT INTO users (username, password, session_token) VALUES (?, ?, ?)").bind(username, hash, session),
+            env.CS_DB.prepare("INSERT INTO settings (username) VALUES (?)").bind(username)
+          ]);
           return json({ token: session, username });
         }
 
@@ -49,9 +52,30 @@ export default {
       } catch (e) { return json({ error: "System Error" }, 500); }
     }
 
+    if (path === "/api/user/settings") {
+        if (!token) return json({ error: "Unauthorized" }, 401);
+        const user = await getUserByToken(env.CS_DB, token);
+        if (!user) return json({ error: "Unauthorized" }, 401);
+
+        if (method === "GET") {
+            const settings = await env.CS_DB.prepare("SELECT selected, custom_sources FROM settings WHERE username = ?").bind(user.username).first();
+            return json({ 
+                selected: JSON.parse(settings?.selected || '[]'), 
+                sources: JSON.parse(settings?.custom_sources || '[]') 
+            });
+        }
+        
+        if (method === "POST") {
+            const body = await request.json();
+            await env.CS_DB.prepare("UPDATE settings SET selected = ?, custom_sources = ? WHERE username = ?")
+                .bind(JSON.stringify(body.selected), JSON.stringify(body.sources), user.username).run();
+            await clearUserCaches(env.CS_DB, env.CS_KV, user.username);
+            return json({ success: true });
+        }
+    }
+
     if (path.startsWith("/api/links")) {
         if (!token) return json({ error: "Unauthorized" }, 401);
-        await setupDatabase(env.CS_DB); 
         const user = await getUserByToken(env.CS_DB, token);
         if (!user) return json({ error: "Unauthorized" }, 401);
 
@@ -91,16 +115,15 @@ export default {
             if (method === "PUT") {
                 const body = await request.json();
                 await env.CS_DB.prepare("UPDATE links SET is_active = ? WHERE link_id = ?").bind(body.is_active, targetId).run();
-                await clearLinkCache(env.CS_KV, targetId);
+                await clearUserCaches(env.CS_DB, env.CS_KV, user.username);
                 return json({ success: true });
             }
-
             if (method === "DELETE") {
                 await env.CS_DB.batch([
                     env.CS_DB.prepare("DELETE FROM links WHERE link_id = ?").bind(targetId),
                     env.CS_DB.prepare("DELETE FROM analytics WHERE link_id = ?").bind(targetId)
                 ]);
-                await clearLinkCache(env.CS_KV, targetId);
+                await clearUserCaches(env.CS_DB, env.CS_KV, user.username);
                 return json({ success: true });
             }
         }
@@ -108,48 +131,63 @@ export default {
 
     if (path === "/api/extensions" && method === "GET") {
         if (!token) return json({ error: "Unauthorized" }, 401);
-        const data = await getBundledExtensions();
+        const user = await getUserByToken(env.CS_DB, token);
+        const settings = await env.CS_DB.prepare("SELECT custom_sources FROM settings WHERE username = ?").bind(user.username).first();
+        const customUrls = JSON.parse(settings?.custom_sources || '[]');
+        const data = await getBundledExtensions(customUrls);
         return json(data);
     }
 
-    const repoMatch = path.match(/^\/?([a-zA-Z0-9]+)?\/(sfw|nsfw)\/(repo|plugins)\.json$/);
+    // MATCHES: /username/sfw/repo.json  OR  /CUSTOM123/sfw/repo.json
+    const repoMatch = path.match(/^\/([a-zA-Z0-9_-]+)\/(sfw|nsfw)\/(repo|plugins)\.json$/);
     if (repoMatch && method === "GET") {
-      let linkId = repoMatch[1] || 'default';
+      let identifier = repoMatch[1];
       let mode = repoMatch[2];
       let file = repoMatch[3];
 
-      if (linkId !== 'default') {
-          await setupDatabase(env.CS_DB);
-          const linkCheck = await env.CS_DB.prepare("SELECT is_active FROM links WHERE link_id = ?").bind(linkId).first();
+      let ownerUsername = null;
+      let isResellerLink = false;
+
+      await setupDatabase(env.CS_DB);
+      
+      // Check if identifier is a direct username (Personal Link)
+      const userCheck = await env.CS_DB.prepare("SELECT username FROM users WHERE username = ?").bind(identifier).first();
+      if (userCheck) {
+          ownerUsername = userCheck.username;
+      } else {
+          // Check if identifier is a Reseller Link
+          const linkCheck = await env.CS_DB.prepare("SELECT username, is_active FROM links WHERE link_id = ?").bind(identifier).first();
           if (!linkCheck || linkCheck.is_active === 0) return json({ error: "Access Denied or Link Disabled" }, 403);
-          
-          if (file === "repo") {
-             ctx.waitUntil(trackClick(env.CS_DB, linkId, request));
-          }
+          ownerUsername = linkCheck.username;
+          isResellerLink = true;
       }
 
-      const libraryName = mode === 'sfw' ? 'Standard Library' : 'Adult Content (18+)';
+      if (!ownerUsername) return json({ error: "Repository Not Found" }, 404);
 
       if (file === "repo") {
-        const repoUrl = linkId === 'default' 
-            ? `${url.origin}/${mode}/plugins.json` 
-            : `${url.origin}/${linkId}/${mode}/plugins.json`;
+        if (isResellerLink) ctx.waitUntil(trackClick(env.CS_DB, identifier, request));
 
         return json({
-          name: `CS Bundle - ${libraryName}`,
-          description: `Automatically updated repository bundle.`,
+          name: `CS Bundle - ${mode === 'sfw' ? 'Standard' : 'Adult 18+'}`,
+          description: `Automatically updated extension bundle.`,
           manifestVersion: 1,
-          pluginLists: [repoUrl]
+          pluginLists: [`${url.origin}/${identifier}/${mode}/plugins.json`]
         });
       }
 
       if (file === "plugins") {
-        const cacheKey = `repo_${linkId}_${mode}`;
+        const cacheKey = `repo_${identifier}_${mode}`;
         const cached = await getCache(env.CS_KV, cacheKey);
         if (cached) return new Response(cached, { headers: { "Content-Type": "application/json", ...CORS } });
 
-        const allExt = await getBundledExtensions();
+        const settings = await env.CS_DB.prepare("SELECT selected, custom_sources FROM settings WHERE username = ?").bind(ownerUsername).first();
+        const selectedSet = new Set(JSON.parse(settings?.selected || '[]'));
+        const customUrls = JSON.parse(settings?.custom_sources || '[]');
+        
+        const allExt = await getBundledExtensions(customUrls);
+        
         const finalExt = allExt.filter(p => {
+          if (!selectedSet.has(p.internalName)) return false; // Filter by User's Selection
           if (mode === "sfw" && p.isAdult) return false;
           if (mode === "nsfw" && !p.isAdult) return false;
           return true;
