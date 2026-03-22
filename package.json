@@ -1,5 +1,5 @@
 {
-  "name": "cs-bundle",
+  "name": "cloudstream-bundle",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
