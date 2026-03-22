@@ -14,7 +14,7 @@ function json(data, status = 200) {
 }
 
 export default {
-  async fetch(request, env, ctx) {
+  async fetch(request, env) {
     if (request.method === "OPTIONS") return new Response(null, { headers: CORS });
 
     const url = new URL(request.url);
@@ -85,7 +85,7 @@ export default {
         return json({ success: true, username: finalUsername });
     }
 
-    // API: Get Data
+    // API: Get Data (Selected & Sources)
     if (path === "/api/me" && method === "GET") {
         if (!token) return json({ error: "Unauthorized" }, 401);
         await setupDatabase(env.CS_DB);
@@ -134,7 +134,7 @@ export default {
         return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
     }
     
-    // API: Force Refresh Plugins
+    // API: Refresh Plugins (Clears KV and rebuilds)
     if (path === "/api/plugins/refresh" && method === "POST") {
         if (!token) return json({ error: "Unauthorized" }, 401);
         await setupDatabase(env.CS_DB);
@@ -152,7 +152,7 @@ export default {
         return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
     }
 
-    // REPOSITORY GENERATOR (/USERNAME/ALL/REPO.JSON, /USERNAME/SFW/REPO.JSON, etc)
+    // MAGIC REPOSITORY GENERATOR (/USERNAME/ALL/REPO.JSON, /USERNAME/SFW/REPO.JSON, etc)
     const repoMatch = path.match(/^\/([a-zA-Z0-9_-]+)\/(all|sfw|nsfw)\/(repo|plugins)\.json$/);
     if (repoMatch && method === "GET") {
       let reqUsername = repoMatch[1];
@@ -164,7 +164,7 @@ export default {
       if (!userCheck) return json({ error: "Repository Not Found" }, 404);
 
       let libraryName = 'Full Bundle (Mixed)';
-      if (mode === 'sfw') libraryName = 'Standard Library';
+      if (mode === 'sfw') libraryName = 'Safe Content';
       if (mode === 'nsfw') libraryName = 'Adult Content (18+)';
 
       if (file === "repo") {
@@ -199,7 +199,7 @@ export default {
           if (!selectedSet.has(p.internalName)) return false; 
           if (mode === "sfw" && p.isAdult) return false;
           if (mode === "nsfw" && !p.isAdult) return false;
-          return true; // "all" mode skips the adult check
+          return true; // "all" mode bypasses adult check
         });
 
         const resData = JSON.stringify(finalExt);
