@@ -10,11 +10,11 @@ const DEFAULT_SOURCES = [
 ];
 
 function formatBytes(bytes) {
-  if (!bytes || bytes === 0) return 'Unknown';
+  if (!bytes || bytes === 0) return 'N/A';
   const k = 1024;
-  const sizes = ['Bytes', 'KB', 'MB'];
+  const sizes = ['B', 'KB', 'MB'];
   const i = Math.floor(Math.log(bytes) / Math.log(k));
-  return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
+  return parseFloat((bytes / Math.pow(k, i)).toFixed(1)) + ' ' + sizes[i];
 }
 
 async function fetchSource(url, depth = 0) {
@@ -39,8 +39,9 @@ async function fetchSource(url, depth = 0) {
   }
 }
 
-export async function getBundledExtensions() {
-  const promises = DEFAULT_SOURCES.map(url => fetchSource(url));
+export async function getBundledExtensions(customUrls = []) {
+  const allUrls = [...DEFAULT_SOURCES, ...customUrls];
+  const promises = allUrls.map(url => fetchSource(url));
   const results = await Promise.all(promises);
   const rawList = results.flat();
   
@@ -61,13 +62,9 @@ export async function getBundledExtensions() {
     }
     
     let typesArray = [];
-    if (Array.isArray(item.tvTypes)) {
-      typesArray = item.tvTypes.map(t => t.trim());
-    } else if (typeof item.tvTypes === 'string') {
-      typesArray = item.tvTypes.split(',').map(t => t.trim());
-    } else if (typeof item.type === 'string') {
-      typesArray = item.type.split(',').map(t => t.trim());
-    }
+    if (Array.isArray(item.tvTypes)) typesArray = item.tvTypes.map(t => t.trim());
+    else if (typeof item.tvTypes === 'string') typesArray = item.tvTypes.split(',').map(t => t.trim());
+    else if (typeof item.type === 'string') typesArray = item.type.split(',').map(t => t.trim());
     
     item.tvTypes = typesArray.length > 0 ? typesArray : ["VOD"];
     item.isAdult = item.tvTypes.some(t => t.toUpperCase() === "NSFW");
@@ -75,5 +72,5 @@ export async function getBundledExtensions() {
     
     processed.push(item);
   }
-  return processed;
+  return processed.sort((a, b) => a.name.localeCompare(b.name));
 }
