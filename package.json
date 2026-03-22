@@ -1,5 +1,5 @@
 {
-  "name": "cs-addon",
+  "name": "cs-bundle",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
