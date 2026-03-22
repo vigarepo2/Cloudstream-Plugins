@@ -81,6 +81,7 @@ export async function getBundledExtensions(customUrls = []) {
     
     item.isAdult = item.tvTypes.some(t => t.toUpperCase() === "NSFW");
     item.formattedSize = formatBytes(item.fileSize);
+    item.isBroken = item.status === 0;
     
     processed.push(item);
   }
