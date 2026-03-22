@@ -9,12 +9,12 @@ export const uiHTML = `<!DOCTYPE html>
     <style>
         body { font-family: 'Inter', sans-serif; background-color: #f9fafb; color: #111827; -webkit-tap-highlight-color: transparent; }
         
-        .card-shadow { box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03); }
-        .input-field { background: #fff; border: 1px solid #e5e7eb; color: #111827; transition: border-color 0.2s; outline: none; }
-        .input-field:focus { border-color: #3b82f6; box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1); }
+        .card-shadow { box-shadow: 0 4px 12px -2px rgba(0, 0, 0, 0.05), 0 2px 6px -1px rgba(0, 0, 0, 0.03); }
+        .input-field { background: #fff; border: 1px solid #e5e7eb; color: #111827; transition: all 0.2s; outline: none; }
+        .input-field:focus { border-color: #3b82f6; box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.1); }
         
-        .btn-blue { background: #2563eb; color: white; font-weight: 500; transition: background 0.2s; }
-        .btn-blue:active { transform: scale(0.98); }
+        .btn-blue { background: #2563eb; color: white; transition: all 0.2s; }
+        .btn-blue:active { transform: scale(0.97); }
         .btn-blue:hover { background: #1d4ed8; }
         
         .ios-switch { position: relative; display: inline-block; width: 44px; height: 24px; }
@@ -24,33 +24,35 @@ export const uiHTML = `<!DOCTYPE html>
         input:checked + .ios-slider { background-color: #34c759; }
         input:checked + .ios-slider:before { transform: translateX(20px); }
 
-        #toast-box { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); z-index: 50; display: flex; flex-direction: column; gap: 8px; width: 90%; max-w: 400px; }
-        .toast { background: #1f2937; color: white; padding: 14px 20px; border-radius: 12px; font-weight: 500; font-size: 14px; text-align: center; box-shadow: 0 10px 25px rgba(0,0,0,0.1); animation: slideUp 0.3s ease forwards; }
-        @keyframes slideUp { from { transform: translateY(100%); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+        #toast-box { position: fixed; top: 20px; left: 50%; transform: translateX(-50%); z-index: 60; display: flex; flex-direction: column; gap: 8px; width: 90%; max-w: 360px; }
+        .toast { background: #1f2937; color: white; padding: 14px 20px; border-radius: 12px; font-weight: 500; font-size: 14px; text-align: center; box-shadow: 0 10px 25px rgba(0,0,0,0.1); animation: slideDown 0.3s ease forwards; }
+        .toast.error { background: #ef4444; }
+        @keyframes slideDown { from { transform: translateY(-100%); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
 
-        .bottom-nav { position: fixed; bottom: 0; width: 100%; background: white; border-top: 1px solid #e5e7eb; display: flex; justify-content: space-around; padding-bottom: env(safe-area-inset-bottom); z-index: 40; }
-        .nav-item { padding: 16px; color: #6b7280; font-size: 12px; font-weight: 600; display: flex; flex-direction: column; items-center; gap: 4px; transition: color 0.2s; }
+        .bottom-nav { position: fixed; bottom: 0; width: 100%; background: white; border-top: 1px solid #f3f4f6; display: flex; justify-content: space-around; padding-bottom: env(safe-area-inset-bottom); z-index: 40; }
+        .nav-item { padding: 16px; color: #9ca3af; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; transition: color 0.2s; flex: 1; text-align: center; }
         .nav-item.active { color: #2563eb; }
 
-        .loader { border: 3px solid #f3f4f6; border-top-color: #2563eb; border-radius: 50%; width: 24px; height: 24px; animation: spin 0.8s linear infinite; margin: 0 auto; }
+        .loader { border: 3px solid #f3f4f6; border-top-color: #2563eb; border-radius: 50%; width: 20px; height: 20px; animation: spin 0.8s linear infinite; margin: 0 auto; }
         @keyframes spin { to { transform: rotate(360deg); } }
     </style>
 </head>
 <body class="pb-24">
     <div id="toast-box"></div>
 
-    <nav class="bg-white border-b border-gray-200 sticky top-0 z-40">
-        <div class="max-w-4xl mx-auto px-5 h-14 flex justify-between items-center">
-            <span class="font-bold text-lg text-gray-900">Cloudstream Manager</span>
-            <span id="save-status" class="text-xs font-medium text-gray-500 bg-gray-100 px-3 py-1 rounded-full hidden">Saved</span>
+    <nav class="bg-white border-b border-gray-100 sticky top-0 z-40">
+        <div class="max-w-4xl mx-auto px-5 h-16 flex justify-between items-center">
+            <span class="font-bold text-xl text-gray-900 tracking-tight">Cloudstream</span>
+            <span id="save-status" class="text-xs font-semibold text-green-600 bg-green-50 px-3 py-1.5 rounded-full hidden">Saved</span>
         </div>
     </nav>
 
-    <main id="app" class="max-w-4xl mx-auto px-4 py-6"></main>
+    <main id="app" class="max-w-4xl mx-auto px-4 py-8"></main>
 
     <div id="bottom-bar" class="bottom-nav hidden">
-        <button onclick="App.go('home')" id="nav-home" class="nav-item active w-full flex items-center justify-center">Extensions</button>
-        <button onclick="App.go('settings')" id="nav-settings" class="nav-item w-full flex items-center justify-center border-l border-gray-100">Settings</button>
+        <button onclick="App.go('home')" id="nav-home" class="nav-item active border-r border-gray-50">App Links</button>
+        <button onclick="App.go('market')" id="nav-market" class="nav-item border-r border-gray-50">Extensions</button>
+        <button onclick="App.go('settings')" id="nav-settings" class="nav-item">Settings</button>
     </div>
 
     <script>
@@ -65,12 +67,12 @@ export const uiHTML = `<!DOCTYPE html>
         search: '',
         filter: 'all',
 
-        notify: (msg) => {
+        notify: (msg, isError = false) => {
           const box = document.getElementById('toast-box');
           const t = document.createElement('div');
-          t.className = 'toast'; t.innerText = msg;
+          t.className = 'toast' + (isError ? ' error' : ''); t.innerText = msg;
           box.appendChild(t);
-          setTimeout(() => t.remove(), 2500);
+          setTimeout(() => { t.style.opacity = '0'; setTimeout(() => t.remove(), 300); }, 3000);
         },
 
         api: async (path, method = 'GET', body = null) => {
@@ -82,7 +84,7 @@ export const uiHTML = `<!DOCTYPE html>
           const data = await res.json();
           if (!res.ok) {
             if (res.status === 401) { App.logout(); }
-            throw new Error(data.error || 'Something went wrong');
+            throw new Error(data.error || 'Connection failed');
           }
           return data;
         },
@@ -91,6 +93,7 @@ export const uiHTML = `<!DOCTYPE html>
           if (App.token) {
             document.getElementById('bottom-bar').classList.remove('hidden');
             App.go('home');
+            App.loadData();
           } else {
             document.getElementById('bottom-bar').classList.add('hidden');
             App.go('auth');
@@ -111,26 +114,30 @@ export const uiHTML = `<!DOCTYPE html>
           }
           const root = document.getElementById('app');
           if (page === 'auth') root.innerHTML = App.screens.auth();
-          if (page === 'home') { root.innerHTML = App.screens.home(); App.loadData(); }
+          if (page === 'home') { root.innerHTML = App.screens.home(); App.renderLinks(); }
+          if (page === 'market') { root.innerHTML = App.screens.market(); App.drawGrid(); }
           if (page === 'settings') { root.innerHTML = App.screens.settings(); App.renderSettings(); }
         },
 
         auth: async (action) => {
           const u = document.getElementById('usr').value;
           const p = document.getElementById('pwd').value;
-          if (!u || !p) return App.notify('Please fill all fields');
+          if (!u || !p) return App.notify('Please fill both fields', true);
           
-          document.getElementById('btn-auth').innerHTML = '<div class="loader !w-5 !h-5 !border-2"></div>';
+          const btn = document.getElementById('btn-auth');
+          const oldText = btn.innerText;
+          btn.innerHTML = '<div class="loader !border-white !border-t-transparent"></div>';
+          
           try {
             const res = await App.api('/api/auth', 'POST', { action, username: u, password: p });
             localStorage.setItem('cs_tok', res.token);
             localStorage.setItem('cs_usr', res.username);
             App.token = res.token; App.user = res.username;
-            App.notify('Welcome!');
+            App.notify('Success!');
             App.start();
           } catch (e) {
-            App.notify(e.message);
-            App.go('auth');
+            btn.innerHTML = oldText;
+            App.notify(e.message, true);
           }
         },
 
@@ -141,25 +148,21 @@ export const uiHTML = `<!DOCTYPE html>
             App.customLinks = userState.sources;
             App.isPublic = userState.isPublic;
             
-            const base = window.location.origin;
-            document.getElementById('link-safe').value = base + '/' + App.token + '/safe/repo.json';
-            document.getElementById('link-18').value = base + '/' + App.token + '/18plus/repo.json';
-            
-            document.getElementById('grid').innerHTML = '<div class="col-span-full py-10"><div class="loader"></div><p class="text-center text-gray-400 text-sm mt-3">Finding extensions...</p></div>';
+            if (App.view === 'home') App.renderLinks();
+            if (App.view === 'settings') App.renderSettings();
             
             App.extensions = await App.api('/api/extensions');
-            App.drawGrid();
+            if (App.view === 'market') App.drawGrid();
           } catch (e) {}
         },
 
         save: async () => {
           const s = document.getElementById('save-status');
-          s.innerText = 'Saving...'; s.classList.remove('hidden');
+          s.classList.remove('hidden');
           try {
             await App.api('/api/user', 'POST', { selected: Array.from(App.selected), sources: App.customLinks, isPublic: App.isPublic });
-            s.innerText = 'Saved';
             setTimeout(() => s.classList.add('hidden'), 2000);
-          } catch (e) { s.innerText = 'Error'; }
+          } catch (e) { App.notify('Failed to save', true); s.classList.add('hidden'); }
         },
 
         toggle: (id) => {
@@ -174,15 +177,32 @@ export const uiHTML = `<!DOCTYPE html>
           App.filter = f;
           ['all', 'safe', '18plus'].forEach(i => {
             const el = document.getElementById('f-'+i);
-            if(f===i) el.classList.replace('bg-gray-100', 'bg-blue-600');
+            if(f===i) el.classList.replace('bg-gray-100', 'bg-gray-900');
             if(f===i) el.classList.replace('text-gray-600', 'text-white');
-            if(f!==i) el.classList.replace('bg-blue-600', 'bg-gray-100');
+            if(f!==i) el.classList.replace('bg-gray-900', 'bg-gray-100');
             if(f!==i) el.classList.replace('text-white', 'text-gray-600');
           });
           App.drawGrid();
         },
 
+        renderLinks: () => {
+          if(!App.token) return;
+          const base = window.location.origin;
+          const sfw = document.getElementById('link-safe');
+          const nsfw = document.getElementById('link-18');
+          if(sfw) sfw.value = base + '/' + App.token + '/safe/repo.json';
+          if(nsfw) nsfw.value = base + '/' + App.token + '/18plus/repo.json';
+        },
+
         drawGrid: () => {
+          const grid = document.getElementById('grid');
+          if (!grid) return;
+          
+          if (App.extensions.length === 0) {
+            grid.innerHTML = '<div class="col-span-full py-16 text-center"><div class="loader mb-4 border-gray-300 border-t-blue-600"></div><p class="text-gray-500 font-medium">Loading extensions...</p></div>';
+            return;
+          }
+
           let html = '';
           App.extensions.forEach(p => {
             const isAdult = p.tvTypes && p.tvTypes.some(t => t.toUpperCase() === 'NSFW');
@@ -191,25 +211,25 @@ export const uiHTML = `<!DOCTYPE html>
             if (App.search && !p.name.toLowerCase().includes(App.search)) return;
             
             const sel = App.selected.has(p.internalName);
-            const img = p.iconUrl || p.icon ? '<img src="'+(p.iconUrl||p.icon)+'" class="w-12 h-12 rounded-xl border border-gray-100 object-cover bg-white">' : '<div class="w-12 h-12 rounded-xl bg-gray-50 border border-gray-200 flex items-center justify-center text-gray-400 text-xs">No Icon</div>';
-            const tag = isAdult ? '<span class="bg-red-50 text-red-600 px-2 py-0.5 rounded-md text-[10px] font-bold">18+</span>' : '<span class="bg-green-50 text-green-600 px-2 py-0.5 rounded-md text-[10px] font-bold">SAFE</span>';
+            const img = p.iconUrl || p.icon ? '<img src="'+(p.iconUrl||p.icon)+'" class="w-14 h-14 rounded-2xl border border-gray-100 object-cover">' : '<div class="w-14 h-14 rounded-2xl bg-gray-100 border border-gray-200 flex items-center justify-center text-gray-400 text-xs font-bold">N/A</div>';
+            const tag = isAdult ? '<span class="bg-red-100 text-red-700 px-2 py-0.5 rounded text-[10px] font-bold tracking-wide">18+</span>' : '<span class="bg-blue-50 text-blue-700 px-2 py-0.5 rounded text-[10px] font-bold tracking-wide">SAFE</span>';
 
-            html += '<div class="bg-white rounded-2xl p-4 card-shadow flex items-center justify-between '+(sel?'border-2 border-blue-500':'border border-white')+'" onclick="App.toggle(\\''+p.internalName+'\\')">';
-            html += '<div class="flex items-center gap-4">'+img+'<div><h3 class="font-bold text-gray-900 text-sm mb-1 truncate max-w-[160px] sm:max-w-xs">'+p.name+'</h3><div class="flex gap-2">'+tag+'<span class="bg-gray-100 text-gray-500 px-2 py-0.5 rounded-md text-[10px] font-bold uppercase">'+(p.language||'EN')+'</span></div></div></div>';
+            html += '<div class="bg-white rounded-3xl p-4 card-shadow flex items-center justify-between transition-all '+(sel?'ring-2 ring-blue-500':'')+'" onclick="App.toggle(\\''+p.internalName+'\\')">';
+            html += '<div class="flex items-center gap-4">'+img+'<div><h3 class="font-bold text-gray-900 text-sm mb-1 truncate w-40 sm:w-56">'+p.name+'</h3><div class="flex gap-2">'+tag+'<span class="bg-gray-100 text-gray-500 px-2 py-0.5 rounded text-[10px] font-bold uppercase">'+(p.language||'EN')+'</span></div></div></div>';
             html += '<div><label class="ios-switch pointer-events-none"><input type="checkbox" '+(sel?'checked':'')+'><span class="ios-slider"></span></label></div></div>';
           });
-          document.getElementById('grid').innerHTML = html || '<div class="col-span-full text-center text-gray-500 py-10">No extensions found.</div>';
+          grid.innerHTML = html || '<div class="col-span-full text-center text-gray-500 py-10 font-medium">No extensions matched your search.</div>';
         },
 
         copy: (id) => {
           const el = document.getElementById(id);
           navigator.clipboard.writeText(el.value);
-          App.notify('Link copied!');
+          App.notify('Link copied to clipboard!');
         },
 
         addSource: () => {
           const val = document.getElementById('new-src').value.trim();
-          if(!val.startsWith('http')) return App.notify('Must be a valid link');
+          if(!val.startsWith('http')) return App.notify('Please enter a valid link starting with http', true);
           App.customLinks.push(val);
           document.getElementById('new-src').value = '';
           App.save(); App.renderSettings();
@@ -221,39 +241,45 @@ export const uiHTML = `<!DOCTYPE html>
         },
 
         renderSettings: () => {
-          document.getElementById('user-name').innerText = App.user;
-          document.getElementById('is-pub').checked = App.isPublic;
+          const un = document.getElementById('user-name');
+          const pub = document.getElementById('is-pub');
+          if(un) un.innerText = App.user;
+          if(pub) pub.checked = App.isPublic;
+          
           const list = document.getElementById('src-list');
-          list.innerHTML = App.customLinks.map((s, i) => '<div class="flex justify-between items-center p-3 bg-gray-50 rounded-xl mb-2"><span class="text-xs text-gray-600 truncate mr-3">'+s+'</span><button onclick="App.removeSource('+i+')" class="text-red-500 text-xs font-bold">Remove</button></div>').join('') || '<p class="text-sm text-gray-500">No extra sources added.</p>';
+          if(!list) return;
+          list.innerHTML = App.customLinks.map((s, i) => '<div class="flex justify-between items-center p-4 bg-gray-50 rounded-2xl mb-3 border border-gray-100"><span class="text-sm text-gray-600 truncate mr-4 font-medium">'+s+'</span><button onclick="App.removeSource('+i+')" class="text-red-500 text-sm font-bold bg-red-50 px-3 py-1.5 rounded-lg">Remove</button></div>').join('') || '<p class="text-sm text-gray-500 text-center py-4">No custom links added yet.</p>';
         },
 
         screens: {
           auth: () => 
-            '<div class="max-w-sm mx-auto mt-10"><div class="text-center mb-8"><div class="w-16 h-16 bg-blue-600 rounded-2xl mx-auto flex items-center justify-center mb-4 card-shadow"><svg viewBox="0 0 24 24" width="32" height="32" stroke="white" stroke-width="2.5" fill="none"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg></div><h1 class="text-2xl font-bold text-gray-900">Welcome</h1><p class="text-gray-500 mt-1">Sign in to manage your extensions</p></div>' +
-            '<div class="bg-white p-6 rounded-3xl card-shadow space-y-4">' +
-            '<div><label class="text-xs font-semibold text-gray-600 uppercase ml-1 block mb-1">Username</label><input id="usr" class="w-full input-field px-4 py-3 rounded-xl text-sm" placeholder="yourname"></div>' +
-            '<div><label class="text-xs font-semibold text-gray-600 uppercase ml-1 block mb-1">Password</label><input id="pwd" type="password" class="w-full input-field px-4 py-3 rounded-xl text-sm" placeholder="••••••••"></div>' +
-            '<button id="btn-auth" onclick="App.auth(\\'login\\')" class="w-full btn-blue py-3.5 rounded-xl text-sm font-semibold mt-2">Log In</button>' +
-            '<button onclick="App.auth(\\'signup\\')" class="w-full bg-gray-50 text-gray-700 font-semibold py-3.5 rounded-xl text-sm mt-2 hover:bg-gray-100">Create Account</button></div></div>',
+            '<div class="max-w-sm mx-auto mt-12"><div class="text-center mb-10"><div class="w-20 h-20 bg-gradient-to-tr from-blue-600 to-blue-400 rounded-3xl mx-auto flex items-center justify-center mb-6 shadow-lg shadow-blue-500/30"><svg viewBox="0 0 24 24" width="36" height="36" stroke="white" stroke-width="2.5" fill="none"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg></div><h1 class="text-3xl font-extrabold text-gray-900 tracking-tight">Welcome Back</h1><p class="text-gray-500 mt-2 font-medium">Log in or create an account</p></div>' +
+            '<div class="bg-white p-7 rounded-[32px] card-shadow space-y-5">' +
+            '<div><label class="text-xs font-bold text-gray-500 uppercase tracking-wide ml-1 block mb-1.5">Username</label><input id="usr" class="w-full input-field px-4 py-3.5 rounded-2xl text-base font-medium" placeholder="yourname"></div>' +
+            '<div><label class="text-xs font-bold text-gray-500 uppercase tracking-wide ml-1 block mb-1.5">Password</label><input id="pwd" type="password" class="w-full input-field px-4 py-3.5 rounded-2xl text-base font-medium" placeholder="••••••••"></div>' +
+            '<div class="pt-2"><button id="btn-auth" onclick="App.auth(\\'login\\')" class="w-full btn-blue py-4 rounded-2xl text-base font-bold shadow-md shadow-blue-500/20">Log In</button></div>' +
+            '<button onclick="App.auth(\\'signup\\')" class="w-full bg-gray-50 text-gray-700 font-bold py-4 rounded-2xl text-base mt-3 hover:bg-gray-100 transition-colors">Create Account</button></div></div>',
             
           home: () => 
-            '<div><h2 class="text-lg font-bold mb-3 text-gray-900">Your App Links</h2>' +
-            '<div class="space-y-3 mb-8">' +
-            '<div class="bg-white p-4 rounded-2xl card-shadow"><div class="flex justify-between items-center mb-3"><span class="font-bold text-sm">Safe Extensions</span><button onclick="App.copy(\\'link-safe\\')" class="bg-blue-50 text-blue-600 px-3 py-1.5 rounded-lg text-xs font-bold">Copy Link</button></div><input id="link-safe" readonly class="w-full bg-gray-50 border border-gray-100 rounded-xl px-3 py-2 text-xs text-gray-500 outline-none"></div>' +
-            '<div class="bg-white p-4 rounded-2xl card-shadow"><div class="flex justify-between items-center mb-3"><span class="font-bold text-sm">18+ Extensions</span><button onclick="App.copy(\\'link-18\\')" class="bg-red-50 text-red-600 px-3 py-1.5 rounded-lg text-xs font-bold">Copy Link</button></div><input id="link-18" readonly class="w-full bg-gray-50 border border-gray-100 rounded-xl px-3 py-2 text-xs text-gray-500 outline-none"></div>' +
-            '</div>' +
-            '<h2 class="text-lg font-bold mb-3 text-gray-900">All Extensions</h2>' +
-            '<div class="mb-4 space-y-3"><input onkeyup="App.searchExt(this.value)" placeholder="Search for an extension..." class="w-full input-field px-4 py-3 rounded-xl text-sm card-shadow">' +
-            '<div class="flex gap-2"><button id="f-all" onclick="App.setFilter(\\'all\\')" class="flex-1 bg-blue-600 text-white py-2 rounded-xl text-xs font-bold transition">All</button><button id="f-safe" onclick="App.setFilter(\\'safe\\')" class="flex-1 bg-gray-100 text-gray-600 py-2 rounded-xl text-xs font-bold transition">Safe</button><button id="f-18plus" onclick="App.setFilter(\\'18plus\\')" class="flex-1 bg-gray-100 text-gray-600 py-2 rounded-xl text-xs font-bold transition">18+</button></div></div>' +
-            '<div id="grid" class="grid grid-cols-1 sm:grid-cols-2 gap-3 min-h-[300px]"></div></div>',
+            '<div class="max-w-md mx-auto"><h2 class="text-2xl font-extrabold mb-6 text-gray-900">Your App Links</h2><p class="text-gray-500 mb-6 font-medium">Copy these links and paste them into the Cloudstream app to install your selected extensions.</p>' +
+            '<div class="space-y-5">' +
+            '<div class="bg-white p-6 rounded-3xl card-shadow"><div class="flex justify-between items-center mb-4"><span class="font-bold text-gray-900 text-lg">Safe Mode</span><button onclick="App.copy(\\'link-safe\\')" class="bg-gray-900 text-white px-4 py-2 rounded-xl text-sm font-bold hover:bg-gray-800 transition">Copy Link</button></div><input id="link-safe" readonly class="w-full bg-gray-50 border border-gray-100 rounded-2xl px-4 py-3.5 text-sm text-gray-500 font-medium outline-none"></div>' +
+            '<div class="bg-white p-6 rounded-3xl card-shadow border-2 border-transparent hover:border-red-100 transition"><div class="flex justify-between items-center mb-4"><span class="font-bold text-red-600 text-lg">18+ Mode</span><button onclick="App.copy(\\'link-18\\')" class="bg-red-100 text-red-700 px-4 py-2 rounded-xl text-sm font-bold hover:bg-red-200 transition">Copy Link</button></div><input id="link-18" readonly class="w-full bg-gray-50 border border-gray-100 rounded-2xl px-4 py-3.5 text-sm text-gray-500 font-medium outline-none"></div>' +
+            '</div></div>',
+
+          market: () => 
+            '<div><div class="sticky top-16 bg-[#f9fafb] pt-2 pb-4 z-30"><h2 class="text-2xl font-extrabold mb-4 text-gray-900">Extension Store</h2>' +
+            '<div class="space-y-3"><input onkeyup="App.searchExt(this.value)" placeholder="Search extensions..." class="w-full input-field px-4 py-3.5 rounded-2xl text-base font-medium card-shadow">' +
+            '<div class="flex gap-2"><button id="f-all" onclick="App.setFilter(\\'all\\')" class="flex-1 bg-gray-900 text-white py-2.5 rounded-xl text-sm font-bold transition">All</button><button id="f-safe" onclick="App.setFilter(\\'safe\\')" class="flex-1 bg-gray-100 text-gray-600 py-2.5 rounded-xl text-sm font-bold transition">Safe Only</button><button id="f-18plus" onclick="App.setFilter(\\'18plus\\')" class="flex-1 bg-gray-100 text-gray-600 py-2.5 rounded-xl text-sm font-bold transition">18+ Only</button></div></div></div>' +
+            '<div id="grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 min-h-[300px] mt-2"></div></div>',
 
           settings: () =>
-            '<div><h2 class="text-2xl font-bold mb-6 text-gray-900">Settings</h2>' +
-            '<div class="bg-white p-5 rounded-2xl card-shadow mb-6"><div class="flex justify-between items-center mb-4"><div><span class="block font-bold text-gray-900">Account</span><span id="user-name" class="text-sm text-gray-500"></span></div><button onclick="App.logout()" class="bg-red-50 text-red-600 px-4 py-2 rounded-xl text-xs font-bold">Log Out</button></div>' +
-            '<div class="border-t border-gray-100 pt-4 mt-2 flex justify-between items-center"><div><span class="block font-bold text-gray-900 text-sm">Public Link</span><p class="text-xs text-gray-500">Let others use your link</p></div><label class="ios-switch"><input type="checkbox" id="is-pub" onchange="App.isPublic=this.checked;App.save()"><span class="ios-slider"></span></label></div></div>' +
-            '<div class="bg-white p-5 rounded-2xl card-shadow"><h3 class="font-bold text-gray-900 mb-1">Add Custom Source</h3><p class="text-xs text-gray-500 mb-4">Paste a custom plugins.json link here.</p>' +
-            '<div class="flex gap-2 mb-5"><input id="new-src" class="flex-1 input-field px-3 py-2.5 rounded-xl text-sm" placeholder="https://.../plugins.json"><button onclick="App.addSource()" class="btn-blue px-4 py-2.5 rounded-xl text-xs font-bold">Add</button></div>' +
-            '<div id="src-list"></div></div></div>'
+            '<div class="max-w-md mx-auto"><h2 class="text-2xl font-extrabold mb-6 text-gray-900">Settings</h2>' +
+            '<div class="bg-white p-6 rounded-3xl card-shadow mb-6"><div class="flex justify-between items-center mb-5"><div><span class="block font-bold text-gray-900 text-lg">Account</span><span id="user-name" class="text-sm text-gray-500 font-medium mt-1"></span></div><button onclick="App.logout()" class="bg-gray-100 text-gray-700 px-5 py-2.5 rounded-xl text-sm font-bold hover:bg-gray-200 transition">Log Out</button></div>' +
+            '<div class="border-t border-gray-100 pt-5 mt-2 flex justify-between items-center"><div><span class="block font-bold text-gray-900 text-base">Public Link</span><p class="text-sm text-gray-500 font-medium mt-1">Let anyone use your links</p></div><label class="ios-switch"><input type="checkbox" id="is-pub" onchange="App.isPublic=this.checked;App.save()"><span class="ios-slider"></span></label></div></div>' +
+            '<div class="bg-white p-6 rounded-3xl card-shadow"><h3 class="font-bold text-gray-900 text-lg mb-1">Add Custom Source</h3><p class="text-sm text-gray-500 font-medium mb-5">Paste a custom plugins.json link to get more extensions.</p>' +
+            '<div class="flex gap-2 mb-6"><input id="new-src" class="flex-1 input-field px-4 py-3 rounded-2xl text-sm font-medium" placeholder="https://.../plugins.json"><button onclick="App.addSource()" class="bg-gray-900 text-white px-5 py-3 rounded-2xl text-sm font-bold">Add</button></div>' +
+            '<div id="src-list" class="space-y-3"></div></div></div>'
         }
       };
       
