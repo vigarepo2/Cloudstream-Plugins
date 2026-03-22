@@ -6,7 +6,10 @@ const DEFAULT_SOURCES = [
   "https://raw.githubusercontent.com/rockhero1234/cinephile/builds/plugins.json",
   "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/plugins.json",
   "https://cloudstream.lasyhost.tech/plugins.json",
-  "https://raw.githubusercontent.com/crafteraadarsh/vibemax/builds/plugins.json"
+  "https://raw.githubusercontent.com/crafteraadarsh/vibemax/builds/plugins.json",
+  "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/plugins.json",
+  "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/refs/heads/builds/plugins.json",
+  "https://raw.githubusercontent.com/phisher98/CXXX/builds/plugins.json"
 ];
 
 function formatBytes(bytes) {
@@ -20,31 +23,22 @@ function formatBytes(bytes) {
 async function fetchSource(url, depth = 0) {
   if (depth > 2) return [];
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 4000);
-  
+  const timeoutId = setTimeout(() => controller.abort(), 5000);
   try {
     const res = await fetch(url, { cf: { cacheTtl: 300, cacheEverything: true }, signal: controller.signal });
     clearTimeout(timeoutId);
     if (!res.ok) return [];
-    
     const data = await res.json();
-    let collectedPlugins = [];
-
-    // Scenario 1: The JSON is a direct array (Like the Bollyflix example you provided)
-    if (Array.isArray(data)) {
-        collectedPlugins = data;
-    } else {
-        // Scenario 2: The JSON has nested 'plugins' and/or 'pluginLists'
-        if (data.plugins && Array.isArray(data.plugins)) {
-            collectedPlugins = collectedPlugins.concat(data.plugins);
-        }
-        if (data.pluginLists && Array.isArray(data.pluginLists)) {
-            const subPromises = data.pluginLists.map(subUrl => fetchSource(subUrl, depth + 1));
-            const subResults = await Promise.all(subPromises);
-            collectedPlugins = collectedPlugins.concat(subResults.flat());
-        }
+    let coll = [];
+    if (Array.isArray(data)) coll = data;
+    else {
+      if (data.plugins && Array.isArray(data.plugins)) coll = coll.concat(data.plugins);
+      if (data.pluginLists && Array.isArray(data.pluginLists)) {
+        const sub = await Promise.all(data.pluginLists.map(u => fetchSource(u, depth + 1)));
+        coll = coll.concat(sub.flat());
+      }
     }
-    return collectedPlugins;
+    return coll;
   } catch (err) {
     clearTimeout(timeoutId);
     return [];
@@ -58,43 +52,36 @@ export async function getBundledExtensions(customUrls = []) {
   const rawList = results.flat();
   
   const processed = [];
-  const names = new Map();
+  const namesMap = new Map();
 
   for (const item of rawList) {
-    // Skip broken or empty objects
     if (!item || typeof item !== 'object' || !item.name || item.status === 0) continue;
     
-    // Resolve Naming Collisions (if two plugins share the exact same name)
-    let key = item.internalName || item.name.replace(/\s+/g, '');
-    if (names.has(key)) {
-      const count = names.get(key) + 1;
-      names.set(key, count);
-      item.internalName = `${key}_${count}`;
+    let baseName = item.name;
+    if (namesMap.has(baseName)) {
+      const count = namesMap.get(baseName) + 1;
+      namesMap.set(baseName, count);
+      item.name = `${baseName} (${count})`;
+      item.internalName = `${item.internalName || baseName.replace(/\\s+/g, '')}_${count}`;
     } else {
-      names.set(key, 1);
-      item.internalName = key;
+      namesMap.set(baseName, 1);
+      item.internalName = item.internalName || baseName.replace(/\\s+/g, '');
     }
     
-    // Safely Parse TV Types without crashing
     let typesArray = [];
     try {
-        if (Array.isArray(item.tvTypes)) {
-            typesArray = item.tvTypes.map(t => typeof t === 'string' ? t.trim() : '');
-        } else if (typeof item.tvTypes === 'string') {
-            typesArray = item.tvTypes.split(',').map(t => t.trim());
-        } else if (typeof item.type === 'string') {
-            typesArray = item.type.split(',').map(t => t.trim());
-        }
+        if (Array.isArray(item.tvTypes)) typesArray = item.tvTypes.map(t => typeof t === 'string' ? t.trim() : '');
+        else if (typeof item.tvTypes === 'string') typesArray = item.tvTypes.split(',').map(t => t.trim());
+        else if (typeof item.type === 'string') typesArray = item.type.split(',').map(t => t.trim());
     } catch(e) {}
     
     item.tvTypes = typesArray.filter(t => t.length > 0);
-    if(item.tvTypes.length === 0) item.tvTypes = ["VOD"]; // Fallback
+    if(item.tvTypes.length === 0) item.tvTypes = ["VOD"];
     
     item.isAdult = item.tvTypes.some(t => t.toUpperCase() === "NSFW");
     item.formattedSize = formatBytes(item.fileSize);
     
     processed.push(item);
   }
-  
   return processed.sort((a, b) => a.name.localeCompare(b.name));
 }
