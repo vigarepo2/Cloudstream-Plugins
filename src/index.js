@@ -14,7 +14,7 @@ function json(data, status = 200) {
 }
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     if (request.method === "OPTIONS") return new Response(null, { headers: CORS });
 
     const url = new URL(request.url);
@@ -85,7 +85,7 @@ export default {
         return json({ success: true, username: finalUsername });
     }
 
-    // API: Get Data (Selected & Sources)
+    // API: Get Data
     if (path === "/api/me" && method === "GET") {
         if (!token) return json({ error: "Unauthorized" }, 401);
         await setupDatabase(env.CS_DB);
@@ -134,7 +134,7 @@ export default {
         return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
     }
     
-    // API: Refresh Plugins (Clears KV and rebuilds)
+    // API: Force Refresh Plugins
     if (path === "/api/plugins/refresh" && method === "POST") {
         if (!token) return json({ error: "Unauthorized" }, 401);
         await setupDatabase(env.CS_DB);
@@ -152,8 +152,8 @@ export default {
         return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
     }
 
-    // MAGIC REPOSITORY GENERATOR (/USERNAME/SFW/REPO.JSON)
-    const repoMatch = path.match(/^\/([a-zA-Z0-9_-]+)\/(sfw|nsfw)\/(repo|plugins)\.json$/);
+    // REPOSITORY GENERATOR (/USERNAME/ALL/REPO.JSON, /USERNAME/SFW/REPO.JSON, etc)
+    const repoMatch = path.match(/^\/([a-zA-Z0-9_-]+)\/(all|sfw|nsfw)\/(repo|plugins)\.json$/);
     if (repoMatch && method === "GET") {
       let reqUsername = repoMatch[1];
       let mode = repoMatch[2];
@@ -163,9 +163,13 @@ export default {
       const userCheck = await env.CS_DB.prepare("SELECT username FROM accounts WHERE username = ?").bind(reqUsername).first();
       if (!userCheck) return json({ error: "Repository Not Found" }, 404);
 
+      let libraryName = 'Full Bundle (Mixed)';
+      if (mode === 'sfw') libraryName = 'Standard Library';
+      if (mode === 'nsfw') libraryName = 'Adult Content (18+)';
+
       if (file === "repo") {
         return json({
-          name: `My CS - ${mode === 'sfw' ? 'Standard Library' : 'Adult 18+'}`,
+          name: `My CS - ${libraryName}`,
           description: `Personal synchronized repository.`,
           manifestVersion: 1,
           pluginLists: [`${url.origin}/${reqUsername}/${mode}/plugins.json`]
@@ -195,16 +199,15 @@ export default {
           if (!selectedSet.has(p.internalName)) return false; 
           if (mode === "sfw" && p.isAdult) return false;
           if (mode === "nsfw" && !p.isAdult) return false;
-          return true;
+          return true; // "all" mode skips the adult check
         });
 
         const resData = JSON.stringify(finalExt);
-        await setCache(env.CS_KV, cacheKey, resData, 86400); // Cache for 1 day
+        await setCache(env.CS_KV, cacheKey, resData, 86400); // 1 day
         return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
       }
     }
 
-    // Serve UI for anything else
     if (!path.startsWith('/api/') && !path.endsWith('.json')) {
       return new Response(uiHTML, { headers: { "Content-Type": "text/html;charset=UTF-8" } });
     }
