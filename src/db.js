@@ -1,53 +1,29 @@
-export async function hashPassword(str) {
-  const encoder = new TextEncoder();
-  const data = encoder.encode(str);
-  const hashBuffer = await crypto.subtle.digest('SHA-256', data);
-  const hashArray = Array.from(new Uint8Array(hashBuffer));
-  return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
-}
-
-export function generateToken() {
-  return crypto.randomUUID().replace(/-/g, '') + Date.now().toString(36);
-}
-
-export function cleanUsername(username) {
-  if (!username) return "";
-  return username.toString().trim().toLowerCase().replace(/[^a-z0-9]/g, '');
-}
-
 export async function setupDatabase(db) {
   await db.batch([
-    db.prepare(`CREATE TABLE IF NOT EXISTS users (username TEXT PRIMARY KEY, password TEXT, token TEXT UNIQUE)`),
-    db.prepare(`CREATE TABLE IF NOT EXISTS settings (username TEXT PRIMARY KEY, selected TEXT DEFAULT '[]', sources TEXT DEFAULT '[]', is_public INTEGER DEFAULT 0)`)
+    db.prepare(`CREATE TABLE IF NOT EXISTS users (username TEXT PRIMARY KEY, password TEXT, session_token TEXT UNIQUE)`),
+    db.prepare(`CREATE TABLE IF NOT EXISTS links (link_id TEXT PRIMARY KEY, username TEXT, name TEXT, is_active INTEGER DEFAULT 1, sources TEXT DEFAULT '[]', created_at DATETIME DEFAULT CURRENT_TIMESTAMP)`),
+    db.prepare(`CREATE TABLE IF NOT EXISTS analytics (link_id TEXT, visitor_hash TEXT, timestamp DATETIME DEFAULT CURRENT_TIMESTAMP)`)
   ]);
 }
 
-export async function registerUser(db, username, password) {
-  const hash = await hashPassword(password);
-  const token = generateToken();
-  await db.batch([
-    db.prepare("INSERT INTO users (username, password, token) VALUES (?, ?, ?)").bind(username, hash, token),
-    db.prepare("INSERT INTO settings (username) VALUES (?)").bind(username)
-  ]);
-  return token;
+export async function hashData(str) {
+  const data = new TextEncoder().encode(str);
+  const hash = await crypto.subtle.digest('SHA-256', data);
+  return Array.from(new Uint8Array(hash)).map(b => b.toString(16).padStart(2, '0')).join('');
 }
 
-export async function loginUser(db, username, password) {
-  const hash = await hashPassword(password);
-  const user = await db.prepare("SELECT token FROM users WHERE username = ? AND password = ?").bind(username, hash).first();
-  return user ? user.token : null;
+export function generateId(length = 10) {
+  const chars = 'abcdefghijklmnopqrstuvwxyz0123456789';
+  let result = '';
+  for (let i = 0; i < length; i++) result += chars.charAt(Math.floor(Math.random() * chars.length));
+  return result;
 }
 
-export async function getUserByToken(db, token) {
-  if (!token) return null;
-  return await db.prepare("SELECT username, token FROM users WHERE token = ?").bind(token).first();
-}
-
-export async function getUserSettings(db, username) {
-  return await db.prepare("SELECT selected, sources, is_public FROM settings WHERE username = ?").bind(username).first();
-}
-
-export async function updateUserSettings(db, username, selected, sources, isPublic) {
-  await db.prepare("UPDATE settings SET selected = ?, sources = ?, is_public = ? WHERE username = ?")
-    .bind(JSON.stringify(selected), JSON.stringify(sources), isPublic ? 1 : 0, username).run();
+export async function trackClick(db, linkId, request) {
+  const ip = request.headers.get('cf-connecting-ip') || 'unknown';
+  const ua = request.headers.get('user-agent') || 'unknown';
+  const date = new Date().toISOString().split('T')[0]; 
+  const visitorHash = await hashData(`${ip}-${ua}-${date}`);
+  
+  await db.prepare("INSERT INTO analytics (link_id, visitor_hash) VALUES (?, ?)").bind(linkId, visitorHash).run();
 }
