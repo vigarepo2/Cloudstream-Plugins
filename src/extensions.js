@@ -24,7 +24,7 @@ function formatBytes(bytes) {
 async function fetchSource(url, depth = 0) {
   if (depth > 2) return [];
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 6000); 
+  const timeoutId = setTimeout(() => controller.abort(), 8000); 
   try {
     const res = await fetch(url, { cf: { cacheTtl: 300, cacheEverything: true }, signal: controller.signal });
     clearTimeout(timeoutId);
@@ -81,7 +81,6 @@ export async function getBundledExtensions(customUrls = []) {
     
     item.isAdult = item.tvTypes.some(t => t.toUpperCase() === "NSFW");
     item.formattedSize = formatBytes(item.fileSize);
-    item.isBroken = item.status === 0;
     
     processed.push(item);
   }
