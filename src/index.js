@@ -125,11 +125,10 @@ export default {
 
         const data = await getBundledExtensions(customUrls);
         const resData = JSON.stringify(data);
-        await setCache(env.CS_KV, cacheKey, resData, 604800); // Cache 7 days
+        await setCache(env.CS_KV, cacheKey, resData, 604800);
         return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
     }
     
-    // THE FORCE REFRESH API
     if (path === "/api/plugins/refresh" && method === "POST") {
         if (!token) return json({ error: "Unauthorized" }, 401);
         await setupDatabase(env.CS_DB);
@@ -139,7 +138,7 @@ export default {
         const config = await env.CS_DB.prepare("SELECT custom_sources FROM user_configs WHERE username = ?").bind(user.username).first();
         const customUrls = JSON.parse(config?.custom_sources || '[]');
         
-        await clearUserCaches(env.CS_KV, user.username); // Clears the repository cache too so links update immediately
+        await clearUserCaches(env.CS_KV, user.username);
 
         const data = await getBundledExtensions(customUrls);
         const resData = JSON.stringify(data);
@@ -175,7 +174,6 @@ export default {
         const selectedSet = new Set(JSON.parse(config?.selected || '[]'));
         const customUrls = JSON.parse(config?.custom_sources || '[]');
         
-        // First try to get user's cached global plugins, otherwise fetch
         const globalCacheKey = `user_plugins_${reqUsername}`;
         let allExt;
         const globalCached = await getCache(env.CS_KV, globalCacheKey);
@@ -194,7 +192,7 @@ export default {
         });
 
         const resData = JSON.stringify(finalExt);
-        await setCache(env.CS_KV, cacheKey, resData, 86400); // 1 day
+        await setCache(env.CS_KV, cacheKey, resData, 86400); // Cache repo for 1 day
         return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
       }
     }
