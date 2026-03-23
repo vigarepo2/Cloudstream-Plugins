@@ -1340,7 +1340,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 618993,
+    "fileSize": 629382,
     "status": 1,
     "authors": [
       "megix"
@@ -1352,13 +1352,13 @@
       "Anime",
       "Torrent"
     ],
-    "version": 389,
+    "version": 390,
     "internalName": "CineStream",
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "name": "CineStream",
     "isAdult": false,
-    "formattedSize": "604.5 KB",
+    "formattedSize": "614.6 KB",
     "isBroken": false
   },
   {
@@ -2934,10 +2934,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Funmovieslix.png",
-    "jarFileSize": 76213,
+    "jarFileSize": 129486,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 21213,
+    "fileSize": 32432,
     "status": 1,
     "language": "id",
     "authors": [
@@ -2947,14 +2947,14 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "Funmovieslix",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Funmovieslix.jar",
     "description": "Indonesia Source",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Funmovieslix.cs3",
     "name": "Funmovieslix",
     "isAdult": false,
-    "formattedSize": "20.7 KB",
+    "formattedSize": "31.7 KB",
     "isBroken": false
   },
   {
@@ -5678,10 +5678,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
-    "jarFileSize": 188414,
+    "jarFileSize": 198821,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 43549,
+    "fileSize": 47068,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -5692,14 +5692,14 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 47,
+    "version": 48,
     "internalName": "MultiMoviesProvider",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.jar",
     "description": "Indian Multi-language HD Provider",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
     "name": "MultiMoviesProvider",
     "isAdult": false,
-    "formattedSize": "42.5 KB",
+    "formattedSize": "46 KB",
     "isBroken": false
   },
   {
@@ -5886,7 +5886,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-    "fileSize": 58817,
+    "fileSize": 62451,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -5902,7 +5902,7 @@
     "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
     "name": "Netmirror",
     "isAdult": false,
-    "formattedSize": "57.4 KB",
+    "formattedSize": "61 KB",
     "isBroken": false
   },
   {
@@ -7591,7 +7591,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 892002,
+    "fileSize": 895452,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7606,13 +7606,13 @@
       "Cartoon",
       "AnimeMovie"
     ],
-    "version": 586,
+    "version": 587,
     "internalName": "StreamPlay",
     "description": "#1 best extention based on MultiAPI",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "name": "StreamPlay",
     "isAdult": false,
-    "formattedSize": "871.1 KB",
+    "formattedSize": "874.5 KB",
     "isBroken": false
   },
   {
@@ -9127,6 +9127,28 @@
     "isBroken": false
   },
   {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/XChina.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "XChina",
+    "internalName": "XChina",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "xChina is one of the biggest porn websites (NSFW) in the world, it collects all kinds of high-definition sexy photo sets, nude photography, adult novels, erotic videos and other adult content. Everything is free here.",
+    "fileSize": 12575,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.xchina.co/&size=128",
+    "apiVersion": 1,
+    "isAdult": true,
+    "formattedSize": "12.3 KB",
+    "isBroken": false
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www1.xcine.ru&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
@@ -9172,10 +9194,10 @@
     "isBroken": false
   },
   {
-    "iconUrl": "https://new.xdmovies.wtf/assets/logo1.png",
+    "iconUrl": "https://top.xdmovies.wtf/assets/logo1.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 76080,
+    "fileSize": 76081,
     "status": 1,
     "language": "en",
     "authors": [
@@ -9189,7 +9211,7 @@
       "Cartoon",
       "AnimeMovie"
     ],
-    "version": 29,
+    "version": 30,
     "internalName": "XDMovies",
     "description": "Watch Latest Movies",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/XDMovies.cs3",
