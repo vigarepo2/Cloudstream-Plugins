@@ -1,8 +1,0 @@
-{
-  "name": "VigaMax Ultimate Repo 🚀",
-  "description": "Fast, merged Cloudstream plugin repository with all major sources",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/vigarepo2/Cloudstream-Plugins/main/plugins.json"
-  ]
-}
