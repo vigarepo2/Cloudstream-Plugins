@@ -1,5 +1,4 @@
-// update-plugins.js
-const fs = require('fs');
+import fs from 'fs';
 
 const DEFAULT_SOURCES = [
   "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/plugins.json",
@@ -88,18 +87,9 @@ async function getBundledExtensions() {
   return processed.sort((a, b) => a.name.localeCompare(b.name));
 }
 
-// Execution Block
-(async () => {
-  try {
-    console.log("Starting plugin fetch...");
-    const finalData = await getBundledExtensions();
-    
-    // Save to plugins.json with beautiful formatting (null, 2)
-    fs.writeFileSync('plugins.json', JSON.stringify(finalData, null, 2));
-    
-    console.log(`Successfully generated plugins.json with ${finalData.length} extensions.`);
-  } catch (error) {
-    console.error("Fatal Error generating plugins:", error);
-    process.exit(1);
-  }
-})();
+try {
+  const finalData = await getBundledExtensions();
+  fs.writeFileSync('plugins.json', JSON.stringify(finalData, null, 2));
+} catch (error) {
+  process.exit(1);
+}
