@@ -41,7 +41,7 @@ export const uiHTML = `<!DOCTYPE html>
         .nav-link:hover { color: var(--text-main); background: #f4f4f5; }
         .nav-link.active { color: var(--text-main); background: #e4e4e7; }
 
-        /* Toggle Switch (Scaled down for density) */
+        /* Toggle Switch */
         .switch { position: relative; display: inline-block; width: 28px; height: 16px; flex-shrink: 0; }
         .switch input { opacity: 0; width: 0; height: 0; }
         .slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: var(--border); transition: .2s; border-radius: 16px; }
@@ -275,18 +275,32 @@ export const uiHTML = `<!DOCTYPE html>
             App.renderExtGrid();
         },
 
-        // ULTRA-DENSE GRID RENDERER
+        // FIXED IMAGE RENDER LOGIC
         renderExtGrid: () => {
             const grid = document.getElementById('extGrid');
             if (!App.extData) return;
 
             let html = '';
+            // Safely encoded SVG for broken image fallbacks
+            const fallbackSvg = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32'%3E%3Crect width='32' height='32' fill='%23f4f4f5' rx='6'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='sans-serif' font-size='10' font-weight='bold' fill='%23a1a1aa'%3ENA%3C/text%3E%3C/svg%3E";
+
             App.extData.forEach(p => {
                 if (App.filterType === 'sfw' && p.isAdult) return;
                 if (App.filterType === 'nsfw' && !p.isAdult) return;
 
                 const isSelected = App.selected.has(p.internalName);
-                const img = p.iconUrl || p.icon ? \`<img src="\${p.iconUrl || p.icon}" class="w-8 h-8 rounded-md object-cover bg-zinc-50 border border-zinc-200 shrink-0">\` : \`<div class="w-8 h-8 rounded-md bg-zinc-100 flex items-center justify-center text-zinc-400 text-[8px] font-bold border border-zinc-200 shrink-0">NA</div>\`;
+                
+                // Icon Fix Logic
+                let iconUrl = p.iconUrl || p.icon || '';
+                if(iconUrl) {
+                    iconUrl = iconUrl.replace('%size%', '128'); // Fix Google placeholder
+                    if (iconUrl.startsWith('http://')) iconUrl = iconUrl.replace('http://', 'https://'); // Fix HTTP Mixed Content error
+                }
+
+                // Image with safe onerror fallback
+                const img = iconUrl 
+                    ? \`<img src="\${iconUrl}" onerror="this.onerror=null; this.src='\${fallbackSvg}';" class="w-8 h-8 rounded-md object-cover bg-zinc-50 border border-zinc-200 shrink-0">\` 
+                    : \`<img src="\${fallbackSvg}" class="w-8 h-8 rounded-md object-cover bg-zinc-50 border border-zinc-200 shrink-0">\`;
                 
                 let badge = p.isAdult 
                     ? '<span class="text-red-700 bg-red-50 border border-red-200 px-1.5 py-[1px] rounded-[4px] text-[8px] font-extrabold tracking-wide">NSFW 18+</span>' 
@@ -418,7 +432,6 @@ export const uiHTML = `<!DOCTYPE html>
                       '<button id="refreshBtn" onclick="App.refreshPlugins()" class="btn-secondary px-2.5 py-1.5 text-[10px] flex items-center gap-1"><svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.3"/></svg> Sync</button>' +
                   '</div>' +
                 '</div>' +
-                // THE MAXIMUM DENSITY GRID (Forces 2 columns on mobile, scales to 8 on huge screens)
                 '<div id="extGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 3xl:grid-cols-8 gap-2.5 pb-8 w-full"></div>' +
             '</div>',
 
