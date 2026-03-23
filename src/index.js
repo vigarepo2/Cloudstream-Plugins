@@ -1,7 +1,8 @@
 import { setupDatabase, hashData, generateId, getUser, getUserByToken } from "./db.js";
 import { getCache, setCache, clearUserCaches } from "./kv.js";
-import { getBundledExtensions } from "./extensions.js";
 import { uiHTML } from "./frontend.js";
+
+const BASE_PLUGINS_URL = "https://raw.githubusercontent.com/vigarepo2/Cloudstream-Plugins/refs/heads/main/plugins.json";
 
 const CORS = {
   "Access-Control-Allow-Origin": "*",
@@ -11,7 +12,78 @@ const CORS = {
 };
 
 function json(data, status = 200) {
-  return new Response(JSON.stringify(data), { status, headers: { "Content-Type": "application/json", ...CORS } });
+  return new Response(JSON.stringify(data, null, 2), { status, headers: { "Content-Type": "application/json", ...CORS } });
+}
+
+function formatBytes(bytes) {
+  if (!bytes || isNaN(bytes) || bytes === 0) return 'N/A';
+  const k = 1024, sizes = ['B', 'KB', 'MB'], i = Math.floor(Math.log(bytes) / Math.log(k));
+  return parseFloat((bytes / Math.pow(k, i)).toFixed(1)) + ' ' + sizes[i];
+}
+
+async function fetchSource(url, depth = 0) {
+  if (depth > 2) return [];
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 8000); 
+  try {
+    const res = await fetch(url, { cf: { cacheTtl: 300, cacheEverything: true }, signal: controller.signal });
+    clearTimeout(timeoutId);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    let coll = [];
+    if (Array.isArray(data)) coll = data;
+    else {
+      if (data.plugins && Array.isArray(data.plugins)) coll = coll.concat(data.plugins);
+      if (data.pluginLists && Array.isArray(data.pluginLists)) {
+        const sub = await Promise.allSettled(data.pluginLists.map(u => fetchSource(u, depth + 1)));
+        sub.forEach(result => { if(result.status === 'fulfilled') coll = coll.concat(result.value); });
+      }
+    }
+    return coll;
+  } catch (err) {
+    clearTimeout(timeoutId);
+    return []; 
+  }
+}
+
+async function getBundledExtensions(customUrls = []) {
+  const allUrls = [BASE_PLUGINS_URL, ...new Set(customUrls || [])];
+  const results = await Promise.allSettled(allUrls.map(url => fetchSource(url)));
+  const rawList = results.filter(r => r.status === 'fulfilled').map(r => r.value).flat();
+  
+  const processed = [], namesMap = new Map();
+
+  for (const item of rawList) {
+    if (!item || typeof item !== 'object' || !item.name) continue;
+    
+    let baseName = item.name;
+    if (namesMap.has(baseName)) {
+      const count = namesMap.get(baseName) + 1;
+      namesMap.set(baseName, count);
+      item.name = `${baseName} (${count})`;
+      item.internalName = `${item.internalName || baseName.replace(/\s+/g, '')}_${count}`;
+    } else {
+      namesMap.set(baseName, 1);
+      item.internalName = item.internalName || baseName.replace(/\s+/g, '');
+    }
+    
+    let typesArray = [];
+    try {
+        if (Array.isArray(item.tvTypes)) typesArray = item.tvTypes.map(t => typeof t === 'string' ? t.trim() : '');
+        else if (typeof item.tvTypes === 'string') typesArray = item.tvTypes.split(',').map(t => t.trim());
+        else if (typeof item.type === 'string') typesArray = item.type.split(',').map(t => t.trim());
+    } catch(e) {}
+    
+    item.tvTypes = typesArray.filter(t => t.length > 0);
+    if(item.tvTypes.length === 0) item.tvTypes = ["VOD"];
+    
+    item.isAdult = item.tvTypes.some(t => t.toUpperCase() === "NSFW");
+    item.formattedSize = formatBytes(item.fileSize);
+    item.isBroken = item.status === 0;
+    
+    processed.push(item);
+  }
+  return processed.sort((a, b) => a.name.localeCompare(b.name));
 }
 
 export default {
@@ -119,7 +191,7 @@ export default {
           if (cached) return new Response(cached, { headers: { "Content-Type": "application/json", ...CORS } });
 
           const data = await getBundledExtensions(customUrls);
-          const resData = JSON.stringify(data);
+          const resData = JSON.stringify(data, null, 2);
           await setCache(env.CS_KV, cacheKey, resData, 604800);
           return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
       }
@@ -135,7 +207,7 @@ export default {
           
           await clearUserCaches(env.CS_KV, user.username);
           const data = await getBundledExtensions(customUrls);
-          const resData = JSON.stringify(data);
+          const resData = JSON.stringify(data, null, 2);
           await setCache(env.CS_KV, `user_plugins_${user.username}`, resData, 604800);
           return new Response(resData, { headers: { "Content-Type": "application/json", ...CORS } });
       }
@@ -166,7 +238,7 @@ export default {
           let allExt;
           const globalCached = await getCache(env.CS_KV, globalCacheKey);
           if(globalCached) { allExt = JSON.parse(globalCached); } 
-          else { allExt = await getBundledExtensions(customUrls); await setCache(env.CS_KV, globalCacheKey, JSON.stringify(allExt), 604800); }
+          else { allExt = await getBundledExtensions(customUrls); await setCache(env.CS_KV, globalCacheKey, JSON.stringify(allExt, null, 2), 604800); }
           
           const finalExt = allExt.filter(p => {
             if (!selectedSet.has(p.internalName)) return false; 
@@ -175,7 +247,7 @@ export default {
             return true;
           });
 
-          const resData = JSON.stringify(finalExt);
+          const resData = JSON.stringify(finalExt, null, 2);
           await setCache(env.CS_KV, cacheKey, resData, 86400);
           return new Response(resData, { headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" } });
         }
@@ -188,7 +260,6 @@ export default {
       return json({ error: "Endpoint not found" }, 404);
 
     } catch (error) {
-      console.error("Error:", error);
       return json({ error: "Internal Server Error" }, 500);
     }
   }
