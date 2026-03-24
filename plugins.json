@@ -514,7 +514,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=animekai.to&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 56506,
+    "fileSize": 56243,
     "status": 1,
     "language": "en",
     "authors": [
@@ -525,13 +525,13 @@
       "OVA",
       "AnimeMovie"
     ],
-    "version": 61,
+    "version": 62,
     "internalName": "AnimeKai",
     "description": "Animes & Animes Movie",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeKai.cs3",
     "name": "AnimeKai",
     "isAdult": false,
-    "formattedSize": "55.2 KB",
+    "formattedSize": "54.9 KB",
     "isBroken": false
   },
   {
@@ -1340,7 +1340,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 629382,
+    "fileSize": 631476,
     "status": 1,
     "authors": [
       "megix"
@@ -1352,13 +1352,13 @@
       "Anime",
       "Torrent"
     ],
-    "version": 390,
+    "version": 391,
     "internalName": "CineStream",
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "name": "CineStream",
     "isAdult": false,
-    "formattedSize": "614.6 KB",
+    "formattedSize": "616.7 KB",
     "isBroken": false
   },
   {
@@ -2714,7 +2714,7 @@
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 66894,
+    "fileSize": 66942,
     "status": 1,
     "language": "en",
     "authors": [
@@ -2730,7 +2730,7 @@
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
     "name": "FourKHDHub",
     "isAdult": false,
-    "formattedSize": "65.3 KB",
+    "formattedSize": "65.4 KB",
     "isBroken": false
   },
   {
@@ -2985,14 +2985,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Fyptt.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Fyptt",
     "internalName": "Fyptt",
     "authors": [
       "ByAyzen"
     ],
     "description": "If you think you can't find TikTok, Shorts, and Reels-inspired porn videos then FYPTT will prove you wrong. Here on our site, you can find lots of adult TikTok-, Shorts-, and Reels-like vertical porn videos that are hard to find anywhere else. You'll see familiar challenges, but they're all NSFW and contain nudity. Feel turned on? Start browsing FYPTT right now and remember to come back regularly because we update content very often.",
-    "fileSize": 13865,
+    "fileSize": 14056,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -3001,7 +3001,7 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fyptt.to/wp-content/uploads/2020/04/fypttlogo-white.png&size=128",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "13.5 KB",
+    "formattedSize": "13.7 KB",
     "isBroken": false
   },
   {
@@ -3667,7 +3667,7 @@
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/hindmoviez.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 45787,
+    "fileSize": 46373,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -3677,13 +3677,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 5,
+    "version": 7,
     "internalName": "Hindmoviez",
     "description": "Watch Movies & TvSeries (Multi-Lang)",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hindmoviez.cs3",
     "name": "Hindmoviez",
     "isAdult": false,
-    "formattedSize": "44.7 KB",
+    "formattedSize": "45.3 KB",
     "isBroken": false
   },
   {
@@ -4698,14 +4698,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Koreaye.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Koreaye",
     "internalName": "Koreaye",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Porno Film - Sikiş izle - Sex Video - Mobil Seks Seyret | Koreaye",
-    "fileSize": 13046,
+    "fileSize": 13198,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -4714,7 +4714,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=koreaye.com&sz=%size%",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "12.7 KB",
+    "formattedSize": "12.9 KB",
     "isBroken": false
   },
   {
@@ -5095,14 +5095,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Maheir.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Maheir",
     "internalName": "Maheir",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Boşalmak istediğiniz zaman ❤️ porno izle videolarına girebilir ❤️ sikiş seyret keyfini yaşayın. Konulu hd porn seksleriyle ⭐ mobil porna filmi çok daha güzel",
-    "fileSize": 16285,
+    "fileSize": 16304,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -7591,7 +7591,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 895452,
+    "fileSize": 901332,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7606,13 +7606,13 @@
       "Cartoon",
       "AnimeMovie"
     ],
-    "version": 587,
+    "version": 590,
     "internalName": "StreamPlay",
     "description": "#1 best extention based on MultiAPI",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "name": "StreamPlay",
     "isAdult": false,
-    "formattedSize": "874.5 KB",
+    "formattedSize": "880.2 KB",
     "isBroken": false
   },
   {
@@ -7856,7 +7856,7 @@
       "ByAyzen"
     ],
     "description": "Enjoy the high quality porn videos, upload original content.",
-    "fileSize": 33317,
+    "fileSize": 33289,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -8539,14 +8539,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 54,
+    "version": 55,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34236,
+    "fileSize": 34232,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -9610,7 +9610,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=yflix.to/&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 59218,
+    "fileSize": 59220,
     "status": 1,
     "language": "en",
     "authors": [
