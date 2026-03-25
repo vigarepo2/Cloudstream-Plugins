@@ -1109,7 +1109,7 @@
     "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 39313,
+    "fileSize": 39689,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -1121,13 +1121,13 @@
       "AsianDrama",
       "Anime"
     ],
-    "version": 30,
+    "version": 31,
     "internalName": "Bollyflix",
     "description": "Movies and Series upto 4K",
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
     "name": "Bollyflix",
     "isAdult": false,
-    "formattedSize": "38.4 KB",
+    "formattedSize": "38.8 KB",
     "isBroken": false
   },
   {
@@ -1340,7 +1340,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 631476,
+    "fileSize": 632723,
     "status": 1,
     "authors": [
       "megix"
@@ -1358,7 +1358,7 @@
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "name": "CineStream",
     "isAdult": false,
-    "formattedSize": "616.7 KB",
+    "formattedSize": "617.9 KB",
     "isBroken": false
   },
   {
@@ -7591,7 +7591,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 901332,
+    "fileSize": 897559,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7606,13 +7606,13 @@
       "Cartoon",
       "AnimeMovie"
     ],
-    "version": 590,
+    "version": 593,
     "internalName": "StreamPlay",
     "description": "#1 best extention based on MultiAPI",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "name": "StreamPlay",
     "isAdult": false,
-    "formattedSize": "880.2 KB",
+    "formattedSize": "876.5 KB",
     "isBroken": false
   },
   {
@@ -8539,14 +8539,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 55,
+    "version": 56,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34232,
+    "fileSize": 34231,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
