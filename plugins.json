@@ -685,32 +685,6 @@
     "isBroken": false
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animeworld.jpg",
-    "jarFileSize": 108685,
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 29416,
-    "status": 1,
-    "language": "hi",
-    "authors": [
-      "Phisher98"
-    ],
-    "tvTypes": [
-      "AnimeMovie",
-      "Anime",
-      "Cartoon"
-    ],
-    "version": 6,
-    "internalName": "AnimeWorld",
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeWorld.jar",
-    "description": "Anime/Cartoon in Hindi",
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeWorld.cs3",
-    "name": "AnimeWorld",
-    "isAdult": false,
-    "formattedSize": "28.7 KB",
-    "isBroken": false
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=animexin.dev&sz=%size%",
     "jarFileSize": 56815,
     "apiVersion": 1,
@@ -1340,7 +1314,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 632723,
+    "fileSize": 633217,
     "status": 1,
     "authors": [
       "megix"
@@ -1352,13 +1326,13 @@
       "Anime",
       "Torrent"
     ],
-    "version": 391,
+    "version": 392,
     "internalName": "CineStream",
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "name": "CineStream",
     "isAdult": false,
-    "formattedSize": "617.9 KB",
+    "formattedSize": "618.4 KB",
     "isBroken": false
   },
   {
@@ -4904,7 +4878,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/LayarKaca.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "LayarKaca",
     "internalName": "LayarKaca",
     "authors": [
@@ -4913,7 +4887,7 @@
       "Hexated"
     ],
     "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
-    "fileSize": 23785,
+    "fileSize": 23788,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "id",
     "tvTypes": [
@@ -5531,7 +5505,7 @@
     "isBroken": false
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/master/Movies4u/src/main/movies4u.png",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=piratexplay.cc&sz=%size%",
     "jarFileSize": 299023,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
@@ -6693,6 +6667,32 @@
     "isBroken": false
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=piratexplay.cc&sz=%size%",
+    "jarFileSize": 129430,
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "fileSize": 34306,
+    "status": 1,
+    "language": "hi",
+    "authors": [
+      "Phisher98"
+    ],
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "Cartoon"
+    ],
+    "version": 1,
+    "internalName": "Piratexplay",
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Piratexplay.jar",
+    "description": "Anime/Cartoon in Hindi",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Piratexplay.cs3",
+    "name": "Piratexplay",
+    "isAdult": false,
+    "formattedSize": "33.5 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Porn00.cs3",
     "status": 1,
     "version": 5,
@@ -6911,6 +6911,28 @@
     "name": "Pornobae",
     "isAdult": true,
     "formattedSize": "11.3 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Pornocarioca.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Pornocarioca",
+    "internalName": "Pornocarioca",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "Porno Carioca ✓ Videos e filmes pornô diariamente atualizados com cenas de porno grátis. O melhor site pornô com mulheres gostosas!",
+    "fileSize": 14454,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "br",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.pornocarioca.com/&size=128",
+    "apiVersion": 1,
+    "isAdult": true,
+    "formattedSize": "14.1 KB",
     "isBroken": false
   },
   {
@@ -7591,7 +7613,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 897559,
+    "fileSize": 899830,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7606,13 +7628,13 @@
       "Cartoon",
       "AnimeMovie"
     ],
-    "version": 593,
+    "version": 594,
     "internalName": "StreamPlay",
     "description": "#1 best extention based on MultiAPI",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "name": "StreamPlay",
     "isAdult": false,
-    "formattedSize": "876.5 KB",
+    "formattedSize": "878.7 KB",
     "isBroken": false
   },
   {
@@ -8539,14 +8561,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 56,
+    "version": 57,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34231,
+    "fileSize": 34236,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
