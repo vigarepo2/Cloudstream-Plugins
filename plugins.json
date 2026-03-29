@@ -1314,7 +1314,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 630555,
+    "fileSize": 629574,
     "status": 1,
     "authors": [
       "megix"
@@ -1332,7 +1332,7 @@
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "name": "CineStream",
     "isAdult": false,
-    "formattedSize": "615.8 KB",
+    "formattedSize": "614.8 KB",
     "isBroken": false
   },
   {
@@ -3773,10 +3773,10 @@
   },
   {
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://idlixian.com&size=16",
-    "jarFileSize": 100499,
+    "jarFileSize": 100407,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 26802,
+    "fileSize": 26638,
     "status": 1,
     "language": "id",
     "authors": [
@@ -3788,13 +3788,13 @@
       "Anime",
       "AsianDrama"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "IdlixProvider",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.jar",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.cs3",
     "name": "IdlixProvider",
     "isAdult": false,
-    "formattedSize": "26.2 KB",
+    "formattedSize": "26 KB",
     "isBroken": false
   },
   {
@@ -7665,7 +7665,7 @@
     "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/StremioX/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 170576,
+    "fileSize": 170661,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7675,13 +7675,13 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 21,
+    "version": 22,
     "internalName": "StremioX",
     "description": "[!] Requires Setup \n- StremioX allows you to use stream addons \n- StremioC allows you to use catalog addons",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StremioX.cs3",
     "name": "StremioX",
     "isAdult": false,
-    "formattedSize": "166.6 KB",
+    "formattedSize": "166.7 KB",
     "isBroken": false
   },
   {
@@ -8404,7 +8404,7 @@
     "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 192964,
+    "fileSize": 193480,
     "status": 1,
     "language": "en",
     "authors": [
@@ -8417,13 +8417,13 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 78,
+    "version": 79,
     "internalName": "TorraStream",
     "description": "#1 Best Extension – MultiAPI-Based with 4K Torrent Support (Debian) Use Extension Settings",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/TorraStream.cs3",
     "name": "TorraStream",
     "isAdult": false,
-    "formattedSize": "188.4 KB",
+    "formattedSize": "188.9 KB",
     "isBroken": false
   },
   {
