@@ -514,7 +514,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=animekai.to&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 56570,
+    "fileSize": 57871,
     "status": 1,
     "language": "en",
     "authors": [
@@ -525,13 +525,13 @@
       "OVA",
       "AnimeMovie"
     ],
-    "version": 63,
+    "version": 64,
     "internalName": "AnimeKai",
     "description": "Animes & Animes Movie",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeKai.cs3",
     "name": "AnimeKai",
     "isAdult": false,
-    "formattedSize": "55.2 KB",
+    "formattedSize": "56.5 KB",
     "isBroken": false
   },
   {
@@ -1432,14 +1432,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/CollectionOfBestPorn.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "CollectionOfBestPorn",
     "internalName": "CollectionOfBestPorn",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Watch the biggest collection of the best free high quality hd porn videos. There are over 1.5 million of the best porno tube movies completely FREE for you!",
-    "fileSize": 13869,
+    "fileSize": 13912,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -1448,7 +1448,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=collectionofbestporn.com&sz=%size%",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "13.5 KB",
+    "formattedSize": "13.6 KB",
     "isBroken": false
   },
   {
@@ -2776,7 +2776,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Full4kizle.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "Full4kizle",
     "internalName": "Full4kizle",
     "authors": [
@@ -5113,7 +5113,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Mangoporn.cs3",
     "status": 1,
-    "version": 17,
+    "version": 18,
     "name": "Mangoporn (2)",
     "internalName": "Mangoporn_2",
     "authors": [
@@ -5122,7 +5122,7 @@
       "HindiProvider"
     ],
     "description": "MangoPorn",
-    "fileSize": 56826,
+    "fileSize": 57158,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -5131,7 +5131,7 @@
     "iconUrl": "https://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "55.5 KB",
+    "formattedSize": "55.8 KB",
     "isBroken": false
   },
   {
@@ -5369,7 +5369,7 @@
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 62954,
+    "fileSize": 63259,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -5379,13 +5379,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 12,
+    "version": 14,
     "internalName": "MovieBoxProvider",
     "description": "Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
     "name": "MovieBoxProvider",
     "isAdult": false,
-    "formattedSize": "61.5 KB",
+    "formattedSize": "61.8 KB",
     "isBroken": false
   },
   {
@@ -7613,7 +7613,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 894875,
+    "fileSize": 895753,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7628,13 +7628,13 @@
       "Cartoon",
       "AnimeMovie"
     ],
-    "version": 598,
+    "version": 599,
     "internalName": "StreamPlay",
     "description": "#1 best extention based on MultiAPI",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "name": "StreamPlay",
     "isAdult": false,
-    "formattedSize": "873.9 KB",
+    "formattedSize": "874.8 KB",
     "isBroken": false
   },
   {
@@ -8561,14 +8561,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 59,
+    "version": 61,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34236,
+    "fileSize": 34234,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8989,14 +8989,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/WatchWrestling.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "WatchWrestling",
     "internalName": "WatchWrestling",
     "authors": [
       "kraptor"
     ],
     "description": "Watch WWE | WWE Raw | Smackdown Live",
-    "fileSize": 15027,
+    "fileSize": 15035,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
