@@ -2139,7 +2139,7 @@
     "isBroken": false
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dudefilms.sarl&sz=%size%",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/dudefilms.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "fileSize": 68162,
@@ -5369,7 +5369,7 @@
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 63259,
+    "fileSize": 69122,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -5379,13 +5379,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 14,
+    "version": 17,
     "internalName": "MovieBoxProvider",
     "description": "Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
     "name": "MovieBoxProvider",
     "isAdult": false,
-    "formattedSize": "61.8 KB",
+    "formattedSize": "67.5 KB",
     "isBroken": false
   },
   {
@@ -7613,7 +7613,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 895753,
+    "fileSize": 896041,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7628,13 +7628,13 @@
       "Cartoon",
       "AnimeMovie"
     ],
-    "version": 599,
+    "version": 600,
     "internalName": "StreamPlay",
     "description": "#1 best extention based on MultiAPI",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "name": "StreamPlay",
     "isAdult": false,
-    "formattedSize": "874.8 KB",
+    "formattedSize": "875 KB",
     "isBroken": false
   },
   {
