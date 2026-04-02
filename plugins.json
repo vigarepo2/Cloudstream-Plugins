@@ -587,10 +587,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
-    "jarFileSize": 188713,
+    "jarFileSize": 188714,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 40232,
+    "fileSize": 40231,
     "status": 1,
     "language": "en",
     "authors": [
@@ -601,7 +601,7 @@
       "Anime",
       "OVA"
     ],
-    "version": 16,
+    "version": 17,
     "internalName": "AnimePahe",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.jar",
     "description": "Animes (SUB/DUB)",
@@ -921,14 +921,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/BadTv.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "BadTv",
     "internalName": "BadTv",
     "authors": [
       "kerimmkirac"
     ],
-    "description": "Porno film izle ⭐ ❤️ ⭐ HD porn DoEda canlı sikiş konulu sex video XXX altyazılı porna ⚡ mobil tecavüz pornosu ❗ Türk seks görüntüleri seyret, pornolar.",
-    "fileSize": 16919,
+    "description": "Porno falan",
+    "fileSize": 16540,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -937,7 +937,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.badtv.net/&sz=%size%",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "16.5 KB",
+    "formattedSize": "16.2 KB",
     "isBroken": false
   },
   {
@@ -1314,7 +1314,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 629574,
+    "fileSize": 629559,
     "status": 1,
     "authors": [
       "megix"
@@ -1326,7 +1326,7 @@
       "Anime",
       "Torrent"
     ],
-    "version": 394,
+    "version": 395,
     "internalName": "CineStream",
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
@@ -2300,14 +2300,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Erome.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Erome",
     "internalName": "Erome",
     "authors": [
       "ByAyzen"
     ],
     "description": "Erome.com is a hosting platform that provides a safe and easy way to upload, store and share all your wild & erotic photos & videos. You control who you share your stuff with.",
-    "fileSize": 16660,
+    "fileSize": 16339,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -2316,7 +2316,7 @@
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://erome.com&size=128",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "16.3 KB",
+    "formattedSize": "16 KB",
     "isBroken": false
   },
   {
@@ -4672,14 +4672,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Koreaye.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "Koreaye",
     "internalName": "Koreaye",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Porno Film - Sikiş izle - Sex Video - Mobil Seks Seyret | Koreaye",
-    "fileSize": 13198,
+    "fileSize": 13200,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -5251,14 +5251,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/MissAV.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "MissAV (2)",
     "internalName": "MissAV_2",
     "authors": [
       "ByAyzen"
     ],
     "description": "Best Japan AV porn site, free forever, high speed, no lag, over 100,000 videos with daily update.",
-    "fileSize": 12677,
+    "fileSize": 13196,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -5267,7 +5267,7 @@
     "iconUrl": "https://missav.ws/missav/logo-square.png",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "12.4 KB",
+    "formattedSize": "12.9 KB",
     "isBroken": false
   },
   {
@@ -5369,7 +5369,7 @@
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 69122,
+    "fileSize": 69070,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -5392,7 +5392,7 @@
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 57990,
+    "fileSize": 73623,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5402,36 +5402,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 12,
+    "version": 13,
     "internalName": "MovieBoxProvider_2",
     "description": "Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
     "name": "MovieBoxProvider (2)",
     "isAdult": false,
-    "formattedSize": "56.6 KB",
-    "isBroken": false
-  },
-  {
-    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 59061,
-    "status": 1,
-    "language": "ta",
-    "authors": [
-      "NivinCNC"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 5,
-    "internalName": "MovieBoxProviderIN",
-    "description": "Multi Language Movies and Series Provider (IN)",
-    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
-    "name": "MovieBoxProviderIN",
-    "isAdult": false,
-    "formattedSize": "57.7 KB",
+    "formattedSize": "71.9 KB",
     "isBroken": false
   },
   {
@@ -6110,6 +6087,29 @@
     "isBroken": false
   },
   {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/OK.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "OK",
+    "internalName": "OK",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "OKRU Videos.",
+    "fileSize": 24642,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "language": "en",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ok.ru/video/c12842395&size=128",
+    "apiVersion": 1,
+    "isAdult": false,
+    "formattedSize": "24.1 KB",
+    "isBroken": false
+  },
+  {
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/onepace.png",
     "jarFileSize": 145645,
     "apiVersion": 1,
@@ -6600,14 +6600,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Pimpbunny.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "Pimpbunny",
     "internalName": "Pimpbunny",
     "authors": [
       "ByAyzen"
     ],
     "description": "Looking for the hottest content on the internet? PimpBunny brings you the hottest porn videos and lets you chat with the content creators.",
-    "fileSize": 20126,
+    "fileSize": 20430,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -6616,7 +6616,7 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pimpbunny.com/&size=128",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "19.7 KB",
+    "formattedSize": "20 KB",
     "isBroken": false
   },
   {
@@ -7235,7 +7235,7 @@
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Rtally/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 19512,
+    "fileSize": 19510,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7248,7 +7248,7 @@
       "AnimeMovie",
       "AsianDrama"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "Rtally",
     "description": "Movie and TV Series provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/Rtally.cs3",
@@ -7613,7 +7613,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 896041,
+    "fileSize": 896081,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7628,13 +7628,13 @@
       "Cartoon",
       "AnimeMovie"
     ],
-    "version": 600,
+    "version": 601,
     "internalName": "StreamPlay",
     "description": "#1 best extention based on MultiAPI",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "name": "StreamPlay",
     "isAdult": false,
-    "formattedSize": "875 KB",
+    "formattedSize": "875.1 KB",
     "isBroken": false
   },
   {
@@ -8561,14 +8561,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 61,
+    "version": 62,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34234,
+    "fileSize": 34235,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
