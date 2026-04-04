@@ -589,7 +589,7 @@
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 49410,
+    "fileSize": 49393,
     "status": 1,
     "language": "en",
     "authors": [
@@ -600,13 +600,13 @@
       "Anime",
       "OVA"
     ],
-    "version": 18,
+    "version": 19,
     "internalName": "AnimePahe",
     "description": "Animes (SUB/DUB)",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.cs3",
     "name": "AnimePahe",
     "isAdult": false,
-    "formattedSize": "48.3 KB",
+    "formattedSize": "48.2 KB",
     "isBroken": false
   },
   {
@@ -760,7 +760,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=aniwatchtv.to&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 44458,
+    "fileSize": 44420,
     "status": 1,
     "language": "en",
     "authors": [
@@ -770,7 +770,7 @@
       "Anime",
       "OVA"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "AniWatch",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniWatch.cs3",
     "name": "AniWatch",
@@ -3517,8 +3517,8 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 57886,
-    "status": 1,
+    "fileSize": 57852,
+    "status": 0,
     "language": "en",
     "authors": [
       "Stormunblessed, KillerDogeEmpire,RowdyRushya,Phisher98"
@@ -3533,7 +3533,7 @@
     "name": "HiAnime",
     "isAdult": false,
     "formattedSize": "56.5 KB",
-    "isBroken": false
+    "isBroken": true
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v2.hidoristream.online&size=%size%",
@@ -4293,7 +4293,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=kaido.to&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 48413,
+    "fileSize": 48382,
     "status": 1,
     "language": "en",
     "authors": [
@@ -4303,12 +4303,12 @@
       "Anime",
       "OVA"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "Kaido",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kaido.cs3",
     "name": "Kaido",
     "isAdult": false,
-    "formattedSize": "47.3 KB",
+    "formattedSize": "47.2 KB",
     "isBroken": false
   },
   {
@@ -4476,10 +4476,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
-    "jarFileSize": 152213,
+    "jarFileSize": 152199,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 38477,
+    "fileSize": 38471,
     "status": 1,
     "language": "en",
     "authors": [
@@ -5291,7 +5291,7 @@
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 69070,
+    "fileSize": 68979,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -5301,13 +5301,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "MovieBoxProvider",
     "description": "Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
     "name": "MovieBoxProvider",
     "isAdult": false,
-    "formattedSize": "67.5 KB",
+    "formattedSize": "67.4 KB",
     "isBroken": false
   },
   {
@@ -5525,10 +5525,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.mxplayer.in&sz=%size%",
-    "jarFileSize": 497850,
+    "jarFileSize": 497758,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 93393,
+    "fileSize": 93320,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -5546,7 +5546,7 @@
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MPlayerProvider.cs3",
     "name": "MPlayerProvider",
     "isAdult": false,
-    "formattedSize": "91.2 KB",
+    "formattedSize": "91.1 KB",
     "isBroken": false
   },
   {
@@ -7320,7 +7320,7 @@
     "iconUrl": "https://miro.medium.com/v2/1*DyU8bmnyyEiJbFROEXO2VA.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 113450,
+    "fileSize": 113465,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7332,7 +7332,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "ShowBox",
     "description": "ShowBox (Retrieve the cookie using Login with Google to properly utilize ShowBox.",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ShowBox.cs3",
@@ -7535,7 +7535,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 896128,
+    "fileSize": 896055,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7550,7 +7550,7 @@
       "Cartoon",
       "AnimeMovie"
     ],
-    "version": 602,
+    "version": 603,
     "internalName": "StreamPlay",
     "description": "#1 best extention based on MultiAPI",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -8483,14 +8483,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 63,
+    "version": 64,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34235,
+    "fileSize": 34236,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8595,7 +8595,7 @@
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 356286,
+    "fileSize": 356208,
     "status": 2,
     "language": "en",
     "authors": [
@@ -8617,7 +8617,7 @@
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/UltimaBeta.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 367264,
+    "fileSize": 367119,
     "status": 2,
     "language": "en",
     "authors": [
@@ -8632,7 +8632,7 @@
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UltimaBeta.cs3",
     "name": "UltimaBeta",
     "isAdult": false,
-    "formattedSize": "358.7 KB",
+    "formattedSize": "358.5 KB",
     "isBroken": false
   },
   {
@@ -9142,7 +9142,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "fileSize": 76081,
-    "status": 1,
+    "status": 0,
     "language": "en",
     "authors": [
       "Phisher98"
@@ -9162,7 +9162,7 @@
     "name": "XDMovies",
     "isAdult": false,
     "formattedSize": "74.3 KB",
-    "isBroken": false
+    "isBroken": true
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://vi.xhspot.com&sz=256",
