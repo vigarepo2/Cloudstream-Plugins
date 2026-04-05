@@ -1404,10 +1404,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Coflix.png",
-    "jarFileSize": 150266,
+    "jarFileSize": 150269,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 35366,
+    "fileSize": 35376,
     "status": 1,
     "language": "fr",
     "authors": [
@@ -1417,7 +1417,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "Coflix",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.jar",
     "description": "Movies,Series and Anime French Extension ",
@@ -1543,10 +1543,10 @@
   },
   {
     "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
-    "jarFileSize": 378668,
+    "jarFileSize": 387410,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 79608,
+    "fileSize": 82144,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1555,14 +1555,14 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 29,
+    "version": 30,
     "internalName": "CricifyProvider",
     "jarUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.jar",
     "description": "Watch Live sports and TV channels",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.cs3",
     "name": "CricifyProvider",
     "isAdult": false,
-    "formattedSize": "77.7 KB",
+    "formattedSize": "80.2 KB",
     "isBroken": false
   },
   {
@@ -5216,6 +5216,28 @@
     "isBroken": false
   },
   {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Monochrome.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Monochrome",
+    "internalName": "Monochrome",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.",
+    "fileSize": 25537,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "language": "en",
+    "tvTypes": [
+      "Music"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/monochrome-music/monochrome/refs/heads/main/images/monochrome-logo.svg",
+    "apiVersion": 1,
+    "isAdult": false,
+    "formattedSize": "24.9 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Motherless.cs3",
     "status": 1,
     "version": 9,
@@ -7320,7 +7342,7 @@
     "iconUrl": "https://miro.medium.com/v2/1*DyU8bmnyyEiJbFROEXO2VA.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 113465,
+    "fileSize": 114141,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7332,13 +7354,13 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "ShowBox",
     "description": "ShowBox (Retrieve the cookie using Login with Google to properly utilize ShowBox.",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ShowBox.cs3",
     "name": "ShowBox",
     "isAdult": false,
-    "formattedSize": "110.8 KB",
+    "formattedSize": "111.5 KB",
     "isBroken": false
   },
   {
@@ -7368,10 +7390,10 @@
   },
   {
     "iconUrl": "https://appteka.store/get/a20p17EuCKFD08AaFsfH3JSJ6OU30ccp18WrKaNDze4LqOsDArhKj13-f-SjAayiWJH6P6pv9AlzhcfzEXlmRokU-I4=/726bbb91e36da425f55efce72cccb3a82df1d265.png",
-    "jarFileSize": 389541,
+    "jarFileSize": 401919,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 77439,
+    "fileSize": 80386,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7380,14 +7402,14 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "SKTechProvider",
     "jarUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.jar",
     "description": "Watch Live sports and TV channels via SK Tech",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.cs3",
     "name": "SKTechProvider",
     "isAdult": false,
-    "formattedSize": "75.6 KB",
+    "formattedSize": "78.5 KB",
     "isBroken": false
   },
   {
@@ -8395,14 +8417,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 15416,
+    "fileSize": 19505,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8411,7 +8433,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://trkhub.fun&size=128",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "15.1 KB",
+    "formattedSize": "19 KB",
     "isBroken": false
   },
   {
@@ -8505,14 +8527,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/TVGarden.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "TVGarden",
     "internalName": "TVGarden",
     "authors": [
       "ByAyzen"
     ],
     "description": "With TVGarden, you can watch the local and legal channels you are looking for from both domestic and international sources.",
-    "fileSize": 18579,
+    "fileSize": 14769,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -8521,7 +8543,7 @@
     "iconUrl": "https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=tv.garden",
     "apiVersion": 1,
     "isAdult": false,
-    "formattedSize": "18.1 KB",
+    "formattedSize": "14.4 KB",
     "isBroken": false
   },
   {
@@ -8911,14 +8933,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/WatchWrestling.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "WatchWrestling",
     "internalName": "WatchWrestling",
     "authors": [
       "kraptor"
     ],
     "description": "Watch WWE | WWE Raw | Smackdown Live",
-    "fileSize": 15035,
+    "fileSize": 17970,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -8927,7 +8949,7 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://watchwrestling.ae/&size=32",
     "apiVersion": 1,
     "isAdult": false,
-    "formattedSize": "14.7 KB",
+    "formattedSize": "17.5 KB",
     "isBroken": false
   },
   {
@@ -8941,7 +8963,7 @@
       "kraptor"
     ],
     "description": "We have wide range of cartoons and anime that you can watch in HD and High quality for free.",
-    "fileSize": 21971,
+    "fileSize": 21975,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -9350,7 +9372,7 @@
     "iconUrl": "https://play-lh.googleusercontent.com/zVq_wAus2snoO-ggyI6IomlsCzfybAozQOGYpBrv71r1--rOYOYWsr_N7DWwVp9t7ro=s248-rw",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 43587,
+    "fileSize": 44986,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -9361,13 +9383,13 @@
       "Movie",
       "Anime"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "XonProvider",
     "description": "Xon Provider for Anime and Cartoons - Tamil, Hindi, Telugu, English, Japanese",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/XonProvider.cs3",
     "name": "XonProvider",
     "isAdult": false,
-    "formattedSize": "42.6 KB",
+    "formattedSize": "43.9 KB",
     "isBroken": false
   },
   {
