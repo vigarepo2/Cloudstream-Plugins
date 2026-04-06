@@ -347,7 +347,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeAV.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "AnimeAV",
     "internalName": "AnimeAV",
     "authors": [
@@ -355,7 +355,7 @@
       "ByAyzen"
     ],
     "description": "Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
-    "fileSize": 24092,
+    "fileSize": 28004,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -364,7 +364,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
     "apiVersion": 1,
     "isAdult": false,
-    "formattedSize": "23.5 KB",
+    "formattedSize": "27.3 KB",
     "isBroken": false
   },
   {
@@ -1312,7 +1312,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 626557,
+    "fileSize": 627086,
     "status": 1,
     "authors": [
       "megix"
@@ -1324,13 +1324,13 @@
       "Anime",
       "Torrent"
     ],
-    "version": 396,
+    "version": 397,
     "internalName": "CineStream",
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "name": "CineStream",
     "isAdult": false,
-    "formattedSize": "611.9 KB",
+    "formattedSize": "612.4 KB",
     "isBroken": false
   },
   {
@@ -2610,7 +2610,7 @@
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 66942,
+    "fileSize": 66928,
     "status": 1,
     "language": "en",
     "authors": [
@@ -2620,7 +2620,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 30,
+    "version": 31,
     "internalName": "FourKHDHub",
     "description": "4K Movies Extension by HDHUB4U",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
@@ -5218,14 +5218,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Monochrome.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Monochrome",
     "internalName": "Monochrome",
     "authors": [
       "ByAyzen"
     ],
     "description": "Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.",
-    "fileSize": 25537,
+    "fileSize": 25505,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -5479,7 +5479,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 42523,
+    "fileSize": 43436,
     "status": 1,
     "authors": [
       "megix"
@@ -5496,7 +5496,7 @@
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Moviesmod.cs3",
     "name": "Moviesmod",
     "isAdult": false,
-    "formattedSize": "41.5 KB",
+    "formattedSize": "42.4 KB",
     "isBroken": false
   },
   {
@@ -7557,7 +7557,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 896055,
+    "fileSize": 896058,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7572,7 +7572,7 @@
       "Cartoon",
       "AnimeMovie"
     ],
-    "version": 603,
+    "version": 606,
     "internalName": "StreamPlay",
     "description": "#1 best extention based on MultiAPI",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
