@@ -1312,7 +1312,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 624742,
+    "fileSize": 615015,
     "status": 1,
     "authors": [
       "megix"
@@ -1324,13 +1324,13 @@
       "Anime",
       "Torrent"
     ],
-    "version": 397,
+    "version": 399,
     "internalName": "CineStream",
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "name": "CineStream",
     "isAdult": false,
-    "formattedSize": "610.1 KB",
+    "formattedSize": "600.6 KB",
     "isBroken": false
   },
   {
@@ -2594,7 +2594,7 @@
       "ByAyzen"
     ],
     "description": "1950’lerden günümüze… 40.000’den fazla maç ve 100.000’den fazla oyuncu.",
-    "fileSize": 42539,
+    "fileSize": 42775,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -2603,7 +2603,7 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
     "apiVersion": 1,
     "isAdult": false,
-    "formattedSize": "41.5 KB",
+    "formattedSize": "41.8 KB",
     "isBroken": false
   },
   {
@@ -2698,14 +2698,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Full4kizle.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "Full4kizle",
     "internalName": "Full4kizle",
     "authors": [
       "ByAyzen"
     ],
     "description": "Filmci Baba, film izleme sitesi 4k Full film izle, 1080p ve 4k (yalan) kalite de sinema filmleri ve dizileri, tek parça hd kalitede türkçe dublajlı filmler seyret.",
-    "fileSize": 21611,
+    "fileSize": 21616,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "tr",
     "tvTypes": [
@@ -3694,15 +3694,15 @@
     "isBroken": false
   },
   {
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://idlixian.com&size=16",
-    "jarFileSize": 100407,
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/idlix.png",
+    "jarFileSize": 199610,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 26638,
+    "fileSize": 50645,
     "status": 1,
     "language": "id",
     "authors": [
-      "Hexated,Phisher98"
+      "Phisher98"
     ],
     "tvTypes": [
       "TvSeries",
@@ -3710,13 +3710,13 @@
       "Anime",
       "AsianDrama"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "IdlixProvider",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.jar",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.cs3",
     "name": "IdlixProvider",
     "isAdult": false,
-    "formattedSize": "26 KB",
+    "formattedSize": "49.5 KB",
     "isBroken": false
   },
   {
@@ -8417,14 +8417,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19506,
+    "fileSize": 19507,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8726,7 +8726,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/VegaMovies/icon.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 49926,
+    "fileSize": 49923,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -8738,7 +8738,7 @@
       "AsianDrama",
       "Anime"
     ],
-    "version": 77,
+    "version": 78,
     "internalName": "VegaMovies",
     "description": "Includes LuxMovies, Rogmovies",
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VegaMovies.cs3",
