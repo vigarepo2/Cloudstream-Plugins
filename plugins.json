@@ -589,7 +589,7 @@
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 49399,
+    "fileSize": 56592,
     "status": 1,
     "language": "en",
     "authors": [
@@ -600,13 +600,13 @@
       "Anime",
       "OVA"
     ],
-    "version": 19,
+    "version": 20,
     "internalName": "AnimePahe",
     "description": "Animes (SUB/DUB)",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.cs3",
     "name": "AnimePahe",
     "isAdult": false,
-    "formattedSize": "48.2 KB",
+    "formattedSize": "55.3 KB",
     "isBroken": false
   },
   {
@@ -1312,7 +1312,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 615015,
+    "fileSize": 613880,
     "status": 1,
     "authors": [
       "megix"
@@ -1330,7 +1330,7 @@
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "name": "CineStream",
     "isAdult": false,
-    "formattedSize": "600.6 KB",
+    "formattedSize": "599.5 KB",
     "isBroken": false
   },
   {
@@ -1404,10 +1404,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Coflix.png",
-    "jarFileSize": 150269,
+    "jarFileSize": 150178,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 35376,
+    "fileSize": 35273,
     "status": 1,
     "language": "fr",
     "authors": [
@@ -1417,14 +1417,14 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 12,
+    "version": 13,
     "internalName": "Coflix",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.jar",
     "description": "Movies,Series and Anime French Extension ",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.cs3",
     "name": "Coflix",
     "isAdult": false,
-    "formattedSize": "34.5 KB",
+    "formattedSize": "34.4 KB",
     "isBroken": false
   },
   {
@@ -2594,7 +2594,7 @@
       "ByAyzen"
     ],
     "description": "1950’lerden günümüze… 40.000’den fazla maç ve 100.000’den fazla oyuncu.",
-    "fileSize": 42775,
+    "fileSize": 42547,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -2603,7 +2603,7 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
     "apiVersion": 1,
     "isAdult": false,
-    "formattedSize": "41.8 KB",
+    "formattedSize": "41.5 KB",
     "isBroken": false
   },
   {
@@ -3652,14 +3652,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/HQPorner.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "HQPorner",
     "internalName": "HQPorner",
     "authors": [
       "kraptor"
     ],
     "description": "Truly high definition porn videos and truly for free! We're sure you'll like our best collection containing thousands of 4K, 60FPS and 1080p free HD porn videos with the hottest girls ever!",
-    "fileSize": 15952,
+    "fileSize": 16507,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -3668,7 +3668,7 @@
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hqporner.com/&size=32",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "15.6 KB",
+    "formattedSize": "16.1 KB",
     "isBroken": false
   },
   {
@@ -4476,10 +4476,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
-    "jarFileSize": 152199,
+    "jarFileSize": 152198,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 38471,
+    "fileSize": 38468,
     "status": 1,
     "language": "en",
     "authors": [
@@ -4491,7 +4491,7 @@
       "Anime",
       "Movie"
     ],
-    "version": 16,
+    "version": 17,
     "internalName": "KisskhProvider",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
@@ -5426,7 +5426,7 @@
     "isBroken": false
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=piratexplay.cc&sz=%size%",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
     "jarFileSize": 299023,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
@@ -6257,6 +6257,28 @@
     "name": "OppaDramaProvider",
     "isAdult": false,
     "formattedSize": "24.8 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/OppaiStream.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "OppaiStream",
+    "internalName": "OppaiStream",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "Watch your favorite episodes in 4k hentai, 1080p hentai or 720p hentai! On oppai.stream you will find the highest quality hentai with latest releases and top speeds",
+    "fileSize": 15704,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://oppai.stream/&size=128",
+    "apiVersion": 1,
+    "isAdult": true,
+    "formattedSize": "15.3 KB",
     "isBroken": false
   },
   {
@@ -7295,6 +7317,28 @@
     "isBroken": true
   },
   {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Sexfilm.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Sexfilm",
+    "internalName": "Sexfilm",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "On our website, you can watch foreign porn movies, new releases, free online.",
+    "fileSize": 15633,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.sex-film.biz/movies/&size=128",
+    "apiVersion": 1,
+    "isAdult": true,
+    "formattedSize": "15.3 KB",
+    "isBroken": false
+  },
+  {
     "iconUrl": "https://sextb.net/images/logo.png?v=1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/CXXX",
@@ -7557,7 +7601,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 896776,
+    "fileSize": 897627,
     "status": 1,
     "language": "en",
     "authors": [
@@ -7572,13 +7616,13 @@
       "Cartoon",
       "AnimeMovie"
     ],
-    "version": 607,
+    "version": 608,
     "internalName": "StreamPlay",
     "description": "#1 best extention based on MultiAPI",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "name": "StreamPlay",
     "isAdult": false,
-    "formattedSize": "875.8 KB",
+    "formattedSize": "876.6 KB",
     "isBroken": false
   },
   {
