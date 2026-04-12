@@ -31,7 +31,7 @@
       "ByAyzen"
     ],
     "description": "An arabic site for watching turkish dramas.",
-    "fileSize": 34916,
+    "fileSize": 34931,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "ar",
     "tvTypes": [
@@ -90,14 +90,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/AdultTvChannels.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "AdultTvChannels",
     "internalName": "AdultTvChannels",
     "authors": [
       "kraptor"
     ],
     "description": "Watch free adult TV channels online",
-    "fileSize": 9629,
+    "fileSize": 11849,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -106,7 +106,7 @@
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://adult-tv-channels.com&size=128",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "9.4 KB",
+    "formattedSize": "11.6 KB",
     "isBroken": false
   },
   {
@@ -781,14 +781,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Aniworld.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "Aniworld",
     "internalName": "Aniworld",
     "authors": [
       "Phisher98,Hexated"
     ],
     "description": "Include: Serienstream",
-    "fileSize": 39483,
+    "fileSize": 51970,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "de",
     "tvTypes": [
@@ -799,7 +799,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
     "apiVersion": 1,
     "isAdult": false,
-    "formattedSize": "38.6 KB",
+    "formattedSize": "50.8 KB",
     "isBroken": false
   },
   {
@@ -1217,14 +1217,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "Cinemacity",
     "internalName": "Cinemacity",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-    "fileSize": 39777,
+    "fileSize": 39839,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1234,7 +1234,7 @@
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Cinemacity.png",
     "apiVersion": 1,
     "isAdult": false,
-    "formattedSize": "38.8 KB",
+    "formattedSize": "38.9 KB",
     "isBroken": false
   },
   {
@@ -1312,7 +1312,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 618410,
+    "fileSize": 623355,
     "status": 1,
     "authors": [
       "megix"
@@ -1324,13 +1324,13 @@
       "Anime",
       "Torrent"
     ],
-    "version": 401,
+    "version": 402,
     "internalName": "CineStream",
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "name": "CineStream",
     "isAdult": false,
-    "formattedSize": "603.9 KB",
+    "formattedSize": "608.7 KB",
     "isBroken": false
   },
   {
@@ -2947,14 +2947,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Gnulahd.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "Gnulahd",
     "internalName": "Gnulahd",
     "authors": [
       "ByAyzen"
     ],
     "description": "GnulaHD",
-    "fileSize": 28129,
+    "fileSize": 28108,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -2965,7 +2965,7 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww3.gnulahd.nu/&size=128",
     "apiVersion": 1,
     "isAdult": false,
-    "formattedSize": "27.5 KB",
+    "formattedSize": "27.4 KB",
     "isBroken": false
   },
   {
@@ -3334,6 +3334,28 @@
     "apiVersion": 1,
     "isAdult": true,
     "formattedSize": "10.9 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/HeavyR.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "HeavyR",
+    "internalName": "HeavyR",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "Heavy-R.com is a free porn tube. Updated with the best free porn videos every day!",
+    "fileSize": 11746,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.heavy-r.com/&size=128",
+    "apiVersion": 1,
+    "isAdult": true,
+    "formattedSize": "11.5 KB",
     "isBroken": false
   },
   {
@@ -3718,13 +3740,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "IdlixProvider",
     "internalName": "IdlixProvider",
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 50580,
+    "fileSize": 50551,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "id",
     "tvTypes": [
@@ -3735,7 +3757,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/idlix.png",
     "apiVersion": 1,
-    "jarFileSize": 199470,
+    "jarFileSize": 199558,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.jar",
     "isAdult": false,
     "formattedSize": "49.4 KB",
@@ -4616,14 +4638,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Koreaye.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "Koreaye",
     "internalName": "Koreaye",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Porno Film - Sikiş izle - Sex Video - Mobil Seks Seyret | Koreaye",
-    "fileSize": 13200,
+    "fileSize": 13576,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -4632,7 +4654,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=koreaye.com&sz=%size%",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "12.9 KB",
+    "formattedSize": "13.3 KB",
     "isBroken": false
   },
   {
@@ -5057,7 +5079,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Mangoporn.cs3",
     "status": 1,
-    "version": 18,
+    "version": 19,
     "name": "Mangoporn (2)",
     "internalName": "Mangoporn_2",
     "authors": [
@@ -5066,7 +5088,7 @@
       "HindiProvider"
     ],
     "description": "MangoPorn",
-    "fileSize": 57401,
+    "fileSize": 57518,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -5075,7 +5097,7 @@
     "iconUrl": "https://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
     "apiVersion": 1,
     "isAdult": true,
-    "formattedSize": "56.1 KB",
+    "formattedSize": "56.2 KB",
     "isBroken": false
   },
   {
@@ -5541,6 +5563,28 @@
     "name": "MoviezwapProvider",
     "isAdult": false,
     "formattedSize": "20.6 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "Movix",
+    "internalName": "Movix",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
+    "fileSize": 61899,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "language": "fr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
+    "apiVersion": 1,
+    "isAdult": false,
+    "formattedSize": "60.4 KB",
     "isBroken": false
   },
   {
@@ -7622,7 +7666,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 609,
+    "version": 610,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -7630,7 +7674,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 894772,
+    "fileSize": 917283,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7644,7 +7688,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "isAdult": false,
-    "formattedSize": "873.8 KB",
+    "formattedSize": "895.8 KB",
     "isBroken": false
   },
   {
@@ -8230,7 +8274,7 @@
       "ByAyzen"
     ],
     "description": "Discover thousands of free audiobooks and podcasts. Your next favorite story is waiting for you.",
-    "fileSize": 19434,
+    "fileSize": 19516,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -8239,7 +8283,7 @@
     "iconUrl": "https://i.imgur.com/jXmev09.png",
     "apiVersion": 1,
     "isAdult": false,
-    "formattedSize": "19 KB",
+    "formattedSize": "19.1 KB",
     "isBroken": false
   },
   {
@@ -8906,14 +8950,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Watch32.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "Watch32",
     "internalName": "Watch32",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch movies and series from Watch32",
-    "fileSize": 45508,
+    "fileSize": 45550,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8923,7 +8967,7 @@
     "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
     "apiVersion": 1,
     "isAdult": false,
-    "formattedSize": "44.4 KB",
+    "formattedSize": "44.5 KB",
     "isBroken": false
   },
   {
