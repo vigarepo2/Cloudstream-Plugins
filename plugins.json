@@ -39,6 +39,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=7abtv.live",
     "apiVersion": 1,
+    "fileHash": "sha256-85e3fc07a9a10327a21037783f37209d95bdfb62742728055969fd4aee9c22b5",
     "isAdult": false,
     "formattedSize": "34.1 KB",
     "isBroken": true
@@ -357,7 +358,7 @@
       "ByAyzen"
     ],
     "description": "Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
-    "fileSize": 28004,
+    "fileSize": 28083,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -365,8 +366,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
     "apiVersion": 1,
+    "fileHash": "sha256-bf561f5f7c4a90b6205949071de855a4fc2e7be21843d33447f1ca0f6532e5ad",
     "isAdult": false,
-    "formattedSize": "27.3 KB",
+    "formattedSize": "27.4 KB",
     "isBroken": false
   },
   {
@@ -714,14 +716,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "AnimeYTX",
     "internalName": "AnimeYTX",
     "authors": [
       "ByAyzen"
     ],
     "description": "Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
-    "fileSize": 22266,
+    "fileSize": 28337,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -729,8 +731,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeytx.net/&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-a0b71594e6ac6bdd3c531e9bf9e30d5ab985546180500cc0cf8aa92a91032258",
     "isAdult": false,
-    "formattedSize": "21.7 KB",
+    "formattedSize": "27.7 KB",
     "isBroken": false
   },
   {
@@ -985,6 +988,7 @@
     ],
     "iconUrl": "https://basketballreplays.net/favicon.ico",
     "apiVersion": 1,
+    "fileHash": "sha256-36ce80866a3584812bc93fd6e34d6d6b94713ceb03fb66b73a9d2493ada30bcc",
     "isAdult": false,
     "formattedSize": "16.7 KB",
     "isBroken": false
@@ -1007,6 +1011,7 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://basketball-video.com&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-39db558e33065a61d0df675ef93bfd2adf9fff90facfdd9a100667a57b25430f",
     "isAdult": false,
     "formattedSize": "15.8 KB",
     "isBroken": true
@@ -1264,6 +1269,7 @@
     ],
     "iconUrl": "https://i.imgur.com/A87j6ue.png",
     "apiVersion": 1,
+    "fileHash": "sha256-fc13c8e63ac6d10e333c55f5cf22734f4b74318afb1424742ef0f9d65a2541c2",
     "isAdult": false,
     "formattedSize": "21 KB",
     "isBroken": false
@@ -1544,6 +1550,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=crichd.asia",
     "apiVersion": 1,
+    "fileHash": "sha256-ee6dc09ff189155df73450cc817c095318a64c9726d7aeee699c25ad3bc74de8",
     "isAdult": false,
     "formattedSize": "17.1 KB",
     "isBroken": true
@@ -1748,6 +1755,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-5dd63f82c8e80f4051c6968f74bece3e81a3115104fe5393a0aad47d64d2be93",
     "isAdult": false,
     "formattedSize": "15.3 KB",
     "isBroken": false
@@ -1931,6 +1939,7 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramaslatinox.com/&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-916970662b134b807f3e7366702e6e43f6ecbfabb5e619591adb463afa80649b",
     "isAdult": false,
     "formattedSize": "22.2 KB",
     "isBroken": false
@@ -2000,6 +2009,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dramaizle.net&size=16",
     "apiVersion": 1,
+    "fileHash": "sha256-0f128bae01b7e4842a0e351c4efff93148ed58795376635d2dc3f8ff02d2ad75",
     "isAdult": false,
     "formattedSize": "16.3 KB",
     "isBroken": false
@@ -2067,6 +2077,7 @@
     ],
     "iconUrl": "https://www.dubbindo.site/themes/dubbindo/img/icon.png",
     "apiVersion": 1,
+    "fileHash": "sha256-0c788072f816029512e8cec2916708ea670811068ef7ef6e6ea9ce29b0671ed5",
     "isAdult": false,
     "formattedSize": "14.2 KB",
     "isBroken": false
@@ -2342,6 +2353,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://w.esheaq.onl/&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-5ab5782ce70d43ea3a013261022cbe6b945ff9e7ed9591ae64a5600472628bc5",
     "isAdult": false,
     "formattedSize": "16.9 KB",
     "isBroken": false
@@ -2386,6 +2398,7 @@
     ],
     "iconUrl": "https://i.imgur.com/CcDyv7Z.png",
     "apiVersion": 1,
+    "fileHash": "sha256-5e06d1bd3405ec7ce6f3d04fdd8cb746668273557714dd3e55b67d434d4e602b",
     "isAdult": false,
     "formattedSize": "16.8 KB",
     "isBroken": false
@@ -2475,6 +2488,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmatek.net/&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-5d37210dcf45d57f985a5289670b29cb19d2895ae25463cf525f798558772c8b",
     "isAdult": false,
     "formattedSize": "14.9 KB",
     "isBroken": false
@@ -2497,6 +2511,7 @@
     ],
     "iconUrl": "https://filmmirasim.ktb.gov.tr/favicon-r.png",
     "apiVersion": 1,
+    "fileHash": "sha256-ce0d932d047da54a7b6c39834a3b016ecad8a8df2ebf3ed51c2f238bb874e5cb",
     "isAdult": false,
     "formattedSize": "14.9 KB",
     "isBroken": false
@@ -2589,6 +2604,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://flixlatam.com&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-6550596e21259a08d13a20928a22a67fc0a9ffa565796073aea2df2ea1af5975",
     "isAdult": false,
     "formattedSize": "43.2 KB",
     "isBroken": false
@@ -2612,6 +2628,7 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
     "apiVersion": 1,
+    "fileHash": "sha256-e46f0a3059721790667e788c8a6ce93356a366f10a25ef2536cbdf2fc392fd51",
     "isAdult": false,
     "formattedSize": "41.5 KB",
     "isBroken": false
@@ -2725,6 +2742,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://full4kizle.cc/&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-5947c7dbe5b5c40d24cb6c24645e766008921ed0aa89a6271b5a2535f5894c82",
     "isAdult": false,
     "formattedSize": "21.1 KB",
     "isBroken": false
@@ -2747,6 +2765,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fullmatchshows.com&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-a28480a84f6b949d64a6a9accdfa6bedd04896513929b6bfcb848a6508fef4fb",
     "isAdult": false,
     "formattedSize": "21.2 KB",
     "isBroken": false
@@ -2814,6 +2833,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullraces.com&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-2caf859e12b4b716c76d0a25ac5bfc6b73fa62c2f2a899fef9bdee9567072286",
     "isAdult": false,
     "formattedSize": "10.3 KB",
     "isBroken": false
@@ -2836,6 +2856,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullreplays.com&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-34fd5a7550f5e57e1504b8aded1c144917dfdc39436f982ba53031abd95667e4",
     "isAdult": false,
     "formattedSize": "11 KB",
     "isBroken": true
@@ -2967,7 +2988,7 @@
       "ByAyzen"
     ],
     "description": "GnulaHD",
-    "fileSize": 28108,
+    "fileSize": 28095,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -2977,6 +2998,7 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww3.gnulahd.nu/&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-922a7167052ca8ac4dc18d64dca547f05e9caf92d1b6a8a1afb84e82fdf95c1f",
     "isAdult": false,
     "formattedSize": "27.4 KB",
     "isBroken": false
@@ -3115,6 +3137,7 @@
     ],
     "iconUrl": "https://www.goodshort.com/public/favicon.ico",
     "apiVersion": 1,
+    "fileHash": "sha256-b515ce603e381bbb817b9bb74c7a0a7db97e61d9aab63ac9d9db6f86398b2d01",
     "isAdult": false,
     "formattedSize": "16.3 KB",
     "isBroken": true
@@ -3393,6 +3416,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-bc0d82a961411f6a1454c36edd537200be760ee372873395d1abb70e98d8e5fd",
     "isAdult": false,
     "formattedSize": "14.9 KB",
     "isBroken": false
@@ -4038,6 +4062,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://iwatchtheoffice.cc&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-ff3667fe004b2fcfc451727cdce38b949d9243d75d05dafb5e6bb4978b32cccc",
     "isAdult": false,
     "formattedSize": "14.6 KB",
     "isBroken": false
@@ -4346,14 +4371,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/JPFilms.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "JPFilms",
     "internalName": "JPFilms",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch online The Yagyu Code: Secret Scrolls on Japanese Classic Movies and TVSeries (https://jp-films.com) with English Subtitle.",
-    "fileSize": 18223,
+    "fileSize": 18774,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -4361,8 +4386,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://jp-films.com&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-5003c0e57f2b0715771ead4f54c5331fe9f7fee8727d43220b09fe57b5b313c4",
     "isAdult": false,
-    "formattedSize": "17.8 KB",
+    "formattedSize": "18.3 KB",
     "isBroken": false
   },
   {
@@ -4546,6 +4572,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kisskh.id/&size=256",
     "apiVersion": 1,
+    "fileHash": "sha256-ca2eb944a9d369d80d9117d53d3ebe5962d5b0449e5e9f5b711623bfcbe4f5a6",
     "isAdult": false,
     "formattedSize": "37.8 KB",
     "isBroken": false
@@ -4707,6 +4734,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=krmzy.org",
     "apiVersion": 1,
+    "fileHash": "sha256-34692e4f5e6c009fed41664aee2ed36a21377fe66e9799677619ca6a25d84e87",
     "isAdult": false,
     "formattedSize": "18.7 KB",
     "isBroken": false
@@ -4846,6 +4874,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://latanime.org/&size=16",
     "apiVersion": 1,
+    "fileHash": "sha256-a4f818d9ade1b8dba43834768d2a8907ca53f8a80c4c15bcb4bb75d78f78c1bc",
     "isAdult": false,
     "formattedSize": "15.8 KB",
     "isBroken": false
@@ -4895,6 +4924,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv7.lk21official.cc&size=256",
     "apiVersion": 1,
+    "fileHash": "sha256-fe264ea5227e67396ae81eee50aaeb186ec336e07d9202cfbd8b84ada0cd2d66",
     "isAdult": false,
     "formattedSize": "23.2 KB",
     "isBroken": false
@@ -5311,8 +5341,9 @@
     "tvTypes": [
       "Music"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/monochrome-music/monochrome/refs/heads/main/images/monochrome-logo.svg",
+    "iconUrl": "https://i.imgur.com/aj69sXl.png",
     "apiVersion": 1,
+    "fileHash": "sha256-2c9238db8e8e0caf87b3cc218b91521971d75b84c28ea66bf0922cb569353371",
     "isAdult": false,
     "formattedSize": "24.9 KB",
     "isBroken": false
@@ -5611,16 +5642,18 @@
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 70872,
+    "fileSize": 70800,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-527e928e2b8325bab5e2eb631e8ac24654004c93e602b3659d0a2085c0a64104",
     "isAdult": false,
-    "formattedSize": "69.2 KB",
+    "formattedSize": "69.1 KB",
     "isBroken": false
   },
   {
@@ -5717,6 +5750,7 @@
     ],
     "iconUrl": "https://avatars.mds.yandex.net/i?id=8b7c3551ce8cda8add11cbea791bb11b7e742f22-5332070-images-thumbs&n=13",
     "apiVersion": 1,
+    "fileHash": "sha256-d035e5663801801b98e7629bdbc177fdd394a6a5336d966bcda39dc6f1b18fbe",
     "isAdult": false,
     "formattedSize": "12.9 KB",
     "isBroken": true
@@ -6153,6 +6187,7 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ok.ru/video/c12842395&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-b02244b5d2929e215b6c7c65aca5754ee964084e85aaef14f6f08560b90f9e09",
     "isAdult": false,
     "formattedSize": "24.1 KB",
     "isBroken": false
@@ -7638,6 +7673,7 @@
     ],
     "iconUrl": "https://soccerfullmatch.com/wp-content/uploads/2024/06/cropped-favicon-180x180.png",
     "apiVersion": 1,
+    "fileHash": "sha256-60f3e5148f28d45ce5d1c3df0d23a974b3b7310a947c6f1f5936d717410378b3",
     "isAdult": false,
     "formattedSize": "16.3 KB",
     "isBroken": true
@@ -7709,6 +7745,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-d3feb7a590db282e1960d0cb949a640b9a5d066ef1ad30aa54f15f02c89f2e51",
     "isAdult": false,
     "formattedSize": "31.1 KB",
     "isBroken": false
@@ -7875,6 +7912,7 @@
     ],
     "iconUrl": "https://subsplease.org/favicon.ico",
     "apiVersion": 1,
+    "fileHash": "sha256-1c6d9bec7e9cbb866a97eccd2714c03ebb45aacf8fab1ea2d2b959d72c17f1e2",
     "isAdult": false,
     "formattedSize": "14.3 KB",
     "isBroken": false
@@ -7919,6 +7957,7 @@
     ],
     "iconUrl": "https://i.imgur.com/LBfX2k3.png",
     "apiVersion": 1,
+    "fileHash": "sha256-ec09e82a236ada36cdfd66e5618fabbbe5160dcd177c613413ec5711d2552a21",
     "isAdult": false,
     "formattedSize": "11.3 KB",
     "isBroken": false
@@ -8358,6 +8397,7 @@
     ],
     "iconUrl": "https://i.imgur.com/jXmev09.png",
     "apiVersion": 1,
+    "fileHash": "sha256-74c846414d46017f9d67a718a271d53f75e9d9d17508fe81c1731c8ec864e6ab",
     "isAdult": false,
     "formattedSize": "19.1 KB",
     "isBroken": false
@@ -8605,14 +8645,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 14,
+    "version": 15,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19507,
+    "fileSize": 19505,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8730,6 +8770,7 @@
     ],
     "iconUrl": "https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=tv.garden",
     "apiVersion": 1,
+    "fileHash": "sha256-4949954230ddb9b890d344ce39c2fa183e17bd9680b6a55cad519eb1e3930f69",
     "isAdult": false,
     "formattedSize": "14.4 KB",
     "isBroken": false
@@ -9131,7 +9172,7 @@
       "kraptor"
     ],
     "description": "Watch WWE | WWE Raw | Smackdown Live",
-    "fileSize": 17970,
+    "fileSize": 17884,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -9139,6 +9180,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://watchwrestling.ae/&size=32",
     "apiVersion": 1,
+    "fileHash": "sha256-eec3681bf861c65e9c8eaa2b3f229595a4df20acc3269be51eb4803b91053289",
     "isAdult": false,
     "formattedSize": "17.5 KB",
     "isBroken": false
@@ -9163,6 +9205,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.wcoflix.tv/&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-a5c9edf7ba61fb2f8a12a9b98bb4bff8b5fe26741f8416130fe5f5e697415cb0",
     "isAdult": false,
     "formattedSize": "21.5 KB",
     "isBroken": false
@@ -9209,6 +9252,7 @@
     ],
     "iconUrl": "https://me.webcric.com/images/fv.ico",
     "apiVersion": 1,
+    "fileHash": "sha256-a7b96ce10cf43d7ebae1d571545605fcdd65a71d3bc5f53e31eea1dcad169805",
     "isAdult": false,
     "formattedSize": "19.8 KB",
     "isBroken": false
@@ -9772,6 +9816,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yablom.com/euvcw7/home/yablom/&size=128",
     "apiVersion": 1,
+    "fileHash": "sha256-f8f9cc113b9ac9c34ab590b2c6a17636c67a046a82935145791f1b3810fc35cf",
     "isAdult": false,
     "formattedSize": "15.4 KB",
     "isBroken": false
@@ -9890,6 +9935,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to",
     "apiVersion": 1,
+    "fileHash": "sha256-21e94c818b1b308d1b51e1b2028b168d5dcec9a121ef94ef00e0a6e5fb377c6c",
     "isAdult": false,
     "formattedSize": "18.4 KB",
     "isBroken": false
