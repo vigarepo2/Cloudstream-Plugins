@@ -157,8 +157,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
     "apiVersion": 1,
+    "fileHash": "sha256-b0946436bafd081c9af5d0eb11da13564f52dddf7e76c79c942ed7836da81ec7",
     "jarFileSize": 153487,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.jar",
+    "jarHash": "sha256-3a5c15be956f686a1b5b7152507158efdb3f24f97c4cd4ff15fef7eb168b98cc",
     "isAdult": false,
     "formattedSize": "34.4 KB",
     "isBroken": false
@@ -204,8 +206,10 @@
     ],
     "iconUrl": "https://all-wish.me/assets/logo.png",
     "apiVersion": 1,
+    "fileHash": "sha256-1cd2a3e29a629a520d0f21ee15f134a4ac0183b9dcd2b75f989e7559b789b0f6",
     "jarFileSize": 146904,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllWish.jar",
+    "jarHash": "sha256-9fc5e48006ee2d4673fad742443a6e4b47d28d25c3eeba399ad7690e27d0bbca",
     "isAdult": false,
     "formattedSize": "40.5 KB",
     "isBroken": false
@@ -229,8 +233,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Allanime.png",
     "apiVersion": 1,
-    "jarFileSize": 477344,
+    "fileHash": "sha256-ba3b0886dec881729a7a4e38f03e8c858d1d3ae5fecea51e46a843c7aa7634e7",
+    "jarFileSize": 477380,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anichi.jar",
+    "jarHash": "sha256-5659abb2da80f8d732182f035055541527eb4028a8b41c93b4ccc954529f1732",
     "isAdult": false,
     "formattedSize": "85 KB",
     "isBroken": false
@@ -395,6 +401,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animeav1.png",
     "apiVersion": 1,
+    "fileHash": "sha256-a6fbef3293b9d4a8f7baf17feddf53dd008da1a221eebb7c050093792d478da1",
     "isAdult": false,
     "formattedSize": "18.3 KB",
     "isBroken": false
@@ -417,8 +424,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/AnimeCloud.jpg",
     "apiVersion": 1,
+    "fileHash": "sha256-a7b21663c57cfb39e16f9162aebfda60fb6cb111b2546d2c970e44853dd31ad1",
     "jarFileSize": 158516,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeCloud.jar",
+    "jarHash": "sha256-1694e6cb194c2898192eb76aff22f0fd4fa6807c23957d4e3ab1e875c4d69907",
     "isAdult": false,
     "formattedSize": "34.5 KB",
     "isBroken": false
@@ -443,8 +452,10 @@
     ],
     "iconUrl": "https://animedekho.app/wp-content/uploads/2023/07/AnimeDekho-Logo-300x-1.png",
     "apiVersion": 1,
+    "fileHash": "sha256-44c6d870c8fc94dcf0d1e9cfd6d3fa077180d161e09de8f0f0a68731ed137618",
     "jarFileSize": 236839,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeDekhoProvider.jar",
+    "jarHash": "sha256-a5161a9d89a7ff028eaf2c05b1669d1e2dd51e51482eb7226bbae375c7e61da6",
     "isAdult": false,
     "formattedSize": "48.6 KB",
     "isBroken": false
@@ -539,6 +550,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animekai.to&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-42d216304bb8df12ca1575e5fbf4d367705a1ece1bc3a1e72e3e51f85a71a2f5",
     "isAdult": false,
     "formattedSize": "56.2 KB",
     "isBroken": false
@@ -562,8 +574,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animekhor.org&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-24dc08526138ff83359d63ba097653e43e3edd0a747e38865d2c30ba998cafaa",
     "jarFileSize": 84433,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.jar",
+    "jarHash": "sha256-67b2c685e1d55d1aa0367bc4ab9454263f1d4df769a9e68677767581c7163675",
     "isAdult": false,
     "formattedSize": "21 KB",
     "isBroken": false
@@ -588,8 +602,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animenosub.to&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-f3265ff1a786758eff7b66b46830c20bd62db0e9e09c34bd32d1043195ca72d7",
     "jarFileSize": 79081,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animenosub.jar",
+    "jarHash": "sha256-7f265aba611c1a1cd1725908a1d5b0d74bd66d0c18c51491dbe404d9aff4792b",
     "isAdult": false,
     "formattedSize": "17.9 KB",
     "isBroken": false
@@ -614,6 +630,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
+    "fileHash": "sha256-11337cd4c7c95820e167c17bf64bfae7be4524ba0abf0c9f4eb4ef3e41914284",
     "isAdult": false,
     "formattedSize": "55.1 KB",
     "isBroken": false
@@ -685,8 +702,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animesalt.ac&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-b9914cf8c48f8d04c60948ed4730e5aaed5471d33b94257212b01e2a45a4245c",
     "jarFileSize": 127644,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animesalt.jar",
+    "jarHash": "sha256-ec55e207267532f89f8d062781c17ed1d932de9228e94c8e064614aab40f3d4a",
     "isAdult": false,
     "formattedSize": "34.5 KB",
     "isBroken": false
@@ -711,8 +730,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animexin.dev&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-c68da547beab1a216246bad833572ae414d60eb35b0843ac87c7539fb026b60c",
     "jarFileSize": 56754,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.jar",
+    "jarHash": "sha256-67dcc4aac963ac22dbeec9f25b04ebc706e5d7a52aab87c20a3b40173c0a99dc",
     "isAdult": false,
     "formattedSize": "14.5 KB",
     "isBroken": false
@@ -760,8 +781,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animeyy.com&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-b03344ef06e729810a2f0cdf906984eae7eb726aeec32334105a7f5a9ed07e0b",
     "jarFileSize": 78035,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animez.jar",
+    "jarHash": "sha256-1d535a7f151df14cce0020341c7c90b9ba1e2131f357067ea98fa3ce95041193",
     "isAdult": false,
     "formattedSize": "20.6 KB",
     "isBroken": false
@@ -784,6 +807,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=aniwatchtv.to&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-e9e7eb6144a2dd7d468faaa383424ba02754650c95017dc34ad289c3d419767c",
     "isAdult": false,
     "formattedSize": "43.3 KB",
     "isBroken": false
@@ -808,6 +832,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-31cbece49fd570587a6582466759dc1b583164416c3993850065a714cc1932f0",
     "isAdult": false,
     "formattedSize": "50.8 KB",
     "isBroken": false
@@ -970,8 +995,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=banglaplex.click&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-7f9adc05db9ad36024141f9bbb35d033f690a9e97cee6a5a4527275d7c1b3a41",
     "jarFileSize": 90294,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/BanglaPlex.jar",
+    "jarHash": "sha256-ae8ca9cc2818a1382b7acda0cddb911d21f0a9d7ccce11a48175c1a3c85aeb0c",
     "isAdult": false,
     "formattedSize": "20.8 KB",
     "isBroken": false
@@ -1254,6 +1281,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Cinemacity.png",
     "apiVersion": 1,
+    "fileHash": "sha256-df5c005a3258103fa38a05189359fb8914aef76d85ca08d02940805703520bed",
     "isAdult": false,
     "formattedSize": "38.9 KB",
     "isBroken": false
@@ -1444,8 +1472,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Coflix.png",
     "apiVersion": 1,
+    "fileHash": "sha256-415f82f09ebae335d40a2569047df167a0c131dbb33355613cbdb4acbb2b3864",
     "jarFileSize": 150054,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.jar",
+    "jarHash": "sha256-04b34c86869fb79a7efdcf84c59339627ef6be53bba638c72806ef6ee6b24c1c",
     "isAdult": false,
     "formattedSize": "34.3 KB",
     "isBroken": false
@@ -1635,8 +1665,10 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://desicinemas.to&size=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-fc9d990f5272e6716e2222712ed4c5ffd301f4883c54cb385214f1a0504f73b9",
     "jarFileSize": 194850,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Desicinemas.jar",
+    "jarHash": "sha256-a11faff75a083051c6f4a4c2a543885d5329c2f69f6d8ab24667fe19b513242f",
     "isAdult": false,
     "formattedSize": "38.7 KB",
     "isBroken": false
@@ -1886,8 +1918,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Kohi-den/extensions-source/927f9c68fd64ce52f6212ae633d0f0585eca3545/src/en/donghuastream/res/mipmap-xxxhdpi/ic_launcher.png",
     "apiVersion": 1,
+    "fileHash": "sha256-b9c8ac1e9d73c90f5c965f3bbc76c4930f79399713d6d789b4bc33cd5ccecafe",
     "jarFileSize": 187831,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Donghuastream.jar",
+    "jarHash": "sha256-c9d59a7dcaeeb32ea81a632d971171a38663f18264fb044ef1d54567b598c1ff",
     "isAdult": false,
     "formattedSize": "37.5 KB",
     "isBroken": false
@@ -1936,6 +1970,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dorabash.in&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-832b0ea4e4e98162a990c6951d4cd8f7dfb6174c6b4d009c4fcd49baeedc2b38",
     "isAdult": false,
     "formattedSize": "21.9 KB",
     "isBroken": false
@@ -2168,6 +2203,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/dudefilms.png",
     "apiVersion": 1,
+    "fileHash": "sha256-19db433bc2a6d056c32ee489cf3c533a32b974dbca492851aff9987084dbcb70",
     "isAdult": false,
     "formattedSize": "67.1 KB",
     "isBroken": false
@@ -2493,6 +2529,7 @@
     ],
     "iconUrl": "https://f.pondit.xyz/fibwatch-logo.png",
     "apiVersion": 1,
+    "fileHash": "sha256-acf664dc233ddf6019cc9c2d7cc1bc2bfb3483ebc37da28aa30bd29d1c9427c0",
     "isAdult": false,
     "formattedSize": "39 KB",
     "isBroken": false
@@ -2608,8 +2645,10 @@
     ],
     "iconUrl": "https://i.ibb.co/SwQRhsn/20241016-074942.jpg",
     "apiVersion": 1,
+    "fileHash": "sha256-c2c6c2c1ed7516018c0c941ab8da660c3f48351c453377f46714597e68bad6bb",
     "jarFileSize": 39705,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fivemovierulz.jar",
+    "jarHash": "sha256-fc8257bad3055327519ce4befae5721c4a7400bbe5a22ad5674feb021a4b486e",
     "isAdult": false,
     "formattedSize": "11.4 KB",
     "isBroken": false
@@ -2680,6 +2719,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
     "apiVersion": 1,
+    "fileHash": "sha256-98360f1e5cc6a263d95bdc910d524d054ec856127da7c769e50dd7e63d6a4aff",
     "isAdult": false,
     "formattedSize": "65.1 KB",
     "isBroken": false
@@ -2733,14 +2773,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/FreeUsePorn.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "FreeUsePorn",
     "internalName": "FreeUsePorn",
     "authors": [
       "kraptor"
     ],
     "description": "Watch High Quality Freeuse Porn Videos for free! Thousands of videos available for all freeuse porn categories including: Free Service Porn, Hypno Porn, Mind Control Porn, and more! Join our community and unlock video downloads, custom favorite lists, and more!",
-    "fileSize": 11402,
+    "fileSize": 11420,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -2748,9 +2788,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.freeuseporn.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-a2f365d71e4aee34b0bb17b8a745ac9ac86a8d5a416d223dde4d7bcfce8fc7df",
+    "fileHash": "sha256-bac11d7cdb744462487f7a7d7f419d2a5c34b7b831a105038bf6863eb27f516e",
     "isAdult": true,
-    "formattedSize": "11.1 KB",
+    "formattedSize": "11.2 KB",
     "isBroken": false
   },
   {
@@ -2911,8 +2951,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Funmovieslix.png",
     "apiVersion": 1,
+    "fileHash": "sha256-62a17881dffea55549c671bdc9207dc5f83597f87450cf5418605f597ebd1a28",
     "jarFileSize": 129379,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Funmovieslix.jar",
+    "jarHash": "sha256-cfb2b3d57bda22c281f1ad0e160bf8f2ee966b7bbf7756392a70bd17b08e9c34",
     "isAdult": false,
     "formattedSize": "31.5 KB",
     "isBroken": false
@@ -3195,8 +3237,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=goojara.to/&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-5cb973dd99fed54b1230802651e70b1b2664ca552b5afba9b8516f9d62511a4a",
     "jarFileSize": 166088,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Goojara.jar",
+    "jarHash": "sha256-16dd9fa5dbc9f0051b9a97617b2a612dd663b1f025b11a65e75d5996267a2c1e",
     "isAdult": false,
     "formattedSize": "42.6 KB",
     "isBroken": false
@@ -3313,6 +3357,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
     "apiVersion": 1,
+    "fileHash": "sha256-71ca942b12acb85f371c8c4e64a299190b612165fb6f187eec4a5beafc72ebb9",
     "isAdult": false,
     "formattedSize": "78.1 KB",
     "isBroken": false
@@ -3660,6 +3705,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-7d23e36383cbc33798b4130c910015ce7098b6400dd7fc637d9205bf763a8a0e",
     "isAdult": false,
     "formattedSize": "56.3 KB",
     "isBroken": true
@@ -3707,6 +3753,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/hindmoviez.png",
     "apiVersion": 1,
+    "fileHash": "sha256-597d4df136c28c54d8a5609ba7f406ef9a07ddbc0434a8af9abab340a9c5cc30",
     "isAdult": false,
     "formattedSize": "45.2 KB",
     "isBroken": false
@@ -3847,8 +3894,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/idlix.png",
     "apiVersion": 1,
+    "fileHash": "sha256-22e24c598f418cde8c648e896ff8837d100f0c5bdc6d52e251f1429ccecf0835",
     "jarFileSize": 200147,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.jar",
+    "jarHash": "sha256-59e154de287c6dcb3665572ca707f4ab3e4a0a7a3508d7c453396533a591fac0",
     "isAdult": false,
     "formattedSize": "49.7 KB",
     "isBroken": false
@@ -4057,8 +4106,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/IPTV.png",
     "apiVersion": 1,
+    "fileHash": "sha256-bd01807e039e86004278cdd21b88940bf668d493d7b41688ffbea152337ee4f4",
     "jarFileSize": 74806,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IPTVPlayer.jar",
+    "jarHash": "sha256-fc5209a59ad22cb01362deb89645bb2f2a99dd3499e6b82cd72e0b8e59069eee",
     "isAdult": false,
     "formattedSize": "18 KB",
     "isBroken": false
@@ -4086,6 +4137,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/streamflare.png",
     "apiVersion": 1,
+    "fileHash": "sha256-0bcc14edffbce24b27456d42f678a001c97747afe60399dcf9704d0226278cfd",
     "isAdult": false,
     "formattedSize": "40.7 KB",
     "isBroken": false
@@ -4413,6 +4465,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/jellyfin.png",
     "apiVersion": 1,
+    "fileHash": "sha256-f01beee513935c58fd3e4ff749e292280600425c45c7189e07b8aa3f7ca58268",
     "isAdult": false,
     "formattedSize": "60.6 KB",
     "isBroken": false
@@ -4458,6 +4511,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kaido.to&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-7488edc730a9c2adf42ca7265e13f48d4c590ace59d2a58f84adebfdac78d8cb",
     "isAdult": false,
     "formattedSize": "47.1 KB",
     "isBroken": false
@@ -4530,6 +4584,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/KayiFamilyTv/icon.png",
     "apiVersion": 1,
+    "fileHash": "sha256-8ce3e4738fa235bae286e31caf392ace6bab388cb89e9bd534b3f4c5365a6fcd",
     "isAdult": false,
     "formattedSize": "29.4 KB",
     "isBroken": false
@@ -4553,8 +4608,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/KAA.png",
     "apiVersion": 1,
+    "fileHash": "sha256-028b8b36e02ff744768f1b3f803b6a3ec12e725c26f6d339ac844fa7288ce0ee",
     "jarFileSize": 237228,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kickassanime.jar",
+    "jarHash": "sha256-103544e77ff3874a392d3a63f655b64ecaa980492eeefb2091e2ad058a82c70a",
     "isAdult": false,
     "formattedSize": "50.3 KB",
     "isBroken": false
@@ -4647,8 +4704,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-bf1979cd7425b5fa5e6f7c98bc68b229cb93eda61ee94b018122aba16d2e9b49",
     "jarFileSize": 152123,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
+    "jarHash": "sha256-118606d374288c9adf8d3888af0885f740b2a4c7b040fa866fa3544ffb0e3698",
     "isAdult": false,
     "formattedSize": "37.5 KB",
     "isBroken": false
@@ -4905,6 +4964,7 @@
     ],
     "iconUrl": "https://latanime.org/public/img/logito.png",
     "apiVersion": 1,
+    "fileHash": "sha256-5e6b1ec485c12e7f653e739fb8cbb3fa3423b49c7ba7ea633cece360c8a5220d",
     "isAdult": false,
     "formattedSize": "13.7 KB",
     "isBroken": false
@@ -5001,8 +5061,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-c16f6ce83a7a77ee6f7dda520fb4dc855c6737219e69bfcf5e3a2d795996179a",
     "jarFileSize": 84028,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.jar",
+    "jarHash": "sha256-b3fb3348563bf86c55b71b02029e1d0e7f99e48dd196ad23404fcd95b7f1c16b",
     "isAdult": false,
     "formattedSize": "20.3 KB",
     "isBroken": false
@@ -5240,8 +5302,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MassTamilanProvider/icon.png",
     "apiVersion": 1,
+    "fileHash": "sha256-f947871621ad37ed8ccfd199cbb10424575f6ce152948a2ec34eed038296e61b",
     "jarFileSize": 55105,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MassTamilanProvider.jar",
+    "jarHash": "sha256-c701744ac3fe32c90ec822c39181dbc9d2d1aff1dc88be4f825bea629cbcd0a7",
     "isAdult": false,
     "formattedSize": "15.5 KB",
     "isBroken": false
@@ -5264,8 +5328,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Megakino.jpg",
     "apiVersion": 1,
+    "fileHash": "sha256-f9441f4a45e9a81e1a22d86cb313dd65b0f29b683df96d626d91632be423f1c4",
     "jarFileSize": 70575,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Megakino.jar",
+    "jarHash": "sha256-499159e1e19cc227818d85340f90901cd9d7fa4102c30c1b3c2e708674b3cc7c",
     "isAdult": false,
     "formattedSize": "18.1 KB",
     "isBroken": false
@@ -5448,6 +5514,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movieblast.png",
     "apiVersion": 1,
+    "fileHash": "sha256-322693a89053813dce756a58156c67a5d22f4c0026695f5522e11f42ef1e68fa",
     "isAdult": false,
     "formattedSize": "30.5 KB",
     "isBroken": false
@@ -5498,6 +5565,7 @@
     ],
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
     "apiVersion": 1,
+    "fileHash": "sha256-e438ca1daafc24bc11ebcca57a6507d2a31cd5aa4be14d00214c9d1aba1dfa8f",
     "isAdult": false,
     "formattedSize": "67.1 KB",
     "isBroken": false
@@ -5566,8 +5634,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/Movierulzhd/faviconV2.png",
     "apiVersion": 1,
+    "fileHash": "sha256-5e6f31d23ad3db0bde4b2db23e51767fb1a813f9241d267725c6b3bdeb4fae6b",
     "jarFileSize": 292197,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movierulzhd.jar",
+    "jarHash": "sha256-71f87d59415d32b613eed423d5039aec5edb234c2af86b223135987081f6a306",
     "isAdult": false,
     "formattedSize": "57.2 KB",
     "isBroken": false
@@ -5614,8 +5684,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
     "apiVersion": 1,
+    "fileHash": "sha256-729303aabacf3a3a454f1bee8359269dea87228040920e4acd9cbad25276170c",
     "jarFileSize": 300540,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.jar",
+    "jarHash": "sha256-9b6ab453bc3b652158c2f9a853ae891fc3675020cd58fe163caa2843e7d07f20",
     "isAdult": false,
     "formattedSize": "66.9 KB",
     "isBroken": false
@@ -5696,14 +5768,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 70999,
+    "fileSize": 76456,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5712,9 +5784,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-5db8ded51c2f74478bb33c6d6161fb38bdba00bdf9255d3f213ed8113643ce1e",
+    "fileHash": "sha256-dab7d65b63f4327f8477be27de827ef21cc05396f6763b8b6ba3b3fe9b22fcf0",
     "isAdult": false,
-    "formattedSize": "69.3 KB",
+    "formattedSize": "74.7 KB",
     "isBroken": false
   },
   {
@@ -5761,8 +5833,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.mxplayer.in&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-eb35652e55d2d6ae3cf2bb392330218033a6fb70bc488818ec4a8b22c4d2d95e",
     "jarFileSize": 497300,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MPlayerProvider.jar",
+    "jarHash": "sha256-872325922e37577748d2a418250582922283cac7903b6c9841257895260b0481",
     "isAdult": false,
     "formattedSize": "91 KB",
     "isBroken": false
@@ -5787,8 +5861,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
     "apiVersion": 1,
+    "fileHash": "sha256-9db10c5abb646846e99a58a2401d3d73cb6792b30235325a07fa663918075a47",
     "jarFileSize": 198666,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.jar",
+    "jarHash": "sha256-964a970e79711245f0c923f8029d753bdf816e9e52b4c40589c630894e670985",
     "isAdult": false,
     "formattedSize": "45.8 KB",
     "isBroken": false
@@ -5796,14 +5872,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/NbaReplay.cs3",
     "status": 0,
-    "version": 4,
+    "version": 5,
     "name": "NbaReplay",
     "internalName": "NbaReplay",
     "authors": [
       "kraptor"
     ],
     "description": "Latest NBA Videos Regular season and Playoffs",
-    "fileSize": 13257,
+    "fileSize": 17928,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -5811,9 +5887,9 @@
     ],
     "iconUrl": "https://avatars.mds.yandex.net/i?id=8b7c3551ce8cda8add11cbea791bb11b7e742f22-5332070-images-thumbs&n=13",
     "apiVersion": 1,
-    "fileHash": "sha256-d035e5663801801b98e7629bdbc177fdd394a6a5336d966bcda39dc6f1b18fbe",
+    "fileHash": "sha256-0b1d51919703714e057cf916fd9114c41f12709d9ebc9aefe35cab2e5de8ea1a",
     "isAdult": false,
-    "formattedSize": "12.9 KB",
+    "formattedSize": "17.5 KB",
     "isBroken": true
   },
   {
@@ -5902,8 +5978,10 @@
     ],
     "iconUrl": "https://cdn.bcdn.zip/wp-content/uploads/2017/04/nc-header-responsive.png",
     "apiVersion": 1,
+    "fileHash": "sha256-d39d8c26b22cf78ea18a39d3bd028600a62fec7fb7235047ee8853b7addf45a7",
     "jarFileSize": 53661,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Netcinez.jar",
+    "jarHash": "sha256-315cc1e3ba085641c488b612e2f65d40a804d6d14a990b89e0d183123175e305",
     "isAdult": false,
     "formattedSize": "15.5 KB",
     "isBroken": false
@@ -6205,6 +6283,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=noxx.to&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-d6d1946eed1de646a89e9dce81df87e89fcbd1a517ecbeebc3dda35cc4cf126c",
     "isAdult": false,
     "formattedSize": "14.5 KB",
     "isBroken": false
@@ -6229,6 +6308,7 @@
     ],
     "iconUrl": "https://ani.ohli24.com/img/logo@2x.png",
     "apiVersion": 1,
+    "fileHash": "sha256-340e1d93884c74980e8c5040452997886c1ef26417504b33bda6641b3f9e4b0c",
     "isAdult": false,
     "formattedSize": "18.7 KB",
     "isBroken": false
@@ -6275,8 +6355,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/onepace.png",
     "apiVersion": 1,
+    "fileHash": "sha256-8439248269aae2ee525cf881053acc29f5ccf6b2fc704c27181f767bea0f0ead",
     "jarFileSize": 145569,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/OnePace.jar",
+    "jarHash": "sha256-435a10fee7561b504db67eb85082ccbfd8a93436f62f5b243599f007a9e257b6",
     "isAdult": false,
     "formattedSize": "33.2 KB",
     "isBroken": false
@@ -6300,8 +6382,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=onetouchtv.xyz/&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-d85e36611852af3ec7212bd87ee38ed13bd6152acaf0eb4afd5fb608bd6a55bb",
     "jarFileSize": 166562,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/OneTouchTV.jar",
+    "jarHash": "sha256-a1a7fecb0c57cf77a95210bbe0cd563bfbe708147b67daa3f99dcba7d48d5828",
     "isAdult": false,
     "formattedSize": "36.3 KB",
     "isBroken": false
@@ -6601,6 +6685,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.bz&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-51ac8b2a6146fc68c395aaf67439da84f4d96a3dc758e355355b8377f7346485",
     "isAdult": false,
     "formattedSize": "53.8 KB",
     "isBroken": false
@@ -6624,8 +6709,10 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-415a9f3648415d78e587b13cf7eceed8b2f4c22822117faaaac073d26071f8ef",
     "jarFileSize": 49831,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pencurimovie.jar",
+    "jarHash": "sha256-8ea5cfe2c8dc4566388631babdda2fb226adccc5b3284f81494129ac50f0dd82",
     "isAdult": false,
     "formattedSize": "13.4 KB",
     "isBroken": false
@@ -6840,8 +6927,10 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinoymoviepedia.ru&size=16",
     "apiVersion": 1,
+    "fileHash": "sha256-e448de65a7b0124dfc3fc3aa9599a6da1124ea9d36847bb92dc7ab97287b0e6c",
     "jarFileSize": 88461,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pinoymoviepedia.jar",
+    "jarHash": "sha256-27787733f583a0dd59488a99cce7faa0ecd76d57e95e7af8f0a47f5b1dcac59d",
     "isAdult": false,
     "formattedSize": "19.9 KB",
     "isBroken": false
@@ -6866,8 +6955,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=piratexplay.cc&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-0f58474ac1de5f5e21442775d97aae335c6b4bd6ab1a60a62f3590a844327980",
     "jarFileSize": 129328,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Piratexplay.jar",
+    "jarHash": "sha256-0ac28678cb39e7a1c02c9cf53567c906f13b3f68e935ffde69ac1cc094abefbf",
     "isAdult": false,
     "formattedSize": "33.4 KB",
     "isBroken": false
@@ -7236,8 +7327,10 @@
     ],
     "iconUrl": "https://www.thestatesman.com/wp-content/uploads/2021/05/fancode.jpg",
     "apiVersion": 1,
+    "fileHash": "sha256-ba001901ba9cfb4cbc360055097c4472a76aea034785e630ec26fe53eb8fd749",
     "jarFileSize": 95560,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PublicSportsIPTV.jar",
+    "jarHash": "sha256-291227c9c5f20f49035650c87ee4cf191ba05cbb915dd9a60e80378a5ad7d304",
     "isAdult": false,
     "formattedSize": "22.1 KB",
     "isBroken": false
@@ -7260,8 +7353,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-145a6142d4a6f0bfaff54e34cbe054cf43b6a8edaa21108916f3d9e653d57b9f",
     "jarFileSize": 148116,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/QuickIPTV.jar",
+    "jarHash": "sha256-56735b569e12ea50b675caf4dc72941e0f385c7e6a4d0220b79279efd1002a76",
     "isAdult": false,
     "formattedSize": "21.8 KB",
     "isBroken": false
@@ -7379,6 +7474,7 @@
     ],
     "iconUrl": "https://rzflix.com/logo.png",
     "apiVersion": 1,
+    "fileHash": "sha256-98a97a10cc1cb106d882b1d2ac1efe698c1ac4f8ff5e2085cd2ae574b12021d8",
     "isAdult": false,
     "formattedSize": "28.3 KB",
     "isBroken": false
@@ -7663,6 +7759,7 @@
     ],
     "iconUrl": "https://miro.medium.com/v2/1*DyU8bmnyyEiJbFROEXO2VA.png",
     "apiVersion": 1,
+    "fileHash": "sha256-c79ad4d0865906f21b0cc529ca7097095a067ee09a7ed0672adbecae79dd15b8",
     "isAdult": false,
     "formattedSize": "111.2 KB",
     "isBroken": false
@@ -7686,8 +7783,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/ShowFlixProvider/icon.png",
     "apiVersion": 1,
+    "fileHash": "sha256-dbbea23a3572994e37b95709d9dd0155f84c3ebfce6394c98fdb02dc79666588",
     "jarFileSize": 352831,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ShowFlixProvider.jar",
+    "jarHash": "sha256-a32a148ada2f0e6567de05f646c98069b7a5d8eed273d53e64702739742f0a55",
     "isAdult": false,
     "formattedSize": "70 KB",
     "isBroken": false
@@ -7863,7 +7962,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 611,
+    "version": 612,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -7871,7 +7970,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 917281,
+    "fileSize": 924858,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7884,8 +7983,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
+    "fileHash": "sha256-99d344756c0dc470f6e4449d1530f37b2ea67aec510b60c333a383d16e3e639e",
     "isAdult": false,
-    "formattedSize": "895.8 KB",
+    "formattedSize": "903.2 KB",
     "isBroken": false
   },
   {
@@ -7908,6 +8008,7 @@
     ],
     "iconUrl": "https://files.catbox.moe/ol63rm.png",
     "apiVersion": 1,
+    "fileHash": "sha256-68b48d9c904514a62b9015a5b3e94d0c325e74c2052bbd8c3832486ec2f802a6",
     "isAdult": false,
     "formattedSize": "72.7 KB",
     "isBroken": false
@@ -7931,6 +8032,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/StremioX/icon.png",
     "apiVersion": 1,
+    "fileHash": "sha256-e87ba535734c3f672a5d3f9ef0bd982a3508ed1b3ccf86bd08fff7941ae0eb88",
     "isAdult": false,
     "formattedSize": "166.3 KB",
     "isBroken": false
@@ -8119,6 +8221,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.showbox.media/&size=256",
     "apiVersion": 1,
+    "fileHash": "sha256-0889f2362f675d1be1e6bacad40e0efb5ba41b43df136e62b48f18f85e8b194e",
     "isAdult": false,
     "formattedSize": "125.8 KB",
     "isBroken": false
@@ -8188,6 +8291,7 @@
     ],
     "iconUrl": "https://i.postimg.cc/FRwFFtyT/logo.png",
     "apiVersion": 1,
+    "fileHash": "sha256-4f2f9dee5a9f33e180fabcb38804f679c7945c0b412f332b75beb5ad5ee85363",
     "isAdult": false,
     "formattedSize": "18.9 KB",
     "isBroken": false
@@ -8255,6 +8359,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=tamilian.io&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-72cadf096b7effea196426c70adf532e9973f42b57ea0475d7de9ceb56dae974",
     "isAdult": false,
     "formattedSize": "14.1 KB",
     "isBroken": false
@@ -8322,8 +8427,10 @@
     ],
     "iconUrl": "https://telugumv.fun/wp-content/uploads/2024/05/20240509_195734-e1715265186634.png",
     "apiVersion": 1,
+    "fileHash": "sha256-b3c8a40d04f318b17dedd5086e1cb98bf7a9d2bb10f7de0ed4ecd906efa69f7c",
     "jarFileSize": 109498,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Telugumv.jar",
+    "jarHash": "sha256-749fb30eb6dc6280278ce7a289f02bf9446bf280f1333745edea32d684e4f66e",
     "isAdult": false,
     "formattedSize": "27.5 KB",
     "isBroken": false
@@ -8346,8 +8453,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=tennistream.com&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-bab75a8864f408cdb36d7288ff47d47f6293acbf5dbc235cde83be8f8421fff4",
     "jarFileSize": 65095,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tennistream.jar",
+    "jarHash": "sha256-94a80c89a58e1bba2bcd4ea681d402bd4295eb8bf76c30f163bc6fc5bc1d2023",
     "isAdult": false,
     "formattedSize": "14.2 KB",
     "isBroken": false
@@ -8440,6 +8549,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/TokusatsuUltimate/TokusatsuUltimateIcon.png",
     "apiVersion": 1,
+    "fileHash": "sha256-85da40af50071dac4789f76bff21d4e2dc22fc624da5f2ba1275011d9e0dfdcf",
     "isAdult": false,
     "formattedSize": "26.8 KB",
     "isBroken": false
@@ -8464,6 +8574,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/TokuZilla/icon.png",
     "apiVersion": 1,
+    "fileHash": "sha256-103cdef7458630851c8700b6aad73cb44c4cd698df197f7552f3f4f17d6c95ec",
     "isAdult": false,
     "formattedSize": "18 KB",
     "isBroken": false
@@ -8534,8 +8645,10 @@
     ],
     "iconUrl": "https://toonhub4u.me/wp-content/uploads/2024/02/Untitled.png",
     "apiVersion": 1,
+    "fileHash": "sha256-998337fdd395e616c98045ad0bb4b682937abe49682d24f86c80fc044b48cf06",
     "jarFileSize": 87980,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ToonHub.jar",
+    "jarHash": "sha256-8b7531efc187443c9c27b795618dacf5add94d7a44ac66a048ada7223eb471c3",
     "isAdult": false,
     "formattedSize": "22.2 KB",
     "isBroken": false
@@ -8560,8 +8673,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/toonstream.png",
     "apiVersion": 1,
+    "fileHash": "sha256-c16d984a5e38cdb485be9b933751771235a65d25163bca5cb72fa3f069f8811e",
     "jarFileSize": 113115,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Toonstream.jar",
+    "jarHash": "sha256-9f6c334538ff681ef4e3bb0177436e3eac36d8e9d8abfd0f744412414271ba7f",
     "isAdult": false,
     "formattedSize": "28.5 KB",
     "isBroken": false
@@ -8584,8 +8699,10 @@
     ],
     "iconUrl": "https://www.toontales.net/wp-content/themes/toontales/images/logo.png",
     "apiVersion": 1,
+    "fileHash": "sha256-0fccf833bce708847bcc5024c8ffee3b8e1a2a19308678533c5392dde4a86bcf",
     "jarFileSize": 33742,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ToonTales.jar",
+    "jarHash": "sha256-d904b863eaa871b3f292d1d9e6a2c616b3d0b31f5642f5198e04ad9583229b1b",
     "isAdult": false,
     "formattedSize": "9.7 KB",
     "isBroken": false
@@ -8608,8 +8725,10 @@
     ],
     "iconUrl": "https://www.topcartoons.tv/wp-content/uploads/logo.png",
     "apiVersion": 1,
+    "fileHash": "sha256-3d902629a259a8317e513d2dfb50901c0d0a68ebe4252d30d8c025bf01ee53c3",
     "jarFileSize": 34714,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Topcartoons.jar",
+    "jarHash": "sha256-acfade3b48bc0309fe126b8a19f2e1cbdfa0c179f944853a322be0c9927027b8",
     "isAdult": false,
     "formattedSize": "9.9 KB",
     "isBroken": false
@@ -8654,8 +8773,10 @@
     ],
     "iconUrl": "https://www.topstreamfilm.live/templates/topstreamfilm/images/logo-1.png",
     "apiVersion": 1,
+    "fileHash": "sha256-3f29431563b6e39a4f23baf3b1ce7a89248f4350e25feb3541e80c6cb0f6efe7",
     "jarFileSize": 72077,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Topstreamfilm.jar",
+    "jarHash": "sha256-c7f213f6b566d60292de9fbbccf693b48cfb3d7f0f979a20f150564d8e8412dd",
     "isAdult": false,
     "formattedSize": "17.2 KB",
     "isBroken": false
@@ -8682,6 +8803,7 @@
     ],
     "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
     "apiVersion": 1,
+    "fileHash": "sha256-1d69227b3d4d58661ba1a846e80d06277ff9a33aaf399b0a04f53fa163cc90ed",
     "isAdult": false,
     "formattedSize": "188.5 KB",
     "isBroken": false
@@ -8932,6 +9054,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
     "apiVersion": 1,
+    "fileHash": "sha256-0de479f51c067f7de3f00b5fa118845ca69fec867608f1921afcfe33526d647d",
     "isAdult": false,
     "formattedSize": "49.6 KB",
     "isBroken": false
@@ -8954,6 +9077,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
+    "fileHash": "sha256-5565a694bf537c38f54ee1d2e8c74961ce830c186f175d77e4be109abcf9c465",
     "isAdult": false,
     "formattedSize": "346.7 KB",
     "isBroken": false
@@ -8976,6 +9100,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/UltimaBeta.png",
     "apiVersion": 1,
+    "fileHash": "sha256-0ed6fa14b471b8fc901d164723c6a25be418f9ef18409878097734ce820414ea",
     "isAdult": false,
     "formattedSize": "357.1 KB",
     "isBroken": false
@@ -9185,6 +9310,7 @@
     ],
     "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
     "apiVersion": 1,
+    "fileHash": "sha256-2a02f46939156511604b3693925ce1e4e90141195fe15cb18628ce1e53b02883",
     "isAdult": false,
     "formattedSize": "44.5 KB",
     "isBroken": false
@@ -9231,8 +9357,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=watchmmafull.com/&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-9a2b55d9a0ab15c85ea288082af65525fcd37624d6e2e2464b5770733f45ad58",
     "jarFileSize": 84139,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/WatchMMAFull.jar",
+    "jarHash": "sha256-17da3ed6ea29c44194fafccba8be3157cadf742f25dec7a85de2c7de81303a5b",
     "isAdult": false,
     "formattedSize": "17.7 KB",
     "isBroken": false
@@ -9518,6 +9646,7 @@
     ],
     "iconUrl": "https://top.xdmovies.wtf/assets/logo1.png",
     "apiVersion": 1,
+    "fileHash": "sha256-df9bb0ad8f00b95c6f3dcab62750cb7c121cd535dbd5d9921cdccace2d3a64a4",
     "isAdult": false,
     "formattedSize": "74 KB",
     "isBroken": true
@@ -9975,6 +10104,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yflix.to/&sz=%size%",
     "apiVersion": 1,
+    "fileHash": "sha256-969fd0410469873598578722e43d02f685f4354851c48cf7237663a514954628",
     "isAdult": false,
     "formattedSize": "57.7 KB",
     "isBroken": false
@@ -10090,8 +10220,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/yts.png",
     "apiVersion": 1,
+    "fileHash": "sha256-5943c7a654b94edb4716966a1df4fa81c2eee27d0c606f83781f237ac6412250",
     "jarFileSize": 75880,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.jar",
+    "jarHash": "sha256-38e98b02325b86a4356a46004c73380e5d12069850387bc4ae93a37c6fa33045",
     "isAdult": false,
     "formattedSize": "16 KB",
     "isBroken": false
