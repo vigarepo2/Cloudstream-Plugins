@@ -1361,14 +1361,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 406,
+    "version": 407,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 635752,
+    "fileSize": 659443,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1379,9 +1379,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-aadfe4a47659a9c2cb9bb87b2f266913b19278b71821aab013e5c04509af4918",
+    "fileHash": "sha256-3f7fecdea040540360edbeb6ad02889236ecbf91a69470e4bb6077aa1a4ea185",
     "isAdult": false,
-    "formattedSize": "620.9 KB",
+    "formattedSize": "644 KB",
     "isBroken": false
   },
   {
@@ -8857,14 +8857,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 17,
+    "version": 18,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19505,
+    "fileSize": 19507,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8872,7 +8872,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://trkhub.fun&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-c5bdd238659bff3fd0fa5a0d8e8b7558930714589a98a5292f0d298d0440ec2c",
+    "fileHash": "sha256-f6e68441973b9eecca63f65799ee369717aab850c39bbe5faaf599da0c5e555a",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -8948,14 +8948,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 67,
+    "version": 68,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34235,
+    "fileSize": 34232,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8963,7 +8963,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno3.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-fc64c5d4e1e69d3bf17068490c1a45f19e1d1f84042854beedf374ef3880b96c",
+    "fileHash": "sha256-d4fb7850ed30c772cf839290c67e4fb7ab75940df962725ee7f064ccfef97023",
     "isAdult": true,
     "formattedSize": "33.4 KB",
     "isBroken": false
