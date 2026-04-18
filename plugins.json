@@ -1361,14 +1361,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 407,
+    "version": 408,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 659443,
+    "fileSize": 662535,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1379,9 +1379,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3f7fecdea040540360edbeb6ad02889236ecbf91a69470e4bb6077aa1a4ea185",
+    "fileHash": "sha256-2353dcdd1b676ae385ac3d8b7416128c99f9f2b95a01f64a0357ba3cdb1eb0a1",
     "isAdult": false,
-    "formattedSize": "644 KB",
+    "formattedSize": "647 KB",
     "isBroken": false
   },
   {
@@ -7962,7 +7962,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 612,
+    "version": 613,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -7970,7 +7970,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 924858,
+    "fileSize": 903686,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7983,9 +7983,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-99d344756c0dc470f6e4449d1530f37b2ea67aec510b60c333a383d16e3e639e",
+    "fileHash": "sha256-ba1ccb439ea012b109fdf9ceb55f118e6ade9ef248369615b489c484c01198f7",
     "isAdult": false,
-    "formattedSize": "903.2 KB",
+    "formattedSize": "882.5 KB",
     "isBroken": false
   },
   {
@@ -8433,32 +8433,6 @@
     "jarHash": "sha256-749fb30eb6dc6280278ce7a289f02bf9446bf280f1333745edea32d684e4f66e",
     "isAdult": false,
     "formattedSize": "27.5 KB",
-    "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tennistream.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "Tennistream",
-    "internalName": "Tennistream",
-    "authors": [
-      "Phisher98"
-    ],
-    "description": "Tennistream",
-    "fileSize": 14545,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tennistream.com&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-bab75a8864f408cdb36d7288ff47d47f6293acbf5dbc235cde83be8f8421fff4",
-    "jarFileSize": 65095,
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tennistream.jar",
-    "jarHash": "sha256-94a80c89a58e1bba2bcd4ea681d402bd4295eb8bf76c30f163bc6fc5bc1d2023",
-    "isAdult": false,
-    "formattedSize": "14.2 KB",
     "isBroken": false
   },
   {
