@@ -1361,14 +1361,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 408,
+    "version": 409,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 662535,
+    "fileSize": 667652,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1379,9 +1379,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2353dcdd1b676ae385ac3d8b7416128c99f9f2b95a01f64a0357ba3cdb1eb0a1",
+    "fileHash": "sha256-b0e41847fcc5330281b691bf4d0366cbb912c10aff30a0d0618f21f3b1f65369",
     "isAdult": false,
-    "formattedSize": "647 KB",
+    "formattedSize": "652 KB",
     "isBroken": false
   },
   {
@@ -7962,7 +7962,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 613,
+    "version": 618,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -7970,7 +7970,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 903686,
+    "fileSize": 899196,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7983,9 +7983,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-ba1ccb439ea012b109fdf9ceb55f118e6ade9ef248369615b489c484c01198f7",
+    "fileHash": "sha256-ad966ab4f4c38e2887eed6023de25de6deee8d209f596cb8837271fc33e04bc5",
     "isAdult": false,
-    "formattedSize": "882.5 KB",
+    "formattedSize": "878.1 KB",
     "isBroken": false
   },
   {
@@ -9365,14 +9365,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/WatchWrestling.cs3",
     "status": 1,
-    "version": 10,
+    "version": 12,
     "name": "WatchWrestling",
     "internalName": "WatchWrestling",
     "authors": [
       "kraptor"
     ],
     "description": "Watch WWE | WWE Raw | Smackdown Live",
-    "fileSize": 17884,
+    "fileSize": 17883,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -9380,7 +9380,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://watchwrestling.ae/&size=32",
     "apiVersion": 1,
-    "fileHash": "sha256-eec3681bf861c65e9c8eaa2b3f229595a4df20acc3269be51eb4803b91053289",
+    "fileHash": "sha256-6de1dc1399d9a65e191a2367e4c52fd87fab44805703a8162dce99ca748bcd3b",
     "isAdult": false,
     "formattedSize": "17.5 KB",
     "isBroken": false
@@ -10132,14 +10132,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/YoTurkish.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "YoTurkish",
     "internalName": "YoTurkish",
     "authors": [
       "kraptor"
     ],
     "description": "YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
-    "fileSize": 18810,
+    "fileSize": 20135,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -10147,9 +10147,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to",
     "apiVersion": 1,
-    "fileHash": "sha256-21e94c818b1b308d1b51e1b2028b168d5dcec9a121ef94ef00e0a6e5fb377c6c",
+    "fileHash": "sha256-4f466bb98b11fb4db7dde5c4850cce38af436f302420513487dab8c5c40012a4",
     "isAdult": false,
-    "formattedSize": "18.4 KB",
+    "formattedSize": "19.7 KB",
     "isBroken": false
   },
   {
