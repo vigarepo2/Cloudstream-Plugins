@@ -166,6 +166,29 @@
     "isBroken": false
   },
   {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Allpornstream.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Allpornstream",
+    "internalName": "Allpornstream",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "All Porn Stream - Free Porn HD Videos. Watch the best high definition sex movies with hot babes. Allpornstream.com provides you thousands of 1080p, 4k and free porn videos, hd porn tube",
+    "fileSize": 16719,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://allpornstream.com/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-e5bfaee3369f2f724815f576eee9c8e7c581c58cd05bb503ba1022effe956c73",
+    "isAdult": true,
+    "formattedSize": "16.3 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/AllPornStream.cs3",
     "status": 1,
     "version": 6,
@@ -1887,7 +1910,7 @@
       "kerimmkirac"
     ],
     "description": "Porno videolarını takılma ve donma olmadan bedava, hd kalitede kesintisiz izle. Her gün eklenen en yeni, en kaliteli porno filmlerinin keyfini çıkart.",
-    "fileSize": 16719,
+    "fileSize": 16721,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -1895,7 +1918,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.creativewoodtrade.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-a51d5788e5e018fd9b00729d25d8000b0d1faddb53d4d81f6523fba4d3a8cd06",
+    "fileHash": "sha256-8e04a69cae681110afc1440cd017daaeb5d62b355d8e4fb7e696b12b77a6ec7a",
     "isAdult": true,
     "formattedSize": "16.3 KB",
     "isBroken": false
@@ -4237,7 +4260,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/JavGuru.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "JavGuru (2)",
     "internalName": "JavGuru_2",
     "authors": [
@@ -4245,7 +4268,7 @@
       "ByAyzen"
     ],
     "description": "JavGuru",
-    "fileSize": 38205,
+    "fileSize": 38115,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -4253,9 +4276,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=jav.guru&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-67c4291318642a581277ce4be857bbd582ea2de5001711b9c15a5d17281e016e",
+    "fileHash": "sha256-e65bdaf75e2b4dfb6a9d7e165c2c6fc8ead83ee1a143f4eb3164cd9fbadfe9c7",
     "isAdult": true,
-    "formattedSize": "37.3 KB",
+    "formattedSize": "37.2 KB",
     "isBroken": false
   },
   {
@@ -5473,6 +5496,34 @@
     "isBroken": false
   },
   {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MoonTV.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "MoonTV",
+    "internalName": "MoonTV",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Movies & TV Series Etc\nSettings allow selecting domains such as 123cine,Flixzone etc",
+    "fileSize": 65369,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie",
+      "Cartoon",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=moontv.to/&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-f15248b65d2d9eb7d73d103a09972ea255122dc7304470e56af8e6a8aac950ff",
+    "isAdult": false,
+    "formattedSize": "63.8 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Motherless.cs3",
     "status": 1,
     "version": 9,
@@ -5768,14 +5819,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 7,
+    "version": 9,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 76456,
+    "fileSize": 78373,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5784,9 +5835,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-dab7d65b63f4327f8477be27de827ef21cc05396f6763b8b6ba3b3fe9b22fcf0",
+    "fileHash": "sha256-22b355df0d80eac0e3631dab02a67d33a4a688141560d2e072c959da703a75e9",
     "isAdult": false,
-    "formattedSize": "74.7 KB",
+    "formattedSize": "76.5 KB",
     "isBroken": false
   },
   {
@@ -6468,7 +6519,7 @@
       "kraptor"
     ],
     "description": "Missed a show? OnScreens turns live cam broadcasts into an HD replay library from Chaturbate, Cam4, Stripchat, Bongacams &#38; more. Stream or download replays free.",
-    "fileSize": 21543,
+    "fileSize": 21553,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -6476,7 +6527,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=www.onscreens.me",
     "apiVersion": 1,
-    "fileHash": "sha256-978dff3dccd1e9e4202d7d430e0cc0463932f2e0e6986c97a3d506f800404fd2",
+    "fileHash": "sha256-2632fdb1b98601a301f6c2db198bbadadf4891058a52e7c7974e272e97c24fce",
     "isAdult": true,
     "formattedSize": "21 KB",
     "isBroken": false
@@ -8831,14 +8882,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 18,
+    "version": 19,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19507,
+    "fileSize": 19509,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8846,9 +8897,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://trkhub.fun&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-f6e68441973b9eecca63f65799ee369717aab850c39bbe5faaf599da0c5e555a",
+    "fileHash": "sha256-26bda426d819f310c7e8585ce1b67865894cc946070677f031f6cb04c0b4cfd1",
     "isAdult": true,
-    "formattedSize": "19 KB",
+    "formattedSize": "19.1 KB",
     "isBroken": false
   },
   {
@@ -8922,14 +8973,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 68,
+    "version": 69,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34232,
+    "fileSize": 34233,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8937,7 +8988,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno3.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d4fb7850ed30c772cf839290c67e4fb7ab75940df962725ee7f064ccfef97023",
+    "fileHash": "sha256-f6d8e93f43882e1248cb1b113105cc413278684df2322fc7b7abee1fd1019911",
     "isAdult": true,
     "formattedSize": "33.4 KB",
     "isBroken": false
@@ -10065,7 +10116,7 @@
       "Phisher98"
     ],
     "description": "Movies & TV Series Etc\nSettings allow selecting domains such as 1Movies,SolarMovie and Sflix",
-    "fileSize": 59090,
+    "fileSize": 58876,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -10078,9 +10129,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yflix.to/&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-969fd0410469873598578722e43d02f685f4354851c48cf7237663a514954628",
+    "fileHash": "sha256-85e93cd704c51726d36cc94a2de7ee663d68cca5e55a937eb8f0ad6f7cb7af2e",
     "isAdult": false,
-    "formattedSize": "57.7 KB",
+    "formattedSize": "57.5 KB",
     "isBroken": false
   },
   {
