@@ -556,14 +556,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeKai.cs3",
     "status": 1,
-    "version": 65,
+    "version": 66,
     "name": "AnimeKai",
     "internalName": "AnimeKai",
     "authors": [
       "Phisher98"
     ],
     "description": "Animes & Animes Movie",
-    "fileSize": 57527,
+    "fileSize": 57419,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -573,9 +573,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animekai.to&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-42d216304bb8df12ca1575e5fbf4d367705a1ece1bc3a1e72e3e51f85a71a2f5",
+    "fileHash": "sha256-436e242aae31da17008277a68f5df3a0eb9f4799f7a37be942a70f495dfcbfaf",
     "isAdult": false,
-    "formattedSize": "56.2 KB",
+    "formattedSize": "56.1 KB",
     "isBroken": false
   },
   {
@@ -1384,14 +1384,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 409,
+    "version": 411,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 667652,
+    "fileSize": 674074,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1402,9 +1402,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b0e41847fcc5330281b691bf4d0366cbb912c10aff30a0d0618f21f3b1f65369",
+    "fileHash": "sha256-ef10e77c0306c9369c6c80e8a28a2154d6d1abf55374b5dc35d78715f14ab2ec",
     "isAdult": false,
-    "formattedSize": "652 KB",
+    "formattedSize": "658.3 KB",
     "isBroken": false
   },
   {
@@ -4563,31 +4563,6 @@
     "isBroken": false
   },
   {
-    "iconUrl": "https://kartoons.fun/logo.png",
-    "apiVersion": 1,
-    "fileSize": 34406,
-    "status": 1,
-    "language": "hi",
-    "authors": [
-      "Kartoons"
-    ],
-    "tvTypes": [
-      "AnimeMovie",
-      "Anime",
-      "Cartoon",
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 5,
-    "internalName": "Kartoons",
-    "description": "Kartoons - Official CloudStream Addon",
-    "url": "https://cloudstream.lasyhost.tech/Kartoons.cs3",
-    "name": "Kartoons",
-    "isAdult": false,
-    "formattedSize": "33.6 KB",
-    "isBroken": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KayiFamilyTv.cs3",
     "status": 1,
     "version": 1,
@@ -5498,14 +5473,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MoonTV.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "MoonTV",
     "internalName": "MoonTV",
     "authors": [
       "Phisher98"
     ],
     "description": "Movies & TV Series Etc\nSettings allow selecting domains such as 123cine,Flixzone etc",
-    "fileSize": 65369,
+    "fileSize": 66288,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -5518,9 +5493,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=moontv.to/&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-f15248b65d2d9eb7d73d103a09972ea255122dc7304470e56af8e6a8aac950ff",
+    "fileHash": "sha256-b19ff770b20b36e51c2b16b0a212173bb323b47ed29a8c8675502f6533da17e5",
     "isAdult": false,
-    "formattedSize": "63.8 KB",
+    "formattedSize": "64.7 KB",
     "isBroken": false
   },
   {
@@ -8013,7 +7988,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 618,
+    "version": 620,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8021,7 +7996,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 899196,
+    "fileSize": 961585,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8034,9 +8009,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-ad966ab4f4c38e2887eed6023de25de6deee8d209f596cb8837271fc33e04bc5",
+    "fileHash": "sha256-eee336a92e3de95e5eea6ed69f703a7dc8e1fd38f7000b155238989502dbb96b",
     "isAdult": false,
-    "formattedSize": "878.1 KB",
+    "formattedSize": "939 KB",
     "isBroken": false
   },
   {
@@ -10109,14 +10084,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Yflix.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "Yflix",
     "internalName": "Yflix",
     "authors": [
       "Phisher98"
     ],
     "description": "Movies & TV Series Etc\nSettings allow selecting domains such as 1Movies,SolarMovie and Sflix",
-    "fileSize": 58876,
+    "fileSize": 59876,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -10129,9 +10104,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yflix.to/&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-85e93cd704c51726d36cc94a2de7ee663d68cca5e55a937eb8f0ad6f7cb7af2e",
+    "fileHash": "sha256-fc6512accb374b2a36b73693354ae09f4718983c80b6b2929d6773c561431c70",
     "isAdult": false,
-    "formattedSize": "57.5 KB",
+    "formattedSize": "58.5 KB",
     "isBroken": false
   },
   {
