@@ -3087,7 +3087,7 @@
       "ByAyzen"
     ],
     "description": "GnulaHD",
-    "fileSize": 28095,
+    "fileSize": 28303,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -3097,9 +3097,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww3.gnulahd.nu/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-922a7167052ca8ac4dc18d64dca547f05e9caf92d1b6a8a1afb84e82fdf95c1f",
+    "fileHash": "sha256-02ee4ce115cfacfedee7566ed0f1abd8735e13b3f12003aa1fb1ccee893fb8ee",
     "isAdult": false,
-    "formattedSize": "27.4 KB",
+    "formattedSize": "27.6 KB",
     "isBroken": false
   },
   {
@@ -4563,6 +4563,31 @@
     "isBroken": false
   },
   {
+    "iconUrl": "https://kartoons.fun/logo.png",
+    "apiVersion": 1,
+    "fileSize": 34406,
+    "status": 1,
+    "language": "hi",
+    "authors": [
+      "Kartoons"
+    ],
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "Cartoon",
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 5,
+    "internalName": "Kartoons",
+    "description": "Kartoons - Official CloudStream Addon",
+    "url": "https://cloudstream.lasyhost.tech/Kartoons.cs3",
+    "name": "Kartoons",
+    "isAdult": false,
+    "formattedSize": "33.6 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KayiFamilyTv.cs3",
     "status": 1,
     "version": 1,
@@ -4691,7 +4716,7 @@
     "authors": [
       "Phisher98,Hexated,Peerless"
     ],
-    "fileSize": 38374,
+    "fileSize": 38375,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -4702,10 +4727,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-bf1979cd7425b5fa5e6f7c98bc68b229cb93eda61ee94b018122aba16d2e9b49",
-    "jarFileSize": 152123,
+    "fileHash": "sha256-a01b4a6f6b7b747cf835c603655032dc5d74671e2c368e5b3cb8a5a6bbc6782d",
+    "jarFileSize": 152122,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
-    "jarHash": "sha256-118606d374288c9adf8d3888af0885f740b2a4c7b040fa866fa3544ffb0e3698",
+    "jarHash": "sha256-bfa7314fc831dfecc5e6b8dc03f96b159b85d4adf64fc6f2ae6a05a26bcda37b",
     "isAdult": false,
     "formattedSize": "37.5 KB",
     "isBroken": false
@@ -5259,7 +5284,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Mangoporn.cs3",
     "status": 1,
-    "version": 19,
+    "version": 20,
     "name": "Mangoporn (2)",
     "internalName": "Mangoporn_2",
     "authors": [
@@ -5268,7 +5293,7 @@
       "HindiProvider"
     ],
     "description": "MangoPorn",
-    "fileSize": 57518,
+    "fileSize": 58083,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -5276,9 +5301,9 @@
     ],
     "iconUrl": "https://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
     "apiVersion": 1,
-    "fileHash": "sha256-21192bfed9130126bc76ba83f37351497af11764946b998ce2f34a3d5fcba09d",
+    "fileHash": "sha256-4132eeb281295e6bdd379049f60a7a0ac9e19636f8577e8431df3fb0501e621f",
     "isAdult": true,
-    "formattedSize": "56.2 KB",
+    "formattedSize": "56.7 KB",
     "isBroken": false
   },
   {
@@ -5794,14 +5819,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 78373,
+    "fileSize": 78540,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5810,9 +5835,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-22b355df0d80eac0e3631dab02a67d33a4a688141560d2e072c959da703a75e9",
+    "fileHash": "sha256-455d06710fe83bcb8f7f416049829418d946fdfeb6cc848499554e67beeed8db",
     "isAdult": false,
-    "formattedSize": "76.5 KB",
+    "formattedSize": "76.7 KB",
     "isBroken": false
   },
   {
@@ -6342,14 +6367,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/OK.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "OK",
     "internalName": "OK",
     "authors": [
       "ByAyzen"
     ],
     "description": "OKRU Videos.",
-    "fileSize": 24642,
+    "fileSize": 24343,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -6358,9 +6383,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ok.ru/video/c12842395&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b02244b5d2929e215b6c7c65aca5754ee964084e85aaef14f6f08560b90f9e09",
+    "fileHash": "sha256-6b146707dc898fc8eb496d99384349747e6c7f5dab53ba5d2d9e65a8047d5b2b",
     "isAdult": false,
-    "formattedSize": "24.1 KB",
+    "formattedSize": "23.8 KB",
     "isBroken": false
   },
   {
@@ -7996,7 +8021,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 961585,
+    "fileSize": 961502,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8009,7 +8034,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-eee336a92e3de95e5eea6ed69f703a7dc8e1fd38f7000b155238989502dbb96b",
+    "fileHash": "sha256-f219840b2359f53dae7401750b5d49b1213b64a99035527ad0ba6f20362aca30",
     "isAdult": false,
     "formattedSize": "939 KB",
     "isBroken": false
@@ -8857,14 +8882,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 19,
+    "version": 20,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19509,
+    "fileSize": 19508,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8872,7 +8897,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://trkhub.fun&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-26bda426d819f310c7e8585ce1b67865894cc946070677f031f6cb04c0b4cfd1",
+    "fileHash": "sha256-7e3bf702bdc0c9b6f255dd19e2593701c369a83124de02b3a2d29b55d583a15c",
     "isAdult": true,
     "formattedSize": "19.1 KB",
     "isBroken": false
@@ -8948,14 +8973,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 69,
+    "version": 70,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34233,
+    "fileSize": 34236,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8963,7 +8988,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno3.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-f6d8e93f43882e1248cb1b113105cc413278684df2322fc7b7abee1fd1019911",
+    "fileHash": "sha256-edaed42c70951e2c5322b09ef2c2948cf4496838a36f27e92d329111af495d6c",
     "isAdult": true,
     "formattedSize": "33.4 KB",
     "isBroken": false
@@ -10091,7 +10116,7 @@
       "Phisher98"
     ],
     "description": "Movies & TV Series Etc\nSettings allow selecting domains such as 1Movies,SolarMovie and Sflix",
-    "fileSize": 59876,
+    "fileSize": 59896,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -10104,7 +10129,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yflix.to/&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-fc6512accb374b2a36b73693354ae09f4718983c80b6b2929d6773c561431c70",
+    "fileHash": "sha256-e259938444dc1f1537387bdfc36cd4bc07bafefde3679eb28dd694daaf0d97ca",
     "isAdult": false,
     "formattedSize": "58.5 KB",
     "isBroken": false
