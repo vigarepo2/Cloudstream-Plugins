@@ -214,14 +214,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllWish.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "AllWish",
     "internalName": "AllWish",
     "authors": [
       "Phisher98"
     ],
     "description": "Anime from all-wish.me",
-    "fileSize": 41467,
+    "fileSize": 41629,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -229,12 +229,12 @@
     ],
     "iconUrl": "https://all-wish.me/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-1cd2a3e29a629a520d0f21ee15f134a4ac0183b9dcd2b75f989e7559b789b0f6",
-    "jarFileSize": 146904,
+    "fileHash": "sha256-549d50e8902dc961a6b250324f780e85a7dc8770278aa49965002ae27c17c52b",
+    "jarFileSize": 149207,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllWish.jar",
-    "jarHash": "sha256-9fc5e48006ee2d4673fad742443a6e4b47d28d25c3eeba399ad7690e27d0bbca",
+    "jarHash": "sha256-23a59efb2e567da0356c4f6ba2fca0d23041a2c7e7a23bed7f3fbf6e422948bc",
     "isAdult": false,
-    "formattedSize": "40.5 KB",
+    "formattedSize": "40.7 KB",
     "isBroken": false
   },
   {
@@ -859,6 +859,31 @@
     "isBroken": true
   },
   {
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anoboy.be&size=%size%",
+    "fileHash": "sha256-71628e970428ce035dd39c76fd31b4ac3610f8418401f4c7e942cde9881a12cd",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
+    "fileSize": 58483,
+    "status": 1,
+    "language": "id",
+    "authors": [
+      "Miku"
+    ],
+    "tvTypes": [
+      "AnimeMovie",
+      "OVA",
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "AnoboyProvider",
+    "description": "Anoboy",
+    "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/AnoboyProvider.cs3",
+    "name": "AnoboyProvider",
+    "isAdult": false,
+    "formattedSize": "57.1 KB",
+    "isBroken": false
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.anroll.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
@@ -1215,7 +1240,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Chatrubate.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "Chatrubate (2)",
     "internalName": "Chatrubate_2",
     "authors": [
@@ -1223,7 +1248,7 @@
       "luck731"
     ],
     "description": "Chaturbate - Free Adult Webcams, Live Sex, Free Sex Chat, Exhibitionist & Pornstar Free Cams",
-    "fileSize": 13879,
+    "fileSize": 14978,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -1231,9 +1256,9 @@
     ],
     "iconUrl": "https://web.static.mmcdn.com/favicons/apple-touch-icon-120x120.png?hash=b494063e083a",
     "apiVersion": 1,
-    "fileHash": "sha256-3001927d459ae9bd213e8cda3cfd76517c93d3a4cc8cda748e77a8f1e3445fa0",
+    "fileHash": "sha256-2fd4d4b11a5b1018f762705e885c4059f2308188f68b192d2142bb74f54fa35c",
     "isAdult": true,
-    "formattedSize": "13.6 KB",
+    "formattedSize": "14.6 KB",
     "isBroken": false
   },
   {
@@ -1336,14 +1361,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 413,
+    "version": 416,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 654736,
+    "fileSize": 661804,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1354,9 +1379,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b5a2200c759d3ddf0ddc3a659e600395d97dbe63d4d7090484f11a0215ff8a80",
+    "fileHash": "sha256-31d3271721d3d3ae283ee92833d5909255800f107b3b26c61ca992a1ac0ee538",
     "isAdult": false,
-    "formattedSize": "639.4 KB",
+    "formattedSize": "646.3 KB",
     "isBroken": false
   },
   {
@@ -1438,7 +1463,7 @@
       "Phisher98"
     ],
     "description": "Movies,Series and Anime French Extension ",
-    "fileSize": 35136,
+    "fileSize": 34811,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "fr",
     "tvTypes": [
@@ -1447,12 +1472,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Coflix.png",
     "apiVersion": 1,
-    "fileHash": "sha256-415f82f09ebae335d40a2569047df167a0c131dbb33355613cbdb4acbb2b3864",
-    "jarFileSize": 150054,
+    "fileHash": "sha256-5c99bcccaccd8412194f505bf78d89e4baf73ecc470936adce23685ac27454ce",
+    "jarFileSize": 149050,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.jar",
-    "jarHash": "sha256-04b34c86869fb79a7efdcf84c59339627ef6be53bba638c72806ef6ee6b24c1c",
+    "jarHash": "sha256-683d2db552d61a56950c6d2a4ede047f2f2da9216cb84eec90088354dc493cbf",
     "isAdult": false,
-    "formattedSize": "34.3 KB",
+    "formattedSize": "34 KB",
     "isBroken": false
   },
   {
@@ -2444,7 +2469,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/FamilyPorn.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "FamilyPorn",
     "internalName": "FamilyPorn",
     "authors": [
@@ -2452,7 +2477,7 @@
       "kerimmkirac"
     ],
     "description": "FamilyPornHD It's a natural mix of the neighborhood stepmoms, older stepdads, barely legal stepsisters, and even the college going stepbrother falling into some serious family fun.",
-    "fileSize": 16920,
+    "fileSize": 20202,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -2460,9 +2485,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=familypornhd.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-03f773523ee98c571d1b65e378065d605c92185be5b75dc8e0af053028914009",
+    "fileHash": "sha256-fc0630212b0c5d7a3613b036d0c10afda207afd5ed14d3e1d5a3915b6d6b7e63",
     "isAdult": true,
-    "formattedSize": "16.5 KB",
+    "formattedSize": "19.7 KB",
     "isBroken": false
   },
   {
@@ -2773,14 +2798,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Full4kizle.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "Full4kizle",
     "internalName": "Full4kizle",
     "authors": [
       "ByAyzen"
     ],
     "description": "Filmci Baba, film izleme sitesi 4k Full film izle, 1080p ve 4k (yalan) kalite de sinema filmleri ve dizileri, tek parça hd kalitede türkçe dublajlı filmler seyret.",
-    "fileSize": 21616,
+    "fileSize": 22040,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "tr",
     "tvTypes": [
@@ -2789,9 +2814,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://full4kizle.cc/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-5947c7dbe5b5c40d24cb6c24645e766008921ed0aa89a6271b5a2535f5894c82",
+    "fileHash": "sha256-aa7eeb8789e64de923947e2e710bff2a49999b2c7a30c3279f5bcc1392257f45",
     "isAdult": false,
-    "formattedSize": "21.1 KB",
+    "formattedSize": "21.5 KB",
     "isBroken": false
   },
   {
@@ -3715,14 +3740,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hindmoviez.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "Hindmoviez",
     "internalName": "Hindmoviez",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang)",
-    "fileSize": 52552,
+    "fileSize": 52481,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -3731,7 +3756,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/hindmoviez.png",
     "apiVersion": 1,
-    "fileHash": "sha256-005a2058c2d66efa7b385b10867edd27f307d30317d04503aa26444410a2a2ae",
+    "fileHash": "sha256-cd06bbd5f392a82f1d1c5635a96d1120df9f290816c71419ba7e13a8946f6195",
     "isAdult": false,
     "formattedSize": "51.3 KB",
     "isBroken": false
@@ -3855,13 +3880,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "IdlixProvider",
     "internalName": "IdlixProvider",
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 53234,
+    "fileSize": 52887,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "id",
     "tvTypes": [
@@ -3872,9 +3897,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/idlix.png",
     "apiVersion": 1,
-    "fileHash": "sha256-dade489074e958b9b54ae31de16a2b164d35aacac5750399db6565e1fc99a92b",
+    "fileHash": "sha256-b28d48dc1396d321d02e545bba197eccbb5371ef0befc45eceaee54ae307b600",
     "isAdult": false,
-    "formattedSize": "52 KB",
+    "formattedSize": "51.6 KB",
     "isBroken": false
   },
   {
@@ -4223,7 +4248,7 @@
       "ByAyzen"
     ],
     "description": "JavGuru",
-    "fileSize": 38276,
+    "fileSize": 38282,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -4231,7 +4256,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=jav.guru&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-764e29287943a77ecf118ab026669ddea33edaeb157fb2173ad200a91224a3a6",
+    "fileHash": "sha256-ed8f043b80e9656463ccc74bad3a0f295ee18cdfd97b94caaa32337dc26eeb8e",
     "isAdult": true,
     "formattedSize": "37.4 KB",
     "isBroken": false
@@ -4978,7 +5003,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/LayarKaca.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "LayarKaca",
     "internalName": "LayarKaca",
     "authors": [
@@ -4987,7 +5012,7 @@
       "Hexated"
     ],
     "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
-    "fileSize": 23788,
+    "fileSize": 23782,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "id",
     "tvTypes": [
@@ -4996,7 +5021,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv7.lk21official.cc&size=256",
     "apiVersion": 1,
-    "fileHash": "sha256-fe264ea5227e67396ae81eee50aaeb186ec336e07d9202cfbd8b84ada0cd2d66",
+    "fileHash": "sha256-c8dc8481273ad858f5722baf7c451b9f20409261375c3f80b5a6d3629f18a36d",
     "isAdult": false,
     "formattedSize": "23.2 KB",
     "isBroken": false
@@ -5280,7 +5305,7 @@
       "Phisher98"
     ],
     "description": "Movies,Series and Anime German Extension ",
-    "fileSize": 18574,
+    "fileSize": 18130,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "de",
     "tvTypes": [
@@ -5288,12 +5313,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Megakino.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-f9441f4a45e9a81e1a22d86cb313dd65b0f29b683df96d626d91632be423f1c4",
-    "jarFileSize": 70575,
+    "fileHash": "sha256-b316dac22facb6298c38ea9767d6a572f3e7435d409f31712069b7ee4979f940",
+    "jarFileSize": 69323,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Megakino.jar",
-    "jarHash": "sha256-499159e1e19cc227818d85340f90901cd9d7fa4102c30c1b3c2e708674b3cc7c",
+    "jarHash": "sha256-d2095f5059f8a6f63029598dd5b9a1a690224146902ff53a16f3bee998926e8c",
     "isAdult": false,
-    "formattedSize": "18.1 KB",
+    "formattedSize": "17.7 KB",
     "isBroken": false
   },
   {
@@ -5755,14 +5780,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 78540,
+    "fileSize": 81236,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5771,9 +5796,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-455d06710fe83bcb8f7f416049829418d946fdfeb6cc848499554e67beeed8db",
+    "fileHash": "sha256-339e0a7490e7d511daa44469f6cab154996e0599491c12e1ae3c3bc9b592822e",
     "isAdult": false,
-    "formattedSize": "76.7 KB",
+    "formattedSize": "79.3 KB",
     "isBroken": false
   },
   {
@@ -6112,6 +6137,31 @@
     "name": "Nimegami",
     "isAdult": false,
     "formattedSize": "20 KB",
+    "isBroken": false
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
+    "fileHash": "sha256-500fd2898df2e9c3983eb46d35a4144d4e7e407c963e5c50d00243cfd5af2bdb",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
+    "fileSize": 24113,
+    "status": 1,
+    "language": "id",
+    "authors": [
+      "Hexated"
+    ],
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "OVA"
+    ],
+    "version": 1,
+    "internalName": "NimegamiProvider",
+    "description": "Nimegami — Streaming Anime Subtitle Indonesia",
+    "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/NimegamiProvider.cs3",
+    "name": "NimegamiProvider",
+    "isAdult": false,
+    "formattedSize": "23.5 KB",
     "isBroken": false
   },
   {
@@ -7961,7 +8011,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1004875,
+    "fileSize": 1004170,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7974,9 +8024,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-86a127661301705379545f2b8aeeef6bd217e57c9080406df6aa5fb5dc569ee7",
+    "fileHash": "sha256-070b33dfbdc68adf38f49a56141a92abddec1ce1a48b606f0b28d9efc010f3ab",
     "isAdult": false,
-    "formattedSize": "981.3 KB",
+    "formattedSize": "980.6 KB",
     "isBroken": false
   },
   {
@@ -8220,14 +8270,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Sxyprn.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Sxyprn",
     "internalName": "Sxyprn",
     "authors": [
       "ByAyzen"
     ],
     "description": "Enjoy the high quality porn videos, upload original content.",
-    "fileSize": 33289,
+    "fileSize": 36013,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -8235,9 +8285,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sxyprn.com&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-6c8e809d65c2565c0fd4fcc9ebac07e4566a0a949f213de4ad2692b8471d0312",
+    "fileHash": "sha256-91808d67b0ae07c4b4df271461e6c764defeb8273b59b6041fb42cace02ac4fd",
     "isAdult": true,
-    "formattedSize": "32.5 KB",
+    "formattedSize": "35.2 KB",
     "isBroken": false
   },
   {
