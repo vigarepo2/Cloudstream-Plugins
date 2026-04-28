@@ -764,6 +764,31 @@
     "isBroken": false
   },
   {
+    "iconUrl": "https://animexin.dev/wp-content/uploads/2020/06/animexinv1.png",
+    "fileHash": "sha256-270c071f6a2d0fed56e819c6e7bc2176b9b26279abb014bd655bf6aa36a40516",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
+    "fileSize": 14956,
+    "status": 1,
+    "language": "id",
+    "authors": [
+      "Miku"
+    ],
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "Cartoon"
+    ],
+    "version": 1,
+    "internalName": "AnimexinProvider",
+    "description": "Animexin — Streaming Donghua Subtitle Indonesia",
+    "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/AnimexinProvider.cs3",
+    "name": "AnimexinProvider",
+    "isAdult": false,
+    "formattedSize": "14.6 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
     "status": 1,
     "version": 3,
@@ -860,10 +885,10 @@
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anoboy.be&size=%size%",
-    "fileHash": "sha256-71628e970428ce035dd39c76fd31b4ac3610f8418401f4c7e942cde9881a12cd",
+    "fileHash": "sha256-cd202c97acc27c165f7a5597b8d100e9b9e583be77d3f14d1c3db1f6ac5a69d7",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
-    "fileSize": 58483,
+    "fileSize": 58497,
     "status": 1,
     "language": "id",
     "authors": [
@@ -876,7 +901,7 @@
     ],
     "version": 1,
     "internalName": "AnoboyProvider",
-    "description": "Anoboy",
+    "description": "AnoBoy — Streaming Anime Subtitle Indonesia",
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/AnoboyProvider.cs3",
     "name": "AnoboyProvider",
     "isAdult": false,
@@ -1264,14 +1289,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "Cinemacity",
     "internalName": "Cinemacity",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-    "fileSize": 39779,
+    "fileSize": 45406,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1280,9 +1305,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Cinemacity.png",
     "apiVersion": 1,
-    "fileHash": "sha256-90a2d84b3616df6bd2655876bc0b6c3457a357463cc3bca908aa263acf749c48",
+    "fileHash": "sha256-5072bd660b29b64f1bec4826ec359f43d46993821a2c8b99bfb45827ffa3bb7d",
     "isAdult": false,
-    "formattedSize": "38.8 KB",
+    "formattedSize": "44.3 KB",
     "isBroken": false
   },
   {
@@ -1361,14 +1386,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 416,
+    "version": 417,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 661804,
+    "fileSize": 667194,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1379,9 +1404,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-31d3271721d3d3ae283ee92833d5909255800f107b3b26c61ca992a1ac0ee538",
+    "fileHash": "sha256-34bb549248c431abaa6f15c228df9da97e53b8abee9aa53f2fe536000c821d1c",
     "isAdult": false,
-    "formattedSize": "646.3 KB",
+    "formattedSize": "651.6 KB",
     "isBroken": false
   },
   {
@@ -5680,14 +5705,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Movies4u",
     "internalName": "Movies4u",
     "authors": [
       "Phisher98"
     ],
     "description": "Movies4u",
-    "fileSize": 68462,
+    "fileSize": 68895,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -5696,12 +5721,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
     "apiVersion": 1,
-    "fileHash": "sha256-729303aabacf3a3a454f1bee8359269dea87228040920e4acd9cbad25276170c",
-    "jarFileSize": 300540,
+    "fileHash": "sha256-5539e4b79206917317ffbf3976235e18e3e9318ba7a17c25b50c20aec21aa842",
+    "jarFileSize": 301158,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.jar",
-    "jarHash": "sha256-9b6ab453bc3b652158c2f9a853ae891fc3675020cd58fe163caa2843e7d07f20",
+    "jarHash": "sha256-5d1e3c3388b75fa78b4d8e7ccec71de9ac5ec58ae6adbb57924415813016cdcc",
     "isAdult": false,
-    "formattedSize": "66.9 KB",
+    "formattedSize": "67.3 KB",
     "isBroken": false
   },
   {
@@ -7032,14 +7057,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Porn36.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "Porn36",
     "internalName": "Porn36",
     "authors": [
       "kraptor"
     ],
     "description": "Dive into a wild world of Porn Videos! Feast on free movies in spicy 4K & HD. Ads won’t crash your party!",
-    "fileSize": 12883,
+    "fileSize": 13194,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -7047,9 +7072,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.porn36.com&size=32",
     "apiVersion": 1,
-    "fileHash": "sha256-692a4362907d815120182778f058ffaaca426aef1eb2720cbe0508219880ecad",
+    "fileHash": "sha256-20626e06bbe84a6502750e322096b30733f99cb324c1324c5367cb86cf249630",
     "isAdult": true,
-    "formattedSize": "12.6 KB",
+    "formattedSize": "12.9 KB",
     "isBroken": false
   },
   {
@@ -8011,7 +8036,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1004170,
+    "fileSize": 1009522,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8024,9 +8049,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-070b33dfbdc68adf38f49a56141a92abddec1ce1a48b606f0b28d9efc010f3ab",
+    "fileHash": "sha256-884ee29db019aa36a33b1755ea1b55e1c3c345af8aeffcdc6c8481bb0976b54c",
     "isAdult": false,
-    "formattedSize": "980.6 KB",
+    "formattedSize": "985.9 KB",
     "isBroken": false
   },
   {
@@ -8872,14 +8897,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 20,
+    "version": 21,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19508,
+    "fileSize": 19505,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8887,9 +8912,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://trkhub.fun&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-7e3bf702bdc0c9b6f255dd19e2593701c369a83124de02b3a2d29b55d583a15c",
+    "fileHash": "sha256-716307a98f1b8a5fc78743edbf72920cc4d41ee3aace26bab42ed65424173812",
     "isAdult": true,
-    "formattedSize": "19.1 KB",
+    "formattedSize": "19 KB",
     "isBroken": false
   },
   {
@@ -8963,14 +8988,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 70,
+    "version": 71,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34236,
+    "fileSize": 34234,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8978,7 +9003,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno3.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-edaed42c70951e2c5322b09ef2c2948cf4496838a36f27e92d329111af495d6c",
+    "fileHash": "sha256-36c6b83655611d95e31a6ebe6ed259f67eafee0b0caa58a17f7131e067cb88e7",
     "isAdult": true,
     "formattedSize": "33.4 KB",
     "isBroken": false
