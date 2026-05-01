@@ -1434,14 +1434,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 419,
+    "version": 420,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 665886,
+    "fileSize": 639797,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1452,9 +1452,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d0da29a163ac01743abeff2f815d52341d86410241e05d72b45906ffeb9025c5",
+    "fileHash": "sha256-a37cba93f7c9f4e7ea275625bae254f5049e9ed644fac31c0873aa4780a8e742",
     "isAdult": false,
-    "formattedSize": "650.3 KB",
+    "formattedSize": "624.8 KB",
     "isBroken": false
   },
   {
@@ -1506,10 +1506,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
-    "fileHash": "sha256-87f5aa33ea3a4346ae70fba3758ac2427007a9fd6579133020dbc5f34ca0dc52",
+    "fileHash": "sha256-93379e0fd3ae8c3c0287025f0f48a348b44fc87a4a2807b6c81f905b4b4ea56d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 55848,
+    "fileSize": 57675,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1519,13 +1519,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 55,
+    "version": 56,
     "internalName": "CNC Verse",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
     "name": "CNC Verse",
     "isAdult": false,
-    "formattedSize": "54.5 KB",
+    "formattedSize": "56.3 KB",
     "isBroken": false
   },
   {
@@ -1654,14 +1654,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/CricHD.cs3",
     "status": 0,
-    "version": 4,
+    "version": 5,
     "name": "CricHD",
     "internalName": "CricHD",
     "authors": [
       "kraptor"
     ],
     "description": "Watch Live Cricket Streaming Online on our website CricHD. Crichd offer free cricket streams for every match on laptop, iphone, ipad and mobile.",
-    "fileSize": 17495,
+    "fileSize": 17504,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -1669,7 +1669,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=crichd.asia",
     "apiVersion": 1,
-    "fileHash": "sha256-ee6dc09ff189155df73450cc817c095318a64c9726d7aeee699c25ad3bc74de8",
+    "fileHash": "sha256-a39d7037771339d1b34d7d5982115257d9aab0f4db6d960478245b206f0cbaa9",
     "isAdult": false,
     "formattedSize": "17.1 KB",
     "isBroken": true
@@ -2476,7 +2476,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Esheaq.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "Esheaq",
     "internalName": "Esheaq",
     "authors": [
@@ -2492,7 +2492,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://w.esheaq.onl/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d8c6235a65e03b6449a75cb160e8ed202f7ac2d96db942133da624694e0a3fd5",
+    "fileHash": "sha256-18d41546be803f53dffde7d232ec7ce339ac363848cd0c1935c3c15248ad3dc3",
     "isAdult": false,
     "formattedSize": "16.9 KB",
     "isBroken": false
