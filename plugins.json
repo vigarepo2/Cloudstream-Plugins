@@ -2,14 +2,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/18EU.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "18EU",
     "internalName": "18EU",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch full EURO Movies with Full Frontal Nudity",
-    "fileSize": 15576,
+    "fileSize": 15443,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -17,9 +17,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://18eu.net&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-2f91875606d63a898c3d027d7716d644d1667c42fe287eaf453fe734c6b58d52",
+    "fileHash": "sha256-3b6e8d54413333061e90b76b67cc8bd9759124fa9262dd2dc19f9fb624ba90bc",
     "isAdult": true,
-    "formattedSize": "15.2 KB",
+    "formattedSize": "15.1 KB",
     "isBroken": false
   },
   {
@@ -1434,14 +1434,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 420,
+    "version": 421,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 639797,
+    "fileSize": 640284,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1452,9 +1452,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a37cba93f7c9f4e7ea275625bae254f5049e9ed644fac31c0873aa4780a8e742",
+    "fileHash": "sha256-d25afa6c6ab69fc4d5111f111f2df47665ae2a1baab91c5007b765389864e41a",
     "isAdult": false,
-    "formattedSize": "624.8 KB",
+    "formattedSize": "625.3 KB",
     "isBroken": false
   },
   {
@@ -1506,10 +1506,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
-    "fileHash": "sha256-93379e0fd3ae8c3c0287025f0f48a348b44fc87a4a2807b6c81f905b4b4ea56d",
+    "fileHash": "sha256-5533a9c6be13e49fd246b021fe6d1149d488f7574d83eb185e5f4fbc811726a0",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 57675,
+    "fileSize": 71614,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1519,13 +1519,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 56,
+    "version": 58,
     "internalName": "CNC Verse",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
     "name": "CNC Verse",
     "isAdult": false,
-    "formattedSize": "56.3 KB",
+    "formattedSize": "69.9 KB",
     "isBroken": false
   },
   {
@@ -6967,7 +6967,7 @@
       "ByAyzen"
     ],
     "description": "Looking for the hottest content on the internet? PimpBunny brings you the hottest porn videos and lets you chat with the content creators.",
-    "fileSize": 20430,
+    "fileSize": 18590,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -6975,9 +6975,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pimpbunny.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-170079bd23f5c2feddff9327c6b8590eade5434972fead8a0285386d0fc48c1f",
+    "fileHash": "sha256-ed3b135a2b3849337dbec1e47a5a1c360c5aed34e4241d6cda101cb41aefb743",
     "isAdult": true,
-    "formattedSize": "20 KB",
+    "formattedSize": "18.2 KB",
     "isBroken": false
   },
   {
@@ -6990,7 +6990,7 @@
       "ByAyzen"
     ],
     "description": "Watch Full Pinku Eiga, Japan movies 18+",
-    "fileSize": 15619,
+    "fileSize": 15347,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -6998,9 +6998,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinkueiga.net&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-a48dc570cf26737e214f1cae14400ce27465e9d027fe8e65bb2a0fc4ebc8fe56",
+    "fileHash": "sha256-7dc5a8d4c761b3c991e1817ee5d985363a27b2427d999dacf2af977c997dd27b",
     "isAdult": true,
-    "formattedSize": "15.3 KB",
+    "formattedSize": "15 KB",
     "isBroken": false
   },
   {
@@ -7889,10 +7889,10 @@
   },
   {
     "iconUrl": "https://appteka.store/get/a20p17EuCKFD08AaFsfH3JSJ6OU30ccp18WrKaNDze4LqOsDArhKj13-f-SjAayiWJH6P6pv9AlzhcfzEXlmRokU-I4=/726bbb91e36da425f55efce72cccb3a82df1d265.png",
-    "fileHash": "sha256-2639f79c4061c379d5956ef74da7b0c6925d05d5e9d99bf46a8c25aa9023bbbb",
+    "fileHash": "sha256-51a514c7d315eacc7ace8e5bdf7171e1ae6ef600d68eaf73af4d18e707ca58e0",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 80386,
+    "fileSize": 84555,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7901,13 +7901,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "SKTechProvider",
     "description": "Watch Live sports and TV channels via SK Tech",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.cs3",
     "name": "SKTechProvider",
     "isAdult": false,
-    "formattedSize": "78.5 KB",
+    "formattedSize": "82.6 KB",
     "isBroken": false
   },
   {
