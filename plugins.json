@@ -1434,14 +1434,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 421,
+    "version": 422,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 640284,
+    "fileSize": 640499,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1452,9 +1452,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d25afa6c6ab69fc4d5111f111f2df47665ae2a1baab91c5007b765389864e41a",
+    "fileHash": "sha256-802e2657b68ce5d8cc2f0172d4d818675d7e728ed1b6869e2b98ed0f3ff729a4",
     "isAdult": false,
-    "formattedSize": "625.3 KB",
+    "formattedSize": "625.5 KB",
     "isBroken": false
   },
   {
@@ -2789,7 +2789,7 @@
       "Phisher98"
     ],
     "description": "4K Movies Extension by HDHUB4U",
-    "fileSize": 66695,
+    "fileSize": 66628,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -2798,7 +2798,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-98360f1e5cc6a263d95bdc910d524d054ec856127da7c769e50dd7e63d6a4aff",
+    "fileHash": "sha256-9eee818aeb8dba6bfaf3632cdcb78ddaab085bd3176095754c89b8552d0d32b2",
     "isAdult": false,
     "formattedSize": "65.1 KB",
     "isBroken": false
@@ -3419,13 +3419,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
     "status": 1,
-    "version": 44,
+    "version": 45,
     "name": "HDhub4u",
     "internalName": "HDhub4u",
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 79946,
+    "fileSize": 79920,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -3435,9 +3435,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
     "apiVersion": 1,
-    "fileHash": "sha256-71ca942b12acb85f371c8c4e64a299190b612165fb6f187eec4a5beafc72ebb9",
+    "fileHash": "sha256-182112d9c132a2b2e63541a8b93eff0b289eab47e7c92c7b37e860255a9468b0",
     "isAdult": false,
-    "formattedSize": "78.1 KB",
+    "formattedSize": "78 KB",
     "isBroken": false
   },
   {
@@ -3765,29 +3765,6 @@
     "fileHash": "sha256-890c9cad6cefe1c9a0e82625c8b0bcc6a884b716f373be249c74e837945c4882",
     "isAdult": true,
     "formattedSize": "26.5 KB",
-    "isBroken": true
-  },
-  {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HiAnime.cs3",
-    "status": 0,
-    "version": 31,
-    "name": "HiAnime",
-    "internalName": "HiAnime",
-    "authors": [
-      "Stormunblessed, KillerDogeEmpire,RowdyRushya,Phisher98"
-    ],
-    "fileSize": 57646,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": [
-      "Anime",
-      "OVA"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-7d23e36383cbc33798b4130c910015ce7098b6400dd7fc637d9205bf763a8a0e",
-    "isAdult": false,
-    "formattedSize": "56.3 KB",
     "isBroken": true
   },
   {
@@ -5785,14 +5762,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
     "status": 1,
-    "version": 29,
+    "version": 30,
     "name": "MoviesDrive",
     "internalName": "MoviesDrive",
     "authors": [
       "megix"
     ],
     "description": "High Quality Movies and TV Shows",
-    "fileSize": 46702,
+    "fileSize": 46698,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "hi",
     "tvTypes": [
@@ -5803,7 +5780,7 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-fef158d1ab7f8d0c7eef258398dc3d07b30b1573b8407947a9ef74f113760157",
+    "fileHash": "sha256-71bc762e7f7a808dadeca2f3239be2deefd3269976ff41e01593a395169c96f9",
     "isAdult": false,
     "formattedSize": "45.6 KB",
     "isBroken": false
@@ -8058,7 +8035,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 625,
+    "version": 626,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8066,7 +8043,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1010076,
+    "fileSize": 1010782,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8079,9 +8056,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-ed1dd62a209d652a154d6216d0610133ad7aeb6d6b90dc377d31e5da6841d436",
+    "fileHash": "sha256-20681827cf1719bcd1d3fc82c47a44f1fd5c55913a01eb02b8a04acfb259f1d5",
     "isAdult": false,
-    "formattedSize": "986.4 KB",
+    "formattedSize": "987.1 KB",
     "isBroken": false
   },
   {
@@ -8506,33 +8483,6 @@
     "name": "TamilUltraProvider",
     "isAdult": false,
     "formattedSize": "17.1 KB",
-    "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Telugumv.cs3",
-    "status": 1,
-    "version": 5,
-    "name": "Telugumv",
-    "internalName": "Telugumv",
-    "authors": [
-      "Phisher98"
-    ],
-    "description": "Telugu Movies and TV Series",
-    "fileSize": 28157,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "te",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://telugumv.fun/wp-content/uploads/2024/05/20240509_195734-e1715265186634.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-b3c8a40d04f318b17dedd5086e1cb98bf7a9d2bb10f7de0ed4ecd906efa69f7c",
-    "jarFileSize": 109498,
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Telugumv.jar",
-    "jarHash": "sha256-749fb30eb6dc6280278ce7a289f02bf9446bf280f1333745edea32d684e4f66e",
-    "isAdult": false,
-    "formattedSize": "27.5 KB",
     "isBroken": false
   },
   {
