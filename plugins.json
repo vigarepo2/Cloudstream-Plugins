@@ -23,29 +23,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/7ebtv.cs3",
-    "status": 0,
-    "version": 6,
-    "name": "7ebtv",
-    "internalName": "7ebtv",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "An arabic site for watching turkish dramas.",
-    "fileSize": 34931,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "ar",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=7abtv.live",
-    "apiVersion": 1,
-    "fileHash": "sha256-85e3fc07a9a10327a21037783f37209d95bdfb62742728055969fd4aee9c22b5",
-    "isAdult": false,
-    "formattedSize": "34.1 KB",
-    "isBroken": true
-  },
-  {
     "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/actionviewphotography.cs3",
     "status": 1,
     "version": 12,
@@ -237,14 +214,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllWish.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "AllWish",
     "internalName": "AllWish",
     "authors": [
       "Phisher98"
     ],
     "description": "Anime from all-wish.me",
-    "fileSize": 41629,
+    "fileSize": 41765,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -252,12 +229,12 @@
     ],
     "iconUrl": "https://all-wish.me/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-549d50e8902dc961a6b250324f780e85a7dc8770278aa49965002ae27c17c52b",
-    "jarFileSize": 149207,
+    "fileHash": "sha256-f154473061c59d5217b19b61717b8fa272d17b7516681ee96586413657997d80",
+    "jarFileSize": 149070,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllWish.jar",
-    "jarHash": "sha256-23a59efb2e567da0356c4f6ba2fca0d23041a2c7e7a23bed7f3fbf6e422948bc",
+    "jarHash": "sha256-a8517ca51d627f95a9f1eeb6a73d44511a9c6dc4bc23c049667ed68ea49110ae",
     "isAdult": false,
-    "formattedSize": "40.7 KB",
+    "formattedSize": "40.8 KB",
     "isBroken": false
   },
   {
@@ -1099,29 +1076,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/BasketballVideo.cs3",
-    "status": 0,
-    "version": 6,
-    "name": "BasketballVideo",
-    "internalName": "BasketballVideo",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "Watch NBA Full Match | NBA Basketball Full Games Replays, Highlights, News, TV Show Free.",
-    "fileSize": 16226,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "en",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://basketball-video.com&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-39db558e33065a61d0df675ef93bfd2adf9fff90facfdd9a100667a57b25430f",
-    "isAdult": false,
-    "formattedSize": "15.8 KB",
-    "isBroken": true
-  },
-  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Beeg.cs3",
     "status": 1,
     "version": 4,
@@ -1650,29 +1604,6 @@
     "isAdult": true,
     "formattedSize": "14.6 KB",
     "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/CricHD.cs3",
-    "status": 0,
-    "version": 5,
-    "name": "CricHD",
-    "internalName": "CricHD",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "Watch Live Cricket Streaming Online on our website CricHD. Crichd offer free cricket streams for every match on laptop, iphone, ipad and mobile.",
-    "fileSize": 17504,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "en",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=crichd.asia",
-    "apiVersion": 1,
-    "fileHash": "sha256-a39d7037771339d1b34d7d5982115257d9aab0f4db6d960478245b206f0cbaa9",
-    "isAdult": false,
-    "formattedSize": "17.1 KB",
-    "isBroken": true
   },
   {
     "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
@@ -2476,14 +2407,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Esheaq.cs3",
     "status": 1,
-    "version": 13,
+    "version": 14,
     "name": "Esheaq",
     "internalName": "Esheaq",
     "authors": [
       "kraptor"
     ],
     "description": "قصة عشق الأصلي لأحدث المسلسلات التركية والدراما المترجمة علي قصه عشق ، يمكنك من خلال موقع قصة عشق مشاهدة كل جديد في عالم الدراما التركية",
-    "fileSize": 17311,
+    "fileSize": 17302,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "ar",
     "tvTypes": [
@@ -2492,7 +2423,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://w.esheaq.onl/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-18d41546be803f53dffde7d232ec7ce339ac363848cd0c1935c3c15248ad3dc3",
+    "fileHash": "sha256-8876a124c5ca9479147e562416de98ec28acebb204e2e0dea3cef3608eb26032",
     "isAdult": false,
     "formattedSize": "16.9 KB",
     "isBroken": false
@@ -2989,56 +2920,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FullReplays.cs3",
-    "status": 0,
-    "version": 2,
-    "name": "FullReplays",
-    "internalName": "FullReplays",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "description": "Watch latest football full match replay of Premier League, Champions League, LaLiga, Serie A, Bundesliga, Ligue 1, Europa League, and more...",
-    "fileSize": 11275,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullreplays.com&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-34fd5a7550f5e57e1504b8aded1c144917dfdc39436f982ba53031abd95667e4",
-    "isAdult": false,
-    "formattedSize": "11 KB",
-    "isBroken": true
-  },
-  {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Funmovieslix.cs3",
-    "status": 1,
-    "version": 5,
-    "name": "Funmovieslix",
-    "internalName": "Funmovieslix",
-    "authors": [
-      "Phisher98"
-    ],
-    "description": "Indonesia Source",
-    "fileSize": 32302,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "id",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Funmovieslix.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-62a17881dffea55549c671bdc9207dc5f83597f87450cf5418605f597ebd1a28",
-    "jarFileSize": 129379,
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Funmovieslix.jar",
-    "jarHash": "sha256-cfb2b3d57bda22c281f1ad0e160bf8f2ee966b7bbf7756392a70bd17b08e9c34",
-    "isAdult": false,
-    "formattedSize": "31.5 KB",
-    "isBroken": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/FXPrnHD.cs3",
     "status": 1,
     "version": 3,
@@ -3272,29 +3153,6 @@
     "isAdult": true,
     "formattedSize": "10.6 KB",
     "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/GoodShort.cs3",
-    "status": 0,
-    "version": 2,
-    "name": "GoodShort",
-    "internalName": "GoodShort",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "GoodShort",
-    "fileSize": 16666,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "en",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.goodshort.com/public/favicon.ico",
-    "apiVersion": 1,
-    "fileHash": "sha256-b515ce603e381bbb817b9bb74c7a0a7db97e61d9aab63ac9d9db6f86398b2d01",
-    "isAdult": false,
-    "formattedSize": "16.3 KB",
-    "isBroken": true
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Goojara.cs3",
@@ -3745,29 +3603,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/HentaizmManga.cs3",
-    "status": 0,
-    "version": 4,
-    "name": "HentaizmManga",
-    "internalName": "HentaizmManga",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "[TEST AŞAMASINDA]Hentai Manga Oku, Yetişkin Webtoon Oku.",
-    "fileSize": 27114,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
-    "language": "tr",
-    "tvTypes": [
-      "NSFW"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://manga.hentaizm6.online/&size=64",
-    "apiVersion": 1,
-    "fileHash": "sha256-890c9cad6cefe1c9a0e82625c8b0bcc6a884b716f373be249c74e837945c4882",
-    "isAdult": true,
-    "formattedSize": "26.5 KB",
-    "isBroken": true
-  },
-  {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v2.hidoristream.online&size=%size%",
     "fileHash": "sha256-ff3bc4f8fbe9855ce8b9392cf41befca8f6a78d4c3c0ede1813a4abb92e71512",
     "apiVersion": 1,
@@ -4008,29 +3843,6 @@
     "isAdult": false,
     "formattedSize": "26.6 KB",
     "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/IfsaLog.cs3",
-    "status": 0,
-    "version": 5,
-    "name": "IfsaLog",
-    "internalName": "IfsaLog",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "İfsalog Saklanan ne varsa burada ifşa olur ! - Türkiye’nin en güncel ifşa içeriklerini HD kalitede keşfedin – sızdırılmış videolar, özel çekimler ve sosyal medya medyasıyla gerçek ifşalar şimdi burada!",
-    "fileSize": 12823,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
-    "language": "tr",
-    "tvTypes": [
-      "NSFW"
-    ],
-    "iconUrl": "https://turkifsaalemivip1.blog/wp-content/uploads/2025/10/cropped-yeni-logo-anasite-180x180.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-5db1f9b721354ce2ca8edd8aef51395ba598f77810e8e1f90341e1bc24d86b19",
-    "isAdult": true,
-    "formattedSize": "12.5 KB",
-    "isBroken": true
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.i-moviehd.com&sz=%size%",
@@ -4458,14 +4270,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Javtiful.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Javtiful (2)",
     "internalName": "Javtiful_2",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch more than 60,000 Full HD JAV Online For Free at Javtiful",
-    "fileSize": 16010,
+    "fileSize": 16620,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -4473,9 +4285,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://javtiful.com/main&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e9328c31b820b4f4c48b0e78a8c7d96e719f38fede86efb5851f89bc1466188b",
+    "fileHash": "sha256-973838d1ec8f066f19c62e7c750a72aa5fb7a5d259827f427d39580c18f7f72f",
     "isAdult": true,
-    "formattedSize": "15.6 KB",
+    "formattedSize": "16.2 KB",
     "isBroken": false
   },
   {
@@ -5489,29 +5301,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Monochrome.cs3",
-    "status": 1,
-    "version": 2,
-    "name": "Monochrome",
-    "internalName": "Monochrome",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.",
-    "fileSize": 25505,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "en",
-    "tvTypes": [
-      "Music"
-    ],
-    "iconUrl": "https://i.imgur.com/aj69sXl.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-2c9238db8e8e0caf87b3cc218b91521971d75b84c28ea66bf0922cb569353371",
-    "isAdult": false,
-    "formattedSize": "24.9 KB",
-    "isBroken": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MoonTV.cs3",
     "status": 1,
     "version": 4,
@@ -5735,14 +5524,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "Movies4u",
     "internalName": "Movies4u",
     "authors": [
       "Phisher98"
     ],
     "description": "Movies4u",
-    "fileSize": 68896,
+    "fileSize": 68907,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -5751,10 +5540,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f6c937285717c9e9bb5ed0c86d8d7b428cab57a4ab8fada83f0f4765f29339a0",
-    "jarFileSize": 301161,
+    "fileHash": "sha256-c5853311796ad82f0be4ed2c6f7bcccb607cc422e47a040c05b8cec9d4e01923",
+    "jarFileSize": 301180,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.jar",
-    "jarHash": "sha256-1872048ea00da9e72816c06e69f7aa753de2a930b271c0d02206e571738585ec",
+    "jarHash": "sha256-1bc6e10336054c72707849d3eaa3559c3ed9da4b02a2528f6a98128f79b8ae01",
     "isAdult": false,
     "formattedSize": "67.3 KB",
     "isBroken": false
@@ -5936,29 +5725,6 @@
     "isAdult": false,
     "formattedSize": "45.8 KB",
     "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/NbaReplay.cs3",
-    "status": 0,
-    "version": 5,
-    "name": "NbaReplay",
-    "internalName": "NbaReplay",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "Latest NBA Videos Regular season and Playoffs",
-    "fileSize": 17928,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "en",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://avatars.mds.yandex.net/i?id=8b7c3551ce8cda8add11cbea791bb11b7e742f22-5332070-images-thumbs&n=13",
-    "apiVersion": 1,
-    "fileHash": "sha256-0b1d51919703714e057cf916fd9114c41f12709d9ebc9aefe35cab2e5de8ea1a",
-    "isAdult": false,
-    "formattedSize": "17.5 KB",
-    "isBroken": true
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=nekopoi.care&sz=%size%",
@@ -7720,29 +7486,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/SexAlArab.cs3",
-    "status": 0,
-    "version": 3,
-    "name": "SexAlArab",
-    "internalName": "SexAlArab",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "سكس العرب سكس مترجم الافضل في ترجمة افلام اباحة اجنبي للعربية مكتبة ضخمة متنوعة ومتجددة تاخذك الى اعماق المتعة الجنسية بتصنيفات متعددة , سكس محارم , سكس امهات , افلام سكس - افلام جنس اباحه , افلام سكس نيك مترجمه , سكس عربي مترجم - محارم مترجم - موقع سكس العرب",
-    "fileSize": 20248,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
-    "language": "ar",
-    "tvTypes": [
-      "NSFW"
-    ],
-    "iconUrl": "http://www.google.com/s2/favicons?domain=sexalarab.com&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-c2f08dda635fe0615ba3d9387d234a83286ecbb4c0c7df55c1fcba4c5b60a238",
-    "isAdult": true,
-    "formattedSize": "19.8 KB",
-    "isBroken": true
-  },
-  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Sexfilm.cs3",
     "status": 1,
     "version": 1,
@@ -7791,14 +7534,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/SexTB.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "SexTB",
     "internalName": "SexTB",
     "authors": [
       "ByAyzen"
     ],
     "description": "The Best Free JAV online, JAV DVD online, Stream JAV Online High Quality always updated daily.",
-    "fileSize": 33504,
+    "fileSize": 36445,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "jp",
     "tvTypes": [
@@ -7806,9 +7549,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sextb.net/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-db0f63147be6907d075a9383a507b4afd7261112ca195078cb7102a20db2a79b",
+    "fileHash": "sha256-e708e791dba45b724f0e8b38d18917676fd99f8027dc40b4f60bfbec23ceccf8",
     "isAdult": true,
-    "formattedSize": "32.7 KB",
+    "formattedSize": "35.6 KB",
     "isBroken": false
   },
   {
@@ -7910,30 +7653,6 @@
     "isAdult": true,
     "formattedSize": "23.4 KB",
     "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Soccerfullmatch.cs3",
-    "status": 0,
-    "version": 4,
-    "name": "Soccerfullmatch",
-    "internalName": "Soccerfullmatch",
-    "authors": [
-      "ByAyzen",
-      "kraptor"
-    ],
-    "description": "Watch and download full match replay!",
-    "fileSize": 19393,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "en",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://soccerfullmatch.com/wp-content/uploads/2024/06/cropped-favicon-180x180.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-abcc2c4d647c9f4e6ff987cda3d5e49df33971aa3e97eef8325c9b25341197e5",
-    "isAdult": false,
-    "formattedSize": "18.9 KB",
-    "isBroken": true
   },
   {
     "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1193122096159674448/2-modified.png?ex=65ec2a0a&is=65d9b50a&hm=f1e0b0165e71101e5440b47592d9e15727a6c00cdeb3512108067bfbdbef1af7&",
@@ -8132,29 +7851,6 @@
     "isAdult": false,
     "formattedSize": "68.4 KB",
     "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Stripchat.cs3",
-    "status": 0,
-    "version": 4,
-    "name": "Stripchat",
-    "internalName": "Stripchat",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "Watch Naked Models in our Adult Live Sex Cams Community. ❤️ It's FREE & No Registration Needed. 🔥 4000+ LIVE Cam Girls and Couples are Ready to Chat.",
-    "fileSize": 42608,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
-    "language": "en",
-    "tvTypes": [
-      "NSFW"
-    ],
-    "iconUrl": "https://assets.strpst.com/assets/icons/favicon-196x196.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-6eca6fc2513fbd4436cc1265b3eb4c434b9d9afd41ffbabdc06e40270e4b7656",
-    "isAdult": true,
-    "formattedSize": "41.6 KB",
-    "isBroken": true
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Subsplease.cs3",
