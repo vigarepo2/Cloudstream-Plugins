@@ -816,14 +816,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "AnimeYTX",
     "internalName": "AnimeYTX",
     "authors": [
       "ByAyzen"
     ],
     "description": "Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
-    "fileSize": 28337,
+    "fileSize": 28347,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -831,7 +831,7 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeytx.net/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-a0b71594e6ac6bdd3c531e9bf9e30d5ab985546180500cc0cf8aa92a91032258",
+    "fileHash": "sha256-bc45cdd9ccd55284b3b4b82eb8c7a51be2d37d9a9a4e91dfebd0710d81d73251",
     "isAdult": false,
     "formattedSize": "27.7 KB",
     "isBroken": false
@@ -1492,7 +1492,7 @@
       "Phisher98"
     ],
     "description": "Movies,Series and Anime French Extension ",
-    "fileSize": 34811,
+    "fileSize": 29211,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "fr",
     "tvTypes": [
@@ -1501,12 +1501,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Coflix.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5c99bcccaccd8412194f505bf78d89e4baf73ecc470936adce23685ac27454ce",
-    "jarFileSize": 149050,
+    "fileHash": "sha256-51746ce5051eb9ef59b5ccb4309160a2af0a33fec747c7d7794a78c8812336c3",
+    "jarFileSize": 126013,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.jar",
-    "jarHash": "sha256-683d2db552d61a56950c6d2a4ede047f2f2da9216cb84eec90088354dc493cbf",
+    "jarHash": "sha256-c2b6b382a55c7a047fb047ec3ad619a6eb65d349529b1cf5c9a7a8bd19b00329",
     "isAdult": false,
-    "formattedSize": "34 KB",
+    "formattedSize": "28.5 KB",
     "isBroken": false
   },
   {
@@ -1635,7 +1635,8 @@
     "name": "Cumlouder",
     "internalName": "Cumlouder",
     "authors": [
-      "ByAyzen, Kraptor"
+      "ByAyzen",
+      "Kraptor"
     ],
     "description": "Cumlouder, Internet is for porn!",
     "fileSize": 13477,
@@ -6703,14 +6704,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Pimpbunny.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "Pimpbunny",
     "internalName": "Pimpbunny",
     "authors": [
       "ByAyzen"
     ],
     "description": "Looking for the hottest content on the internet? PimpBunny brings you the hottest porn videos and lets you chat with the content creators.",
-    "fileSize": 18590,
+    "fileSize": 18536,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -6718,9 +6719,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pimpbunny.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ed3b135a2b3849337dbec1e47a5a1c360c5aed34e4241d6cda101cb41aefb743",
+    "fileHash": "sha256-ddd3a74dc727d633d6a3587e9158d5553fdb735ff887914ad4fd16df45b1785d",
     "isAdult": true,
-    "formattedSize": "18.2 KB",
+    "formattedSize": "18.1 KB",
     "isBroken": false
   },
   {
@@ -6799,6 +6800,30 @@
     "jarHash": "sha256-0ac28678cb39e7a1c02c9cf53567c906f13b3f68e935ffde69ac1cc094abefbf",
     "isAdult": false,
     "formattedSize": "33.4 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pmsm.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Pmsm",
+    "internalName": "Pmsm",
+    "authors": [
+      "Phisher98,Duro92"
+    ],
+    "description": "PMSM (Pencuri Movie Sub Malay)",
+    "fileSize": 23539,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "id",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww192.pencurimoviesubmalay.motorcycles&size=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-da1751ada53168261d6070a83e76616c5ee6015bfb6fafe7b7c924efb555f360",
+    "isAdult": false,
+    "formattedSize": "23 KB",
     "isBroken": false
   },
   {
@@ -7754,7 +7779,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 626,
+    "version": 628,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -7762,7 +7787,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1010782,
+    "fileSize": 928576,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7775,9 +7800,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-20681827cf1719bcd1d3fc82c47a44f1fd5c55913a01eb02b8a04acfb259f1d5",
+    "fileHash": "sha256-f3a420433cb82abca92bdfe61330db99ebe19499b3fd618a04dbee553e953f71",
     "isAdult": false,
-    "formattedSize": "987.1 KB",
+    "formattedSize": "906.8 KB",
     "isBroken": false
   },
   {
@@ -8577,14 +8602,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 24,
+    "version": 26,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19507,
+    "fileSize": 19509,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8592,9 +8617,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://trkhub.fun&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-aae78dd0d01e10b07d6a03810c08137580d6c74c2e8409b47fe52980b0c63e44",
+    "fileHash": "sha256-7dee95d618c0c70240604b33356c20d13647605e29fca9307870a19974ff093c",
     "isAdult": true,
-    "formattedSize": "19 KB",
+    "formattedSize": "19.1 KB",
     "isBroken": false
   },
   {
@@ -8668,7 +8693,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 74,
+    "version": 76,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
@@ -8683,7 +8708,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno3.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-9653249871f9c5fb70423aa6b502a01ad75ea12b8cb0359b409ebaebec608a1e",
+    "fileHash": "sha256-abf62eb64c5d63a34130711cd9dab9a7e2ef0ffcc4aff6e37147631f4e657ec0",
     "isAdult": true,
     "formattedSize": "33.4 KB",
     "isBroken": false
@@ -9344,34 +9369,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/XDMovies.cs3",
-    "status": 0,
-    "version": 30,
-    "name": "XDMovies",
-    "internalName": "XDMovies",
-    "authors": [
-      "Phisher98"
-    ],
-    "description": "Watch Latest Movies",
-    "fileSize": 75799,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries",
-      "Anime",
-      "Movie",
-      "Cartoon",
-      "AnimeMovie"
-    ],
-    "iconUrl": "https://top.xdmovies.wtf/assets/logo1.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-df9bb0ad8f00b95c6f3dcab62750cb7c121cd535dbd5d9921cdccace2d3a64a4",
-    "isAdult": false,
-    "formattedSize": "74 KB",
-    "isBroken": true
-  },
-  {
     "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Xhamster.cs3",
     "status": 1,
     "version": 1,
@@ -9897,6 +9894,29 @@
     "fileHash": "sha256-4f466bb98b11fb4db7dde5c4850cce38af436f302420513487dab8c5c40012a4",
     "isAdult": false,
     "formattedSize": "19.7 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Youperv.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Youperv",
+    "internalName": "Youperv",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "YouPerv is a great new porn website with HD high quality content. Site has the best of movies. Enjoy free full hd porn videos. The best straight latest sex movies with anal, big cock, big tits, hot milfs and sex clips.",
+    "fileSize": 13060,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://youperv.com/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-c546231314a3a3c32fff3474a361cbdd97e48af6ac864a8b6977c549db009336",
+    "isAdult": true,
+    "formattedSize": "12.8 KB",
     "isBroken": false
   },
   {
