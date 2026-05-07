@@ -240,13 +240,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anichi.cs3",
     "status": 1,
-    "version": 13,
+    "version": 14,
     "name": "Anichi",
     "internalName": "Anichi",
     "authors": [
       "Hexated,Phisher98"
     ],
-    "fileSize": 86593,
+    "fileSize": 96740,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -256,12 +256,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Allanime.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5a68fb6190cdfdbe6e5b65c9034b62f2b879935f6da14a1b0e5d6e3c3bf34112",
-    "jarFileSize": 473592,
+    "fileHash": "sha256-efe66d2ffbc70782f281c5433a669041a2160880df88b8e3bd15e20b05699143",
+    "jarFileSize": 527770,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anichi.jar",
-    "jarHash": "sha256-bc009c0e33b96c5e7c55bc43a014e946cc6976ad9b93b23991dce2a88005efe5",
+    "jarHash": "sha256-dd5036be68e5bb8e22c5aeb801216bd70566733036f352b994b433928fe8caef",
     "isAdult": false,
-    "formattedSize": "84.6 KB",
+    "formattedSize": "94.5 KB",
     "isBroken": false
   },
   {
@@ -845,8 +845,8 @@
     "authors": [
       "Phisher98,Hexated"
     ],
-    "description": "Include: Serienstream",
-    "fileSize": 51908,
+    "description": "Include: Serienstream (Login Required under Extension Settings)",
+    "fileSize": 52533,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "de",
     "tvTypes": [
@@ -856,9 +856,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-1b68d5cee9399b175f0d2dcd9c217076ec3f8c3aa6f9dc2b8c996bbe7b636953",
+    "fileHash": "sha256-bdb562fd3f8ed2e955b983f75e07c396641ca40d793ba2ae8c82898f1c056286",
     "isAdult": false,
-    "formattedSize": "50.7 KB",
+    "formattedSize": "51.3 KB",
     "isBroken": false
   },
   {
@@ -1388,14 +1388,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 422,
+    "version": 424,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 640499,
+    "fileSize": 644904,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1406,9 +1406,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-802e2657b68ce5d8cc2f0172d4d818675d7e728ed1b6869e2b98ed0f3ff729a4",
+    "fileHash": "sha256-5147876146a06941d47e6c5a50d35761a9925bdf5dc8b8062dbe45f4b2f4a093",
     "isAdult": false,
-    "formattedSize": "625.5 KB",
+    "formattedSize": "629.8 KB",
     "isBroken": false
   },
   {
@@ -3460,9 +3460,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.hentaicity.com&sz=256",
     "apiVersion": 1,
     "fileHash": "sha256-fb4a569d50ba548a66d20b77a2f34d2070df5eacc17e27909ed254c21b03f4ab",
-    "jarFileSize": 55761,
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/CXXX/builds/HentaiCity.jar",
-    "jarHash": "sha256-c3d1dda5c8a92ab5d104885a67637dfef3d1c6dde98955c3f2aafc98a21bb807",
     "isAdult": true,
     "formattedSize": "15.7 KB",
     "isBroken": false
@@ -4132,7 +4129,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/JAVHd.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "JAVHd",
     "internalName": "JAVHd",
     "authors": [
@@ -4140,7 +4137,7 @@
       "megix"
     ],
     "description": "The Best Free JAV online, Free Download and Watching jav porn videos. Tons of hot jav censored,Japanese tube,Japanese sex online. Update everyday, javhd.today are waiting for you. Enjoy!",
-    "fileSize": 17267,
+    "fileSize": 17888,
     "repositoryUrl": "https://github.com/phisher98/CXXX",
     "language": "en",
     "tvTypes": [
@@ -4148,9 +4145,9 @@
     ],
     "iconUrl": "https://javhd.today/logo/javhd1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-110f0916c6f7128f978b324eeeece2253772ef16ae9d74051d0c599ce5ea393b",
+    "fileHash": "sha256-3f4adc3170b626466b409625f96a85f57d1e6529766aefceb8e8bc7038dd99d8",
     "isAdult": true,
-    "formattedSize": "16.9 KB",
+    "formattedSize": "17.5 KB",
     "isBroken": false
   },
   {
@@ -5868,10 +5865,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
-    "fileHash": "sha256-d053b87b3113c3b28f7c5e7d9a9a1514b89f3897da26a1184f22ea892480174d",
+    "fileHash": "sha256-f1d0b246da23fe7379121c99921b73b186388bc286fd956fcaa86528ff6bcc20",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-    "fileSize": 60273,
+    "fileSize": 53798,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -5887,7 +5884,7 @@
     "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
     "name": "Netmirror",
     "isAdult": false,
-    "formattedSize": "58.9 KB",
+    "formattedSize": "52.5 KB",
     "isBroken": false
   },
   {
@@ -7788,7 +7785,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 944808,
+    "fileSize": 954316,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7801,9 +7798,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-d64d62742aa6ee45ce2b35241472da04257238bed9ac6fa6edb49b773a93fc9b",
+    "fileHash": "sha256-5136bd1553a18b2aa22fad0ea976cf8205fe981a45a6988cf75bb154715aaa07",
     "isAdult": false,
-    "formattedSize": "922.7 KB",
+    "formattedSize": "931.9 KB",
     "isBroken": false
   },
   {
@@ -8389,7 +8386,7 @@
       "Anime",
       "Cartoon"
     ],
-    "iconUrl": "https://toonhub4u.me/wp-content/uploads/2024/02/Untitled.png",
+    "iconUrl": "https://toonhub4u.co/wp-content/uploads/2024/02/Untitled.png",
     "apiVersion": 1,
     "fileHash": "sha256-e90f8e6e069a309032fda55a4205f0deb8ce2608238625f0e6252e567729c23c",
     "jarFileSize": 87980,
@@ -8603,14 +8600,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 27,
+    "version": 28,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19508,
+    "fileSize": 19506,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8618,9 +8615,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://trkhub.fun&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b2c8c0ecae24014610c2d6b4ac23ebe9758428b4c1743e1bc97cd79bb5f1f72e",
+    "fileHash": "sha256-a42a3dec94738e32f4d04af4fd9299647cf921d2d26a1cb8c3cc7166c142d455",
     "isAdult": true,
-    "formattedSize": "19.1 KB",
+    "formattedSize": "19 KB",
     "isBroken": false
   },
   {
@@ -8694,22 +8691,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 77,
+    "version": 79,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34234,
+    "fileSize": 34232,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno3.cfd&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno116.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-209f9a37ee62b9b81e6c17a356ffcd92562a1d411c147ee13a441adf03877583",
+    "fileHash": "sha256-afd22fc4996263b8a7464080b6a75d22a45064afdc4c4be9ade9ca837765b89e",
     "isAdult": true,
     "formattedSize": "33.4 KB",
     "isBroken": false
@@ -9038,30 +9035,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Watch32.cs3",
-    "status": 1,
-    "version": 13,
-    "name": "Watch32",
-    "internalName": "Watch32",
-    "authors": [
-      "Phisher98"
-    ],
-    "description": "Watch movies and series from Watch32",
-    "fileSize": 45545,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": [
-      "Movies",
-      "TvSeries"
-    ],
-    "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-50119b67c351a0008e3022c272d6677f17a51d2d88dce17b7a7796f621f7fd48",
-    "isAdult": false,
-    "formattedSize": "44.5 KB",
-    "isBroken": false
-  },
-  {
     "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
     "fileHash": "sha256-bf76868823b2c1b3e99cdda033d5d2303b39d1913e7ae1d6a87b2f493dd47a15",
     "apiVersion": 1,
@@ -9077,10 +9050,10 @@
       "TvSeries"
     ],
     "version": 4,
-    "internalName": "Watch32_2",
+    "internalName": "Watch32",
     "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/Watch32.cs3",
-    "name": "Watch32 (2)",
+    "name": "Watch32",
     "isAdult": false,
     "formattedSize": "30.6 KB",
     "isBroken": false
@@ -9387,9 +9360,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://vi.xhspot.com&sz=256",
     "apiVersion": 1,
     "fileHash": "sha256-71d283e4933fd75f766ef5d55ffd8a28ea38945071a3dbd7e9c1536ddae8ad0d",
-    "jarFileSize": 128770,
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Xhamster.jar",
-    "jarHash": "sha256-4ed9ab24b79379d0df804092de110dac7db4194fd86d7664173b5bf1346d70c2",
     "isAdult": true,
     "formattedSize": "27.7 KB",
     "isBroken": false
@@ -9468,7 +9438,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/XMoviesForYou.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "XMoviesForYou",
     "internalName": "XMoviesForYou",
     "authors": [
@@ -9476,7 +9446,7 @@
       "ByAyzen"
     ],
     "description": "Free Watch Streaming Premium Porn",
-    "fileSize": 15599,
+    "fileSize": 16551,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -9484,9 +9454,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://xmoviesforyou.com/&size=32",
     "apiVersion": 1,
-    "fileHash": "sha256-26ad10caea7dfa1b83b7ee186d48118056bfef91e2b49f5333d502a2fb733287",
+    "fileHash": "sha256-639b51b39e57f7be7e2c21d5d83d6433a4723f6c21e102559ebc9790dcb2e18b",
     "isAdult": true,
-    "formattedSize": "15.2 KB",
+    "formattedSize": "16.2 KB",
     "isBroken": false
   },
   {
@@ -9530,9 +9500,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://xnhau.im&sz=256",
     "apiVersion": 1,
     "fileHash": "sha256-1e0753a63bb73d4afd066d26d4ea2711e3aa00dcd1f353970acc2d93d9a93c96",
-    "jarFileSize": 85516,
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Xnhau.jar",
-    "jarHash": "sha256-fa9090e343c8e31eae0ff6885ae9b90e4b79a78f958ed8ba0676c87f89054f34",
     "isAdult": true,
     "formattedSize": "21.7 KB",
     "isBroken": false
@@ -9555,9 +9522,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.xnxx.com&sz=256",
     "apiVersion": 1,
     "fileHash": "sha256-5bbdc4507b46235fe8db330104f6a6eff479dce2737b210be96c0624607b9ee7",
-    "jarFileSize": 87249,
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/CXXX/builds/XNXX.jar",
-    "jarHash": "sha256-544b83691e652ec185f7e66040dab6326ded82d9c2d2239322735e1202b91315",
     "isAdult": true,
     "formattedSize": "24.6 KB",
     "isBroken": false
@@ -9724,9 +9688,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.xvideos.com&sz=256",
     "apiVersion": 1,
     "fileHash": "sha256-6adf7f133e28702d7c2d8f5e7a875cbb213b9cc82468247bc41e6fb44944610a",
-    "jarFileSize": 50228,
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Xvideos.jar",
-    "jarHash": "sha256-db617a571fe56fe55e88c4e20a4423f0e323c053289a63685348941f98436a6c",
     "isAdult": true,
     "formattedSize": "15.7 KB",
     "isBroken": false
