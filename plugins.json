@@ -709,10 +709,10 @@
   },
   {
     "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
-    "fileHash": "sha256-16f3f55c84be8028fb511d3e4e6ec2559aaf12107b8b44be723d76ce4ce568ee",
+    "fileHash": "sha256-41cb12aedca30d2171db7f1b94ad48b2dc4b054ead2248a5e95d2a7f29cf0c1f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
-    "fileSize": 34482,
+    "fileSize": 34481,
     "status": 1,
     "language": "id",
     "authors": [
