@@ -1388,14 +1388,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 425,
+    "version": 426,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 657109,
+    "fileSize": 668295,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1406,9 +1406,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-8b9eb6011384fae2bcdab4c5197c8de2a7590340f9caa1c5f290aa8b59a86a7f",
+    "fileHash": "sha256-bc959c78d034a2e105e962c54b676f8a7cfa2c141c54deb669542c1cc8f99567",
     "isAdult": false,
-    "formattedSize": "641.7 KB",
+    "formattedSize": "652.6 KB",
     "isBroken": false
   },
   {
@@ -1460,10 +1460,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
-    "fileHash": "sha256-5533a9c6be13e49fd246b021fe6d1149d488f7574d83eb185e5f4fbc811726a0",
+    "fileHash": "sha256-7fedb61bae2b9bbed734657d2958f2b3275242417dc3e9580de7fc5fddd1087b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 71614,
+    "fileSize": 70695,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1473,13 +1473,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 58,
+    "version": 59,
     "internalName": "CNC Verse",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
     "name": "CNC Verse",
     "isAdult": false,
-    "formattedSize": "69.9 KB",
+    "formattedSize": "69 KB",
     "isBroken": false
   },
   {
@@ -2408,23 +2408,23 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Esheaq.cs3",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "Esheaq",
     "internalName": "Esheaq",
     "authors": [
       "kraptor"
     ],
     "description": "قصة عشق الأصلي لأحدث المسلسلات التركية والدراما المترجمة علي قصه عشق ، يمكنك من خلال موقع قصة عشق مشاهدة كل جديد في عالم الدراما التركية",
-    "fileSize": 17311,
+    "fileSize": 17309,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "ar",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://qeseh.onl&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://qeseh3sk.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-2ea3e7c1ec8b570c3e3f1b1611b8f0b13f8221bd434d1ccc1bfe14d06b9a8074",
+    "fileHash": "sha256-d8670d30443ec36113a79741d7b19efcf1c487e5074da48af08c2315ee87d69b",
     "isAdult": false,
     "formattedSize": "16.9 KB",
     "isBroken": false
@@ -3774,7 +3774,7 @@
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 52867,
+    "fileSize": 52851,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "id",
     "tvTypes": [
@@ -3785,7 +3785,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/idlix.png",
     "apiVersion": 1,
-    "fileHash": "sha256-53b7d4fcfc1c8955264ee1d0e6704c3a7432b7aa32ec9f042357fb7dda2ebf81",
+    "fileHash": "sha256-98fee499527c094cb11a1f3cce9abf76e56af8b68eb669ff687d40d77b508ae5",
     "isAdult": false,
     "formattedSize": "51.6 KB",
     "isBroken": false
@@ -7777,7 +7777,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 630,
+    "version": 631,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -7785,7 +7785,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 954316,
+    "fileSize": 969275,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7798,9 +7798,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-5136bd1553a18b2aa22fad0ea976cf8205fe981a45a6988cf75bb154715aaa07",
+    "fileHash": "sha256-fbdcaf4401edef19c3f5c9936ff3b677e2cd8f1487dd452f58d9d677eb7f8377",
     "isAdult": false,
-    "formattedSize": "931.9 KB",
+    "formattedSize": "946.6 KB",
     "isBroken": false
   },
   {
@@ -8399,14 +8399,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Toonstream.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "Toonstream",
     "internalName": "Toonstream",
     "authors": [
       "Phisher98"
     ],
     "description": "ToonStream Multi Language",
-    "fileSize": 29133,
+    "fileSize": 31347,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -8416,12 +8416,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/toonstream.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c16d984a5e38cdb485be9b933751771235a65d25163bca5cb72fa3f069f8811e",
-    "jarFileSize": 113115,
+    "fileHash": "sha256-bf14b4b73bf95eb106956db588a59273f705b970f40492369fc416b756786e29",
+    "jarFileSize": 128230,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Toonstream.jar",
-    "jarHash": "sha256-9f6c334538ff681ef4e3bb0177436e3eac36d8e9d8abfd0f744412414271ba7f",
+    "jarHash": "sha256-04aec35dc8808998cb500b69341c74f5f8e37ccb51a12653ab311da5b232cdf5",
     "isAdult": false,
-    "formattedSize": "28.5 KB",
+    "formattedSize": "30.6 KB",
     "isBroken": false
   },
   {
