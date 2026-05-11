@@ -1100,10 +1100,10 @@
   },
   {
     "iconUrl": "https://play-lh.googleusercontent.com/G9s84Cm1TDnKDX2P8nipS_s60cuCnYtjBRRLespF8nivjXmbV9tF1fY37clZhXMLaA",
-    "fileHash": "sha256-080d721de582a0c9e0b377d40ec4549b7c6eaa991fd17e9990c91944ddedd675",
+    "fileHash": "sha256-0aae0809dd346da153c8c6dc62a36e2e63643dba09ed1ead7c057b3e37cc6243",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 82997,
+    "fileSize": 82979,
     "status": 3,
     "language": "ta",
     "authors": [
@@ -1115,13 +1115,13 @@
       "TvSeries",
       "Documentary"
     ],
-    "version": 4,
+    "version": 6,
     "internalName": "BilibiliProvider",
     "description": "Bilibili TV - International streaming platform for anime, movies, and variety shows (bilibili.tv)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/BilibiliProvider.cs3",
     "name": "BilibiliProvider",
     "isAdult": false,
-    "formattedSize": "81.1 KB",
+    "formattedSize": "81 KB",
     "isBroken": false
   },
   {
@@ -1148,14 +1148,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
     "status": 1,
-    "version": 31,
+    "version": 32,
     "name": "Bollyflix",
     "internalName": "Bollyflix",
     "authors": [
       "megix"
     ],
     "description": "Movies and Series upto 4K",
-    "fileSize": 39487,
+    "fileSize": 39503,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "hi",
     "tvTypes": [
@@ -1166,7 +1166,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-67e246bb384ad78a7ce165b4e3c8dd3d4ed890c637c0c397232fdc7b2e46af25",
+    "fileHash": "sha256-46d126dd959a3459892762bd70a2b6965ca457a0fbe833a62c5fa282da7d4cbf",
     "isAdult": false,
     "formattedSize": "38.6 KB",
     "isBroken": false
@@ -1388,14 +1388,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 426,
+    "version": 428,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 668295,
+    "fileSize": 646174,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1406,9 +1406,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-bc959c78d034a2e105e962c54b676f8a7cfa2c141c54deb669542c1cc8f99567",
+    "fileHash": "sha256-0724a60630dedc53e9f14c541750b7d91d08e4ec209ad0666a0d7e6c3c3b3c3f",
     "isAdult": false,
-    "formattedSize": "652.6 KB",
+    "formattedSize": "631 KB",
     "isBroken": false
   },
   {
@@ -2269,10 +2269,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/master/EinthusanProvider/icon.png",
-    "fileHash": "sha256-222bfb86a86cf26da8b594a50f7e76c5e9562b62d0ebf102ba0976dc3888dab4",
+    "fileHash": "sha256-8dbd30c6d477c7525bb7b8fdfc95c536607ec83451898c67cd4620f54fcadbcd",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 22090,
+    "fileSize": 22070,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -2281,7 +2281,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 6,
+    "version": 8,
     "internalName": "EinthusanProvider",
     "description": "Indian Multi-language HD Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/EinthusanProvider.cs3",
@@ -5549,14 +5549,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
     "status": 1,
-    "version": 30,
+    "version": 31,
     "name": "MoviesDrive",
     "internalName": "MoviesDrive",
     "authors": [
       "megix"
     ],
     "description": "High Quality Movies and TV Shows",
-    "fileSize": 46698,
+    "fileSize": 46949,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "hi",
     "tvTypes": [
@@ -5567,9 +5567,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-71bc762e7f7a808dadeca2f3239be2deefd3269976ff41e01593a395169c96f9",
+    "fileHash": "sha256-c3714c622d2e3a4ac179015844015a9e91700cad53f326bc85d395a6deb71b3f",
     "isAdult": false,
-    "formattedSize": "45.6 KB",
+    "formattedSize": "45.8 KB",
     "isBroken": false
   },
   {
@@ -7785,7 +7785,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 969275,
+    "fileSize": 968711,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7798,9 +7798,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-fbdcaf4401edef19c3f5c9936ff3b677e2cd8f1487dd452f58d9d677eb7f8377",
+    "fileHash": "sha256-eb062adc47eb7a7db8ede2c373f46e099db82f2aece957d1de8e2fc6de4b836a",
     "isAdult": false,
-    "formattedSize": "946.6 KB",
+    "formattedSize": "946 KB",
     "isBroken": false
   },
   {
@@ -7896,29 +7896,6 @@
     "fileHash": "sha256-1c6d9bec7e9cbb866a97eccd2714c03ebb45aacf8fab1ea2d2b959d72c17f1e2",
     "isAdult": false,
     "formattedSize": "14.3 KB",
-    "isBroken": false
-  },
-  {
-    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/SunGoProvider/icon.png",
-    "fileHash": "sha256-a77d6d6ffbd9539b8d49d96592f767bfaa78b4dec0fa797430be977c37088c2d",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 23057,
-    "status": 1,
-    "language": "ta",
-    "authors": [
-      "NivinCNC"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 8,
-    "internalName": "SunGoProvider",
-    "description": "Indian Live TV Provider",
-    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SunGoProvider.cs3",
-    "name": "SunGoProvider",
-    "isAdult": false,
-    "formattedSize": "22.5 KB",
     "isBroken": false
   },
   {
@@ -8183,10 +8160,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/TamilUltraProvider/icon.png",
-    "fileHash": "sha256-d1fecdb14676a2e511324022a89c98386136256043611dc1c698bfc5e63d9969",
+    "fileHash": "sha256-58cd01f2f5f9e3a614394dbf85f10316228cc6258c35fea0831abe31f6f059c8",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 17521,
+    "fileSize": 17490,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -8195,7 +8172,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 8,
+    "version": 10,
     "internalName": "TamilUltraProvider",
     "description": "Indian Live TV Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/TamilUltraProvider.cs3",
@@ -8918,14 +8895,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VegaMovies.cs3",
     "status": 1,
-    "version": 78,
+    "version": 79,
     "name": "VegaMovies",
     "internalName": "VegaMovies",
     "authors": [
       "megix"
     ],
     "description": "Includes LuxMovies, Rogmovies",
-    "fileSize": 49591,
+    "fileSize": 49804,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "hi",
     "tvTypes": [
@@ -8936,9 +8913,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/VegaMovies/icon.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-e89bad13530e6794d00db7c9f1309ebc220426673cb931a6e1f17b419dc00b11",
+    "fileHash": "sha256-8e8fd8730e2ea57e4cfec928605cf46fd19849013cfb7ee5200225bbe5ea1c26",
     "isAdult": false,
-    "formattedSize": "48.4 KB",
+    "formattedSize": "48.6 KB",
     "isBroken": false
   },
   {
