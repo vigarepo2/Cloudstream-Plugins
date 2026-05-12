@@ -735,14 +735,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animesalt.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "Animesalt",
     "internalName": "Animesalt",
     "authors": [
       "Phisher98"
     ],
     "description": "Anime/Cartoon in Hindi",
-    "fileSize": 35363,
+    "fileSize": 42065,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -752,12 +752,12 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animesalt.ac&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-3c20a3499f415abf18a31027fd2f482072ba93ba497aa3025e16c3de04b76244",
-    "jarFileSize": 127598,
+    "fileHash": "sha256-73d24c1f411d9318f554b43310b3fa34312e405ec417b650cd302cec5f224764",
+    "jarFileSize": 167036,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animesalt.jar",
-    "jarHash": "sha256-ab5b87d170e91568e2d9601eb100c18f82d13f5af68f11094def202ab7a6b1cd",
+    "jarHash": "sha256-a50194c43c0207944a7a272cc204ea907e1192928e25195d9fa096736c2711b6",
     "isAdult": false,
-    "formattedSize": "34.5 KB",
+    "formattedSize": "41.1 KB",
     "isBroken": false
   },
   {
@@ -1298,7 +1298,7 @@
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-    "fileSize": 45446,
+    "fileSize": 45332,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1307,9 +1307,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-dc44ad88c54c8beb9bc1d30678efa8d589b4eef348a3f8df8ad3911c4c2e146e",
+    "fileHash": "sha256-7e135334e97b495176de74e9e111d3ef08830775f28837afad233a246dbfd0ea",
     "isAdult": false,
-    "formattedSize": "44.4 KB",
+    "formattedSize": "44.3 KB",
     "isBroken": false
   },
   {
@@ -1388,14 +1388,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 428,
+    "version": 430,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 646174,
+    "fileSize": 639564,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1406,17 +1406,17 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0724a60630dedc53e9f14c541750b7d91d08e4ec209ad0666a0d7e6c3c3b3c3f",
+    "fileHash": "sha256-ee16b0099f9d74ab4a7c12e45084f8a4417c973b8743ca6be51cda68f41594bb",
     "isAdult": false,
-    "formattedSize": "631 KB",
+    "formattedSize": "624.6 KB",
     "isBroken": false
   },
   {
     "iconUrl": "https://modapk.world/wp-content/uploads/2025/11/Et-90x90.png",
-    "fileHash": "sha256-7c6ec77e2d271e4ab6c10f1558ed25daf7c2e79a7accded45bd5de4fab9aca14",
+    "fileHash": "sha256-157e50d490f1766c15deca74ebc27f8fb180b94cc78b2b608e3dfd1939702dc4",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 40142,
+    "fileSize": 40153,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1426,9 +1426,9 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "CineTvProvider",
-    "description": "Clone of Memesapp , FilmTV etc",
+    "description": "Clone of Cinema, Memesapp , FilmTV etc",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CineTvProvider.cs3",
     "name": "CineTvProvider",
     "isAdult": false,
@@ -2714,14 +2714,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
     "status": 1,
-    "version": 31,
+    "version": 32,
     "name": "FourKHDHub",
     "internalName": "FourKHDHub",
     "authors": [
       "Phisher98"
     ],
     "description": "4K Movies Extension by HDHUB4U",
-    "fileSize": 66627,
+    "fileSize": 66601,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -2730,9 +2730,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2c10851f404e3106874768ca6ca99fe2f369650476470d15f7e20501baa494d3",
+    "fileHash": "sha256-6014153f29698cdd80742b5bbca03aac07b8352da97767c77e5571bbf1b2eb8d",
     "isAdult": false,
-    "formattedSize": "65.1 KB",
+    "formattedSize": "65 KB",
     "isBroken": false
   },
   {
@@ -3278,13 +3278,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
     "status": 1,
-    "version": 45,
+    "version": 46,
     "name": "HDhub4u",
     "internalName": "HDhub4u",
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 79846,
+    "fileSize": 79809,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -3294,9 +3294,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
     "apiVersion": 1,
-    "fileHash": "sha256-35409ab33bcdd907abd2e5e27d18bd0d1a7c929a4bf816e79d8b4ed2851b3451",
+    "fileHash": "sha256-5d2f204405bf052feb1b15b8a5b6260b3a5869d9bc6da2771b63cf724684f604",
     "isAdult": false,
-    "formattedSize": "78 KB",
+    "formattedSize": "77.9 KB",
     "isBroken": false
   },
   {
@@ -6803,14 +6803,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pmsm.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Pmsm",
     "internalName": "Pmsm",
     "authors": [
       "Phisher98,Duro92"
     ],
     "description": "PMSM (Pencuri Movie Sub Malay)",
-    "fileSize": 23539,
+    "fileSize": 25245,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "id",
     "tvTypes": [
@@ -6819,9 +6819,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww192.pencurimoviesubmalay.motorcycles&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-da1751ada53168261d6070a83e76616c5ee6015bfb6fafe7b7c924efb555f360",
+    "fileHash": "sha256-479f63ca282fe24e76e74dfc71801b79174e5a3e63b82c483648a39aa2700376",
     "isAdult": false,
-    "formattedSize": "23 KB",
+    "formattedSize": "24.7 KB",
     "isBroken": false
   },
   {
@@ -7785,7 +7785,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 968711,
+    "fileSize": 968722,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7798,7 +7798,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-eb062adc47eb7a7db8ede2c373f46e099db82f2aece957d1de8e2fc6de4b836a",
+    "fileHash": "sha256-49f509d641bec4c75a11b57b230f74a5c59e9bcc7fe7b9bed34b9241085aa573",
     "isAdult": false,
     "formattedSize": "946 KB",
     "isBroken": false
@@ -8577,7 +8577,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 29,
+    "version": 30,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
@@ -8590,9 +8590,9 @@
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub30.cyou&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub31.cyou&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e841a7c8425e22e7feab6a2887c49da4ff00c7c3285e71598615d66d2a7f19c8",
+    "fileHash": "sha256-f189a550ed1c26961eb901e7f25e6690cc37c732929fdc71dc1dc6044832444f",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -8668,22 +8668,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 80,
+    "version": 81,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34231,
+    "fileSize": 34237,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno117.cfd&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno118.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-16a292711455f8e531cb25c1ce414e1c0bd55b9b76ac1af87784c02592fafff5",
+    "fileHash": "sha256-05f1d67b404a59d96210aac36edd1f167af84bc7748d28bc0fdb9d984e97478c",
     "isAdult": true,
     "formattedSize": "33.4 KB",
     "isBroken": false
