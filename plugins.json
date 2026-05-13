@@ -1388,14 +1388,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 430,
+    "version": 431,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 639564,
+    "fileSize": 641038,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1406,9 +1406,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ee16b0099f9d74ab4a7c12e45084f8a4417c973b8743ca6be51cda68f41594bb",
+    "fileHash": "sha256-3efa064ba7f73d02118c1b518f135dab36269b5b88204a5f7159783ffad82755",
     "isAdult": false,
-    "formattedSize": "624.6 KB",
+    "formattedSize": "626 KB",
     "isBroken": false
   },
   {
@@ -7777,7 +7777,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 631,
+    "version": 632,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -7785,7 +7785,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 968722,
+    "fileSize": 969244,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7798,9 +7798,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-49f509d641bec4c75a11b57b230f74a5c59e9bcc7fe7b9bed34b9241085aa573",
+    "fileHash": "sha256-45603ce92945ccb39c33b71181f82b90b431270e1d8ae65ffe550e4d433fe9d6",
     "isAdult": false,
-    "formattedSize": "946 KB",
+    "formattedSize": "946.5 KB",
     "isBroken": false
   },
   {
@@ -8577,24 +8577,24 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 30,
+    "version": 31,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19507,
+    "fileSize": 19508,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub31.cyou&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub32.cyou&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-f189a550ed1c26961eb901e7f25e6690cc37c732929fdc71dc1dc6044832444f",
+    "fileHash": "sha256-928748750b0e11b58b4f32eb6d91a974c1e2dfe9d7a9a1876cf31f053e31c36c",
     "isAdult": true,
-    "formattedSize": "19 KB",
+    "formattedSize": "19.1 KB",
     "isBroken": false
   },
   {
@@ -8668,22 +8668,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 81,
+    "version": 82,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34237,
+    "fileSize": 34234,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno118.cfd&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno119.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-05f1d67b404a59d96210aac36edd1f167af84bc7748d28bc0fdb9d984e97478c",
+    "fileHash": "sha256-210f7f2c48f6c5cc1740d92e96a78e0de8e4d27d1408f9c766168b51f691ed9c",
     "isAdult": true,
     "formattedSize": "33.4 KB",
     "isBroken": false
