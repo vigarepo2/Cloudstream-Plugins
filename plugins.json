@@ -459,14 +459,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeDekhoProvider.cs3",
     "status": 1,
-    "version": 61,
+    "version": 62,
     "name": "AnimeDekhoProvider",
     "internalName": "AnimeDekhoProvider",
     "authors": [
       "Hindi Provider"
     ],
     "description": "Includes AnimeDekho,OnePace(DUB,SUB) and HindiSubAnime",
-    "fileSize": 49789,
+    "fileSize": 55519,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -476,12 +476,12 @@
     ],
     "iconUrl": "https://animedekho.app/wp-content/uploads/2023/07/AnimeDekho-Logo-300x-1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-44c6d870c8fc94dcf0d1e9cfd6d3fa077180d161e09de8f0f0a68731ed137618",
-    "jarFileSize": 236839,
+    "fileHash": "sha256-d6d3ec1090daed4723d34f24581ebf3b5eb153226156db5b4f208b54fe71691f",
+    "jarFileSize": 267340,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeDekhoProvider.jar",
-    "jarHash": "sha256-a5161a9d89a7ff028eaf2c05b1669d1e2dd51e51482eb7226bbae375c7e61da6",
+    "jarHash": "sha256-72db0439604648e60cd682ed42a38151990c4f664297d14d09fa5ae950520237",
     "isAdult": false,
-    "formattedSize": "48.6 KB",
+    "formattedSize": "54.2 KB",
     "isBroken": false
   },
   {
@@ -520,7 +520,7 @@
     "description": "Anime in Multi Lang",
     "fileSize": 44259,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
+    "language": "hi",
     "tvTypes": [
       "AnimeMovie",
       "Anime",
@@ -709,10 +709,10 @@
   },
   {
     "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
-    "fileHash": "sha256-41cb12aedca30d2171db7f1b94ad48b2dc4b054ead2248a5e95d2a7f29cf0c1f",
+    "fileHash": "sha256-16f3f55c84be8028fb511d3e4e6ec2559aaf12107b8b44be723d76ce4ce568ee",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
-    "fileSize": 34481,
+    "fileSize": 34482,
     "status": 1,
     "language": "id",
     "authors": [
@@ -3580,22 +3580,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Hentaizm.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "Hentaizm",
     "internalName": "Hentaizm",
     "authors": [
       "kraptor"
     ],
     "description": "hentaizm, türkçe altyazılı hentai izle.",
-    "fileSize": 29209,
+    "fileSize": 29227,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hentaizm6.online/core/views/086f35f924/fav.ico&size=64",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hentaizm1.com&size=64",
     "apiVersion": 1,
-    "fileHash": "sha256-43db5f1a665f11df0907827eea3c8cfc8a8af635592ceda744dda69bb2114a6b",
+    "fileHash": "sha256-079e908f7fec41fb293ba53347b0022776470c289043fbb6af96a1e8b02061f0",
     "isAdult": true,
     "formattedSize": "28.5 KB",
     "isBroken": false
@@ -9088,22 +9088,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/WatchWrestling.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "WatchWrestling",
     "internalName": "WatchWrestling",
     "authors": [
       "kraptor"
     ],
     "description": "Watch WWE | WWE Raw | Smackdown Live",
-    "fileSize": 17883,
+    "fileSize": 17889,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
       "Live"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://watchwrestling.ae/&size=32",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://instapro.ac&size=32",
     "apiVersion": 1,
-    "fileHash": "sha256-6de1dc1399d9a65e191a2367e4c52fd87fab44805703a8162dce99ca748bcd3b",
+    "fileHash": "sha256-c0a56c748d3f6eb9f218ebbe08319677e2413bee46f95a8dc3ba4c8a297baf68",
     "isAdult": false,
     "formattedSize": "17.5 KB",
     "isBroken": false
@@ -9929,6 +9929,33 @@
     "name": "YugenAnime",
     "isAdult": false,
     "formattedSize": "19.2 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Zinkmovies.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Zinkmovies",
+    "internalName": "Zinkmovies",
+    "authors": [
+      "Phisher98"
+    ],
+    "fileSize": 63170,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "hi",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/zing.jpg",
+    "apiVersion": 1,
+    "fileHash": "sha256-f5a150434dc3b1080748ef50d4d16592626d0aaca87739183ecf28e927296f56",
+    "jarFileSize": 258476,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Zinkmovies.jar",
+    "jarHash": "sha256-00665885c7557421de491a8682ebe6723dba40e3a37176ac89fc25d1be602b8e",
+    "isAdult": false,
+    "formattedSize": "61.7 KB",
     "isBroken": false
   }
 ]
