@@ -1388,14 +1388,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 431,
+    "version": 432,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 641038,
+    "fileSize": 653469,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1406,9 +1406,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3efa064ba7f73d02118c1b518f135dab36269b5b88204a5f7159783ffad82755",
+    "fileHash": "sha256-59ac5692116894a2ea9c635c72ec65381d2dc704d02d3edb2e3b8970125d4d34",
     "isAdult": false,
-    "formattedSize": "626 KB",
+    "formattedSize": "638.2 KB",
     "isBroken": false
   },
   {
@@ -4268,14 +4268,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Javtiful.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Javtiful (2)",
     "internalName": "Javtiful_2",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch more than 60,000 Full HD JAV Online For Free at Javtiful",
-    "fileSize": 16620,
+    "fileSize": 16799,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -4283,9 +4283,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://javtiful.com/main&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-973838d1ec8f066f19c62e7c750a72aa5fb7a5d259827f427d39580c18f7f72f",
+    "fileHash": "sha256-7c36fa4bc534fc8bcc113dd36fca9e54ad249be4635cfe6eed3f1d60034ecdbd",
     "isAdult": true,
-    "formattedSize": "16.2 KB",
+    "formattedSize": "16.4 KB",
     "isBroken": false
   },
   {
@@ -4413,14 +4413,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KayiFamilyTv.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "KayiFamilyTv",
     "internalName": "KayiFamilyTv",
     "authors": [
       "KaifTaufiq"
     ],
     "description": "KayiFamilyTv has Turkish Drama and Documentaries with English / Spanish Subtitles.",
-    "fileSize": 30078,
+    "fileSize": 31800,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -4430,9 +4430,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/KayiFamilyTv/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-8ce3e4738fa235bae286e31caf392ace6bab388cb89e9bd534b3f4c5365a6fcd",
+    "fileHash": "sha256-a94c20e792b518a6097adeeaa1fd385ffca2e84695c2fdb648c7f7f71d42c3d2",
     "isAdult": false,
-    "formattedSize": "29.4 KB",
+    "formattedSize": "31.1 KB",
     "isBroken": false
   },
   {
@@ -5445,6 +5445,30 @@
     "name": "MovieBoxProvider (2)",
     "isAdult": false,
     "formattedSize": "71.9 KB",
+    "isBroken": false
+  },
+  {
+    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProviderIN/icon.png",
+    "fileHash": "sha256-11a0f98bf4129947bf3e79e3a5367fc534a256644f6d9d0e057e979e8d457747",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "fileSize": 71231,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "NivinCNC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 15,
+    "internalName": "MovieBoxProviderIN",
+    "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
+    "name": "MovieBoxProviderIN",
+    "isAdult": false,
+    "formattedSize": "69.6 KB",
     "isBroken": false
   },
   {
@@ -8577,24 +8601,24 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 31,
+    "version": 32,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19508,
+    "fileSize": 19507,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub32.cyou&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub33.cyou&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-928748750b0e11b58b4f32eb6d91a974c1e2dfe9d7a9a1876cf31f053e31c36c",
+    "fileHash": "sha256-fdb79e5bd383983089adb7bbb7db4e0eb0aa1b009e3201b63fff72eec963796b",
     "isAdult": true,
-    "formattedSize": "19.1 KB",
+    "formattedSize": "19 KB",
     "isBroken": false
   },
   {
@@ -8668,22 +8692,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 82,
+    "version": 83,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34234,
+    "fileSize": 34239,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno119.cfd&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno120.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-210f7f2c48f6c5cc1740d92e96a78e0de8e4d27d1408f9c766168b51f691ed9c",
+    "fileHash": "sha256-60f38a20bb3119a1763eaf9d6a6cb55d0437f2f65c8ae81485a95f34141a1140",
     "isAdult": true,
     "formattedSize": "33.4 KB",
     "isBroken": false
@@ -8944,14 +8968,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/VideoCelebs.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "VideoCelebs",
     "internalName": "VideoCelebs",
     "authors": [
       "kraptor"
     ],
     "description": "Database of streaming videos with nude celebs",
-    "fileSize": 20719,
+    "fileSize": 20708,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -8959,7 +8983,7 @@
     ],
     "iconUrl": "http://www.google.com/s2/favicons?domain=https://videocelebs.net",
     "apiVersion": 1,
-    "fileHash": "sha256-11ce08579253ee67882a441c508e562ed33c0ee89b764ed9cda93f2a174cee33",
+    "fileHash": "sha256-ae5cb06680bdc01ae4087e81522b0f98dfe602c44d760766b5607fce92d72eda",
     "isAdult": true,
     "formattedSize": "20.2 KB",
     "isBroken": false
