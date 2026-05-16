@@ -1388,14 +1388,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 432,
+    "version": 433,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 653469,
+    "fileSize": 628692,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1406,17 +1406,17 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-59ac5692116894a2ea9c635c72ec65381d2dc704d02d3edb2e3b8970125d4d34",
+    "fileHash": "sha256-b65f756dc32bf89c23713ba95db023fdca858ed44f1789714087c07cb407c5c3",
     "isAdult": false,
-    "formattedSize": "638.2 KB",
+    "formattedSize": "614 KB",
     "isBroken": false
   },
   {
     "iconUrl": "https://modapk.world/wp-content/uploads/2025/11/Et-90x90.png",
-    "fileHash": "sha256-157e50d490f1766c15deca74ebc27f8fb180b94cc78b2b608e3dfd1939702dc4",
+    "fileHash": "sha256-9473756442078b4d3de80eb2eb0d21eb3a49baf61546cd011c07301a9f721e34",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 40153,
+    "fileSize": 41564,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1426,13 +1426,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "CineTvProvider",
     "description": "Clone of Cinema, Memesapp , FilmTV etc",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CineTvProvider.cs3",
     "name": "CineTvProvider",
     "isAdult": false,
-    "formattedSize": "39.2 KB",
+    "formattedSize": "40.6 KB",
     "isBroken": false
   },
   {
@@ -1607,10 +1607,10 @@
   },
   {
     "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
-    "fileHash": "sha256-9fce6ba20fe485ecde6fa389ab4343b936b090cd7ca0255b8dc1609ae971a841",
+    "fileHash": "sha256-61bbfbf5313bd6ef00af16f49a50976f9850c7d0ae8e799709349c4ae834e2d7",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 82144,
+    "fileSize": 82396,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1619,13 +1619,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 30,
+    "version": 31,
     "internalName": "CricifyProvider",
     "description": "Watch Live sports and TV channels",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.cs3",
     "name": "CricifyProvider",
     "isAdult": false,
-    "formattedSize": "80.2 KB",
+    "formattedSize": "80.5 KB",
     "isBroken": false
   },
   {
@@ -4222,14 +4222,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Javseen.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Javseen",
     "internalName": "Javseen",
     "authors": [
       "byayzen"
     ],
     "description": "Watch Free JAV Sex Movies Streaming, Japanese Adult Videos, Tons of hot jav censored,Japanese tube, Japanese sex online.",
-    "fileSize": 27931,
+    "fileSize": 27905,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "jp",
     "tvTypes": [
@@ -4237,7 +4237,7 @@
     ],
     "iconUrl": "https://javseen.tv/favicon-96x96.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ac31210d59d42135335716658203f6e93adcc67c4bf86efeab7a520d8cc49b1c",
+    "fileHash": "sha256-0882bad5494f72eca0184892d9a4e77433c9c4da37d455bb86fba74385684c62",
     "isAdult": true,
     "formattedSize": "27.3 KB",
     "isBroken": false
@@ -4275,7 +4275,7 @@
       "ByAyzen"
     ],
     "description": "Watch more than 60,000 Full HD JAV Online For Free at Javtiful",
-    "fileSize": 16799,
+    "fileSize": 16734,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -4283,9 +4283,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://javtiful.com/main&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-7c36fa4bc534fc8bcc113dd36fca9e54ad249be4635cfe6eed3f1d60034ecdbd",
+    "fileHash": "sha256-33199d70ec8d0e786544936341ac62194b4108ef242c14ca1103b01178cba9aa",
     "isAdult": true,
-    "formattedSize": "16.4 KB",
+    "formattedSize": "16.3 KB",
     "isBroken": false
   },
   {
@@ -5889,10 +5889,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
-    "fileHash": "sha256-f1d0b246da23fe7379121c99921b73b186388bc286fd956fcaa86528ff6bcc20",
+    "fileHash": "sha256-0e52e6f1c6939d9f0fcda91968114eab4908718b9a3a20399304ca4d66853d2b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-    "fileSize": 53798,
+    "fileSize": 52543,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -5908,7 +5908,7 @@
     "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
     "name": "Netmirror",
     "isAdult": false,
-    "formattedSize": "52.5 KB",
+    "formattedSize": "51.3 KB",
     "isBroken": false
   },
   {
@@ -7581,14 +7581,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/SexTB.cs3",
     "status": 1,
-    "version": 6,
+    "version": 8,
     "name": "SexTB",
     "internalName": "SexTB",
     "authors": [
       "ByAyzen"
     ],
     "description": "The Best Free JAV online, JAV DVD online, Stream JAV Online High Quality always updated daily.",
-    "fileSize": 36445,
+    "fileSize": 39330,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "jp",
     "tvTypes": [
@@ -7596,9 +7596,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sextb.net/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e708e791dba45b724f0e8b38d18917676fd99f8027dc40b4f60bfbec23ceccf8",
+    "fileHash": "sha256-32fa78586428ca2014126619bda3c68ebb4f281b1ecb32faa8504e823ba0ad52",
     "isAdult": true,
-    "formattedSize": "35.6 KB",
+    "formattedSize": "38.4 KB",
     "isBroken": false
   },
   {
@@ -7656,10 +7656,10 @@
   },
   {
     "iconUrl": "https://appteka.store/get/a20p17EuCKFD08AaFsfH3JSJ6OU30ccp18WrKaNDze4LqOsDArhKj13-f-SjAayiWJH6P6pv9AlzhcfzEXlmRokU-I4=/726bbb91e36da425f55efce72cccb3a82df1d265.png",
-    "fileHash": "sha256-51a514c7d315eacc7ace8e5bdf7171e1ae6ef600d68eaf73af4d18e707ca58e0",
+    "fileHash": "sha256-2c557757cb552db23dc3bfe2120c1e6e6ae57fd62b19d830e4984032258977a6",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 84555,
+    "fileSize": 84664,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7668,13 +7668,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 10,
+    "version": 11,
     "internalName": "SKTechProvider",
     "description": "Watch Live sports and TV channels via SK Tech",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.cs3",
     "name": "SKTechProvider",
     "isAdult": false,
-    "formattedSize": "82.6 KB",
+    "formattedSize": "82.7 KB",
     "isBroken": false
   },
   {
@@ -8030,7 +8030,7 @@
       "ByAyzen"
     ],
     "description": "Enjoy the high quality porn videos, upload original content.",
-    "fileSize": 36013,
+    "fileSize": 36017,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -8038,7 +8038,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sxyprn.com&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-91808d67b0ae07c4b4df271461e6c764defeb8273b59b6041fb42cace02ac4fd",
+    "fileHash": "sha256-737dda0da373e29799a948a308ca00899a8c5a31840bce0efff52b98ae296522",
     "isAdult": true,
     "formattedSize": "35.2 KB",
     "isBroken": false
@@ -9015,14 +9015,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Vsex.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Vsex",
     "internalName": "Vsex",
     "authors": [
       "ByAyzen"
     ],
     "description": "Videos porno gran base de datos de informacion y ademas descarga directa torrent online todo gratis muchos videos de brazzers, bangbross, mofos, Naughty America",
-    "fileSize": 32417,
+    "fileSize": 33153,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "es",
     "tvTypes": [
@@ -9030,9 +9030,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vsex.in&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d24e7c36f54563266673383f6e53357e8b8bb6ade35244032904e009fd1038f2",
+    "fileHash": "sha256-8c91eeb4ad9dc1cb48d1953d7dda6d47188bfe4e4b0a5096f053021398220f97",
     "isAdult": true,
-    "formattedSize": "31.7 KB",
+    "formattedSize": "32.4 KB",
     "isBroken": false
   },
   {
