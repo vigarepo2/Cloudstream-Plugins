@@ -580,31 +580,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeKai.cs3",
-    "status": 1,
-    "version": 67,
-    "name": "AnimeKai",
-    "internalName": "AnimeKai",
-    "authors": [
-      "Phisher98"
-    ],
-    "description": "Animes & Animes Movie",
-    "fileSize": 57003,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": [
-      "Anime",
-      "OVA",
-      "AnimeMovie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=animekai.to&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-bc1e39ea727d7efeac6e2245ac197d6a150a3a71d700fe9de4ba078c79c942cc",
-    "isAdult": false,
-    "formattedSize": "55.7 KB",
-    "isBroken": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.cs3",
     "status": 1,
     "version": 9,
@@ -1315,7 +1290,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/CinemaCity.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "CinemaCity",
     "internalName": "CinemaCity",
     "authors": [
@@ -1323,7 +1298,7 @@
       "kraptor"
     ],
     "description": "Cinema City.",
-    "fileSize": 21536,
+    "fileSize": 45334,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -1333,9 +1308,9 @@
     ],
     "iconUrl": "https://i.imgur.com/A87j6ue.png",
     "apiVersion": 1,
-    "fileHash": "sha256-fc13c8e63ac6d10e333c55f5cf22734f4b74318afb1424742ef0f9d65a2541c2",
+    "fileHash": "sha256-9a0000f50750d62534172f7aa1417db897e754bec68cd5d7b2246a5c82ed7565",
     "isAdult": false,
-    "formattedSize": "21 KB",
+    "formattedSize": "44.3 KB",
     "isBroken": false
   },
   {
@@ -1607,10 +1582,10 @@
   },
   {
     "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
-    "fileHash": "sha256-61bbfbf5313bd6ef00af16f49a50976f9850c7d0ae8e799709349c4ae834e2d7",
+    "fileHash": "sha256-a1cf176c46eff59313cd923a6fe9c71f1ffb384e4ab70ccb714926f48b30abe5",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 82396,
+    "fileSize": 86895,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1619,13 +1594,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 31,
+    "version": 32,
     "internalName": "CricifyProvider",
     "description": "Watch Live sports and TV channels",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.cs3",
     "name": "CricifyProvider",
     "isAdult": false,
-    "formattedSize": "80.5 KB",
+    "formattedSize": "84.9 KB",
     "isBroken": false
   },
   {
@@ -2058,14 +2033,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Dramaizle.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Dramaizle",
     "internalName": "Dramaizle",
     "authors": [
       "ByAyzen"
     ],
     "description": "Reels formatında Çin, Kore ve Japon mini dizileri! Her gün güncellenen bölümler, Türkçe altyazı seçenekleriyle seni bekliyor. Hemen izle!",
-    "fileSize": 16666,
+    "fileSize": 19258,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "tr",
     "tvTypes": [
@@ -2073,9 +2048,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dramaizle.net&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-0f128bae01b7e4842a0e351c4efff93148ed58795376635d2dc3f8ff02d2ad75",
+    "fileHash": "sha256-b9af0cb226e4cd8a8a3b70b7a3822c00c5b0bcf68e88fb6ce947c71a46e6a224",
     "isAdult": false,
-    "formattedSize": "16.3 KB",
+    "formattedSize": "18.8 KB",
     "isBroken": false
   },
   {
@@ -2462,7 +2437,7 @@
       "ByAyzen"
     ],
     "description": "F1FullRaces",
-    "fileSize": 17224,
+    "fileSize": 17020,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -2470,9 +2445,9 @@
     ],
     "iconUrl": "https://i.imgur.com/CcDyv7Z.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5e06d1bd3405ec7ce6f3d04fdd8cb746668273557714dd3e55b67d434d4e602b",
+    "fileHash": "sha256-ebec105540f2ad8e26e469acdf9a20f1b517f79d60a25ea70b003ab8be1b18cf",
     "isAdult": false,
-    "formattedSize": "16.8 KB",
+    "formattedSize": "16.6 KB",
     "isBroken": false
   },
   {
@@ -5299,34 +5274,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MoonTV.cs3",
-    "status": 1,
-    "version": 4,
-    "name": "MoonTV",
-    "internalName": "MoonTV",
-    "authors": [
-      "Phisher98"
-    ],
-    "description": "Movies & TV Series Etc\nSettings allow selecting domains such as 123cine,Flixzone etc",
-    "fileSize": 65352,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries",
-      "Anime",
-      "Movie",
-      "Cartoon",
-      "AnimeMovie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=moontv.to/&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-af29b2010107ce2b162f1756fce80b71cff4b64e099b5d1920b6fc3a192bdb7e",
-    "isAdult": false,
-    "formattedSize": "63.8 KB",
-    "isBroken": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Motherless.cs3",
     "status": 1,
     "version": 9,
@@ -7656,10 +7603,10 @@
   },
   {
     "iconUrl": "https://appteka.store/get/a20p17EuCKFD08AaFsfH3JSJ6OU30ccp18WrKaNDze4LqOsDArhKj13-f-SjAayiWJH6P6pv9AlzhcfzEXlmRokU-I4=/726bbb91e36da425f55efce72cccb3a82df1d265.png",
-    "fileHash": "sha256-2c557757cb552db23dc3bfe2120c1e6e6ae57fd62b19d830e4984032258977a6",
+    "fileHash": "sha256-721bc47c92fa95365865f8f7f6e6496f408bbdf18a471227d0adac2f20346dc6",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 84664,
+    "fileSize": 92234,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7668,13 +7615,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "SKTechProvider",
     "description": "Watch Live sports and TV channels via SK Tech",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.cs3",
     "name": "SKTechProvider",
     "isAdult": false,
-    "formattedSize": "82.7 KB",
+    "formattedSize": "90.1 KB",
     "isBroken": false
   },
   {
@@ -8806,14 +8753,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
     "status": 2,
-    "version": 34,
+    "version": 35,
     "name": "Ultima",
     "internalName": "Ultima",
     "authors": [
       "RowdyRushya,Phisher98"
     ],
     "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-    "fileSize": 354398,
+    "fileSize": 354203,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8821,32 +8768,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-c149907743918eb1f0765fc6c24689cc963cd7a989dd984cbead4e18320ef531",
+    "fileHash": "sha256-0e830f4cf4e1d07c87d354bf8d64cabbbeadb06d5326cd764af153a3457cb80b",
     "isAdult": false,
-    "formattedSize": "346.1 KB",
-    "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UltimaBeta.cs3",
-    "status": 2,
-    "version": 16,
-    "name": "UltimaBeta",
-    "internalName": "UltimaBeta",
-    "authors": [
-      "RowdyRushya,Phisher98"
-    ],
-    "description": "(Beta)The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-    "fileSize": 365046,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": [
-      "All"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/UltimaBeta.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-449e49af48db17f4c17f28951b89d08512aaf7019cc4ca49cad741c91e25883c",
-    "isAdult": false,
-    "formattedSize": "356.5 KB",
+    "formattedSize": "345.9 KB",
     "isBroken": false
   },
   {
@@ -9112,14 +9036,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/WatchWrestling.cs3",
     "status": 1,
-    "version": 13,
+    "version": 14,
     "name": "WatchWrestling",
     "internalName": "WatchWrestling",
     "authors": [
       "kraptor"
     ],
     "description": "Watch WWE | WWE Raw | Smackdown Live",
-    "fileSize": 17889,
+    "fileSize": 17883,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -9127,7 +9051,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://instapro.ac&size=32",
     "apiVersion": 1,
-    "fileHash": "sha256-c0a56c748d3f6eb9f218ebbe08319677e2413bee46f95a8dc3ba4c8a297baf68",
+    "fileHash": "sha256-c26d7ad896907a08e43f7d6054782464b7f1967405d97953e55b05c4cf74b4e3",
     "isAdult": false,
     "formattedSize": "17.5 KB",
     "isBroken": false
@@ -9760,34 +9684,6 @@
     "fileHash": "sha256-abcbc79c4afa9d0e67377da0ecdc98155a8f5c224ca983f090662ee4decd52b2",
     "isAdult": true,
     "formattedSize": "10 KB",
-    "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Yflix.cs3",
-    "status": 1,
-    "version": 13,
-    "name": "Yflix",
-    "internalName": "Yflix",
-    "authors": [
-      "Phisher98"
-    ],
-    "description": "Movies & TV Series Etc\nSettings allow selecting domains such as 1Movies,SolarMovie and Sflix",
-    "fileSize": 58882,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries",
-      "Anime",
-      "Movie",
-      "Cartoon",
-      "AnimeMovie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=yflix.to/&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-5cb2e5ea659e39ec5ed7d586d702b88099784d72b4939d57cea45a65a8ea7011",
-    "isAdult": false,
-    "formattedSize": "57.5 KB",
     "isBroken": false
   },
   {
