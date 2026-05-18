@@ -7748,7 +7748,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 632,
+    "version": 633,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -7756,7 +7756,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 969244,
+    "fileSize": 923807,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7769,9 +7769,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-45603ce92945ccb39c33b71181f82b90b431270e1d8ae65ffe550e4d433fe9d6",
+    "fileHash": "sha256-651df88bd9a5339393981bf428b77e8f295249fe6a7800d5b0d01c2d86426e7c",
     "isAdult": false,
-    "formattedSize": "946.5 KB",
+    "formattedSize": "902.2 KB",
     "isBroken": false
   },
   {
@@ -8548,24 +8548,24 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 32,
+    "version": 33,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19507,
+    "fileSize": 19509,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub33.cyou&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub34.cyou&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-fdb79e5bd383983089adb7bbb7db4e0eb0aa1b009e3201b63fff72eec963796b",
+    "fileHash": "sha256-da7bb7fb63dbd368db06d8b36b62990db7a5bed5009f5db01394be7ddcce5bb3",
     "isAdult": true,
-    "formattedSize": "19 KB",
+    "formattedSize": "19.1 KB",
     "isBroken": false
   },
   {
@@ -8639,22 +8639,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 83,
+    "version": 84,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34239,
+    "fileSize": 34234,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno120.cfd&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno121.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-60f38a20bb3119a1763eaf9d6a6cb55d0437f2f65c8ae81485a95f34141a1140",
+    "fileHash": "sha256-211b39c881b0864782a7ba2031d0b58bae4b10dca0619f88dffc693e7f05a8e3",
     "isAdult": true,
     "formattedSize": "33.4 KB",
     "isBroken": false
