@@ -1363,14 +1363,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 434,
+    "version": 435,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 628867,
+    "fileSize": 628842,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -1381,7 +1381,7 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-445f034aa4cd211d062bafa3a2d49a31d88a52b78ca342e73b06d271fa156f1a",
+    "fileHash": "sha256-d30672ec6a5d42ce30f7fde3b4ef5a7a4a4b59cd5968e0c896f05f8d724924b0",
     "isAdult": false,
     "formattedSize": "614.1 KB",
     "isBroken": false
@@ -3276,10 +3276,10 @@
   },
   {
     "iconUrl": "https://images.dwncdn.net/images/t_app-icon-l/p/b0c9663c-0d61-4941-b12f-91c58c06189f/1137087733/hdo-box-logo",
-    "fileHash": "sha256-242b5fc3ae442862ee7e1d7c882e9491c785c10c5fe5148aa3d577d5d972aceb",
+    "fileHash": "sha256-ae1b709249d1b9bf2d7256a7813aa29c1720e2616ae9231955984381254375c3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 29036,
+    "fileSize": 29047,
     "status": 0,
     "language": "ta",
     "authors": [
@@ -3289,7 +3289,7 @@
       "Movies",
       "TvSeries"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "HDOProvider",
     "description": "HDO provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/HDOProvider.cs3",
@@ -5349,14 +5349,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
     "status": 1,
-    "version": 18,
+    "version": 21,
     "name": "MovieBoxProvider",
     "internalName": "MovieBoxProvider",
     "authors": [
       "NivinCNC,Phisher98"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 68756,
+    "fileSize": 68750,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -5365,17 +5365,17 @@
     ],
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e438ca1daafc24bc11ebcca57a6507d2a31cd5aa4be14d00214c9d1aba1dfa8f",
+    "fileHash": "sha256-e9622d3e10729ac00268da11602ff884c376dadec549f9f7655a76fe682a5a42",
     "isAdult": false,
     "formattedSize": "67.1 KB",
     "isBroken": false
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
-    "fileHash": "sha256-7586e8d3726a9d0ebf4bcc347bdb629d73a8b1e97f98055f6b4e9fb20aefce02",
+    "fileHash": "sha256-e5c0da9f43ade52c20104d8438a07c56b9357e0b845787d068620e84ef561698",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 73623,
+    "fileSize": 73672,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5385,7 +5385,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 13,
+    "version": 14,
     "internalName": "MovieBoxProvider_2",
     "description": "Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
@@ -5396,10 +5396,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProviderIN/icon.png",
-    "fileHash": "sha256-11a0f98bf4129947bf3e79e3a5367fc534a256644f6d9d0e057e979e8d457747",
+    "fileHash": "sha256-963274859861f61ba80611cc87d3b0bb7fa969ab02b444fda506348445a21bfe",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 71231,
+    "fileSize": 71306,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5409,7 +5409,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 15,
+    "version": 16,
     "internalName": "MovieBoxProviderIN",
     "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
@@ -7722,10 +7722,10 @@
   },
   {
     "iconUrl": "https://play-lh.googleusercontent.com/7geBQBtW_yN70BU81Oi2SoZvYsj5VoYrI4FmUNdqWQlchtExJb7XE_1BQysGzgJ6mBU",
-    "fileHash": "sha256-252b10bfd7962e3c9544bdd5eab998c3eb09aad0fb73c38f992c43eae0953f7c",
+    "fileHash": "sha256-a57e5063f540897596da5b4f3efa3a6115d4e42b0bf2dbfd772fa44d7260d23d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 44562,
+    "fileSize": 45642,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7736,19 +7736,19 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "StreamFlixProvider",
     "description": "StreamFlix Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/StreamFlixProvider.cs3",
     "name": "StreamFlixProvider",
     "isAdult": false,
-    "formattedSize": "43.5 KB",
+    "formattedSize": "44.6 KB",
     "isBroken": false
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 633,
+    "version": 637,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -7756,7 +7756,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 923978,
+    "fileSize": 924041,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7769,9 +7769,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-777ce9ff1d209ef6a41733a09153788fa3f6d3f1c60197a4100187b4f1afceca",
+    "fileHash": "sha256-a6393fb2b0c0e7c2ed9ccdb44182790e940a437f52a75b9d7676e035130cc92f",
     "isAdult": false,
-    "formattedSize": "902.3 KB",
+    "formattedSize": "902.4 KB",
     "isBroken": false
   },
   {
@@ -8475,14 +8475,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/TorraStream.cs3",
     "status": 1,
-    "version": 79,
+    "version": 82,
     "name": "TorraStream",
     "internalName": "TorraStream",
     "authors": [
       "Phisher98"
     ],
     "description": "#1 Best Extension – MultiAPI-Based with 4K Torrent Support (Debian) Use Extension Settings",
-    "fileSize": 192666,
+    "fileSize": 192715,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8494,7 +8494,7 @@
     ],
     "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6ec115bf14ad477951503217b661c2dfa96bfd369c177172337d9bb4fbfb24e2",
+    "fileHash": "sha256-f3f3785601659ab5b4ea43bdb0e473e2bae6a827cf7061ff09f37682cd4f3194",
     "isAdult": false,
     "formattedSize": "188.2 KB",
     "isBroken": false
@@ -8961,10 +8961,10 @@
   },
   {
     "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
-    "fileHash": "sha256-bf76868823b2c1b3e99cdda033d5d2303b39d1913e7ae1d6a87b2f493dd47a15",
+    "fileHash": "sha256-addf027d02da6c843d67bdaaccc59ba4e811cedfa1b035e34a5bad58e6742918",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 31380,
+    "fileSize": 31790,
     "status": 1,
     "language": "en",
     "authors": [
@@ -8974,13 +8974,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "Watch32",
     "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/Watch32.cs3",
     "name": "Watch32",
     "isAdult": false,
-    "formattedSize": "30.6 KB",
+    "formattedSize": "31 KB",
     "isBroken": false
   },
   {
