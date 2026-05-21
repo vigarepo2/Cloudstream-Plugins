@@ -1264,6 +1264,34 @@
     "isBroken": false
   },
   {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Cinefreak",
+    "internalName": "Cinefreak",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Bangla/Hindi Movies/Series",
+    "fileSize": 61708,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "bn",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-3330e7ce1f368efe402bf483a00ee83b8cc70b4823c8fc0e84cc4771b4ffa1b3",
+    "jarFileSize": 268663,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.jar",
+    "jarHash": "sha256-d1bf4a0602ec07e79f74d48d9b8f1f058f4b2e7b3c2479acbe9919fc16a3b08c",
+    "isAdult": false,
+    "formattedSize": "60.3 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
     "status": 1,
     "version": 8,
@@ -5356,7 +5384,7 @@
       "NivinCNC,Phisher98"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 68750,
+    "fileSize": 68683,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -5365,7 +5393,7 @@
     ],
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e9622d3e10729ac00268da11602ff884c376dadec549f9f7655a76fe682a5a42",
+    "fileHash": "sha256-0f84841157aebc37ab245a9a646ae16e018aa9492c3bb57ff6eb77a9931a496a",
     "isAdult": false,
     "formattedSize": "67.1 KB",
     "isBroken": false
@@ -5594,14 +5622,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 12,
+    "version": 14,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 81674,
+    "fileSize": 81736,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5610,7 +5638,7 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-35a8b622200cd49e39c761ae4973b1b3517df1f54cfcf789160eadead056820a",
+    "fileHash": "sha256-412b8e4aac003c1fad4a1036068a5bceac0451667287958e409b1be73176c009",
     "isAdult": false,
     "formattedSize": "79.8 KB",
     "isBroken": false
@@ -7756,7 +7784,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 924041,
+    "fileSize": 923953,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7769,9 +7797,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-a6393fb2b0c0e7c2ed9ccdb44182790e940a437f52a75b9d7676e035130cc92f",
+    "fileHash": "sha256-1f9b797c5bb7018e741ae3ce369cfe631dfcdc4bee6e91a0b41e7f73489fcf5f",
     "isAdult": false,
-    "formattedSize": "902.4 KB",
+    "formattedSize": "902.3 KB",
     "isBroken": false
   },
   {
@@ -8482,7 +8510,7 @@
       "Phisher98"
     ],
     "description": "#1 Best Extension – MultiAPI-Based with 4K Torrent Support (Debian) Use Extension Settings",
-    "fileSize": 192715,
+    "fileSize": 192667,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8494,7 +8522,7 @@
     ],
     "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f3f3785601659ab5b4ea43bdb0e473e2bae6a827cf7061ff09f37682cd4f3194",
+    "fileHash": "sha256-05ec5d871f01b787beee0e6e57a6b28537dc84cf414dd64055ff4e85ee9e9498",
     "isAdult": false,
     "formattedSize": "188.2 KB",
     "isBroken": false
@@ -8548,24 +8576,24 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 33,
+    "version": 35,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19509,
+    "fileSize": 19506,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub34.cyou&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub36.cyou&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-da7bb7fb63dbd368db06d8b36b62990db7a5bed5009f5db01394be7ddcce5bb3",
+    "fileHash": "sha256-7875e031b4d54478e43f83cc1c32b197d89b80b5589647457a281409fd3600f2",
     "isAdult": true,
-    "formattedSize": "19.1 KB",
+    "formattedSize": "19 KB",
     "isBroken": false
   },
   {
@@ -8639,22 +8667,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 84,
+    "version": 85,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34234,
+    "fileSize": 34236,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno121.cfd&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno122.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-211b39c881b0864782a7ba2031d0b58bae4b10dca0619f88dffc693e7f05a8e3",
+    "fileHash": "sha256-4f77f0b82d050c0881cfa07624d7781544c0c7230614ea88b89ffd18adff0b7c",
     "isAdult": true,
     "formattedSize": "33.4 KB",
     "isBroken": false
