@@ -1266,14 +1266,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Cinefreak",
     "internalName": "Cinefreak",
     "authors": [
       "Phisher98"
     ],
     "description": "Bangla/Hindi Movies/Series",
-    "fileSize": 65506,
+    "fileSize": 66062,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "bn",
     "tvTypes": [
@@ -1283,12 +1283,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
     "apiVersion": 1,
-    "fileHash": "sha256-93d38e1a1142b2c6aea143f286c67900fd5edd1789ac2455fd609b20878c7294",
-    "jarFileSize": 288893,
+    "fileHash": "sha256-308a4429f0a4fd9e9c1ec2348fe11b962f0802a20e66f24e9577cfc22447117f",
+    "jarFileSize": 287292,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.jar",
-    "jarHash": "sha256-948b89ec6b6fa83c9851c76e1cdadd501e9b566eec0e4e65851d0794f53c362b",
+    "jarHash": "sha256-e4b89bb750e24abf58ee484e4add429c7a644e0743083fa854c9efddb812763c",
     "isAdult": false,
-    "formattedSize": "64 KB",
+    "formattedSize": "64.5 KB",
     "isBroken": false
   },
   {
@@ -2549,29 +2549,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Filmatek.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "Filmatek",
-    "internalName": "Filmatek",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "Sosyalizmin sinemasının veritabanı.",
-    "fileSize": 15276,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmatek.net/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-5d37210dcf45d57f985a5289670b29cb19d2895ae25463cf525f798558772c8b",
-    "isAdult": false,
-    "formattedSize": "14.9 KB",
-    "isBroken": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Filmmirasım.cs3",
     "status": 1,
     "version": 2,
@@ -3581,29 +3558,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Hentaizm.cs3",
-    "status": 1,
-    "version": 11,
-    "name": "Hentaizm",
-    "internalName": "Hentaizm",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "hentaizm, türkçe altyazılı hentai izle.",
-    "fileSize": 29227,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
-    "language": "tr",
-    "tvTypes": [
-      "NSFW"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hentaizm1.com&size=64",
-    "apiVersion": 1,
-    "fileHash": "sha256-079e908f7fec41fb293ba53347b0022776470c289043fbb6af96a1e8b02061f0",
-    "isAdult": true,
-    "formattedSize": "28.5 KB",
-    "isBroken": false
-  },
-  {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v2.hidoristream.online&size=%size%",
     "fileHash": "sha256-ff3bc4f8fbe9855ce8b9392cf41befca8f6a78d4c3c0ede1813a4abb92e71512",
     "apiVersion": 1,
@@ -3986,34 +3940,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IStreamFlare.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "IStreamFlare",
-    "internalName": "IStreamFlare",
-    "authors": [
-      "Phisher98"
-    ],
-    "description": "Movies/Series/Anime",
-    "fileSize": 43133,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "hi",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries",
-      "Anime",
-      "Movie",
-      "Cartoon",
-      "AnimeMovie"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/streamflare.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-d2450198f3e6a1b8008857ffc043f7a322ccb2843c222fd12832d92685e6c967",
-    "isAdult": false,
-    "formattedSize": "42.1 KB",
-    "isBroken": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Iwatchtheoffice.cs3",
     "status": 1,
     "version": 2,
@@ -4108,7 +4034,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/JavGuru.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "JavGuru (2)",
     "internalName": "JavGuru_2",
     "authors": [
@@ -4116,7 +4042,7 @@
       "ByAyzen"
     ],
     "description": "JavGuru",
-    "fileSize": 38282,
+    "fileSize": 64637,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -4124,9 +4050,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=jav.guru&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-ed8f043b80e9656463ccc74bad3a0f295ee18cdfd97b94caaa32337dc26eeb8e",
+    "fileHash": "sha256-ef6cf97b323dfb034855278f90e7c2b8fea9606c336a45d44f6a63e2cabf4027",
     "isAdult": true,
-    "formattedSize": "37.4 KB",
+    "formattedSize": "63.1 KB",
     "isBroken": false
   },
   {
@@ -4225,14 +4151,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Javseen.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "Javseen",
     "internalName": "Javseen",
     "authors": [
       "byayzen"
     ],
     "description": "Watch Free JAV Sex Movies Streaming, Japanese Adult Videos, Tons of hot jav censored,Japanese tube, Japanese sex online.",
-    "fileSize": 27905,
+    "fileSize": 57561,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "jp",
     "tvTypes": [
@@ -4240,9 +4166,9 @@
     ],
     "iconUrl": "https://javseen.tv/favicon-96x96.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0882bad5494f72eca0184892d9a4e77433c9c4da37d455bb86fba74385684c62",
+    "fileHash": "sha256-21beddb6a4c26f7da85f71441e91245910af71d0e545b5b23b4287152640f768",
     "isAdult": true,
-    "formattedSize": "27.3 KB",
+    "formattedSize": "56.2 KB",
     "isBroken": false
   },
   {
@@ -5113,7 +5039,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Mangoporn.cs3",
     "status": 1,
-    "version": 20,
+    "version": 21,
     "name": "Mangoporn (2)",
     "internalName": "Mangoporn_2",
     "authors": [
@@ -5122,7 +5048,7 @@
       "HindiProvider"
     ],
     "description": "MangoPorn",
-    "fileSize": 58083,
+    "fileSize": 74749,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -5130,9 +5056,9 @@
     ],
     "iconUrl": "https://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
     "apiVersion": 1,
-    "fileHash": "sha256-4132eeb281295e6bdd379049f60a7a0ac9e19636f8577e8431df3fb0501e621f",
+    "fileHash": "sha256-84f44997f670a6674c31d1405a83ee181d8ef26adfe98cd91ff68b43940e3c3f",
     "isAdult": true,
-    "formattedSize": "56.7 KB",
+    "formattedSize": "73 KB",
     "isBroken": false
   },
   {
@@ -5848,14 +5774,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/NetFapX.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "NetFapX",
     "internalName": "NetFapX",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Watch HD porn sex videos for free. Large collection of tube porn videos in high quality. Very fast HD porn streaming. It's time to FAP!",
-    "fileSize": 17117,
+    "fileSize": 18483,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -5863,9 +5789,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=netfapx.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-4239ad27b9f0fb02a17b036a2fc7c721cc1ae23f74798b83fa6012815cee9f93",
+    "fileHash": "sha256-7b8ab103487644f5e39c9cd316e1392dee9b0b8339d5e22c076d264b5c275a26",
     "isAdult": true,
-    "formattedSize": "16.7 KB",
+    "formattedSize": "18 KB",
     "isBroken": false
   },
   {
@@ -6062,14 +5988,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/NoodleMagazine.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "NoodleMagazine",
     "internalName": "NoodleMagazine",
     "authors": [
       "ByAyzen"
     ],
     "description": "Biggest videos collection of high quality. Our entertainment portal finds the best video for you every day!",
-    "fileSize": 14637,
+    "fileSize": 15575,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -6077,9 +6003,9 @@
     ],
     "iconUrl": "https://noodlemagazine.com/static/extend/dark/apple-icon-120x120.png",
     "apiVersion": 1,
-    "fileHash": "sha256-61073b14cd3ba15107fdcfe7fead0d797336df37af96b5c95b4ed203c8025e1a",
+    "fileHash": "sha256-8d469978e63bed91fe2134b6abbc25bd02e796f69eb7c9d338b28b61fadb440f",
     "isAdult": true,
-    "formattedSize": "14.3 KB",
+    "formattedSize": "15.2 KB",
     "isBroken": false
   },
   {
@@ -6804,6 +6730,29 @@
     "isBroken": false
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=playztv.top&sz=%size%",
+    "fileHash": "sha256-8c436fdb4a86ca745f2cb0a1848327c12dfd6dbc3b6cee3703a0a15c514fe1d9",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "fileSize": 81225,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "NivinCNC"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "PlayZTVProvider",
+    "description": "Watch Live TV channels & sports via PlayZTV",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PlayZTVProvider.cs3",
+    "name": "PlayZTVProvider",
+    "isAdult": false,
+    "formattedSize": "79.3 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pmsm.cs3",
     "status": 1,
     "version": 2,
@@ -7153,14 +7102,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/PornWatch.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "PornWatch",
     "internalName": "PornWatch",
     "authors": [
       "Kraptor"
     ],
     "description": "PornWatch - Porn Watch Online Free. Biggest Porn Movies Online Database. Watch and Download Full Porn Movie DVD in High Definition Quality. Latest Collection of Porn Movies DVD Free",
-    "fileSize": 30084,
+    "fileSize": 58101,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -7168,9 +7117,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pornwatch.ws/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ee3f5183b1f681dfd5afe773e5786eb0f2c1ea5eda17ebae313ffc892a81a9bf",
+    "fileHash": "sha256-d90038734db16f00882208e750a991d986886fa8d3e9ccd990122cd38e8b4e8c",
     "isAdult": true,
-    "formattedSize": "29.4 KB",
+    "formattedSize": "56.7 KB",
     "isBroken": false
   },
   {
@@ -7567,7 +7516,7 @@
       "ByAyzen"
     ],
     "description": "The Best Free JAV online, JAV DVD online, Stream JAV Online High Quality always updated daily.",
-    "fileSize": 39330,
+    "fileSize": 60738,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "jp",
     "tvTypes": [
@@ -7575,9 +7524,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sextb.net/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-32fa78586428ca2014126619bda3c68ebb4f281b1ecb32faa8504e823ba0ad52",
+    "fileHash": "sha256-e99efd0e7fbfa607c1dafe834f0fad372f386acbd9cc3f8f43c9e82b1d39058c",
     "isAdult": true,
-    "formattedSize": "38.4 KB",
+    "formattedSize": "59.3 KB",
     "isBroken": false
   },
   {
@@ -8009,7 +7958,7 @@
       "ByAyzen"
     ],
     "description": "Enjoy the high quality porn videos, upload original content.",
-    "fileSize": 36017,
+    "fileSize": 36009,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -8017,7 +7966,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sxyprn.com&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-737dda0da373e29799a948a308ca00899a8c5a31840bce0efff52b98ae296522",
+    "fileHash": "sha256-f655ea8d6cc0c26d4dada0f77d4a4fc0b323556fcda79acb38cde9bf17331531",
     "isAdult": true,
     "formattedSize": "35.2 KB",
     "isBroken": false
@@ -8300,29 +8249,6 @@
     "fileHash": "sha256-103cdef7458630851c8700b6aad73cb44c4cd698df197f7552f3f4f17d6c95ec",
     "isAdult": false,
     "formattedSize": "18 KB",
-    "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/TokyBook.cs3",
-    "status": 1,
-    "version": 2,
-    "name": "TokyBook",
-    "internalName": "TokyBook",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "Discover thousands of free audiobooks and podcasts. Your next favorite story is waiting for you.",
-    "fileSize": 19516,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "en",
-    "tvTypes": [
-      "AudioBook"
-    ],
-    "iconUrl": "https://i.imgur.com/jXmev09.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-74c846414d46017f9d67a718a271d53f75e9d9d17508fe81c1731c8ec864e6ab",
-    "isAdult": false,
-    "formattedSize": "19.1 KB",
     "isBroken": false
   },
   {
@@ -9625,14 +9551,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/XXXParodyHD.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "XXXParodyHD",
     "internalName": "XXXParodyHD",
     "authors": [
       "Kraptor"
     ],
     "description": "Enjoy high-quality adult parodies online for free. Browse our extensive collection of the latest parody porn movies available for streaming in HD. Explore the biggest database of adult films from 2023 and 2024 - watch now!",
-    "fileSize": 25729,
+    "fileSize": 56263,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -9640,9 +9566,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://xxxparodyhd.net/&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-f2d44c5918aad3450c8ce2bc8841ba78adf1d1a5f369e505fb4ef9a2c1d28d73",
+    "fileHash": "sha256-992e07b32c83867d5cf9a0e8de7171b83980eb79a4ca09e89fd0fd68c7d3ec4f",
     "isAdult": true,
-    "formattedSize": "25.1 KB",
+    "formattedSize": "54.9 KB",
     "isBroken": false
   },
   {
