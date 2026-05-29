@@ -8712,14 +8712,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
     "status": 2,
-    "version": 40,
+    "version": 42,
     "name": "Ultima",
     "internalName": "Ultima",
     "authors": [
       "RowdyRushya,Phisher98"
     ],
     "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-    "fileSize": 275189,
+    "fileSize": 275390,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8727,9 +8727,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-29e5246d8c57642032104de85155c6a1ffcd6c2cee116b0a2775837bc258f86c",
+    "fileHash": "sha256-5eb98e2922bb42e6d8ebed8a913a0f2f3e17a4bcb81a2e01e3fddf74a6034a7c",
     "isAdult": false,
-    "formattedSize": "268.7 KB",
+    "formattedSize": "268.9 KB",
     "isBroken": false
   },
   {
