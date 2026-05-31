@@ -433,14 +433,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeCloud.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "AnimeCloud",
     "internalName": "AnimeCloud",
     "authors": [
       "Phisher98"
     ],
     "description": "German (Lang) Anime",
-    "fileSize": 35128,
+    "fileSize": 36152,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "de",
     "tvTypes": [
@@ -448,12 +448,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/AnimeCloud.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-b6a6b8cf7eb953bd6136a8bf32cda83272627ab8f8441228359d0933eee57c5b",
-    "jarFileSize": 157619,
+    "fileHash": "sha256-2293a112e790e18f4db3559ef044343520168be5796af34fe52ad37bda5cbaf9",
+    "jarFileSize": 157210,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeCloud.jar",
-    "jarHash": "sha256-168e7fe6c2b6fd37f01a2a157f0a6235a0e33a4f47cbb227c8b9ed8aecea5e6c",
+    "jarHash": "sha256-efd1e6565c68673d168bb26dc24effc73b3f4f3052f7d76c481401bf59b566f6",
     "isAdult": false,
-    "formattedSize": "34.3 KB",
+    "formattedSize": "35.3 KB",
     "isBroken": false
   },
   {
@@ -637,14 +637,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.cs3",
     "status": 1,
-    "version": 22,
+    "version": 24,
     "name": "AnimePahe",
     "internalName": "AnimePahe",
     "authors": [
       "Cloudburst,Lorem Ipsum,Phisher98"
     ],
     "description": "Animes (SUB/DUB)",
-    "fileSize": 56070,
+    "fileSize": 57078,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -654,9 +654,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2952f9d73180e246875b037c9375378b5f91f9cb38bff04d2b6d8b43f6ff5c94",
+    "fileHash": "sha256-678404d5a498e35bcbb9c1857332d31fcad48b05a6d84f7a514b1f47fe39c967",
     "isAdult": false,
-    "formattedSize": "54.8 KB",
+    "formattedSize": "55.7 KB",
     "isBroken": false
   },
   {
@@ -1998,7 +1998,7 @@
       "ByAyzen"
     ],
     "description": "Doramas en Audio Español Latino y Subtitulado.",
-    "fileSize": 22393,
+    "fileSize": 22722,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -2006,9 +2006,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramaslatinox.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-0eb9f6611b3c54af85f83f32b8272c9580bc2c9bef24a71342ef19cc13f7e633",
+    "fileHash": "sha256-021baab27ee38a6600dbdfd621652a5136454c5ce920a208cefc375b8e8b42c7",
     "isAdult": false,
-    "formattedSize": "21.9 KB",
+    "formattedSize": "22.2 KB",
     "isBroken": false
   },
   {
@@ -2069,7 +2069,7 @@
       "ByAyzen"
     ],
     "description": "Reels formatında Çin, Kore ve Japon mini dizileri! Her gün güncellenen bölümler, Türkçe altyazı seçenekleriyle seni bekliyor. Hemen izle!",
-    "fileSize": 18359,
+    "fileSize": 19402,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "tr",
     "tvTypes": [
@@ -2077,9 +2077,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dramaizle.net&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-7e36ad9fb3ddf872fdb53bc30e0bbfb7919a5276302ab9c982524aeb4119afbf",
+    "fileHash": "sha256-fb3c007b62813bf38924fdc3b05516305dddcb54afbf4a0e52fcb237c9381024",
     "isAdult": false,
-    "formattedSize": "17.9 KB",
+    "formattedSize": "18.9 KB",
     "isBroken": false
   },
   {
@@ -2655,7 +2655,7 @@
       "ByAyzen"
     ],
     "description": "Mira tus Series, Películas y Animes en Latino Online!",
-    "fileSize": 43894,
+    "fileSize": 44420,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -2663,9 +2663,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://flixlatam.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-2cd32369391d2312c1ee8b38020bb0f52332028d0ce349f2c370c679d8451326",
+    "fileHash": "sha256-9469beb1eeb808dacf6a0025983e7587a3e96c763e71aa87054fb38d140b6d56",
     "isAdult": false,
-    "formattedSize": "42.9 KB",
+    "formattedSize": "43.4 KB",
     "isBroken": false
   },
   {
@@ -2679,7 +2679,7 @@
       "ByAyzen"
     ],
     "description": "1950’lerden günümüze… 40.000’den fazla maç ve 100.000’den fazla oyuncu.",
-    "fileSize": 42772,
+    "fileSize": 43444,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -2687,9 +2687,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
     "apiVersion": 1,
-    "fileHash": "sha256-1987d7ff3870db8da602ab8a54232ff81e5dfc4b0925b492ec536366baddf62d",
+    "fileHash": "sha256-70589db074e599da6a8e971e60c016a98d3d06886d318c8397d718c16e7e7fa0",
     "isAdult": false,
-    "formattedSize": "41.8 KB",
+    "formattedSize": "42.4 KB",
     "isBroken": false
   },
   {
@@ -2795,7 +2795,7 @@
       "ByAyzen"
     ],
     "description": "Filmci Baba, film izleme sitesi 4k Full film izle, 1080p ve 4k (yalan) kalite de sinema filmleri ve dizileri, tek parça hd kalitede türkçe dublajlı filmler seyret.",
-    "fileSize": 21556,
+    "fileSize": 22138,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "tr",
     "tvTypes": [
@@ -2804,9 +2804,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plusizle.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-885bf367d7255986df082d540e3afce7e64d3929eac5c34084a2e5ea3f3f27cb",
+    "fileHash": "sha256-44e56d08305a76efd38a0f05fb597ffd4f3d0d85f44c8cd88e0339b5038d9950",
     "isAdult": false,
-    "formattedSize": "21.1 KB",
+    "formattedSize": "21.6 KB",
     "isBroken": false
   },
   {
@@ -3006,7 +3006,7 @@
       "ByAyzen"
     ],
     "description": "GnulaHD",
-    "fileSize": 27826,
+    "fileSize": 28434,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -3016,9 +3016,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww3.gnulahd.nu/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-f94231b8d0a5bffa34d7a20ae78677f2b2504a2413b2c17e62960f86eec71372",
+    "fileHash": "sha256-c5f2e06b2dfc430651f375dc8cafa2e39bdba4bff29206eac000233f8fe159b6",
     "isAdult": false,
-    "formattedSize": "27.2 KB",
+    "formattedSize": "27.8 KB",
     "isBroken": false
   },
   {
@@ -3950,7 +3950,7 @@
       "ByAyzen"
     ],
     "description": "Stream The Office (US) Online Free in HD on XBOX, Playstation, MOBILE, TABLET and PC",
-    "fileSize": 14532,
+    "fileSize": 15095,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -3958,9 +3958,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://iwatchtheoffice.cc&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-1d024890774723f116b76ae167addf0d7abd75e035a4010a7e75c9214a441f4b",
+    "fileHash": "sha256-6896a35f299274df25411b7cb8e7a0bc81cbf109b7eb0101cb3bf8b74d637d6b",
     "isAdult": false,
-    "formattedSize": "14.2 KB",
+    "formattedSize": "14.7 KB",
     "isBroken": false
   },
   {
@@ -4447,7 +4447,7 @@
       "ByAyzen"
     ],
     "description": "Watch drama online in high quality. Free download high quality drama. Various formats from 240p to 720p HD (or even 1080p). Feel Free To Watch!",
-    "fileSize": 37954,
+    "fileSize": 38754,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -4455,9 +4455,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kisskh.id/&size=256",
     "apiVersion": 1,
-    "fileHash": "sha256-1d84924fbded7be26c74b61cee8e6723d9ff59362c85cafd3b6db92bee48e26a",
+    "fileHash": "sha256-33294a4e793de12d8fc4f34c8d4667b1dc0a6335e86a7d005dda29a61f4a2808",
     "isAdult": false,
-    "formattedSize": "37.1 KB",
+    "formattedSize": "37.8 KB",
     "isBroken": false
   },
   {
@@ -5576,14 +5576,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 17,
+    "version": 18,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 94754,
+    "fileSize": 96350,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5592,9 +5592,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-a97d224031776d246989ca3829ba8aea236c7e7e5236114f3ef3ad548c5968db",
+    "fileHash": "sha256-13da470610f4fde51b24ffb842ffb66ad810299592f619d888d0c31f6b7070c1",
     "isAdult": false,
-    "formattedSize": "92.5 KB",
+    "formattedSize": "94.1 KB",
     "isBroken": false
   },
   {
@@ -6090,7 +6090,7 @@
       "ByAyzen"
     ],
     "description": "OKRU Videos.",
-    "fileSize": 23816,
+    "fileSize": 24362,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -6099,9 +6099,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ok.ru/video/c12842395&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-10d70d4d4f899bbbbce91659becb1bc054af8c5147f39aca88057222bf8192d2",
+    "fileHash": "sha256-24933545d829ff51f2be7c5aa4145ebd438eca5a3dca10ce0a585d8d03cd0f34",
     "isAdult": false,
-    "formattedSize": "23.3 KB",
+    "formattedSize": "23.8 KB",
     "isBroken": false
   },
   {
@@ -7730,7 +7730,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 644,
+    "version": 646,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -7738,7 +7738,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 932808,
+    "fileSize": 933775,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7751,9 +7751,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-9367df5aae131951a8b51ee2a299f17da31193352c4a9429e9fd3c9ade1601a5",
+    "fileHash": "sha256-c5ab3a1d551cda0c0dbbf1a755ac3f0dee59fecfc7e74468f17e0a2068695bfa",
     "isAdult": false,
-    "formattedSize": "910.9 KB",
+    "formattedSize": "911.9 KB",
     "isBroken": false
   },
   {
@@ -7838,7 +7838,7 @@
       "ByAyzen"
     ],
     "description": "One stop shop for new animes!",
-    "fileSize": 14173,
+    "fileSize": 14839,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -7846,9 +7846,9 @@
     ],
     "iconUrl": "https://subsplease.org/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-29015fb5758ccf153e7d84b1e8b58b87d0a63d78968a33cc77f20e377ff33c5b",
+    "fileHash": "sha256-b4aa086db43e7c4d0fc9e10446166e9fca6b3c8320fe43586c1130a21b4d0ba9",
     "isAdult": false,
-    "formattedSize": "13.8 KB",
+    "formattedSize": "14.5 KB",
     "isBroken": false
   },
   {
@@ -8712,14 +8712,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
     "status": 2,
-    "version": 46,
+    "version": 48,
     "name": "Ultima",
     "internalName": "Ultima",
     "authors": [
       "RowdyRushya,Phisher98"
     ],
     "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-    "fileSize": 298981,
+    "fileSize": 292130,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8727,9 +8727,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-e511adc88d7c09e7b93e4b2544598edab65a89e01b30dc19363b70fdf0945428",
+    "fileHash": "sha256-c4ddb68e5a9747b9727ebb6879e2f7b3869acbb7db90cf47a2eec232d15d095f",
     "isAdult": false,
-    "formattedSize": "292 KB",
+    "formattedSize": "285.3 KB",
     "isBroken": false
   },
   {
