@@ -384,7 +384,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeAV.cs3",
     "status": 1,
-    "version": 13,
+    "version": 14,
     "name": "AnimeAV",
     "internalName": "AnimeAV",
     "authors": [
@@ -400,7 +400,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
     "apiVersion": 1,
-    "fileHash": "sha256-bf561f5f7c4a90b6205949071de855a4fc2e7be21843d33447f1ca0f6532e5ad",
+    "fileHash": "sha256-b5e83fc0484230c0cacfa9f702f4ae1e66ebd555ca2ff2b2bed850eca43f2c17",
     "isAdult": false,
     "formattedSize": "27.4 KB",
     "isBroken": false
@@ -791,7 +791,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "AnimeYTX",
     "internalName": "AnimeYTX",
     "authors": [
@@ -806,7 +806,7 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeytx.net/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-bc45cdd9ccd55284b3b4b82eb8c7a51be2d37d9a9a4e91dfebd0710d81d73251",
+    "fileHash": "sha256-2d90597b4be936ebf80ebe4d486f119ec0c475c84a4ffb9e2e69973647d4303d",
     "isAdult": false,
     "formattedSize": "27.7 KB",
     "isBroken": false
@@ -1030,7 +1030,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/BasketballReplays.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "BasketballReplays",
     "internalName": "BasketballReplays",
     "authors": [
@@ -1045,7 +1045,7 @@
     ],
     "iconUrl": "https://basketballreplays.net/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-36ce80866a3584812bc93fd6e34d6d6b94713ceb03fb66b73a9d2493ada30bcc",
+    "fileHash": "sha256-d97b7fdb824f20094980e5b96ef4ed4b6733b4847e8ec8d41dfa7d5d55629550",
     "isAdult": false,
     "formattedSize": "16.7 KB",
     "isBroken": false
@@ -1318,7 +1318,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/CinemaCity.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "CinemaCity",
     "internalName": "CinemaCity",
     "authors": [
@@ -1336,7 +1336,7 @@
     ],
     "iconUrl": "https://i.imgur.com/A87j6ue.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9a0000f50750d62534172f7aa1417db897e754bec68cd5d7b2246a5c82ed7565",
+    "fileHash": "sha256-8b83e7e76aa333cec891ca0d7100c875f385ac85cf7c0916633368896a7d5608",
     "isAdult": false,
     "formattedSize": "44.3 KB",
     "isBroken": false
@@ -1799,14 +1799,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/DocumentaryArea.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "DocumentaryArea",
     "internalName": "DocumentaryArea",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
-    "fileSize": 15715,
+    "fileSize": 15716,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -1814,7 +1814,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-5dd63f82c8e80f4051c6968f74bece3e81a3115104fe5393a0aad47d64d2be93",
+    "fileHash": "sha256-52280f0213861babcf87079d18313aa767e7d6a37869b876b94ef046539d95f8",
     "isAdult": false,
     "formattedSize": "15.3 KB",
     "isBroken": false
@@ -1991,14 +1991,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/DoramasLatinoX.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "DoramasLatinoX",
     "internalName": "DoramasLatinoX",
     "authors": [
       "ByAyzen"
     ],
     "description": "Doramas en Audio Español Latino y Subtitulado.",
-    "fileSize": 22719,
+    "fileSize": 23550,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -2006,9 +2006,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramaslatinox.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-6233812e85bff3b16258090711ee32bed2ec2f7a1de76b379348f94252f94a3a",
+    "fileHash": "sha256-90f93ceb44a0f08d250c11c661f42483c88806dc5737ca08586b1dab2886f405",
     "isAdult": false,
-    "formattedSize": "22.2 KB",
+    "formattedSize": "23 KB",
     "isBroken": false
   },
   {
@@ -2062,14 +2062,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Dramaizle.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "Dramaizle",
     "internalName": "Dramaizle",
     "authors": [
       "ByAyzen"
     ],
     "description": "Reels formatında Çin, Kore ve Japon mini dizileri! Her gün güncellenen bölümler, Türkçe altyazı seçenekleriyle seni bekliyor. Hemen izle!",
-    "fileSize": 19583,
+    "fileSize": 20906,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "tr",
     "tvTypes": [
@@ -2077,9 +2077,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dramaizle.net&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-76ecd3adfd1b8cd8eb93cdd7a2556d318a7a1d7654488dd0147bd99fb670777e",
+    "fileHash": "sha256-edcf3642ecafb71bf93610f49a555c33d08c7b4d5db5a20f9faf4a9aaa5a0984",
     "isAdult": false,
-    "formattedSize": "19.1 KB",
+    "formattedSize": "20.4 KB",
     "isBroken": false
   },
   {
@@ -2130,7 +2130,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Dubbindo.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Dubbindo (2)",
     "internalName": "Dubbindo_2",
     "authors": [
@@ -2145,7 +2145,7 @@
     ],
     "iconUrl": "https://www.dubbindo.site/themes/dubbindo/img/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0c788072f816029512e8cec2916708ea670811068ef7ef6e6ea9ce29b0671ed5",
+    "fileHash": "sha256-eb4f38f542f842b4158849ecd375ab3f006489e1f8b7077469a7c1afb23e8c02",
     "isAdult": false,
     "formattedSize": "14.2 KB",
     "isBroken": false
@@ -2412,7 +2412,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Esheaq.cs3",
     "status": 1,
-    "version": 17,
+    "version": 18,
     "name": "Esheaq",
     "internalName": "Esheaq",
     "authors": [
@@ -2428,7 +2428,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://esk.onl&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-80fbc1068f9c2a1f4ac21da198aa9d64e5a6cec6cccbe6b3c376e7faab4590e1",
+    "fileHash": "sha256-ecced209e11319ffa8a2e5c3d482125018d52f16705413bc94d747d209d3e216",
     "isAdult": false,
     "formattedSize": "16.9 KB",
     "isBroken": false
@@ -2459,7 +2459,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/F1FullRaces.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "F1FullRaces",
     "internalName": "F1FullRaces",
     "authors": [
@@ -2474,7 +2474,7 @@
     ],
     "iconUrl": "https://i.imgur.com/CcDyv7Z.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ebec105540f2ad8e26e469acdf9a20f1b517f79d60a25ea70b003ab8be1b18cf",
+    "fileHash": "sha256-da1172289e043865e4a008103096492415522548ea57e9ba738058eb72f862be",
     "isAdult": false,
     "formattedSize": "16.6 KB",
     "isBroken": false
@@ -2552,7 +2552,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Filmmirasım.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Filmmirasım",
     "internalName": "Filmmirasım",
     "authors": [
@@ -2567,7 +2567,7 @@
     ],
     "iconUrl": "https://filmmirasim.ktb.gov.tr/favicon-r.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ce0d932d047da54a7b6c39834a3b016ecad8a8df2ebf3ed51c2f238bb874e5cb",
+    "fileHash": "sha256-19b76542070a1773acaa0bc88510083525d2bd81059e8ecd034750efbf1da5d6",
     "isAdult": false,
     "formattedSize": "14.9 KB",
     "isBroken": false
@@ -2648,14 +2648,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Flixlatam.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "Flixlatam",
     "internalName": "Flixlatam",
     "authors": [
       "ByAyzen"
     ],
     "description": "Mira tus Series, Películas y Animes en Latino Online!",
-    "fileSize": 44925,
+    "fileSize": 45643,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -2663,15 +2663,15 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://flixlatam.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-083b9504d6bc1978fda358f1420038e6426cd8fe0b2f6be80a107c615e387f5a",
+    "fileHash": "sha256-c43dc47e1b6c4a9b9f716f59ce3754e0ee05614ab3398f90fb706931148207dd",
     "isAdult": false,
-    "formattedSize": "43.9 KB",
+    "formattedSize": "44.6 KB",
     "isBroken": false
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Footballia.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "Footballia",
     "internalName": "Footballia",
     "authors": [
@@ -2679,7 +2679,7 @@
       "ByAyzen"
     ],
     "description": "1950’lerden günümüze… 40.000’den fazla maç ve 100.000’den fazla oyuncu.",
-    "fileSize": 43442,
+    "fileSize": 44161,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -2687,9 +2687,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
     "apiVersion": 1,
-    "fileHash": "sha256-77d13bf95a40399de8f251857726ac30d94bff44b927de56cc769b6ef646107a",
+    "fileHash": "sha256-98331664dc61d1f1c965776bc9376b964f6daf0815d3bd356cb139b8c4e4c73a",
     "isAdult": false,
-    "formattedSize": "42.4 KB",
+    "formattedSize": "43.1 KB",
     "isBroken": false
   },
   {
@@ -2788,14 +2788,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Full4kizle.cs3",
     "status": 1,
-    "version": 14,
+    "version": 15,
     "name": "Full4kizle",
     "internalName": "Full4kizle",
     "authors": [
       "ByAyzen"
     ],
     "description": "Filmci Baba, film izleme sitesi 4k Full film izle, 1080p ve 4k (yalan) kalite de sinema filmleri ve dizileri, tek parça hd kalitede türkçe dublajlı filmler seyret.",
-    "fileSize": 22113,
+    "fileSize": 23079,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "tr",
     "tvTypes": [
@@ -2804,15 +2804,15 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plusizle.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-c640241c227c287c58756eed7fe32f4b2522096433df256fe458fbfd657a09ec",
+    "fileHash": "sha256-37cd709bd904f61f9b21bb00cae2c2817f7d7ac43af396f1da61be1b5e50e740",
     "isAdult": false,
-    "formattedSize": "21.6 KB",
+    "formattedSize": "22.5 KB",
     "isBroken": false
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FullMatchShows.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "FullMatchShows",
     "internalName": "FullMatchShows",
     "authors": [
@@ -2827,7 +2827,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fullmatchshows.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-a28480a84f6b949d64a6a9accdfa6bedd04896513929b6bfcb848a6508fef4fb",
+    "fileHash": "sha256-8524ca0b5bf9ffcc237c5e0da50908e46ebb15a043a9c803fd6599b50646d493",
     "isAdult": false,
     "formattedSize": "21.2 KB",
     "isBroken": false
@@ -2881,7 +2881,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FullRaces.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "FullRaces",
     "internalName": "FullRaces",
     "authors": [
@@ -2896,7 +2896,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullraces.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-2caf859e12b4b716c76d0a25ac5bfc6b73fa62c2f2a899fef9bdee9567072286",
+    "fileHash": "sha256-1e32006ef253f2939e10aeb5f0016bde76c04e4fa41074d1f5d9e4f93a7884a4",
     "isAdult": false,
     "formattedSize": "10.3 KB",
     "isBroken": false
@@ -2999,14 +2999,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Gnulahd.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Gnulahd",
     "internalName": "Gnulahd",
     "authors": [
       "ByAyzen"
     ],
     "description": "GnulaHD",
-    "fileSize": 28497,
+    "fileSize": 29125,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -3016,9 +3016,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww3.gnulahd.nu/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-32bc629eb290848495c4acaa00a624269b0841c1b264dee8fb6452f1c66a0b0d",
+    "fileHash": "sha256-18fa9bd68dd210f5c43855f5cc5f47d984092b61bbc3ece85047054d601ab8bb",
     "isAdult": false,
-    "formattedSize": "27.8 KB",
+    "formattedSize": "28.4 KB",
     "isBroken": false
   },
   {
@@ -3259,13 +3259,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
     "status": 1,
-    "version": 46,
+    "version": 47,
     "name": "HDhub4u",
     "internalName": "HDhub4u",
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 79809,
+    "fileSize": 79815,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -3275,7 +3275,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5d2f204405bf052feb1b15b8a5b6260b3a5869d9bc6da2771b63cf724684f604",
+    "fileHash": "sha256-bd62b9132391b6da2c33bd0499364f8de2a49d961cb06ff17646cb138f37df8e",
     "isAdult": false,
     "formattedSize": "77.9 KB",
     "isBroken": false
@@ -3379,7 +3379,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Henaojara.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Henaojara",
     "internalName": "Henaojara",
     "authors": [
@@ -3395,7 +3395,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-bc0d82a961411f6a1454c36edd537200be760ee372873395d1abb70e98d8e5fd",
+    "fileHash": "sha256-042939caf8dc519904df76a3ba8d8eac63bf838344fedeaed435cc2d4bf483f8",
     "isAdult": false,
     "formattedSize": "14.9 KB",
     "isBroken": false
@@ -3920,14 +3920,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Iwatchtheoffice.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Iwatchtheoffice",
     "internalName": "Iwatchtheoffice",
     "authors": [
       "ByAyzen"
     ],
     "description": "Stream The Office (US) Online Free in HD on XBOX, Playstation, MOBILE, TABLET and PC",
-    "fileSize": 15098,
+    "fileSize": 15841,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -3935,9 +3935,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://iwatchtheoffice.cc&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-bf5cb000fdc5f85b1715b02868b15deac528367ec8c64b8587ab5bba4c762315",
+    "fileHash": "sha256-286e7cddaa6fb28594d4bb8d0a9b2c607ecaee2297640c6f60fc681841246223",
     "isAdult": false,
-    "formattedSize": "14.7 KB",
+    "formattedSize": "15.5 KB",
     "isBroken": false
   },
   {
@@ -4249,7 +4249,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/JPFilms.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "JPFilms",
     "internalName": "JPFilms",
     "authors": [
@@ -4264,7 +4264,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://jp-films.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-5003c0e57f2b0715771ead4f54c5331fe9f7fee8727d43220b09fe57b5b313c4",
+    "fileHash": "sha256-a6b4cb1a1aa27bb271b4494119c3a67c985c5342c04a6e9684b40dded41421fb",
     "isAdult": false,
     "formattedSize": "18.3 KB",
     "isBroken": false
@@ -4416,7 +4416,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/KissKH.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "KissKH",
     "internalName": "KissKH",
     "authors": [
@@ -4424,7 +4424,7 @@
       "ByAyzen"
     ],
     "description": "Watch drama online in high quality. Free download high quality drama. Various formats from 240p to 720p HD (or even 1080p). Feel Free To Watch!",
-    "fileSize": 38652,
+    "fileSize": 39908,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -4432,9 +4432,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kisskh.id/&size=256",
     "apiVersion": 1,
-    "fileHash": "sha256-1eab798faed16d17cbbb88cb5c0a10730804d9a9a826f023a8924b33cecf2daa",
+    "fileHash": "sha256-2230750d060f71b445a315ba1ef1a75f8997479637f0aedf44e2d67320fd8cc2",
     "isAdult": false,
-    "formattedSize": "37.7 KB",
+    "formattedSize": "39 KB",
     "isBroken": false
   },
   {
@@ -4585,7 +4585,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Krmzy.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Krmzy",
     "internalName": "Krmzy",
     "authors": [
@@ -4600,7 +4600,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=krmzy.org",
     "apiVersion": 1,
-    "fileHash": "sha256-34692e4f5e6c009fed41664aee2ed36a21377fe66e9799677619ca6a25d84e87",
+    "fileHash": "sha256-3a3853a6a51da7a31ca438c97a8938a2be76f092160e62cf2654325bb0022200",
     "isAdult": false,
     "formattedSize": "18.7 KB",
     "isBroken": false
@@ -4727,7 +4727,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Latanime.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Latanime (2)",
     "internalName": "Latanime_2",
     "authors": [
@@ -4742,7 +4742,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://latanime.org/&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-a4f818d9ade1b8dba43834768d2a8907ca53f8a80c4c15bcb4bb75d78f78c1bc",
+    "fileHash": "sha256-c5020f1606e6f8d46fe43a1f47fd423cb9f04aa228e4ce7917f7183f307fde50",
     "isAdult": false,
     "formattedSize": "15.8 KB",
     "isBroken": false
@@ -4775,7 +4775,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/LayarKaca.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "LayarKaca",
     "internalName": "LayarKaca",
     "authors": [
@@ -4793,7 +4793,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv7.lk21official.cc&size=256",
     "apiVersion": 1,
-    "fileHash": "sha256-c8dc8481273ad858f5722baf7c451b9f20409261375c3f80b5a6d3629f18a36d",
+    "fileHash": "sha256-41e83079252302f098055f41f3bb268b8ee9e7ced8018d9cdb44e4a9c8357bd4",
     "isAdult": false,
     "formattedSize": "23.2 KB",
     "isBroken": false
@@ -5553,14 +5553,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 18,
+    "version": 21,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 96350,
+    "fileSize": 101041,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5569,9 +5569,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-13da470610f4fde51b24ffb842ffb66ad810299592f619d888d0c31f6b7070c1",
+    "fileHash": "sha256-ecc47745091f284af04f6ebcc4d2926127adfc47e116d59beef73282c075a3b1",
     "isAdult": false,
-    "formattedSize": "94.1 KB",
+    "formattedSize": "98.7 KB",
     "isBroken": false
   },
   {
@@ -6060,14 +6060,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/OK.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "OK",
     "internalName": "OK",
     "authors": [
       "ByAyzen"
     ],
     "description": "OKRU Videos.",
-    "fileSize": 24363,
+    "fileSize": 25332,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -6076,9 +6076,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ok.ru/video/c12842395&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-06b5e9484416aa573f2f29110c95ffa69acb748d4297da77fb721cf5137928c0",
+    "fileHash": "sha256-d138492f20f27cb25160eaa7d63365dd6ad88c939998f029bfd96166691d69c8",
     "isAdult": false,
-    "formattedSize": "23.8 KB",
+    "formattedSize": "24.7 KB",
     "isBroken": false
   },
   {
@@ -7659,7 +7659,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Streamed.cs3",
     "status": 1,
-    "version": 25,
+    "version": 26,
     "name": "Streamed",
     "internalName": "Streamed",
     "authors": [
@@ -7674,7 +7674,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d3feb7a590db282e1960d0cb949a640b9a5d066ef1ad30aa54f15f02c89f2e51",
+    "fileHash": "sha256-34e04f205ba92b26fe3843665bda137c51deafeabed6f4fff5708dfd68d4670d",
     "isAdult": false,
     "formattedSize": "31.1 KB",
     "isBroken": false
@@ -7808,14 +7808,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Subsplease.cs3",
     "status": 1,
-    "version": 2,
+    "version": 4,
     "name": "Subsplease",
     "internalName": "Subsplease",
     "authors": [
       "ByAyzen"
     ],
     "description": "One stop shop for new animes!",
-    "fileSize": 14893,
+    "fileSize": 15731,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -7823,22 +7823,22 @@
     ],
     "iconUrl": "https://subsplease.org/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-210f16e3915709f991c0a37b35a3d88770bee032445ff305641a62d611e8ba56",
+    "fileHash": "sha256-28184b38ec367bb025f88df2f6c7b740920abf4db8fa74cc93247b12ae45424c",
     "isAdult": false,
-    "formattedSize": "14.5 KB",
+    "formattedSize": "15.4 KB",
     "isBroken": false
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Supercartoons.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Supercartoons",
     "internalName": "Supercartoons",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
-    "fileSize": 11575,
+    "fileSize": 11576,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -7846,7 +7846,7 @@
     ],
     "iconUrl": "https://i.imgur.com/LBfX2k3.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ec09e82a236ada36cdfd66e5618fabbbe5160dcd177c613413ec5711d2552a21",
+    "fileHash": "sha256-5273563f5bbce6a17b218dd1a22b2e5de78c40746052a77ee90c8f543024b9ab",
     "isAdult": false,
     "formattedSize": "11.3 KB",
     "isBroken": false
@@ -8484,24 +8484,24 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 38,
+    "version": 39,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19509,
+    "fileSize": 19505,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub39.cyou&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub40.cyou&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-7c1971f33a44fc9a65f97edf1681156c5c5ab4c462d9f47a86ecd2f3f659c913",
+    "fileHash": "sha256-1c95204c87eefec5612382da11f449deeaec7fa7842181344a791100eccdf220",
     "isAdult": true,
-    "formattedSize": "19.1 KB",
+    "formattedSize": "19 KB",
     "isBroken": false
   },
   {
@@ -8575,7 +8575,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 90,
+    "version": 91,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
@@ -8588,9 +8588,9 @@
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno126.cfd&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno127.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-87c4559ab115878a6251884bd0110f0a41017b5991e08cecf964557212ac45b9",
+    "fileHash": "sha256-09de0c33fdd66eebf541bb7d00488b2ea559867b5bfb1f29dcda268a165d98b5",
     "isAdult": true,
     "formattedSize": "33.4 KB",
     "isBroken": false
@@ -8598,14 +8598,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/TVGarden.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "TVGarden",
     "internalName": "TVGarden",
     "authors": [
       "ByAyzen"
     ],
     "description": "With TVGarden, you can watch the local and legal channels you are looking for from both domestic and international sources.",
-    "fileSize": 14769,
+    "fileSize": 14768,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -8613,7 +8613,7 @@
     ],
     "iconUrl": "https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=tv.garden",
     "apiVersion": 1,
-    "fileHash": "sha256-4949954230ddb9b890d344ce39c2fa183e17bd9680b6a55cad519eb1e3930f69",
+    "fileHash": "sha256-be49cf97b2a6e7c74445514053a10e481880f9a41437fef357eba13b73c01319",
     "isAdult": false,
     "formattedSize": "14.4 KB",
     "isBroken": false
@@ -8945,14 +8945,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/WatchWrestling.cs3",
     "status": 1,
-    "version": 14,
+    "version": 15,
     "name": "WatchWrestling",
     "internalName": "WatchWrestling",
     "authors": [
       "kraptor"
     ],
     "description": "Watch WWE | WWE Raw | Smackdown Live",
-    "fileSize": 17883,
+    "fileSize": 17884,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -8960,7 +8960,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://instapro.ac&size=32",
     "apiVersion": 1,
-    "fileHash": "sha256-c26d7ad896907a08e43f7d6054782464b7f1967405d97953e55b05c4cf74b4e3",
+    "fileHash": "sha256-282b10e614a62ca37e310aef34e50a7f06de9ebe4c7b339457b18ffa9a3a9d13",
     "isAdult": false,
     "formattedSize": "17.5 KB",
     "isBroken": false
@@ -8968,7 +8968,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Wcoflix.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "Wcoflix",
     "internalName": "Wcoflix",
     "authors": [
@@ -8985,7 +8985,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.wcoflix.tv/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-5341b9cf3cc99412dd713d94f7bba98c639fe9923bd4141417f48f8987c98ecb",
+    "fileHash": "sha256-2d999ad49e9adb49db4b9d316d1d9459455cdcb3a72761b18882644050b6dad4",
     "isAdult": false,
     "formattedSize": "20.3 KB",
     "isBroken": false
@@ -9016,7 +9016,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/WebCric.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "WebCric",
     "internalName": "WebCric",
     "authors": [
@@ -9024,7 +9024,7 @@
       "kraptor"
     ],
     "description": "Webcric Live Cricket Streaming.",
-    "fileSize": 20316,
+    "fileSize": 20317,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -9032,7 +9032,7 @@
     ],
     "iconUrl": "https://me.webcric.com/images/fv.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-a7b96ce10cf43d7ebae1d571545605fcdd65a71d3bc5f53e31eea1dcad169805",
+    "fileHash": "sha256-ce7b10a3151c8bfcf271bd1eb1a3bc5df8685a507a2f19a4c530cfb73facfe41",
     "isAdult": false,
     "formattedSize": "19.8 KB",
     "isBroken": false
@@ -9552,7 +9552,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Yablom.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "Yablom",
     "internalName": "Yablom",
     "authors": [
@@ -9567,7 +9567,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yablom.com/euvcw7/home/yablom/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ea8d876c1cb687c9cd12c077b4e156fed4efc293ad88cfc3ff133fd9c9528121",
+    "fileHash": "sha256-5a383ee3251ea8cee04a2e464fc00ca6d57698a08d58757af331e7892710e055",
     "isAdult": false,
     "formattedSize": "16.7 KB",
     "isBroken": false
@@ -9644,7 +9644,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/YoTurkish.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "YoTurkish",
     "internalName": "YoTurkish",
     "authors": [
@@ -9659,7 +9659,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to",
     "apiVersion": 1,
-    "fileHash": "sha256-4f466bb98b11fb4db7dde5c4850cce38af436f302420513487dab8c5c40012a4",
+    "fileHash": "sha256-26d3c30f07b5574cc03cbda322dbe6d16f214f6192d20ffe13826d524ff1404a",
     "isAdult": false,
     "formattedSize": "19.7 KB",
     "isBroken": false
