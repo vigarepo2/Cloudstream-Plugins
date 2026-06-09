@@ -766,14 +766,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeWorld.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "AnimeWorld",
     "internalName": "AnimeWorld",
     "authors": [
       "ByAyzen"
     ],
     "description": "Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualità, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
-    "fileSize": 14811,
+    "fileSize": 14804,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "it",
     "tvTypes": [
@@ -781,7 +781,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-12f8bafeb6f464b2f7be0295dd0298bf7b745f51d1848aa6796e4ff6904a8dca",
+    "fileHash": "sha256-dece928d79bcb5d23a5bbadb153ab2a1d025bd65ead60fc600118a8b61459e33",
     "isAdult": false,
     "formattedSize": "14.5 KB",
     "isBroken": false
@@ -2051,7 +2051,7 @@
       "ByAyzen"
     ],
     "description": "Doramas en Audio Español Latino y Subtitulado.",
-    "fileSize": 23443,
+    "fileSize": 23377,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -2059,9 +2059,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramaslatinox.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-41fbda12549c8cadf60a7a53cabb252fd648536eafb07e56918ba15a4f0f527f",
+    "fileHash": "sha256-0b298f72aed5ef3a4ea13d3e859fa9ca43c85973e93bb01df9bb5f8bdb93f1f6",
     "isAdult": false,
-    "formattedSize": "22.9 KB",
+    "formattedSize": "22.8 KB",
     "isBroken": false
   },
   {
@@ -2122,7 +2122,7 @@
       "ByAyzen"
     ],
     "description": "Reels formatında Çin, Kore ve Japon mini dizileri! Her gün güncellenen bölümler, Türkçe altyazı seçenekleriyle seni bekliyor. Hemen izle!",
-    "fileSize": 21919,
+    "fileSize": 21724,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "tr",
     "tvTypes": [
@@ -2130,9 +2130,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dramaizle.net&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-7c644c20584e5f31450696d4398083c6364b7ba7cf217f12b5333644421ca787",
+    "fileHash": "sha256-339c78ddcdde7805e4cfde5419061456decdb7ac3a88e1883825b8a62f4e3e36",
     "isAdult": false,
-    "formattedSize": "21.4 KB",
+    "formattedSize": "21.2 KB",
     "isBroken": false
   },
   {
@@ -2708,7 +2708,7 @@
       "ByAyzen"
     ],
     "description": "Mira tus Series, Películas y Animes en Latino Online!",
-    "fileSize": 41614,
+    "fileSize": 41597,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -2716,7 +2716,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://flixlatam.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-5a17b5d111003bf2edaa4c604691922ad1d288d3187a1cd0dd1501ec195aa98a",
+    "fileHash": "sha256-a2ebd3797485a95fcb152f18ad8ee8691f0d59f864f10b2dc8d34290cd9332c3",
     "isAdult": false,
     "formattedSize": "40.6 KB",
     "isBroken": false
@@ -2732,7 +2732,7 @@
       "ByAyzen"
     ],
     "description": "1950’lerden günümüze… 40.000’den fazla maç ve 100.000’den fazla oyuncu.",
-    "fileSize": 43498,
+    "fileSize": 43444,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -2740,9 +2740,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
     "apiVersion": 1,
-    "fileHash": "sha256-2ca453bdad7fd335e38602252f02f56ef63d48667cd39c3704fbd0ac19a1d0f2",
+    "fileHash": "sha256-aa30192d0f065119a0e28bd104ea63e6eb4c7ce4294d707d715d22eb8fe30251",
     "isAdult": false,
-    "formattedSize": "42.5 KB",
+    "formattedSize": "42.4 KB",
     "isBroken": false
   },
   {
@@ -2848,7 +2848,7 @@
       "ByAyzen"
     ],
     "description": "Filmci Baba, film izleme sitesi 4k Full film izle, 1080p ve 4k (yalan) kalite de sinema filmleri ve dizileri, tek parça hd kalitede türkçe dublajlı filmler seyret.",
-    "fileSize": 22962,
+    "fileSize": 22855,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "tr",
     "tvTypes": [
@@ -2857,9 +2857,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plusizle.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-6286367e2897e286ca4c5a13d4a4dec5428d8c3c0cd5de704cbf6db7dad3a113",
+    "fileHash": "sha256-7c06286c161aec1ad0eece84a8593e5fd2fd10294834b2d5870caa308f79b727",
     "isAdult": false,
-    "formattedSize": "22.4 KB",
+    "formattedSize": "22.3 KB",
     "isBroken": false
   },
   {
@@ -3036,7 +3036,7 @@
       "ByAyzen"
     ],
     "description": "GnulaHD",
-    "fileSize": 28936,
+    "fileSize": 28903,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -3046,9 +3046,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww3.gnulahd.nu/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-eacd14a0516cd9515271773aae207ef2836e7efffc3ffd7764815b0edbcba10e",
+    "fileHash": "sha256-cde0b352baea256b505771f783d9a96657ae86d8033ac5e04a1a7cbd110c87d6",
     "isAdult": false,
-    "formattedSize": "28.3 KB",
+    "formattedSize": "28.2 KB",
     "isBroken": false
   },
   {
@@ -3733,13 +3733,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.cs3",
     "status": 1,
-    "version": 11,
+    "version": 13,
     "name": "IdlixProvider",
     "internalName": "IdlixProvider",
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 56196,
+    "fileSize": 56054,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "id",
     "tvTypes": [
@@ -3750,9 +3750,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/idlix.png",
     "apiVersion": 1,
-    "fileHash": "sha256-efe64a0c97a4179cb42dc7aad69e477c934d792bc3b314fddc0eb9d150a8c567",
+    "fileHash": "sha256-becd2dea8297dd001b8d755257a34572ffdafd8ef6112910a461df51ba7f31ee",
     "isAdult": false,
-    "formattedSize": "54.9 KB",
+    "formattedSize": "54.7 KB",
     "isBroken": false
   },
   {
@@ -3957,7 +3957,7 @@
       "ByAyzen"
     ],
     "description": "Stream The Office (US) Online Free in HD on XBOX, Playstation, MOBILE, TABLET and PC",
-    "fileSize": 15735,
+    "fileSize": 15686,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -3965,9 +3965,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://iwatchtheoffice.cc&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-edc29ab8a7de8b1c97748bbae3a498b5a9d29b067729d2ae208aa152a9cc83d0",
+    "fileHash": "sha256-4e07bffa22abb6876dd0afa9e6f10707a4e0e596edd0655c20540f0f44e4cd63",
     "isAdult": false,
-    "formattedSize": "15.4 KB",
+    "formattedSize": "15.3 KB",
     "isBroken": false
   },
   {
@@ -4279,14 +4279,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/JPFilms.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "JPFilms",
     "internalName": "JPFilms",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch online The Yagyu Code: Secret Scrolls on Japanese Classic Movies and TVSeries (https://jp-films.com) with English Subtitle.",
-    "fileSize": 18648,
+    "fileSize": 18885,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -4294,9 +4294,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://jp-films.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-22bf485b032c61b54fb91fe3ba51d7e0951e399b093e292c19d8c9ea182a5b0f",
+    "fileHash": "sha256-02c159837ba0a7a64c90c37861b1b03b3554c9987b1fd15dbde5f3443b3a5728",
     "isAdult": false,
-    "formattedSize": "18.2 KB",
+    "formattedSize": "18.4 KB",
     "isBroken": false
   },
   {
@@ -4454,7 +4454,7 @@
       "ByAyzen"
     ],
     "description": "Watch drama online in high quality. Free download high quality drama. Various formats from 240p to 720p HD (or even 1080p). Feel Free To Watch!",
-    "fileSize": 39816,
+    "fileSize": 39714,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -4462,9 +4462,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kisskh.id/&size=256",
     "apiVersion": 1,
-    "fileHash": "sha256-f3feb9631c23240ff17c526b8fef3efa3f32cfa0c9353de0db0ddcc296e30ba4",
+    "fileHash": "sha256-98f67666ec6f60517f9ad54daf398316f80a4e509ba505e24f89ff72ea023e3d",
     "isAdult": false,
-    "formattedSize": "38.9 KB",
+    "formattedSize": "38.8 KB",
     "isBroken": false
   },
   {
@@ -5056,7 +5056,7 @@
       "HindiProvider"
     ],
     "description": "MangoPorn",
-    "fileSize": 83217,
+    "fileSize": 83170,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -5064,9 +5064,9 @@
     ],
     "iconUrl": "https://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
     "apiVersion": 1,
-    "fileHash": "sha256-62242f0c0c25fe8c85f537675b20aa34255f3d14b8607e1d0bab1ad62317d80a",
+    "fileHash": "sha256-ffc640f42095cffa991e24a37a814941e9d87e506575225dd4e11976e56e4294",
     "isAdult": true,
-    "formattedSize": "81.3 KB",
+    "formattedSize": "81.2 KB",
     "isBroken": false
   },
   {
@@ -5099,14 +5099,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Megakino.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Megakino",
     "internalName": "Megakino",
     "authors": [
       "Phisher98"
     ],
     "description": "Movies,Series and Anime German Extension ",
-    "fileSize": 18183,
+    "fileSize": 19557,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "de",
     "tvTypes": [
@@ -5114,12 +5114,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Megakino.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-4f9431514b00ad91acc10182735858696babeb5947e58c0c5d8a077c9da2c8a7",
-    "jarFileSize": 69410,
+    "fileHash": "sha256-6af85082e930c4d33de5970ad3822c003dd05865704745f7c80f8c30853cc6b3",
+    "jarFileSize": 77148,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Megakino.jar",
-    "jarHash": "sha256-720c3991a53b15036c80d03dc42349e4a9ce5f33137c35089a5b508d184a6b1f",
+    "jarHash": "sha256-c0609c8864c47447021249a44dcbf4f78bfcbc73151cb85371cf06b056d73380",
     "isAdult": false,
-    "formattedSize": "17.8 KB",
+    "formattedSize": "19.1 KB",
     "isBroken": false
   },
   {
@@ -5589,7 +5589,7 @@
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 100679,
+    "fileSize": 100616,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5598,7 +5598,7 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ff6d157363250be9d28041e2ff16e94dd395977fdb79b225dcff431f4640eb07",
+    "fileHash": "sha256-3cc4051bf233e8664921f0f160c19c331bb1b54f4cd2fc015bf54c0c4e14b683",
     "isAdult": false,
     "formattedSize": "98.3 KB",
     "isBroken": false
@@ -6096,7 +6096,7 @@
       "ByAyzen"
     ],
     "description": "OKRU Videos.",
-    "fileSize": 25324,
+    "fileSize": 25230,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -6105,9 +6105,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ok.ru/video/c12842395&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-121f455b234befd499b5ad801f80254d718c83e7af16d2efa2555a46ea10168f",
+    "fileHash": "sha256-ee4bce564a92d4659bc868c394b41ddbf6d0c668d47aed6b1e82d11e158724c1",
     "isAdult": false,
-    "formattedSize": "24.7 KB",
+    "formattedSize": "24.6 KB",
     "isBroken": false
   },
   {
@@ -6810,14 +6810,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Porn36.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Porn36",
     "internalName": "Porn36",
     "authors": [
       "kraptor"
     ],
     "description": "Dive into a wild world of Porn Videos! Feast on free movies in spicy 4K & HD. Ads won’t crash your party!",
-    "fileSize": 13038,
+    "fileSize": 13123,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -6825,9 +6825,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.porn36.com&size=32",
     "apiVersion": 1,
-    "fileHash": "sha256-038d011caaff5fb9442f9c6e9a29a6d1f395c9e1a34a65eaa8e95e35891b4f6f",
+    "fileHash": "sha256-322e52cfde80a008cd60c5bcdf1a02d87affc1d2f6a296e1eb60cd2931b3ba6b",
     "isAdult": true,
-    "formattedSize": "12.7 KB",
+    "formattedSize": "12.8 KB",
     "isBroken": false
   },
   {
@@ -7668,7 +7668,7 @@
       "kraptor"
     ],
     "description": "Streamed ile Canlı Spor Yayınlarını İzleyebilirsiniz.",
-    "fileSize": 31726,
+    "fileSize": 32077,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -7676,9 +7676,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-4f99156f584d478d3df7a3845f77bb68114454a67a037103de433f28b9e55911",
+    "fileHash": "sha256-d18942e5cf2402660d89ed9636d6e483fe057ed4eb86a4c005d69fb176acec84",
     "isAdult": false,
-    "formattedSize": "31 KB",
+    "formattedSize": "31.3 KB",
     "isBroken": false
   },
   {
@@ -7817,7 +7817,7 @@
       "ByAyzen"
     ],
     "description": "One stop shop for new animes!",
-    "fileSize": 15726,
+    "fileSize": 15693,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -7825,9 +7825,9 @@
     ],
     "iconUrl": "https://subsplease.org/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-3a428b4bf9723ea543a8fdc714f4e61aa7c7b0f74dfa744fd7a8ba1f1d0f9d30",
+    "fileHash": "sha256-f2b7045096e43789eba4f8238f3b3a0cef2c1772bf374f715712031b9faa3165",
     "isAdult": false,
-    "formattedSize": "15.4 KB",
+    "formattedSize": "15.3 KB",
     "isBroken": false
   },
   {
