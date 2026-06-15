@@ -23,6 +23,29 @@
     "isBroken": false
   },
   {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/3XChina.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "3XChina",
+    "internalName": "3XChina",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "Watch free chinese av, china av, MD series. Jelly Media. Jingdong Pictures. Tianmei Media. Taiwan SWAG, stream online amateur sex, 91porn",
+    "fileSize": 19210,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "zh",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://3xchina.net/szl-036/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-c85dcb6a5a36c0c773134dc10cffe377f5936d644b44c9db8f4a96a7f4d73634",
+    "isAdult": true,
+    "formattedSize": "18.8 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/actionviewphotography.cs3",
     "status": 1,
     "version": 12,
@@ -362,6 +385,33 @@
     "isAdult": false,
     "formattedSize": "14 KB",
     "isBroken": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anikage.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Anikage",
+    "internalName": "Anikage",
+    "authors": [
+      "Phisher98"
+    ],
+    "fileSize": 27402,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "OVA"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=https://anikage.cc/",
+    "apiVersion": 1,
+    "fileHash": "sha256-578c43c6166f24730ea30f4d1ef356531e5247835487436cf4afcf8da7a4f5ae",
+    "jarFileSize": 132678,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anikage.jar",
+    "jarHash": "sha256-81ac6103ca5fa3081e476e52e06baee76db61b2c537e30ce14d55e3122e09984",
+    "isAdult": false,
+    "formattedSize": "26.8 KB",
+    "isBroken": false
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/Anilibria/icon.png",
@@ -2161,14 +2211,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Dramaizle.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "Dramaizle",
     "internalName": "Dramaizle",
     "authors": [
       "ByAyzen"
     ],
     "description": "Reels formatında Çin, Kore ve Japon mini dizileri! Her gün güncellenen bölümler, Türkçe altyazı seçenekleriyle seni bekliyor. Hemen izle!",
-    "fileSize": 22000,
+    "fileSize": 22683,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "tr",
     "tvTypes": [
@@ -2176,9 +2226,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dramaizle.net&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-9c9c2e95b116078522f360e0565466135b5e58db5ccf730b5330ea32d1a9683c",
+    "fileHash": "sha256-b0e760dc66073569370411235726c8f508d10708deabb3d494d5c1cfcf758dc7",
     "isAdult": false,
-    "formattedSize": "21.5 KB",
+    "formattedSize": "22.2 KB",
     "isBroken": false
   },
   {
@@ -2909,7 +2959,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Full4kizle.cs3",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "Full4kizle",
     "internalName": "Full4kizle",
     "authors": [
@@ -2923,9 +2973,9 @@
       "Movie",
       "AsianDrama"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plusizle.com&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://izleplus.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-6897231dc53a6ef7057f4df8c0ef5c521021f13a98b60c6280a3ff6cd496bb9c",
+    "fileHash": "sha256-0a654bb4de491f9df6683ae949ff45463b5c0ded3a345d9b8d0958b164c8240e",
     "isAdult": false,
     "formattedSize": "22.5 KB",
     "isBroken": false
@@ -3306,6 +3356,29 @@
     "fileHash": "sha256-2d9127d57a813c9eab622480a709d0bc3b3f9f7d7d6ebb2a1b9f04ae58b1804d",
     "isAdult": true,
     "formattedSize": "26 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/HanimeTV.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "HanimeTV",
+    "internalName": "HanimeTV",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "Watch hentai online free download HD on mobile phone tablet laptop desktop.  Stream online, regularly released uncensored, subbed, in 720p and 1080p!",
+    "fileSize": 32011,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hanime.tv/home&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-f6aadff548f9d6a6f04309590183bd1586caf238dce36e3d54e9b93ece983146",
+    "isAdult": true,
+    "formattedSize": "31.3 KB",
     "isBroken": false
   },
   {
@@ -4110,7 +4183,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/JavGuru.cs3",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "JavGuru (2)",
     "internalName": "JavGuru_2",
     "authors": [
@@ -4118,7 +4191,7 @@
       "ByAyzen"
     ],
     "description": "JavGuru",
-    "fileSize": 72298,
+    "fileSize": 72434,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -4126,9 +4199,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=jav.guru&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-7de754e18b1fdd63858269dc9f970e62674fc3836dfdcf6effac6374101e555c",
+    "fileHash": "sha256-35c0909021df7ce91189222e47f00a8c65435a41921b1e8c9401fdccce178cac",
     "isAdult": true,
-    "formattedSize": "70.6 KB",
+    "formattedSize": "70.7 KB",
     "isBroken": false
   },
   {
@@ -5064,6 +5137,29 @@
     "fileHash": "sha256-b0f62fd0725347b502fad0f68b4f0a037dc17a993eebe4e7794f6d8ad3c952d5",
     "isAdult": true,
     "formattedSize": "10.4 KB",
+    "isBroken": false
+  },
+  {
+    "iconUrl": "https://play-lh.googleusercontent.com/V4t4JeQV2Cu9u72hKuqOW5c0IfwcZuuVS1d9PF2uJsW3rlIq-aOMTrT5bABVGaAFTcM=w480-h960-rw",
+    "fileHash": "sha256-c906916dbf3b262bda146f84a57e215c1e2fce81b46964dd3e51633aaba575a3",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "fileSize": 44666,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "NivinCNC"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 5,
+    "internalName": "M3UPlaylistPlayerProvider",
+    "description": "Add your own m3u playlists",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/M3UPlaylistPlayerProvider.cs3",
+    "name": "M3UPlaylistPlayerProvider",
+    "isAdult": false,
+    "formattedSize": "43.6 KB",
     "isBroken": false
   },
   {
@@ -7856,7 +7952,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 928740,
+    "fileSize": 940613,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7869,9 +7965,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-467b44dc23b3aaed0713ecd5dc8dee258ac3deb786077aebf9bdcecce49a2f54",
+    "fileHash": "sha256-327e94e1ce73757b1f3754800c9eb3744aae4c896fd610bda5389eff4541ec9c",
     "isAdult": false,
-    "formattedSize": "907 KB",
+    "formattedSize": "918.6 KB",
     "isBroken": false
   },
   {
@@ -7948,10 +8044,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
-    "fileHash": "sha256-3ded70097052300b878bdbb3c6959227429a8ac53ffe35a856f4b069f3131965",
+    "fileHash": "sha256-878a7a13c8b79e0eff17efffe10abb79a9e71ab9404b1b1b40434074409a5dd1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 16801,
+    "fileSize": 17122,
     "status": 1,
     "authors": [
       "NivinCNC"
@@ -7960,13 +8056,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "SubscriptionManager",
     "description": "Manage your CNCVerse subscription — remove ads with a premium plan",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SubscriptionManager.cs3",
     "name": "SubscriptionManager",
     "isAdult": false,
-    "formattedSize": "16.4 KB",
+    "formattedSize": "16.7 KB",
     "isBroken": false
   },
   {
@@ -8250,6 +8346,29 @@
     "name": "TamilUltraProvider",
     "isAdult": false,
     "formattedSize": "19.4 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/ThaiPorn.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "ThaiPorn",
+    "internalName": "ThaiPorn",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "ThaiPorn",
+    "fileSize": 13398,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "th",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%B0.com/video_category/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A%E0%B9%84%E0%B8%97%E0%B8%A2&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-f96ad116907786bf54c370a21a99f594c6046fb286b595e148522fff8b89c079",
+    "isAdult": true,
+    "formattedSize": "13.1 KB",
     "isBroken": false
   },
   {
@@ -9228,22 +9347,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/XChina.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "XChina",
     "internalName": "XChina",
     "authors": [
       "ByAyzen"
     ],
     "description": "xChina is one of the biggest porn websites (NSFW) in the world, it collects all kinds of high-definition sexy photo sets, nude photography, adult novels, erotic videos and other adult content. Everything is free here.",
-    "fileSize": 12506,
+    "fileSize": 12510,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
-    "language": "en",
+    "language": "zh",
     "tvTypes": [
       "NSFW"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.xchina.co/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-c5e956ee44b9ff315f27423d04f3b11f68676595c3006b6b89c17f39b4b63123",
+    "fileHash": "sha256-6035421c04ae9dc2d51f3ba27f6b10f2d20bbbf2996e77074eacb343fc310880",
     "isAdult": true,
     "formattedSize": "12.2 KB",
     "isBroken": false
