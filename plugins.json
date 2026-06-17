@@ -338,14 +338,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniDb.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "AniDb",
     "internalName": "AniDb",
     "authors": [
       "Phisher98"
     ],
     "description": "Animes",
-    "fileSize": 28717,
+    "fileSize": 28886,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -355,12 +355,12 @@
     ],
     "iconUrl": "https://anidb.app/images/fav-512.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c3817bb79dee2405da08d9f5cd869386b84d8c06331dee51bdd8e1609d59f5bb",
-    "jarFileSize": 100109,
+    "fileHash": "sha256-f152dcc20c5c6600dd2e97109b4e684c9f0e6c2c158290618a44003af9d8d2f8",
+    "jarFileSize": 100645,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniDb.jar",
-    "jarHash": "sha256-a02a3df6263c4cc208004311d119dd1fcb566e83f19ae0c74c1b49c6c972d67e",
+    "jarHash": "sha256-77db17438e48ce1e1066c5953d4f18b6574a6bb36e3fcc8d71ae682508e59bc6",
     "isAdult": false,
-    "formattedSize": "28 KB",
+    "formattedSize": "28.2 KB",
     "isBroken": false
   },
   {
@@ -2538,14 +2538,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/EroThots.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "EroThots",
     "internalName": "EroThots",
     "authors": [
       "kraptor"
     ],
     "description": "Erothots Huge Free Place To Find Leaked onlyfans models Videos And images, Models, Pornstars, Gifs ...",
-    "fileSize": 13768,
+    "fileSize": 13674,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -2553,7 +2553,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://erothots.is/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-857e426a070992d7d863a41ed1fa4556023e76a5cb21579dffbc32d6f301adc5",
+    "fileHash": "sha256-e2f63c53fe95eb4b2e817c48c7325a7ec212952ae0612b964454cc3d646bd7de",
     "isAdult": true,
     "formattedSize": "13.4 KB",
     "isBroken": false
@@ -2608,14 +2608,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/F1FullRaces.cs3",
     "status": 1,
-    "version": 8,
+    "version": 10,
     "name": "F1FullRaces",
     "internalName": "F1FullRaces",
     "authors": [
       "ByAyzen"
     ],
     "description": "F1FullRaces",
-    "fileSize": 20044,
+    "fileSize": 25597,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -2623,9 +2623,9 @@
     ],
     "iconUrl": "https://i.imgur.com/CcDyv7Z.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a3b9eb48198ad4f93bd874232cbc41b24ca826c1a43575a05fd8e5853a0ebd4a",
+    "fileHash": "sha256-fa32fc43e6f4a436eb1ccc3a70a16b0cd8363aad2230ad42096eae8f026f95bd",
     "isAdult": false,
-    "formattedSize": "19.6 KB",
+    "formattedSize": "25 KB",
     "isBroken": false
   },
   {
@@ -2913,14 +2913,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/FreePornVideos.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "FreePornVideos (2)",
     "internalName": "FreePornVideos_2",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Check out 🔥 Full Length Porn Videos from Top Studios in Ultra HD. NO annoying ADS ✔",
-    "fileSize": 15335,
+    "fileSize": 15245,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -2928,9 +2928,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.freepornvideos.xxx&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-f7ac611b54eacf45ebafc336b4f4d665ad3b71c5df36844c6bd7179e353ce837",
+    "fileHash": "sha256-14a036e06a08429bc34d7ccc6879f1f5bc629ba71256cd4b459c553294374668",
     "isAdult": true,
-    "formattedSize": "15 KB",
+    "formattedSize": "14.9 KB",
     "isBroken": false
   },
   {
@@ -7515,14 +7515,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/RoshyTv.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "RoshyTv",
     "internalName": "RoshyTv",
     "authors": [
       "kraptor"
     ],
     "description": "Leaked Uncensored Japanese Adult Videos. Daily Updated Decensored JAV Porn.",
-    "fileSize": 15642,
+    "fileSize": 15643,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -7530,7 +7530,7 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://roshy.tv/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-2f6c3956a3c71bc5fdc3c40718e0032871ac3fb44d43e2d140fa6437ecd277d0",
+    "fileHash": "sha256-31206ae3ea3db3c8f1eb9cacbf15a203b4869b1ba02b01049d3ab61bff067291",
     "isAdult": true,
     "formattedSize": "15.3 KB",
     "isBroken": false
@@ -7944,7 +7944,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 649,
+    "version": 650,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -7952,7 +7952,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 940640,
+    "fileSize": 947114,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7965,9 +7965,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-eb156bcb7818aafca38639e03f70d006cef6938158b8907331d7ba8b3f2ea2b9",
+    "fileHash": "sha256-876c5dc00f8cb13a392c2cc3120ecbd697f25e90536e183fce6308878da628d7",
     "isAdult": false,
-    "formattedSize": "918.6 KB",
+    "formattedSize": "924.9 KB",
     "isBroken": false
   },
   {
@@ -8744,22 +8744,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 46,
+    "version": 47,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19407,
+    "fileSize": 19406,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub80.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub81.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8d7a83faecbb15c4d2e0056b95545f37440f06e1ea1d081141e2a7b7d07d00db",
+    "fileHash": "sha256-e9f6cb6ffa51b46a1af5509f6f587fd2f752c1044d169267a24055f1dbe2bf78",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -8835,22 +8835,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 98,
+    "version": 99,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 33985,
+    "fileSize": 33984,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno7.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno8.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-f18b1507cdd3c3ebe3d34ba57928094ec0366e8d79439173a1b3cd96a10a79e3",
+    "fileHash": "sha256-276ea5b6000bd114ef32fdeaa6da45e2050e185786b939ffdeab90443700c9d2",
     "isAdult": true,
     "formattedSize": "33.2 KB",
     "isBroken": false
@@ -8956,7 +8956,7 @@
       "RowdyRushya,Phisher98"
     ],
     "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-    "fileSize": 296365,
+    "fileSize": 298192,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8964,9 +8964,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-3aac4f0369f9668e0309f2c4eb0f1b49c7e431e86ba9a47bed873f3516a85883",
+    "fileHash": "sha256-15f84fb85e0d4523bf8a30807edb5572cf48f92153e44a6a32389c6abad55fd0",
     "isAdult": false,
-    "formattedSize": "289.4 KB",
+    "formattedSize": "291.2 KB",
     "isBroken": false
   },
   {
