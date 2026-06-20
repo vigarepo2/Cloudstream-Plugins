@@ -117,14 +117,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Aki.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Aki",
     "internalName": "Aki",
     "authors": [
       "ByAyzen"
     ],
     "description": "Dream or Enjoy The Hentai you re looking for is here. Find the Hentai you re looking for in video and 3D or Asmr with 1080p or 720p quality. Watch on any device today",
-    "fileSize": 22426,
+    "fileSize": 20437,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -132,9 +132,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aki-h.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-6f9c6ddc915ebc73036ed380e59e0e1644de2814a249eedc2f6f8032b00287d8",
+    "fileHash": "sha256-36a2b3b7a6ea9e7a75d1260be926c8a91099e90263f95d9575ad579d78144724",
     "isAdult": true,
-    "formattedSize": "21.9 KB",
+    "formattedSize": "20 KB",
     "isBroken": false
   },
   {
@@ -191,14 +191,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Allpornstream.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Allpornstream",
     "internalName": "Allpornstream",
     "authors": [
       "ByAyzen"
     ],
     "description": "All Porn Stream - Free Porn HD Videos. Watch the best high definition sex movies with hot babes. Allpornstream.com provides you thousands of 1080p, 4k and free porn videos, hd porn tube",
-    "fileSize": 16504,
+    "fileSize": 16354,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -206,9 +206,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://allpornstream.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d6aa373f10811c8c728befb261ec9d01ae0409a2f72dc9652ed36ab78254adbb",
+    "fileHash": "sha256-d8c51f49e22c10105fef9cd27b9a968265e70f53846cd9583b024b5bbaaa7594",
     "isAdult": true,
-    "formattedSize": "16.1 KB",
+    "formattedSize": "16 KB",
     "isBroken": false
   },
   {
@@ -814,6 +814,30 @@
     "isBroken": false
   },
   {
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animesuge.cz&size=64",
+    "fileHash": "sha256-4ea306694c9a731894edca99689c361a186bea5aab1c8e7c8734cdb5dfeb22bc",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "fileSize": 39168,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "NivinCNC"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "version": 1,
+    "internalName": "AnimeSuge",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/AnimeSuge.cs3",
+    "name": "AnimeSuge",
+    "isAdult": false,
+    "formattedSize": "38.3 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeWorld.cs3",
     "status": 1,
     "version": 5,
@@ -1394,7 +1418,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Chatrubate.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "Chatrubate (2)",
     "internalName": "Chatrubate_2",
     "authors": [
@@ -1402,7 +1426,7 @@
       "luck731"
     ],
     "description": "Chaturbate - Free Adult Webcams, Live Sex, Free Sex Chat, Exhibitionist & Pornstar Free Cams",
-    "fileSize": 14940,
+    "fileSize": 14662,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -1410,9 +1434,9 @@
     ],
     "iconUrl": "https://web.static.mmcdn.com/favicons/apple-touch-icon-120x120.png?hash=b494063e083a",
     "apiVersion": 1,
-    "fileHash": "sha256-82dff8b6608a0196c3e351c667830e58c701400c32274d8cbed50afeb14e1f57",
+    "fileHash": "sha256-5d7e947487305c3506718c61735f7d03793d367061a25706ce5cee2ee09cadb2",
     "isAdult": true,
-    "formattedSize": "14.6 KB",
+    "formattedSize": "14.3 KB",
     "isBroken": false
   },
   {
@@ -1834,10 +1858,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=desi-serials.to&sz=%size%",
-    "fileHash": "sha256-f72f2883aa6e2a95b9bb306ff2affe7091e92d2a9d93391592faf3d1c61ef11e",
+    "fileHash": "sha256-5f68c1164b4d91af22f83c31d1ac247581ffdaecfc7130f1380f0b3adf18acec",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 39436,
+    "fileSize": 40999,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -1846,13 +1870,13 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 22,
+    "version": 23,
     "internalName": "DesiSerialsProvider",
     "description": "Desi Serials Tv Shows Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/DesiSerialsProvider.cs3",
     "name": "DesiSerialsProvider",
     "isAdult": false,
-    "formattedSize": "38.5 KB",
+    "formattedSize": "40 KB",
     "isBroken": false
   },
   {
@@ -2959,7 +2983,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Full4kizle.cs3",
     "status": 1,
-    "version": 16,
+    "version": 17,
     "name": "Full4kizle",
     "internalName": "Full4kizle",
     "authors": [
@@ -2973,9 +2997,9 @@
       "Movie",
       "AsianDrama"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://izleplus.com&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plusizle.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-0a654bb4de491f9df6683ae949ff45463b5c0ded3a345d9b8d0958b164c8240e",
+    "fileHash": "sha256-b10488826e473a90b0d78a83747fe26736f44f4aa76076712ebce63fd80d73f8",
     "isAdult": false,
     "formattedSize": "22.5 KB",
     "isBroken": false
@@ -5141,10 +5165,10 @@
   },
   {
     "iconUrl": "https://play-lh.googleusercontent.com/V4t4JeQV2Cu9u72hKuqOW5c0IfwcZuuVS1d9PF2uJsW3rlIq-aOMTrT5bABVGaAFTcM=w480-h960-rw",
-    "fileHash": "sha256-3be57134cec7a41860b595bde424fed08046c9d8646c9d9fde4e1bffc2acf337",
+    "fileHash": "sha256-29c071958bafe662dccfe81496c46923a2b84055c8d6fe6ccef90ac660e522eb",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 44869,
+    "fileSize": 49248,
     "status": 1,
     "language": "en",
     "authors": [
@@ -5153,13 +5177,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "M3UPlaylistPlayerProvider",
     "description": "Add your own m3u playlists",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/M3UPlaylistPlayerProvider.cs3",
     "name": "M3UPlaylistPlayerProvider",
     "isAdult": false,
-    "formattedSize": "43.8 KB",
+    "formattedSize": "48.1 KB",
     "isBroken": false
   },
   {
@@ -5423,29 +5447,6 @@
     "name": "Moflix",
     "isAdult": false,
     "formattedSize": "36 KB",
-    "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Motherless.cs3",
-    "status": 1,
-    "version": 9,
-    "name": "Motherless",
-    "internalName": "Motherless",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "Motherless.com is a moral free file host where anything legal is hosted forever. Motherless has a very large and active community where you can meet like minded individuals.",
-    "fileSize": 17128,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
-    "language": "en",
-    "tvTypes": [
-      "NSFW"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://motherless.com/&size=16",
-    "apiVersion": 1,
-    "fileHash": "sha256-4a12a63d6314d43e536afaa67bdc20b0ec845c861e71cf1f448ebfb430573541",
-    "isAdult": true,
-    "formattedSize": "16.7 KB",
     "isBroken": false
   },
   {
@@ -5772,14 +5773,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 22,
+    "version": 23,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 104091,
+    "fileSize": 104828,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5788,9 +5789,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b332673976e5dc2d9a864ba9a38fcd046e60cb17afb3ecee2a8c155ecbb37690",
+    "fileHash": "sha256-7afbd57857745ae5f7739dcdbca023c3fb3d18bf23ef59361752a9df4d32f090",
     "isAdult": false,
-    "formattedSize": "101.7 KB",
+    "formattedSize": "102.4 KB",
     "isBroken": false
   },
   {
@@ -8044,10 +8045,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
-    "fileHash": "sha256-878a7a13c8b79e0eff17efffe10abb79a9e71ab9404b1b1b40434074409a5dd1",
+    "fileHash": "sha256-20435ca16a1fe733ac78e92eeae37aad372646b6d0e8aa7824742c7ba8928f53",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 17122,
+    "fileSize": 17430,
     "status": 1,
     "authors": [
       "NivinCNC"
@@ -8056,13 +8057,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "SubscriptionManager",
     "description": "Manage your CNCVerse subscription — remove ads with a premium plan",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SubscriptionManager.cs3",
     "name": "SubscriptionManager",
     "isAdult": false,
-    "formattedSize": "16.7 KB",
+    "formattedSize": "17 KB",
     "isBroken": false
   },
   {
@@ -8835,14 +8836,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 101,
+    "version": 102,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 33986,
+    "fileSize": 34175,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -8850,9 +8851,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno10.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-557e9793f7294a06d101d84566c87a8280cda267f71d3495a6ef4740ea657848",
+    "fileHash": "sha256-bd12b25db9c6868ad5ac68cc91e4e79f7b4ec9cd747d877ea3aeb715aec8998a",
     "isAdult": true,
-    "formattedSize": "33.2 KB",
+    "formattedSize": "33.4 KB",
     "isBroken": false
   },
   {
@@ -8925,14 +8926,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
     "status": 1,
-    "version": 35,
+    "version": 36,
     "name": "UHDmoviesProvider",
     "internalName": "UHDmoviesProvider",
     "authors": [
       "Phisher98"
     ],
     "description": "Indian Multi-language 4K Provider",
-    "fileSize": 50459,
+    "fileSize": 50470,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8941,7 +8942,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-943ca0335dd9ed7a804c6fd2ba634d8b9901d2ba084e00a338962bf147a84bbc",
+    "fileHash": "sha256-07d6d44e70d330433637077817bd2399a1d6d0c5225b984621af03566e036e5b",
     "isAdult": false,
     "formattedSize": "49.3 KB",
     "isBroken": false
@@ -9624,14 +9625,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Xpaja.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "Xpaja",
     "internalName": "Xpaja",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Xpaja te ofrece vídeos porno amateur y HD gratis todos los días. Tenemos el mejor porno casero del mundo con chicas hermosas, ven disfrútalo ahora!",
-    "fileSize": 14505,
+    "fileSize": 14819,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "es",
     "tvTypes": [
@@ -9639,9 +9640,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.xpaja.net&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-9f1213484699b66588a6dc4fc58e22d2498bcba836c2af4126e6f7b097b1ed8b",
+    "fileHash": "sha256-b5fbe9c9020e2f2f79e278910f601bd6a98ef0e7a7c2f839a9dd9c33e5f97c0d",
     "isAdult": true,
-    "formattedSize": "14.2 KB",
+    "formattedSize": "14.5 KB",
     "isBroken": false
   },
   {
