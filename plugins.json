@@ -263,13 +263,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anichi.cs3",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "Anichi",
     "internalName": "Anichi",
     "authors": [
       "Hexated,Phisher98"
     ],
-    "fileSize": 97545,
+    "fileSize": 99363,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -279,12 +279,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Allanime.png",
     "apiVersion": 1,
-    "fileHash": "sha256-28f831c0ac1aee25347cd8fd06a4797b5747425d943f457441cdc686cf4dbda5",
-    "jarFileSize": 535525,
+    "fileHash": "sha256-ff91661ba8807d0294c9570e6b7a3d669171fedd256f1bb05dadd8b7cfa80ef6",
+    "jarFileSize": 549292,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anichi.jar",
-    "jarHash": "sha256-32684469c188e7256fcfd7407784da87ca8304650ccd020edbc682939289e4be",
+    "jarHash": "sha256-248346771641cac28fe8bd56cf31cba6279362bf093bd76de2c679f65a3d7711",
     "isAdult": false,
-    "formattedSize": "95.3 KB",
+    "formattedSize": "97 KB",
     "isBroken": false
   },
   {
@@ -1858,10 +1858,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=desi-serials.to&sz=%size%",
-    "fileHash": "sha256-5f68c1164b4d91af22f83c31d1ac247581ffdaecfc7130f1380f0b3adf18acec",
+    "fileHash": "sha256-209a0f16f40b59c9edc7398e98d1fa8cec9c63a1249d6821dae437c695df30e2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 40999,
+    "fileSize": 43099,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -1870,13 +1870,13 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 23,
+    "version": 24,
     "internalName": "DesiSerialsProvider",
     "description": "Desi Serials Tv Shows Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/DesiSerialsProvider.cs3",
     "name": "DesiSerialsProvider",
     "isAdult": false,
-    "formattedSize": "40 KB",
+    "formattedSize": "42.1 KB",
     "isBroken": false
   },
   {
@@ -2516,14 +2516,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/EPorner.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "EPorner",
     "internalName": "EPorner",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch Full HD Porn Videos for free. We have over 4,975,164 full length Hardcore HD Sex Movies in 720p, 1080p and 4K that you can watch online or download.",
-    "fileSize": 14231,
+    "fileSize": 16721,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -2531,9 +2531,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.eporner.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-dc08047baaa1cf5f8385a4577e531aa9c3aeef9cae3d2c374a8ab310daf1b544",
+    "fileHash": "sha256-bec3a5760c71963f91ac19dcf79d5ece0a45ad5072a6b6bb13994c0c02a1bcfb",
     "isAdult": true,
-    "formattedSize": "13.9 KB",
+    "formattedSize": "16.3 KB",
     "isBroken": false
   },
   {
@@ -5773,14 +5773,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 23,
+    "version": 24,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 104828,
+    "fileSize": 115419,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5789,9 +5789,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-7afbd57857745ae5f7739dcdbca023c3fb3d18bf23ef59361752a9df4d32f090",
+    "fileHash": "sha256-30d105bc56d14ce1fbfa547d8898a0468a4527a6160b2b21e6a6432c04aaf852",
     "isAdult": false,
-    "formattedSize": "102.4 KB",
+    "formattedSize": "112.7 KB",
     "isBroken": false
   },
   {
@@ -6950,8 +6950,8 @@
     "isBroken": false
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=playztv.top&sz=%size%",
-    "fileHash": "sha256-9afc86c3446d19a6ae45cfe6a3d33cfe8d3046098e1c3efcc2015a2cd26ba5ce",
+    "iconUrl": "https://playztv.com.in/wp-content/uploads/2026/06/playz-tv1.webp",
+    "fileHash": "sha256-fa9ebbada783c67ec3b3cfe7b4ea62d837202abb06465ac08b431ae7d10cf5e2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 85991,
@@ -6963,7 +6963,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 20,
+    "version": 21,
     "internalName": "PlayZTVProvider",
     "description": "Watch Live TV channels & sports via PlayZTV",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PlayZTVProvider.cs3",
@@ -7799,8 +7799,8 @@
     "isBroken": false
   },
   {
-    "iconUrl": "https://appteka.store/get/a20p17EuCKFD08AaFsfH3JSJ6OU30ccp18WrKaNDze4LqOsDArhKj13-f-SjAayiWJH6P6pv9AlzhcfzEXlmRokU-I4=/726bbb91e36da425f55efce72cccb3a82df1d265.png",
-    "fileHash": "sha256-cdcb47924a42ec964a1342af957818a3d520cf323849c7503247f7e7c0a202a1",
+    "iconUrl": "https://sktechtv.org/wp-content/uploads/2026/05/sktechtv.webp",
+    "fileHash": "sha256-047b3ffbe783f19d1bea3f8e266b8d833404a770ab82e34de9b874a1387de764",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 103077,
@@ -7812,7 +7812,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 36,
+    "version": 37,
     "internalName": "SKTechProvider",
     "description": "Watch Live sports and TV channels via SK Tech",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.cs3",
@@ -7945,7 +7945,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 650,
+    "version": 651,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -7953,7 +7953,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 947114,
+    "fileSize": 949215,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7966,9 +7966,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-876c5dc00f8cb13a392c2cc3120ecbd697f25e90536e183fce6308878da628d7",
+    "fileHash": "sha256-0e2e5745a454c977abd1d3b9a34e6af7ffc4d4463057abdd888be606957d42f2",
     "isAdult": false,
-    "formattedSize": "924.9 KB",
+    "formattedSize": "927 KB",
     "isBroken": false
   },
   {
