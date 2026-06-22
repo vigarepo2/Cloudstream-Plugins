@@ -1615,14 +1615,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/CloudPlay.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "CloudPlay",
     "internalName": "CloudPlay",
     "authors": [
       "Phisher98"
     ],
     "description": "CloudPlay Live TV Extension",
-    "fileSize": 24688,
+    "fileSize": 27307,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1630,9 +1630,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cloudplay.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-6fa8bcdf17d7ad6c84ada089ac19e340d980c694ccbdbc468faf83372e40f554",
+    "fileHash": "sha256-9dfb41f1ad3f33ca1f93395195b842dddaa6162b1d574b2b45d1ea912aafac0d",
     "isAdult": false,
-    "formattedSize": "24.1 KB",
+    "formattedSize": "26.7 KB",
     "isBroken": false
   },
   {
@@ -4540,13 +4540,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kickassanime.cs3",
     "status": 1,
-    "version": 22,
+    "version": 23,
     "name": "Kickassanime",
     "internalName": "Kickassanime",
     "authors": [
       "Phisher98,Hexated"
     ],
-    "fileSize": 51526,
+    "fileSize": 52366,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -4556,12 +4556,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/KAA.png",
     "apiVersion": 1,
-    "fileHash": "sha256-1520a1f35dcc035fc0dbdfbff754f997211c6054d9553fdf1d4ce3e0334a859d",
-    "jarFileSize": 237344,
+    "fileHash": "sha256-c9cd030670f0311998144a5fb21991a4965df7f6a9d07231e20efbac873c1088",
+    "jarFileSize": 244392,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kickassanime.jar",
-    "jarHash": "sha256-b62cbad0c0b56a070f998444e344f1fe3739676dbaf6933421f287c55f6b4113",
+    "jarHash": "sha256-59c250b82ebf058849d7405ecf04499a6bf81c3e15ad6eae2852aa5c8f03902e",
     "isAdult": false,
-    "formattedSize": "50.3 KB",
+    "formattedSize": "51.1 KB",
     "isBroken": false
   },
   {
@@ -7953,7 +7953,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 949215,
+    "fileSize": 949649,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7966,9 +7966,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-0e2e5745a454c977abd1d3b9a34e6af7ffc4d4463057abdd888be606957d42f2",
+    "fileHash": "sha256-6492301193a950c0cd93a26c2fd15857f7008c2c78715bb3beb4d24a3e67d761",
     "isAdult": false,
-    "formattedSize": "927 KB",
+    "formattedSize": "927.4 KB",
     "isBroken": false
   },
   {
