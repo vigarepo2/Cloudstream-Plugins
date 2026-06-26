@@ -537,14 +537,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeDekhoProvider.cs3",
     "status": 1,
-    "version": 64,
+    "version": 65,
     "name": "AnimeDekhoProvider",
     "internalName": "AnimeDekhoProvider",
     "authors": [
-      "Hindi Provider"
+      "Phisher98"
     ],
     "description": "Includes AnimeDekho,OnePace(DUB,SUB) and HindiSubAnime",
-    "fileSize": 53871,
+    "fileSize": 64515,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -554,12 +554,12 @@
     ],
     "iconUrl": "https://animedekho.app/wp-content/uploads/2023/07/AnimeDekho-Logo-300x-1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-11769f6ba98eb836cead03790101e2e6a53e4a47d4e2443423e60e29c79f5e04",
-    "jarFileSize": 286857,
+    "fileHash": "sha256-1a6f0f4a0d82dc1ca3ac4e6daa6b6d199f74537b39e39e5f7c78f5e052351296",
+    "jarFileSize": 328082,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeDekhoProvider.jar",
-    "jarHash": "sha256-099a323e9fdcc3e731c4cf47f9b7d1f4955ae4d6bc9c0726281814570e3741e3",
+    "jarHash": "sha256-39bd8b0813c79433cc4e54d543d8272b2072ea363fe34299f278cfc6eff01c7e",
     "isAdult": false,
-    "formattedSize": "52.6 KB",
+    "formattedSize": "63 KB",
     "isBroken": false
   },
   {
@@ -1615,14 +1615,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/CloudPlay.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "CloudPlay",
     "internalName": "CloudPlay",
     "authors": [
       "Phisher98"
     ],
     "description": "CloudPlay Live TV Extension",
-    "fileSize": 28291,
+    "fileSize": 28617,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1630,9 +1630,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cloudplay.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-0ed98deef3243de036976131d28f086833ebead59e90689892dbbdeb620fb7dc",
+    "fileHash": "sha256-e3a6cc7415aa4ea21d065b14333034c4d0d3ffb363c347821771fead6bbf49f6",
     "isAdult": false,
-    "formattedSize": "27.6 KB",
+    "formattedSize": "27.9 KB",
     "isBroken": false
   },
   {
@@ -3758,14 +3758,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hindmoviez.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "Hindmoviez",
     "internalName": "Hindmoviez",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang)",
-    "fileSize": 51909,
+    "fileSize": 52088,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -3774,9 +3774,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/hindmoviez.png",
     "apiVersion": 1,
-    "fileHash": "sha256-909758546d0c73e62575ac8a0a8acccbd0905253c2790a45a1164db5e0e2f867",
+    "fileHash": "sha256-85815a6ed887e559ea8f3d836730249d217ab10edc6d93bb36815f25089086a3",
     "isAdult": false,
-    "formattedSize": "50.7 KB",
+    "formattedSize": "50.9 KB",
     "isBroken": false
   },
   {
@@ -4231,7 +4231,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/JAVHd.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "JAVHd",
     "internalName": "JAVHd",
     "authors": [
@@ -4239,7 +4239,7 @@
       "megix"
     ],
     "description": "The Best Free JAV online, Free Download and Watching jav porn videos. Tons of hot jav censored,Japanese tube,Japanese sex online. Update everyday, javhd.today are waiting for you. Enjoy!",
-    "fileSize": 18400,
+    "fileSize": 18394,
     "repositoryUrl": "https://github.com/phisher98/CXXX",
     "language": "en",
     "tvTypes": [
@@ -4247,7 +4247,7 @@
     ],
     "iconUrl": "https://javhd.today/logo/javhd1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9855f7fb06250f1122a1e3eeed237169c846cf2fc27b516ec0dedda79c902434",
+    "fileHash": "sha256-52ff9d3aa8c5fc34a95a7fb62a0bb4d5848891ac37590565aabcb0e80852be91",
     "isAdult": true,
     "formattedSize": "18 KB",
     "isBroken": false
@@ -5502,14 +5502,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
     "status": 1,
-    "version": 23,
+    "version": 25,
     "name": "MovieBoxProvider",
     "internalName": "MovieBoxProvider",
     "authors": [
       "NivinCNC,Phisher98"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 57636,
+    "fileSize": 70038,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -5518,17 +5518,17 @@
     ],
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-dfe4e461f0ea01617f8bbc51b0268cec693eb330af78ade2b5d401302e59526e",
+    "fileHash": "sha256-489cacda8307169543ccebda7dc7f2a5c70b4118283e73978fdf8fb2777047a4",
     "isAdult": false,
-    "formattedSize": "56.3 KB",
+    "formattedSize": "68.4 KB",
     "isBroken": false
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
-    "fileHash": "sha256-25f4bbf7c294896ab61cc20041be7d3e5e90bce715de5b87923fd5b4ea14fa17",
+    "fileHash": "sha256-713e8f0655397dec399ba7a5014e7e34e302819d84fd94c438ec6f37a4d85546",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 76828,
+    "fileSize": 84104,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5538,21 +5538,21 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 36,
+    "version": 39,
     "internalName": "MovieBoxProvider_2",
     "description": "Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
     "name": "MovieBoxProvider (2)",
     "isAdult": false,
-    "formattedSize": "75 KB",
+    "formattedSize": "82.1 KB",
     "isBroken": false
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProviderIN/icon.png",
-    "fileHash": "sha256-6c9f3c2181d297194da1e042e8b55dd76398c7e43847560e6c617e23cadde183",
+    "fileHash": "sha256-e7da66ab4afa36a77a0c7a96904da17c0e2083d9bae6559c71383694ce8d96ca",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 74639,
+    "fileSize": 81093,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5562,13 +5562,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 38,
+    "version": 41,
     "internalName": "MovieBoxProviderIN",
     "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
     "name": "MovieBoxProviderIN",
     "isAdult": false,
-    "formattedSize": "72.9 KB",
+    "formattedSize": "79.2 KB",
     "isBroken": false
   },
   {
@@ -5595,10 +5595,10 @@
   },
   {
     "iconUrl": "https://movielinkbd.one/img/favicon-192x192.png",
-    "fileHash": "sha256-6e623343a56292261bf1f74ec6b4be249f7a9282a5ec87dd3e5fbf106c6a6691",
+    "fileHash": "sha256-9e9633ca5224e57980a5575e5a52952e012fd3a9fd4c973bdfb89c60de072627",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 29713,
+    "fileSize": 30337,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -5610,13 +5610,13 @@
       "AnimeMovie",
       "AsianDrama"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "MovieLinkBDProvider",
     "description": "MovieLinkBD - Largest Movie Download Site in Bangladesh",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieLinkBDProvider.cs3",
     "name": "MovieLinkBDProvider",
     "isAdult": false,
-    "formattedSize": "29 KB",
+    "formattedSize": "29.6 KB",
     "isBroken": false
   },
   {
@@ -7953,7 +7953,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 946311,
+    "fileSize": 946360,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -7966,9 +7966,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-bb679cb29cc00f0ae1454da4394a4850e42f5799bb1b3d411731dbcda04abed0",
+    "fileHash": "sha256-67749ac3c6672051f274c50ed8f8d71df475ecf0663466923022652793dff00c",
     "isAdult": false,
-    "formattedSize": "924.1 KB",
+    "formattedSize": "924.2 KB",
     "isBroken": false
   },
   {
@@ -8282,10 +8282,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/TamilDhoolProvider/icon.png",
-    "fileHash": "sha256-a0de9c8e71f66fb2d45d2685757a66e1127a84e5bfab3b068c78a2f304416cc1",
+    "fileHash": "sha256-84d1573108f8fa7a6149683fd5347617c80528dc6cb5dc68ce400b0abacf54de",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 28623,
+    "fileSize": 28063,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -8294,13 +8294,13 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 29,
+    "version": 30,
     "internalName": "TamilDhoolProvider",
     "description": "Tamil Tv Serial/Shows Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/TamilDhoolProvider.cs3",
     "name": "TamilDhoolProvider",
     "isAdult": false,
-    "formattedSize": "28 KB",
+    "formattedSize": "27.4 KB",
     "isBroken": false
   },
   {
@@ -8836,22 +8836,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 106,
+    "version": 107,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34273,
+    "fileSize": 34275,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno13.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno14.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-9b14053ad0af939c2e67a9f0dc8249f4a11f278d2abf445809340390ce196bec",
+    "fileHash": "sha256-d696b259545e65815c7cb6119bd61d2f8c1d20e8073f4accb8761b908ea1a027",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
@@ -9040,14 +9040,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VegaMovies.cs3",
     "status": 1,
-    "version": 81,
+    "version": 82,
     "name": "VegaMovies",
     "internalName": "VegaMovies",
     "authors": [
       "megix"
     ],
     "description": "Includes LuxMovies, Rogmovies",
-    "fileSize": 41563,
+    "fileSize": 41565,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "hi",
     "tvTypes": [
@@ -9058,7 +9058,7 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/VegaMovies/icon.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-f64f07cab3f704e4b1974595bf7ef03b02734b335a80e6dccbe48d34e16e73a2",
+    "fileHash": "sha256-b78635ef4f2f66c134184552fe5e4956cc02ec1c5ce6d6811cccfd3747367883",
     "isAdult": false,
     "formattedSize": "40.6 KB",
     "isBroken": false
