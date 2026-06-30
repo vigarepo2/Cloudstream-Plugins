@@ -712,14 +712,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.cs3",
     "status": 1,
-    "version": 26,
+    "version": 27,
     "name": "AnimePahe",
     "internalName": "AnimePahe",
     "authors": [
       "Cloudburst,Lorem Ipsum,Phisher98"
     ],
     "description": "Animes (SUB/DUB)",
-    "fileSize": 71242,
+    "fileSize": 72091,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -729,9 +729,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7f0b6b7717c09f8a62163ef1b00161c46574446640b17ef77e072b3ea9fed9eb",
+    "fileHash": "sha256-1c5efcc74a892efa88e355806b940be7dc6ba6b2670f78cfec9c61fe52cdcc7c",
     "isAdult": false,
-    "formattedSize": "69.6 KB",
+    "formattedSize": "70.4 KB",
     "isBroken": false
   },
   {
@@ -1657,10 +1657,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
-    "fileHash": "sha256-07db344b070ddf7f618338b4a34078dbf8f04ef58b7d849f8adfcf7aa1fe06d5",
+    "fileHash": "sha256-7783013be51c2d9349bbc70a6d15ed7757df28d507a5def6d4bb3662e091f8ec",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 82266,
+    "fileSize": 91381,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1670,26 +1670,26 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 85,
+    "version": 91,
     "internalName": "CNC Verse",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
     "name": "CNC Verse",
     "isAdult": false,
-    "formattedSize": "80.3 KB",
+    "formattedSize": "89.2 KB",
     "isBroken": false
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.cs3",
     "status": 1,
-    "version": 14,
+    "version": 15,
     "name": "Coflix",
     "internalName": "Coflix",
     "authors": [
       "Phisher98"
     ],
     "description": "Movies,Series and Anime French Extension ",
-    "fileSize": 28805,
+    "fileSize": 28798,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "fr",
     "tvTypes": [
@@ -1698,10 +1698,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Coflix.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f84e036af9edd9bf0ecb9630afca7c3431b641d6143beb678f5f7fa8ee480b17",
+    "fileHash": "sha256-cb54e7efaebb9092431102e84cb97957169f8328ae055df715b80a66daa67bb9",
     "jarFileSize": 125671,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.jar",
-    "jarHash": "sha256-659bb2e0ca723eae32715352006c91e5ea0c0e6d954fe85771b706402d3c8d2b",
+    "jarHash": "sha256-be5c8613d6d02efe46a389b2a8a1d780239067c75acb9ef55f58674dbf517175",
     "isAdult": false,
     "formattedSize": "28.1 KB",
     "isBroken": false
