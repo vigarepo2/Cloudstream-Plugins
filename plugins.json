@@ -1296,14 +1296,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
     "status": 1,
-    "version": 32,
+    "version": 33,
     "name": "Bollyflix",
     "internalName": "Bollyflix",
     "authors": [
       "megix"
     ],
     "description": "Movies and Series upto 4K",
-    "fileSize": 40354,
+    "fileSize": 38129,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "hi",
     "tvTypes": [
@@ -1314,9 +1314,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-276841bc22417fb30e7321b55c8d1bdd4fb1f610e386c5f4ddf087f30794c4a3",
+    "fileHash": "sha256-507b486b195b98903b0cec0fca811c27fdff6cf200f6f94a662c64dd8abe0e59",
     "isAdult": false,
-    "formattedSize": "39.4 KB",
+    "formattedSize": "37.2 KB",
     "isBroken": false
   },
   {
@@ -1561,14 +1561,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 456,
+    "version": 457,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 662757,
+    "fileSize": 658983,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1580,9 +1580,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-4c68ccc6bdb6a8fd14bce490fa4dbcda96cc5fa008f4ac088b574988c8c5cac9",
+    "fileHash": "sha256-0150c7d20abab02914e00fbde4443ca9dde1ec2e73243c8644a2e59f05d66eb3",
     "isAdult": false,
-    "formattedSize": "647.2 KB",
+    "formattedSize": "643.5 KB",
     "isBroken": false
   },
   {
@@ -1630,6 +1630,29 @@
     "name": "Cinevood",
     "isAdult": false,
     "formattedSize": "33.2 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Cloudbate.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "Cloudbate",
+    "internalName": "Cloudbate",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "Watch and download cam girls videos at free chaturbate cam show archive.f",
+    "fileSize": 16367,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.cloudbate.com&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-5f05135c2f26fe18c35ec7b564619d93d946856aa3a68df967d6324b74a73313",
+    "isAdult": true,
+    "formattedSize": "16 KB",
     "isBroken": false
   },
   {
@@ -4990,7 +5013,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/LayarKaca.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "LayarKaca",
     "internalName": "LayarKaca",
     "authors": [
@@ -4999,7 +5022,7 @@
       "Hexated"
     ],
     "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
-    "fileSize": 23791,
+    "fileSize": 30518,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "id",
     "tvTypes": [
@@ -5008,9 +5031,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv11.lk21official.cc&size=256",
     "apiVersion": 1,
-    "fileHash": "sha256-3e420253d0155b08fea44a9d7ddb8d39d4a5f5c9c0297012c766ffa1634663b2",
+    "fileHash": "sha256-54f0c80aca2344d40a9b551304788836bbe4ecd8cd0c89e8be099f46017c5755",
     "isAdult": false,
-    "formattedSize": "23.2 KB",
+    "formattedSize": "29.8 KB",
     "isBroken": false
   },
   {
@@ -5133,6 +5156,29 @@
     "fileHash": "sha256-bc76046a2420fbb87c7239c6c9576608f3c290ed2eb5555c89f39727f0ed7dd1",
     "isAdult": true,
     "formattedSize": "26.9 KB",
+    "isBroken": false
+  },
+  {
+    "iconUrl": "https://www.livxow.site/logo.jpg",
+    "fileHash": "sha256-b08fb34bc67eb1b9e51fd0ce9ad605e99452334baf286d419d950661a2fa8c60",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "fileSize": 105117,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "NivinCNC"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 2,
+    "internalName": "LivXowProvider",
+    "description": "Watch Live Sports and TV Channels via LivXow",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/LivXowProvider.cs3",
+    "name": "LivXowProvider",
+    "isAdult": false,
+    "formattedSize": "102.7 KB",
     "isBroken": false
   },
   {
@@ -5742,14 +5788,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
     "status": 1,
-    "version": 32,
+    "version": 33,
     "name": "MoviesDrive",
     "internalName": "MoviesDrive",
     "authors": [
       "megix"
     ],
     "description": "High Quality Movies and TV Shows",
-    "fileSize": 48583,
+    "fileSize": 47290,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "hi",
     "tvTypes": [
@@ -5760,9 +5806,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-947375fddbdaa150a41b18e3adede1228e4ae8da47fb1ffd467a0abf4f8fc2ec",
+    "fileHash": "sha256-52758210caa1cf0a6dc929d0f73fec5919e0ab66e5eddf6386ed30f7c771980a",
     "isAdult": false,
-    "formattedSize": "47.4 KB",
+    "formattedSize": "46.2 KB",
     "isBroken": false
   },
   {
@@ -5816,14 +5862,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 24,
+    "version": 25,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 115419,
+    "fileSize": 123788,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5832,9 +5878,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-30d105bc56d14ce1fbfa547d8898a0468a4527a6160b2b21e6a6432c04aaf852",
+    "fileHash": "sha256-ef5f457a66b681fd5e2f649c6139d2706d0eb00295c03f824fc3819917917a34",
     "isAdult": false,
-    "formattedSize": "112.7 KB",
+    "formattedSize": "120.9 KB",
     "isBroken": false
   },
   {
@@ -8879,22 +8925,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 109,
+    "version": 110,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34272,
+    "fileSize": 34271,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno16.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno17.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-7e39575c3ce6a6264f1eb9c0b6108e9c8340475aee435be61e22559726276754",
+    "fileHash": "sha256-da15e52a7f141d6b95f4b810f93434495370a7894a3ba048c14b079ded66e343",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
