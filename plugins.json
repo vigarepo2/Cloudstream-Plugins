@@ -335,14 +335,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniDb.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "AniDb",
     "internalName": "AniDb",
     "authors": [
       "Phisher98"
     ],
     "description": "Animes",
-    "fileSize": 51429,
+    "fileSize": 53045,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -350,11 +350,11 @@
       "AnimeMovie",
       "OVA"
     ],
-    "iconUrl": "https://anidb.app/images/fav-512.png",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anidb.png",
     "apiVersion": 1,
-    "fileHash": "sha256-73c4ce04c7aea934d0feac9d5f4f90e814b6b4dddb12004c7e1b0de9e07c0362",
+    "fileHash": "sha256-0b9208f277db8c70f84e7f72f1a1e360f2d0477c335bf5317376fb748cb184d2",
     "isAdult": false,
-    "formattedSize": "50.2 KB",
+    "formattedSize": "51.8 KB",
     "isBroken": false
   },
   {
@@ -733,14 +733,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.cs3",
     "status": 1,
-    "version": 27,
+    "version": 28,
     "name": "AnimePahe",
     "internalName": "AnimePahe",
     "authors": [
       "Cloudburst,Lorem Ipsum,Phisher98"
     ],
     "description": "Animes (SUB/DUB)",
-    "fileSize": 74764,
+    "fileSize": 75148,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -750,9 +750,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-1ef33a2515d5772fef6c42df82e9dfdf0d798631615ae5a8ea17e5635ac671ad",
+    "fileHash": "sha256-e6809462c259ead152f8b2cfafff76f26c254633926f32ee3542f4e9a157a4c7",
     "isAdult": false,
-    "formattedSize": "73 KB",
+    "formattedSize": "73.4 KB",
     "isBroken": false
   },
   {
@@ -985,14 +985,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Aniworld.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "Aniworld",
     "internalName": "Aniworld",
     "authors": [
       "Phisher98,Hexated"
     ],
     "description": "Include: Serienstream (Login Required under Extension Settings)",
-    "fileSize": 54024,
+    "fileSize": 54002,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "de",
     "tvTypes": [
@@ -1002,9 +1002,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-7ba5b927ebfc8a639af5a50b39ac1d89c44ec06be1007527744d34eba21a7f46",
+    "fileHash": "sha256-62d8da0e93f132a701efacc6ebf94ba6109aac75f9854c5a461bf963c766bf90",
     "isAdult": false,
-    "formattedSize": "52.8 KB",
+    "formattedSize": "52.7 KB",
     "isBroken": false
   },
   {
@@ -1064,7 +1064,7 @@
       "ycngmn"
     ],
     "description": "Anizone.to streams latest anime content in multiple language.",
-    "fileSize": 19598,
+    "fileSize": 27568,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1072,9 +1072,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/icons/anizone.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5bbdaba352b0c5c3e91e8667019e90c97711f2152cd844255e384de440aaf2de",
+    "fileHash": "sha256-d0a970da5cd44e25e8908134fd1b8bb6e0550c9f256b20f0222ce5738fc202ec",
     "isAdult": false,
-    "formattedSize": "19.1 KB",
+    "formattedSize": "26.9 KB",
     "isBroken": false
   },
   {
@@ -1436,14 +1436,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Chatrubate.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "Chatrubate",
     "internalName": "Chatrubate",
     "authors": [
       "luck731"
     ],
     "description": "Chaturbate - Free Adult Webcams, Live Sex, Free Sex Chat, Exhibitionist & Pornstar Free Cams",
-    "fileSize": 12764,
+    "fileSize": 13569,
     "repositoryUrl": "https://github.com/phisher98/CXXX",
     "language": "en",
     "tvTypes": [
@@ -1451,9 +1451,9 @@
     ],
     "iconUrl": "https://web.static.mmcdn.com/images/logo.svg?hash=7c993ccd600a",
     "apiVersion": 1,
-    "fileHash": "sha256-603e39fe3fa8d134aecf870c7d0702cb6fa0a388b81bbe8b51c5f71930e043f3",
+    "fileHash": "sha256-129f6d1eedf48e89ab780c6463e6a784110b1f03bdcb6888abcc86387f3249c2",
     "isAdult": true,
-    "formattedSize": "12.5 KB",
+    "formattedSize": "13.3 KB",
     "isBroken": false
   },
   {
@@ -1511,14 +1511,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
     "status": 1,
-    "version": 9,
+    "version": 12,
     "name": "Cinemacity",
     "internalName": "Cinemacity",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-    "fileSize": 45122,
+    "fileSize": 68580,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1527,9 +1527,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-4e25507ec749df5a46f66d1f00d7f5aeff25edab15eaac3a6bfcc3f798b1e847",
+    "fileHash": "sha256-c4fa45bea19e96490621873a1d01bd6b3dee6e5b3a6a7e51f9b4795f8f49976c",
     "isAdult": false,
-    "formattedSize": "44.1 KB",
+    "formattedSize": "67 KB",
     "isBroken": false
   },
   {
@@ -1582,14 +1582,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 459,
+    "version": 460,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 664199,
+    "fileSize": 666168,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1601,9 +1601,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-25a58fb39fa30b2c45809cd429a6cc78f9d55b39e45226ca80f507adb12dfbb4",
+    "fileHash": "sha256-c12761e3bdca305b8d0dba95ff33634eb7084c5b10178e7265ba1b8f5c63558a",
     "isAdult": false,
-    "formattedSize": "648.6 KB",
+    "formattedSize": "650.6 KB",
     "isBroken": false
   },
   {
@@ -1701,10 +1701,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
-    "fileHash": "sha256-bcca113cf7860279813f25823119388c0131c4b224901b5e5c3ab5fa2c05db3c",
+    "fileHash": "sha256-024cb7cb2c5eb3db38cba2485f279b45217819910bbe72f5b32e705de128c6b1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 82266,
+    "fileSize": 85637,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1714,21 +1714,21 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 92,
+    "version": 93,
     "internalName": "CNC Verse",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
     "name": "CNC Verse",
     "isAdult": false,
-    "formattedSize": "80.3 KB",
+    "formattedSize": "83.6 KB",
     "isBroken": false
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse%20Mobile/logo.jpeg",
-    "fileHash": "sha256-92ff1f96329bf99ff6585a3cdbd0a5c975efbbf1485dc1a056e14443f99c3252",
+    "fileHash": "sha256-ce66a5dd09a475f544fb28a07a4b723a01c01f67e7444a0d369aadd1c7e1b0b6",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 91392,
+    "fileSize": 91400,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1738,7 +1738,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "CNC Verse Mobile",
     "description": "NetMirror Mobile API",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse Mobile.cs3",
@@ -4201,6 +4201,34 @@
     "isBroken": false
   },
   {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IStreamFlare.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "IStreamFlare",
+    "internalName": "IStreamFlare",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Movies/Series/Anime",
+    "fileSize": 48791,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "hi",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie",
+      "Cartoon",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/streamflare.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-ec791c413a3235be53424e49bf41539abcd586919ef8875858347b883318a8ac",
+    "isAdult": false,
+    "formattedSize": "47.6 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Iwatchtheoffice.cs3",
     "status": 1,
     "version": 3,
@@ -4628,13 +4656,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kickassanime.cs3",
     "status": 1,
-    "version": 23,
+    "version": 24,
     "name": "Kickassanime",
     "internalName": "Kickassanime",
     "authors": [
       "Phisher98,Hexated"
     ],
-    "fileSize": 53835,
+    "fileSize": 56163,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -4644,12 +4672,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/KAA.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f49b3137d228396aca4998f4659fa97fb5a2461141ee10a7e0534caf3e8b29b2",
-    "jarFileSize": 252991,
+    "fileHash": "sha256-94acac0d8673f6a4e8df8a1c49effaf98b58bcdeb00c52c2e07fc6ad0f206c49",
+    "jarFileSize": 262968,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kickassanime.jar",
-    "jarHash": "sha256-ade798270a6bce2a0a4e4947881fde9488afa4ceed0cbe1894b008669f23db70",
+    "jarHash": "sha256-a3a809a77775c37154df91b234c2b726f27d40af80395c9a3414402ae985dcee",
     "isAdult": false,
-    "formattedSize": "52.6 KB",
+    "formattedSize": "54.8 KB",
     "isBroken": false
   },
   {
@@ -6172,10 +6200,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
-    "fileHash": "sha256-0e52e6f1c6939d9f0fcda91968114eab4908718b9a3a20399304ca4d66853d2b",
+    "fileHash": "sha256-ac1d1ca1a5949c9dad10e173df0a18c901251955955fa991638b02de638cac79",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-    "fileSize": 52543,
+    "fileSize": 52604,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -6191,7 +6219,7 @@
     "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
     "name": "Netmirror",
     "isAdult": false,
-    "formattedSize": "51.3 KB",
+    "formattedSize": "51.4 KB",
     "isBroken": false
   },
   {
@@ -8202,10 +8230,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
-    "fileHash": "sha256-fbae031b5e0f490477cff7bccfc6f507af3bcf71f6633f071a9d2dd2c285d3c1",
+    "fileHash": "sha256-ba4df02ab6accf58aba3e2d9b40ac3285ddd70545c6f9e4df3d25595e4f1df36",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 17430,
+    "fileSize": 17431,
     "status": 1,
     "authors": [
       "NivinCNC"
@@ -8214,7 +8242,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "SubscriptionManager",
     "description": "Manage your CNCVerse subscription — remove ads with a premium plan",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SubscriptionManager.cs3",
