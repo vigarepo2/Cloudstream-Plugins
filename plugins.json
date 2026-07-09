@@ -270,7 +270,7 @@
       "Miku"
     ],
     "description": "Alqanime — Streaming Anime, Donghua Subtitle Indonesia",
-    "fileSize": 72053,
+    "fileSize": 72056,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -280,7 +280,7 @@
     ],
     "iconUrl": "https://cloudstream.zvlz.my.id/icon/alqanime.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2dbfb811a348fe7c71de449229c0a7c555aacec19d11bb0795083e1ec4ade5b7",
+    "fileHash": "sha256-45151087653d2a071c82409e64d3f5de1f4a70c2c72abdd0ae4fabc4bca69546",
     "isAdult": false,
     "formattedSize": "70.4 KB",
     "isBroken": false
@@ -342,7 +342,7 @@
       "Miku"
     ],
     "description": "Anichin — Streaming Donghua Subtitle Indonesia",
-    "fileSize": 34697,
+    "fileSize": 34703,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -352,7 +352,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-06e183f543a65dfe21b283b8e44b9df65bb0adcc2f93804a70057396c1fd0463",
+    "fileHash": "sha256-a75958e7b626c3bf24024fae30ed303923b91480a663e175656ad700bb084a16",
     "isAdult": false,
     "formattedSize": "33.9 KB",
     "isBroken": false
@@ -367,7 +367,7 @@
       "Phisher98"
     ],
     "description": "Animes",
-    "fileSize": 53889,
+    "fileSize": 54082,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -377,9 +377,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anidb.png",
     "apiVersion": 1,
-    "fileHash": "sha256-1cf198ff757cc8a366bba89f249be8e82edf7445de02d6cf3cc6950c0f4e9d59",
+    "fileHash": "sha256-69d782d79dad3362cb4600576f2863235616f1ca6e57e99a903d763d9c90e1fe",
     "isAdult": false,
-    "formattedSize": "52.6 KB",
+    "formattedSize": "52.8 KB",
     "isBroken": false
   },
   {
@@ -765,7 +765,7 @@
       "Cloudburst,Lorem Ipsum,Phisher98"
     ],
     "description": "Animes (SUB/DUB)",
-    "fileSize": 77127,
+    "fileSize": 77254,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -775,9 +775,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-76850fafd471b747cd01f9d07c3f74c08797105b99ea5e31670dbbf12a431cd0",
+    "fileHash": "sha256-7068ae3b756a16b2754d898f507118f0d1909060485fbd12dda1c83fecca97e5",
     "isAdult": false,
-    "formattedSize": "75.3 KB",
+    "formattedSize": "75.4 KB",
     "isBroken": false
   },
   {
@@ -813,7 +813,7 @@
       "Miku"
     ],
     "description": "AnimeSail — Streaming Anime, Donghua Subtitle Indonesia",
-    "fileSize": 34756,
+    "fileSize": 35437,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -823,9 +823,9 @@
     ],
     "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
     "apiVersion": 1,
-    "fileHash": "sha256-449e73c0378237c2ef9edcbd88ca25c31cfd15c17a5e67408c95d06eadfc90ac",
+    "fileHash": "sha256-69079071b5b1eaff6f16eeb2ae6750429cfb27c654e430f3f1ae2913e75f553c",
     "isAdult": false,
-    "formattedSize": "33.9 KB",
+    "formattedSize": "34.6 KB",
     "isBroken": false
   },
   {
@@ -941,7 +941,7 @@
       "Miku"
     ],
     "description": "Animexin — Streaming Donghua Subtitle Indonesia",
-    "fileSize": 14791,
+    "fileSize": 14790,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -951,7 +951,7 @@
     ],
     "iconUrl": "https://animexin.dev/wp-content/uploads/2020/06/animexinv1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c683ebd168fb4c021c2c740f0856940f53fe9c979e24d8de2872e2d2ee4da04d",
+    "fileHash": "sha256-022eac4cbddbff8fce317b43b40ac082d8edb0809ede22a1573674edf6a34ca9",
     "isAdult": false,
     "formattedSize": "14.4 KB",
     "isBroken": false
@@ -1112,7 +1112,7 @@
       "Miku"
     ],
     "description": "AnoBoy — Streaming Anime Subtitle Indonesia",
-    "fileSize": 57521,
+    "fileSize": 57520,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -1122,7 +1122,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anoboy.be&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-dd59e498561073d2d6dd22969d7b8d818d2f053243ab530d5ed86b0def44157e",
+    "fileHash": "sha256-8df4e99a08364fdaee6bffb7f86e0ba31ff6d4dcdd9c00cc3f31c664d6f56ab9",
     "isAdult": false,
     "formattedSize": "56.2 KB",
     "isBroken": false
@@ -1543,7 +1543,7 @@
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-    "fileSize": 70078,
+    "fileSize": 70204,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1552,9 +1552,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-cdba01497f83b1eb5401ae8454fac317fa779771705f5e610935d9a6164d8024",
+    "fileHash": "sha256-c39771a2dd92498acf1d42e49742f1f34b346d8fc8311e81a86e4292e12fdab0",
     "isAdult": false,
-    "formattedSize": "68.4 KB",
+    "formattedSize": "68.6 KB",
     "isBroken": false
   },
   {
@@ -1589,7 +1589,7 @@
       "Miku"
     ],
     "description": "CineMax21 — Streaming Movie and TV Series",
-    "fileSize": 241396,
+    "fileSize": 241401,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -1599,7 +1599,7 @@
     ],
     "iconUrl": "https://klikxxi.me/wp-content/uploads/2024/02/cropped-site-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a93ce31ead7859581754413a1cf992dac4a9fd585eedd01f94cc3148757aafab",
+    "fileHash": "sha256-4cafe2ad848e29363d1c6d24e43da5f3de2ea2189f126c51cb85a9d81c2405c3",
     "isAdult": false,
     "formattedSize": "235.7 KB",
     "isBroken": false
@@ -1607,14 +1607,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 462,
+    "version": 464,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 685389,
+    "fileSize": 705295,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1626,9 +1626,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-45df72e3f6f6307bca744a5a12d531bc30bd0171b9f634b60faa5bd7d5f81154",
+    "fileHash": "sha256-c76dde95818998309be7e05c6955227c250209005f399970dfc9bf9421faa16b",
     "isAdult": false,
-    "formattedSize": "669.3 KB",
+    "formattedSize": "688.8 KB",
     "isBroken": false
   },
   {
@@ -2234,7 +2234,7 @@
       "Miku"
     ],
     "description": "Donghub — Streaming Donghua Subtitle Indonesia",
-    "fileSize": 18632,
+    "fileSize": 18629,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -2244,7 +2244,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghub.vip&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-f50e3f4784b81ee1f44741f8d5079b42f4da877f1d10dd144f58749f0c06f169",
+    "fileHash": "sha256-8b6d3e97b28c5f465364cb47f4c058a81d0468477581f87b497790f9fed59dfd",
     "isAdult": false,
     "formattedSize": "18.2 KB",
     "isBroken": false
@@ -2307,7 +2307,7 @@
       "Miku"
     ],
     "description": "Drakor — Streaming Drama Korean, Movie and TV Series",
-    "fileSize": 236997,
+    "fileSize": 236991,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -2317,7 +2317,7 @@
     ],
     "iconUrl": "https://klikxxi.me/wp-content/uploads/2024/02/cropped-site-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0bf9d86d92e2a6b544c18433b9f6293f354fc944c91852b33f4772ed9c6aeed4",
+    "fileHash": "sha256-eaf4e2842496de0cc4c46c3e7c1dde300c4580d625493bc3bced56f96f3f8138",
     "isAdult": false,
     "formattedSize": "231.4 KB",
     "isBroken": false
@@ -2446,7 +2446,7 @@
       "Miku"
     ],
     "description": "Dubbindo — Streaming Anime, Movie and TV Series",
-    "fileSize": 27342,
+    "fileSize": 27349,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -2457,7 +2457,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dubbindo.site&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-05501d43da17fa6b0cf0071a3bb9d15535130755c4d03cbfc72521fc59d3c4fd",
+    "fileHash": "sha256-7be0773e15b5f24007177963147fa7b280d1027a48c522cfc1a84e90937fc20e",
     "isAdult": false,
     "formattedSize": "26.7 KB",
     "isBroken": false
@@ -2519,7 +2519,7 @@
       "Miku"
     ],
     "description": "DutaMovie — Streaming Movie and TV Series",
-    "fileSize": 29073,
+    "fileSize": 29080,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -2529,7 +2529,7 @@
     ],
     "iconUrl": "https://offshorebankservices.com/wp-content/uploads/2022/07/cropped-dutamovie21-512x512-1-60x60.png",
     "apiVersion": 1,
-    "fileHash": "sha256-836fcef21febc48ce309f7073119744beb003384a06b0eaa97262e5582c374b0",
+    "fileHash": "sha256-480fba63d9328e7ebd4cef242d4f2bbd27b621c32c5074774ad456d5c0d43a20",
     "isAdult": false,
     "formattedSize": "28.4 KB",
     "isBroken": false
@@ -3731,6 +3731,29 @@
     "isBroken": false
   },
   {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/HentaiCity.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "HentaiCity (2)",
+    "internalName": "HentaiCity_2",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Hentai City has free HD hentai porn videos, hot anime sex, naughty cartoon XXX and 3D hardcore movies. Tons of adult comics, doujinshi and manga to read.",
+    "fileSize": 13676,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.defendonlineprivacy.com&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-ddaebf00bbad5cff21933bae20c83749d37980a8dbed28050da44c633d830158",
+    "isAdult": true,
+    "formattedSize": "13.4 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/HentaiHaven.cs3",
     "status": 1,
     "version": 7,
@@ -3853,7 +3876,7 @@
       "Miku"
     ],
     "description": "HidoriStream — Streaming Anime Subtitle Indonesia",
-    "fileSize": 48487,
+    "fileSize": 48481,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -3863,9 +3886,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v2.hidoristream.online&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-94672a120a6582171e7019a5d8c83110b94035c1f0608ee6e333f9e8ba18acb2",
+    "fileHash": "sha256-bcd04258798a3b774270c768f384426985f7605f4f2e7cb875ff8ddbc0cf429b",
     "isAdult": false,
-    "formattedSize": "47.4 KB",
+    "formattedSize": "47.3 KB",
     "isBroken": false
   },
   {
@@ -4067,7 +4090,7 @@
       "Miku"
     ],
     "description": "Idlix — Streaming Movie and TV Series",
-    "fileSize": 29138,
+    "fileSize": 49490,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -4077,12 +4100,12 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://idlixian.com&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-859699797c48d7bf46aea913b9ab8b7b937db5aecd08335be1a1648504b107c6",
-    "jarFileSize": 112383,
+    "fileHash": "sha256-260c480adf94e2a756afe62329864086240fb572e52a410e8086e49ac5f149bd",
+    "jarFileSize": 199549,
     "jarUrl": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/IdlixProvider.jar",
-    "jarHash": "sha256-c1cdee18bcb0c53b9bbf80ed1069ce98ae430b46cee8e6058120f128182d478a",
+    "jarHash": "sha256-8db8e1403830d36b2a7b2880e3e5f8994b319a74357c3dbee0aee55f59993f68",
     "isAdult": false,
-    "formattedSize": "28.5 KB",
+    "formattedSize": "48.3 KB",
     "isBroken": false
   },
   {
@@ -4140,7 +4163,7 @@
       "Miku"
     ],
     "description": "IndoMax21 — Streaming Anime, Donghua, Hentai, Porn, Movie and TV Series",
-    "fileSize": 25757,
+    "fileSize": 25748,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -4148,9 +4171,9 @@
     ],
     "iconUrl": "https://homecookingrocks.com/wp-content/uploads/2024/10/cropped-indomax21-favicon-color-1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ee0eb15288ce683c1a27d95950b268d5165a76f4ef51695f67b9e33cd7c945c7",
+    "fileHash": "sha256-cbd7b6a51939c96934b0355f5fde94b18da8e2788c1a66ba4342018ba85c1cdf",
     "isAdult": true,
-    "formattedSize": "25.2 KB",
+    "formattedSize": "25.1 KB",
     "isBroken": false
   },
   {
@@ -4403,7 +4426,7 @@
       "Miku"
     ],
     "description": "JavHey — Streaming Porn and JAV",
-    "fileSize": 23260,
+    "fileSize": 23258,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -4411,7 +4434,7 @@
     ],
     "iconUrl": "https://missav.ws/missav/logo-square.png",
     "apiVersion": 1,
-    "fileHash": "sha256-838a4f1a9b15a7168492b940c4123c869f5f9ab93ad990fddd54cc828b52b807",
+    "fileHash": "sha256-0f8f1c5a2cc6cdf9164dd5f7c622666dfb74d00c1dce7d5f440eaa997ef3a070",
     "isAdult": true,
     "formattedSize": "22.7 KB",
     "isBroken": false
@@ -4835,7 +4858,7 @@
       "Miku"
     ],
     "description": "KlikXXI — Streaming Movie and TV Series",
-    "fileSize": 21108,
+    "fileSize": 21109,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -4844,7 +4867,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://klikxxi.fit&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-2753074c74027a7a9bcd93b75964122359adc8e596576528a2f7a2f5f4dd12fd",
+    "fileHash": "sha256-e2aef7c7f2c5c81bc29dc6439bef2569347e089b7a749c0b97a084eed87fda0d",
     "isAdult": false,
     "formattedSize": "20.6 KB",
     "isBroken": false
@@ -4996,8 +5019,8 @@
     "authors": [
       "Miku"
     ],
-    "description": "Test",
-    "fileSize": 34936,
+    "description": "Kuramanime — Streaming Anime Subtitle Indonesia",
+    "fileSize": 34934,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -5007,7 +5030,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-6d5f4a8832e85d96f66e2230ce9da56aac85f04ee8a413a41aa843b1a9c4a437",
+    "fileHash": "sha256-02746e2490bfbc426bc03f9e65ab3b8a156e14f7acb0fd7fdb59e9a343a7ac85",
     "isAdult": false,
     "formattedSize": "34.1 KB",
     "isBroken": false
@@ -5045,7 +5068,7 @@
       "Miku"
     ],
     "description": "Kuronime — Streaming Anime Subtitle Indonesia",
-    "fileSize": 39471,
+    "fileSize": 39462,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -5055,7 +5078,7 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/EFMkS1T-8txjLFIl9QxjcTRLa7a7Muv08C04b7ongYgodoY_b2T3GpxzGAQEx-eitfQ=w256",
     "apiVersion": 1,
-    "fileHash": "sha256-da67db596b55b1ea5470fc1638d77af501aa0caf91393a036f4b3aa983fb6f12",
+    "fileHash": "sha256-3dd02365736fe45b72cdce98bd165129c97c71f0b29df8135c675bfcd784d98b",
     "isAdult": false,
     "formattedSize": "38.5 KB",
     "isBroken": false
@@ -5118,7 +5141,7 @@
       "Miku"
     ],
     "description": "LayarAsia — Streaming Drama Korean, Movie and TV Series",
-    "fileSize": 31995,
+    "fileSize": 31999,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -5128,7 +5151,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://layarasia.site&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-002fdb722a7acbd05ca1174d4dfc9e36b9bd38e079bfba400e5513b808cda3bb",
+    "fileHash": "sha256-695952b1ffeb60038a141557f465b61d8346eae08b374f4e30e2941a99da37f2",
     "isAdult": false,
     "formattedSize": "31.2 KB",
     "isBroken": false
@@ -5219,7 +5242,7 @@
       "Miku"
     ],
     "description": "LayarKaca — Streaming Movie Subtitle Indonesia",
-    "fileSize": 34853,
+    "fileSize": 34852,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -5229,7 +5252,7 @@
     ],
     "iconUrl": "https://assets.lk21.party/favicons/apple-icon-144x144.png",
     "apiVersion": 1,
-    "fileHash": "sha256-dfdbaf3794d8ed17bd5c057b373a413c9a0a18002a66619e7bc8b8b9e8c2d9aa",
+    "fileHash": "sha256-9e92e02935cb6678d6aab3175e99f8ece1aed9b33c48ceea9044612ffc13076b",
     "isAdult": false,
     "formattedSize": "34 KB",
     "isBroken": false
@@ -5695,7 +5718,7 @@
       "Miku"
     ],
     "description": "MovieBox — Streaming Movie Subtitle Indonesia",
-    "fileSize": 31393,
+    "fileSize": 31395,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -5706,7 +5729,7 @@
     ],
     "iconUrl": "https://movieboxph.app/wp-content/uploads/2025/11/Movie-Box-icon.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-2132d1e7bcae38721e890919597b6295996c923b08f6702a9e3b464dec463f98",
+    "fileHash": "sha256-05e1b811f2c30d8ab03ca1da5d6b8452607e19281bd89b297c8d3109e93130ef",
     "isAdult": false,
     "formattedSize": "30.7 KB",
     "isBroken": false
@@ -6118,7 +6141,7 @@
       "Miku"
     ],
     "description": "NekoPoi — Streaming Hentai, Porn and JAV Subtitle Indonesia",
-    "fileSize": 39702,
+    "fileSize": 39705,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6126,7 +6149,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=nekopoi.care&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-34643d588d84c3db51a4149f21e47f8d5bfaf66af109576934ba58e072153da5",
+    "fileHash": "sha256-8133d6646d7121000b3891db734c0994f7d64969985bfb3747801b81a9cd3a3d",
     "isAdult": true,
     "formattedSize": "38.8 KB",
     "isBroken": false
@@ -6228,10 +6251,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
-    "fileHash": "sha256-2b4b72c5528a34609a15c66a3c35041ab18b09930717ac265b5f6bc53ad5c3f4",
+    "fileHash": "sha256-128532c82a7d06dba05da09d7cc4c34245e612c07185b48990200d474685b381",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-    "fileSize": 53080,
+    "fileSize": 64565,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -6247,7 +6270,7 @@
     "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
     "name": "Netmirror",
     "isAdult": false,
-    "formattedSize": "51.8 KB",
+    "formattedSize": "63.1 KB",
     "isBroken": false
   },
   {
@@ -6260,7 +6283,7 @@
       "Miku"
     ],
     "description": "NgeFilm21 — Streaming Movie and TV Series",
-    "fileSize": 31464,
+    "fileSize": 31477,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6270,7 +6293,7 @@
     ],
     "iconUrl": "https://new31.ngefilm.site/wp-content/uploads/2023/08/cropped-imageedit_8_4481000408-60x60.png",
     "apiVersion": 1,
-    "fileHash": "sha256-03199b139535acd29b29d18c05504a60398892c8abf9000946b54724b211018b",
+    "fileHash": "sha256-67de017dde366d25bdc75efbdd4491fa301bafdcbdba4dc43afc2709ca687bc1",
     "isAdult": false,
     "formattedSize": "30.7 KB",
     "isBroken": false
@@ -6308,7 +6331,7 @@
       "Hexated"
     ],
     "description": "Nimegami — Streaming Anime Subtitle Indonesia",
-    "fileSize": 25133,
+    "fileSize": 25126,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6318,7 +6341,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-958d9cd4df667cd2a7629f645863171c54795099a2714e115aa0ea355cdc6503",
+    "fileHash": "sha256-954285e82e582b6be1eda9e0e3e17c193cff9ce616d67190480642e318332a32",
     "isAdult": false,
     "formattedSize": "24.5 KB",
     "isBroken": false
@@ -6333,7 +6356,7 @@
       "Miku"
     ],
     "description": "Nomat — Streaming Movie and TV Series",
-    "fileSize": 17204,
+    "fileSize": 17208,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6343,7 +6366,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nomat.site&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-912fcf5767c8480d34f502dbe59ae114b91620c673fc8c5382be078cde5e6b6d",
+    "fileHash": "sha256-e431a43acad1e6ba08f8df3c87059fc12355ab5f7a8da1e67716d9664678cd3a",
     "isAdult": false,
     "formattedSize": "16.8 KB",
     "isBroken": false
@@ -6381,7 +6404,7 @@
       "Miku"
     ],
     "description": "NontonAnimeID — Streaming Anime Subtitle Indonesia",
-    "fileSize": 41786,
+    "fileSize": 41785,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6391,7 +6414,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://s11.nontonanimeid.boats&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-7adc8062cada87be6d6023d7e28e9c284d5aa5da120eb9c5f29e2469684bd23f",
+    "fileHash": "sha256-352925fc0af8640639736ed45645df80f2a911a56303d51234df342e281430c9",
     "isAdult": false,
     "formattedSize": "40.8 KB",
     "isBroken": false
@@ -6714,7 +6737,7 @@
       "Miku"
     ],
     "description": "OppaDrama — Streaming Drama Korean, Movie and TV Series",
-    "fileSize": 25215,
+    "fileSize": 25217,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6724,7 +6747,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-c01efe6fc8152d04827a6481ed5fb6f95639db9dfed0ecc46f0b76bb65b9c58b",
+    "fileHash": "sha256-09fc6e5bc0daeb820c4c83a3e3e6d0cc4b229bd427823c79855309427207eec1",
     "isAdult": false,
     "formattedSize": "24.6 KB",
     "isBroken": false
@@ -6785,7 +6808,7 @@
       "Miku"
     ],
     "description": "OtakuDesu — Streaming Anime Subtitle Indonesia",
-    "fileSize": 36059,
+    "fileSize": 36060,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6795,7 +6818,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-sfek8gXmLpcAppEpaYbUDVtndQbCm_boh1-E91QrmSvsw-2l3-s2JOP&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-5908c2d7a0fabd73f016bd2ad10c2bee0368c53c4ef4cf49edb271a3530f1b06",
+    "fileHash": "sha256-673141d6e8747ccb35a00610567d2058bb2093d886cd5359370ecba1fcb8efa0",
     "isAdult": false,
     "formattedSize": "35.2 KB",
     "isBroken": false
@@ -6882,7 +6905,7 @@
       "Miku"
     ],
     "description": "PencuriMovie — Streaming Movie and TV Series",
-    "fileSize": 15291,
+    "fileSize": 15283,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6891,7 +6914,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-91c5d290acb6a5e53d8802079c70712db06e09c08f95afc962810359c965a271",
+    "fileHash": "sha256-b30b532b04974a77d13eb1461bc46abe06182fa5564e72ce7e426885cf2d43e1",
     "isAdult": false,
     "formattedSize": "14.9 KB",
     "isBroken": false
@@ -7535,22 +7558,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Porntrex.cs3",
     "status": 1,
-    "version": 1,
+    "version": 3,
     "name": "Porntrex (2)",
     "internalName": "Porntrex_2",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch HD and 4k best porn videos on PornTrex. Get your daily dose of porn from our huge collection of free hd and 4k porn videos.",
-    "fileSize": 13283,
+    "fileSize": 13289,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://porntrex.com&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.porntrex.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ce7bcc6c98b7b3e3676a039a87d2d9aae01b03a3fc554cc9c79883623118ebf2",
+    "fileHash": "sha256-4a17bcb38382f2c240610337ed67d84e0c2573223d2f3a8186597e31d74ef381",
     "isAdult": true,
     "formattedSize": "13 KB",
     "isBroken": false
@@ -7901,7 +7924,7 @@
       "Miku"
     ],
     "description": "Samehadaku — Streaming Anime Subtitle Indonesia",
-    "fileSize": 30132,
+    "fileSize": 30123,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -7911,7 +7934,7 @@
     ],
     "iconUrl": "https://lh3.googleusercontent.com/zwKn_6sdYOdIiWg6Gtnx-Ar2DrVamlADnPN8BE4f84-a9aRo2Zc7mxbW5Qd26Z8cPFc",
     "apiVersion": 1,
-    "fileHash": "sha256-a796f071ef6399bc9f320dfdc563d5a23654dc5e7da38d988cb561104ca5062d",
+    "fileHash": "sha256-467e6f6174e4df84cec78ef3f3b62a64b87f83b7813383220f14dc6bf8c89bcd",
     "isAdult": false,
     "formattedSize": "29.4 KB",
     "isBroken": false
@@ -8212,7 +8235,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 953098,
+    "fileSize": 952931,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8225,9 +8248,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-a7c41d035e139d907e8fdc3e4cdc9e060e78166ca87d76bb4fc7877ff661ca01",
+    "fileHash": "sha256-86d3618e96182e4203faa8ddabfc2aab4495de674d9c0863ecbcb0f8986aa112",
     "isAdult": false,
-    "formattedSize": "930.8 KB",
+    "formattedSize": "930.6 KB",
     "isBroken": false
   },
   {
@@ -9650,14 +9673,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/XDMovies.cs3",
     "status": 1,
-    "version": 1,
+    "version": 4,
     "name": "XDMovies",
     "internalName": "XDMovies",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch Latest Movies",
-    "fileSize": 105552,
+    "fileSize": 108414,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -9670,9 +9693,9 @@
     ],
     "iconUrl": "https://top.xdmovies.wtf/assets/logo1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-8aa7ceefd1020e2254a79a6503ddb44e8dfa165d29738277f3873ec99c1cdff1",
+    "fileHash": "sha256-d9ecf919af99daf53cfe33cc2c32b967cff86bb1d7f0c02f4670482707d53934",
     "isAdult": false,
-    "formattedSize": "103.1 KB",
+    "formattedSize": "105.9 KB",
     "isBroken": false
   },
   {
@@ -10242,7 +10265,7 @@
       "Phisher98"
     ],
     "description": "YTS Movies 4K Support (Torrent)",
-    "fileSize": 15729,
+    "fileSize": 15727,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -10251,10 +10274,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/yts.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d7c7185019183200712abab55d53283af2527d9f9cd56913ef9ae443a487ee32",
-    "jarFileSize": 78912,
+    "fileHash": "sha256-bdeb0095477d98fc074d0f1bda55c94039a0bfe221e7c7adad191f722540c47b",
+    "jarFileSize": 78914,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.jar",
-    "jarHash": "sha256-f8818a3f640aa8b6dedd190a195b4a02a40d4085a102b6a0413826f245da9ede",
+    "jarHash": "sha256-37afec8d6d19311f478ce9a8f1fab2b4536558af14fe66e100b3f47e56d7ad4d",
     "isAdult": false,
     "formattedSize": "15.4 KB",
     "isBroken": false
