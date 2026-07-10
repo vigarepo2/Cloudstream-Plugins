@@ -288,13 +288,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anichi.cs3",
     "status": 1,
-    "version": 18,
+    "version": 20,
     "name": "Anichi",
     "internalName": "Anichi",
     "authors": [
       "Hexated,Phisher98"
     ],
-    "fileSize": 110525,
+    "fileSize": 113829,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -304,9 +304,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Allanime.png",
     "apiVersion": 1,
-    "fileHash": "sha256-cd377787e42ffa591eaa38dfc4a3f02436e3608e4b6b568fca67ba25745a66d7",
+    "fileHash": "sha256-0a161aff7f29b8b12d8133b78cb76de336a4f0dabe0af9c187137f5ffec92976",
     "isAdult": false,
-    "formattedSize": "107.9 KB",
+    "formattedSize": "111.2 KB",
     "isBroken": false
   },
   {
@@ -360,14 +360,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniDb.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "AniDb",
     "internalName": "AniDb",
     "authors": [
       "Phisher98"
     ],
     "description": "Animes",
-    "fileSize": 54082,
+    "fileSize": 55740,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -377,9 +377,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anidb.png",
     "apiVersion": 1,
-    "fileHash": "sha256-69d782d79dad3362cb4600576f2863235616f1ca6e57e99a903d763d9c90e1fe",
+    "fileHash": "sha256-74ef9eb7b04ffb289e2401b166ef8e7637942eab6748e047ba0bb83c4d586e0f",
     "isAdult": false,
-    "formattedSize": "52.8 KB",
+    "formattedSize": "54.4 KB",
     "isBroken": false
   },
   {
@@ -434,7 +434,7 @@
   },
   {
     "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
-    "fileHash": "sha256-ec52b8ab772d790a92720c53aa25bcc3ac452fb24124818e11854979a307b827",
+    "fileHash": "sha256-59a0d3bf9d9f1650cecf5c2b5c00bbb61f92d48d1e0c4e0063aad49469980afb",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 53654,
@@ -448,7 +448,7 @@
       "AnimeMovie",
       "OVA"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "AniKoto",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/AniKoto.cs3",
     "name": "AniKoto",
@@ -758,14 +758,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.cs3",
     "status": 1,
-    "version": 31,
+    "version": 32,
     "name": "AnimePahe",
     "internalName": "AnimePahe",
     "authors": [
       "Cloudburst,Lorem Ipsum,Phisher98"
     ],
     "description": "Animes (SUB/DUB)",
-    "fileSize": 77254,
+    "fileSize": 78810,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -775,9 +775,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7068ae3b756a16b2754d898f507118f0d1909060485fbd12dda1c83fecca97e5",
+    "fileHash": "sha256-0cb3d2de4de3ae2085eb09c57caaf08ba568a3cadfad456da5f394d16729daae",
     "isAdult": false,
-    "formattedSize": "75.4 KB",
+    "formattedSize": "77 KB",
     "isBroken": false
   },
   {
@@ -858,7 +858,7 @@
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animesuge.cz&size=64",
-    "fileHash": "sha256-4b99015bd1cb98e6824989846c054b85597cedc17342e531a80b17c48044fc8c",
+    "fileHash": "sha256-73c1d32bd97584efe7bcc1fbc0f1d3f7237bb55c5270cdd34ed2519d77dc349c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 40333,
@@ -872,7 +872,7 @@
       "AnimeMovie",
       "OVA"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "AnimeSuge",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/AnimeSuge.cs3",
     "name": "AnimeSuge",
@@ -1294,10 +1294,10 @@
   },
   {
     "iconUrl": "https://play-lh.googleusercontent.com/G9s84Cm1TDnKDX2P8nipS_s60cuCnYtjBRRLespF8nivjXmbV9tF1fY37clZhXMLaA",
-    "fileHash": "sha256-534718ef61fb3082be87f9f6f4c6128cddce72b8f7f918006864338c26f5f85c",
+    "fileHash": "sha256-e864b9c1b3a8b32a537265916fe70b96166eb9d5bfb51a5709aaa53d435ddf6e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 89983,
+    "fileSize": 89981,
     "status": 3,
     "language": "ta",
     "authors": [
@@ -1309,7 +1309,7 @@
       "TvSeries",
       "Documentary"
     ],
-    "version": 28,
+    "version": 29,
     "internalName": "BilibiliProvider",
     "description": "Bilibili TV - International streaming platform for anime, movies, and variety shows (bilibili.tv)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/BilibiliProvider.cs3",
@@ -1436,7 +1436,7 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CastleTvProvider/icon.png",
-    "fileHash": "sha256-c862b34187d4f675ae802dcb57313a8edee6616ef94b8c4683ace7a8ccd5274c",
+    "fileHash": "sha256-7736382394928e4390f276b55a5bd2fda267051e90c7a2ff327ffc48fac1b1b8",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 72477,
@@ -1449,7 +1449,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 33,
+    "version": 34,
     "internalName": "CastleTvProvider",
     "description": "Castle TV Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CastleTvProvider.cs3",
@@ -1536,14 +1536,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
     "status": 1,
-    "version": 14,
+    "version": 16,
     "name": "Cinemacity",
     "internalName": "Cinemacity",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-    "fileSize": 70204,
+    "fileSize": 72321,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1552,9 +1552,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-c39771a2dd92498acf1d42e49742f1f34b346d8fc8311e81a86e4292e12fdab0",
+    "fileHash": "sha256-19411530361fff548954b6118b8fa76b5c3b0beada6b6f681f96459bc6bc3a4f",
     "isAdult": false,
-    "formattedSize": "68.6 KB",
+    "formattedSize": "70.6 KB",
     "isBroken": false
   },
   {
@@ -1607,14 +1607,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 464,
+    "version": 466,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 705295,
+    "fileSize": 717850,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1626,17 +1626,17 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c76dde95818998309be7e05c6955227c250209005f399970dfc9bf9421faa16b",
+    "fileHash": "sha256-6759c6416d390fe996b823ca34b249e9df160a5ac96d16f30681ee34e4989977",
     "isAdult": false,
-    "formattedSize": "688.8 KB",
+    "formattedSize": "701 KB",
     "isBroken": false
   },
   {
     "iconUrl": "https://modapk.world/wp-content/uploads/2025/11/Et-90x90.png",
-    "fileHash": "sha256-fed116fb5dca65c76e0d0eae63df4028215833a7ca0cbb4330e0419b444312fb",
+    "fileHash": "sha256-38895741e37a52923297026124d566a32229c4e6ccda76afd3528deab28377e9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 45670,
+    "fileSize": 45669,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1646,7 +1646,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 28,
+    "version": 29,
     "internalName": "CineTvProvider",
     "description": "Clone of Cinema, Memesapp , FilmTV etc",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CineTvProvider.cs3",
@@ -1726,10 +1726,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
-    "fileHash": "sha256-024cb7cb2c5eb3db38cba2485f279b45217819910bbe72f5b32e705de128c6b1",
+    "fileHash": "sha256-955ab3a47f70ab7da950f0f6d4fef47b17ceea05cf9ca9a35a639a602a30687c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 85637,
+    "fileSize": 85640,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1739,7 +1739,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 93,
+    "version": 95,
     "internalName": "CNC Verse",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
@@ -1750,7 +1750,7 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse%20Mobile/logo.jpeg",
-    "fileHash": "sha256-ce66a5dd09a475f544fb28a07a4b723a01c01f67e7444a0d369aadd1c7e1b0b6",
+    "fileHash": "sha256-08733d7d5db79418235ac9b694d80454c9c9b36f161fd7746b588043275f454b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 91400,
@@ -1763,7 +1763,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "CNC Verse Mobile",
     "description": "NetMirror Mobile API",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse Mobile.cs3",
@@ -1897,10 +1897,10 @@
   },
   {
     "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
-    "fileHash": "sha256-cf117633b1bf653f3d046b02b1475f10d9a918d89986531de136d47e02d90c63",
+    "fileHash": "sha256-b8dc24d9befecbb8a6a04f5477f1383881645ca93a99e4217b0528924cca8787",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 102951,
+    "fileSize": 102943,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1909,7 +1909,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 59,
+    "version": 60,
     "internalName": "CricifyProvider",
     "description": "Watch Live sports and TV channels",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.cs3",
@@ -1971,7 +1971,7 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=desi-serials.to&sz=%size%",
-    "fileHash": "sha256-b297ec97b2aeaa4fb2cdc59a65d9dc439083b07bb23028d41c59cd2dd9c4ec5c",
+    "fileHash": "sha256-8e6e4a420c4a89c06d07ca1b766c6e6178eff2f96ca10be1c337888dfca5b60a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 44240,
@@ -1983,7 +1983,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 25,
+    "version": 26,
     "internalName": "DesiSerialsProvider",
     "description": "Desi Serials Tv Shows Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/DesiSerialsProvider.cs3",
@@ -2153,10 +2153,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/DoFlixProvider/icon.png",
-    "fileHash": "sha256-e497a8beae6da6800c458d86e3065d6b3b4841c5a1fc7059532024c64864aac4",
+    "fileHash": "sha256-380d449218d096ccda5cc1fed2a19fdbe51f242d5490d0224d6daa25ef412d44",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 70352,
+    "fileSize": 70351,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -2166,7 +2166,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 28,
+    "version": 29,
     "internalName": "DoFlixProvider",
     "description": "DoFlix Provider for Movies and TV Series",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/DoFlixProvider.cs3",
@@ -2559,7 +2559,7 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/master/EinthusanProvider/icon.png",
-    "fileHash": "sha256-c3fe3ce8369c5eb632387a8ca8aed3072269ff6257a47961c99a381c7f65d3a0",
+    "fileHash": "sha256-90b6add4b234ec983b2c401362ebfaca8b5dd5cd9a41dd2b4a123448367c4470",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 25511,
@@ -2571,7 +2571,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 30,
+    "version": 31,
     "internalName": "EinthusanProvider",
     "description": "Indian Multi-language HD Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/EinthusanProvider.cs3",
@@ -3308,10 +3308,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=%size%",
-    "fileHash": "sha256-7aabb46dbecfab90dc3e39cbeaa1bab22fd529d1b4db2251dac35067090092e9",
+    "fileHash": "sha256-1d00989184d4ca2d238dd5fbcf910d711ea094ce362d20cfd7cfc3496bee9b03",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 23000,
+    "fileSize": 22998,
     "status": 1,
     "language": "en",
     "authors": [
@@ -3320,7 +3320,7 @@
     "tvTypes": [
       "Others"
     ],
-    "version": 25,
+    "version": 26,
     "internalName": "GoldenAudiobook",
     "description": "Audiobooks - Use Picture in Picture or VLC as external player",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/GoldenAudiobook.cs3",
@@ -3498,14 +3498,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/HanimeTV.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "HanimeTV",
     "internalName": "HanimeTV",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch hentai online free download HD on mobile phone tablet laptop desktop.  Stream online, regularly released uncensored, subbed, in 720p and 1080p!",
-    "fileSize": 31904,
+    "fileSize": 31565,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -3513,9 +3513,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hanime.tv/home&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-1c3fbe04acc76bee62ea7bcec655d7be647b87a03ca83a8d4e8a04575aec36ac",
+    "fileHash": "sha256-22462e4e632701b460c30ae3f3d5d49545f9de6e8a2fb35af21707cde38c1a93",
     "isAdult": true,
-    "formattedSize": "31.2 KB",
+    "formattedSize": "30.8 KB",
     "isBroken": false
   },
   {
@@ -3590,7 +3590,7 @@
   },
   {
     "iconUrl": "https://images.dwncdn.net/images/t_app-icon-l/p/b0c9663c-0d61-4941-b12f-91c58c06189f/1137087733/hdo-box-logo",
-    "fileHash": "sha256-863b5e823a5f56be854aae7ac17cccde8e2f5b1334775c88c1f07578d90f78f6",
+    "fileHash": "sha256-327930876d41160a3640080e6b5b13fe91d699ebfd2b8a502c77d726de733c46",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 32368,
@@ -3603,7 +3603,7 @@
       "Movies",
       "TvSeries"
     ],
-    "version": 28,
+    "version": 29,
     "internalName": "HDOProvider",
     "description": "HDO provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/HDOProvider.cs3",
@@ -3614,10 +3614,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=rezka.ag&sz=%size%",
-    "fileHash": "sha256-84db961ee1474cc671cf9ab499658193a7d0ac5786d3e6c0dbadf904a62648cc",
+    "fileHash": "sha256-138deba21536cd42e84f33df54739330a94e9b59355558084012a89d552437ad",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 41181,
+    "fileSize": 44700,
     "status": 1,
     "language": "ru",
     "authors": [
@@ -3629,12 +3629,12 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 27,
+    "version": 29,
     "internalName": "HDrezkaProvider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/HDrezkaProvider.cs3",
     "name": "HDrezkaProvider",
     "isAdult": false,
-    "formattedSize": "40.2 KB",
+    "formattedSize": "43.7 KB",
     "isBroken": false
   },
   {
@@ -4426,7 +4426,7 @@
       "Miku"
     ],
     "description": "JavHey — Streaming Porn and JAV",
-    "fileSize": 23258,
+    "fileSize": 22866,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -4434,9 +4434,9 @@
     ],
     "iconUrl": "https://missav.ws/missav/logo-square.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0f8f1c5a2cc6cdf9164dd5f7c622666dfb74d00c1dce7d5f440eaa997ef3a070",
+    "fileHash": "sha256-a518515f54f1a59bb44e6468ca5a072ee29be95648a6f2ddd4e45fee8b5270f1",
     "isAdult": true,
-    "formattedSize": "22.7 KB",
+    "formattedSize": "22.3 KB",
     "isBroken": false
   },
   {
@@ -5020,7 +5020,7 @@
       "Miku"
     ],
     "description": "Kuramanime — Streaming Anime Subtitle Indonesia",
-    "fileSize": 34934,
+    "fileSize": 36278,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -5030,9 +5030,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-02746e2490bfbc426bc03f9e65ab3b8a156e14f7acb0fd7fdb59e9a343a7ac85",
+    "fileHash": "sha256-323e7c34cf6f40e404477692ee2f71cf94eec85fea0e35d1a9c1ce8d8e52a813",
     "isAdult": false,
-    "formattedSize": "34.1 KB",
+    "formattedSize": "35.4 KB",
     "isBroken": false
   },
   {
@@ -5259,10 +5259,10 @@
   },
   {
     "iconUrl": "https://librivox.org/wp-content/themes/librivox/images/librivox-logo.png",
-    "fileHash": "sha256-713299a6a5ad566ec0cb9903cf2d213d8502efd5e88f403b0b4fde1e989f40e9",
+    "fileHash": "sha256-7f43e3ef72bd6019bade755f0c1854cf83db7711738dc045125ac6224c0d2786",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 21035,
+    "fileSize": 21033,
     "status": 1,
     "language": "en",
     "authors": [
@@ -5271,7 +5271,7 @@
     "tvTypes": [
       "Others"
     ],
-    "version": 26,
+    "version": 27,
     "internalName": "LibriVoxAudiobook",
     "description": "Audiobooks in public domain",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/LibriVoxAudiobook.cs3",
@@ -5306,10 +5306,10 @@
   },
   {
     "iconUrl": "https://www.livxow.site/logo.jpg",
-    "fileHash": "sha256-65b3810ee3ab6fbbe37fa644b202840825f889e0b54b75dfef37dec4112b2ed4",
+    "fileHash": "sha256-0ccb7091f6a43785d3e97dd4a855adaaa59bf8255737ec20a956398b6dbb49bb",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 111031,
+    "fileSize": 112852,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5318,13 +5318,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 6,
+    "version": 8,
     "internalName": "LivXowProvider",
     "description": "Watch Live Sports and TV Channels via LivXow",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/LivXowProvider.cs3",
     "name": "LivXowProvider",
     "isAdult": false,
-    "formattedSize": "108.4 KB",
+    "formattedSize": "110.2 KB",
     "isBroken": false
   },
   {
@@ -5377,10 +5377,10 @@
   },
   {
     "iconUrl": "https://play-lh.googleusercontent.com/V4t4JeQV2Cu9u72hKuqOW5c0IfwcZuuVS1d9PF2uJsW3rlIq-aOMTrT5bABVGaAFTcM=w480-h960-rw",
-    "fileHash": "sha256-b35923e8d0e33b8fe77750279eb9365104b9a530a45ba1484798b83cd5ccfac4",
+    "fileHash": "sha256-fbf90ffa6b4e29e3987444a364ebdb149357dc6293a731269e9e67029229f180",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 50899,
+    "fileSize": 50900,
     "status": 1,
     "language": "en",
     "authors": [
@@ -5389,7 +5389,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "M3UPlaylistPlayerProvider",
     "description": "Add your own m3u playlists",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/M3UPlaylistPlayerProvider.cs3",
@@ -5614,10 +5614,10 @@
   },
   {
     "iconUrl": "https://mlsbd.co/wp-content/uploads/2020/08/MLSBD-Logo.png",
-    "fileHash": "sha256-86233092cb0738166849510833a898c7b53eb18284af3c3d89931b4f3b2535c2",
+    "fileHash": "sha256-0670e61a9d49b1e42c254ee5a161884afa7c6a882c46a0f9fbdc6660f7023eca",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 56818,
+    "fileSize": 56819,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -5629,7 +5629,7 @@
       "AnimeMovie",
       "AsianDrama"
     ],
-    "version": 25,
+    "version": 26,
     "internalName": "MLSBDProvider",
     "description": "The largest movie link store in Bangladesh",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MLSBDProvider.cs3",
@@ -5760,10 +5760,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
-    "fileHash": "sha256-713e8f0655397dec399ba7a5014e7e34e302819d84fd94c438ec6f37a4d85546",
+    "fileHash": "sha256-16381c7cf42630f502e85d81b10b779d7db70a10710690658629c0f3658c447f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 84104,
+    "fileSize": 84105,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5773,7 +5773,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 39,
+    "version": 40,
     "internalName": "MovieBoxProvider_2",
     "description": "Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
@@ -5784,7 +5784,7 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProviderIN/icon.png",
-    "fileHash": "sha256-e7da66ab4afa36a77a0c7a96904da17c0e2083d9bae6559c71383694ce8d96ca",
+    "fileHash": "sha256-ad8c72ab6f26a85c05a44c14cb5e44ad560474fce53616cb298d1e719ee609bf",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 81093,
@@ -5797,7 +5797,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 41,
+    "version": 42,
     "internalName": "MovieBoxProviderIN",
     "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
@@ -5830,10 +5830,10 @@
   },
   {
     "iconUrl": "https://movielinkbd.one/img/favicon-192x192.png",
-    "fileHash": "sha256-57bfcea657a4c483f8365900bdcd12deaa15ba0b75d72744ad53dbeb5ffdb4e0",
+    "fileHash": "sha256-c1d8a083998ae26a6c04cea3c89b626ada23499658155c9cfd1a4d47d4905394",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 48448,
+    "fileSize": 48449,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -5845,7 +5845,7 @@
       "AnimeMovie",
       "AsianDrama"
     ],
-    "version": 10,
+    "version": 11,
     "internalName": "MovieLinkBDProvider",
     "description": "MovieLinkBD - Largest Movie Download Site in Bangladesh",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieLinkBDProvider.cs3",
@@ -5984,7 +5984,7 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/master/MoviezwapProvider/icon.png",
-    "fileHash": "sha256-84047c011b6f36893bd168b22b753ef7ad4d7baf95f11c95e8ddba29066ee474",
+    "fileHash": "sha256-35a389f8005bc19ff8d8c3d2a7f31587c9b677a641b2fde268297d689e7a473c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 24545,
@@ -5996,7 +5996,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 24,
+    "version": 25,
     "internalName": "MoviezwapProvider",
     "description": "Telugu Movies Provider - Moviezwap",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MoviezwapProvider.cs3",
@@ -7039,10 +7039,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/PikashowProvider/logo.png",
-    "fileHash": "sha256-45e6dfa38278f386818348d6fc7a2da121e6f1d47f3997fb9c6eded23438cc30",
+    "fileHash": "sha256-fe5cc11b7c35c8022450c97979bcf64aa457277d18ea9421e50800a3bedd2276",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 67270,
+    "fileSize": 67271,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7052,7 +7052,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 25,
+    "version": 26,
     "internalName": "PikashowProvider",
     "description": "Stream movies and series from Pikashow",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PikashowProvider.cs3",
@@ -7164,7 +7164,7 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/PlayZTVProvider/logo.jpg",
-    "fileHash": "sha256-81bd9e737ee746750e81362bdfbe635c9cff6af7b1d495918b02676f290b35ed",
+    "fileHash": "sha256-2a5fb0d9bafcecf21481fcf8edbab1750e01ca5b20598f84289d735cbc666524",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 91781,
@@ -7176,7 +7176,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 26,
+    "version": 27,
     "internalName": "PlayZTVProvider",
     "description": "Watch Live TV channels & sports via PlayZTV",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PlayZTVProvider.cs3",
@@ -7655,10 +7655,10 @@
   },
   {
     "iconUrl": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png",
-    "fileHash": "sha256-2346fe019123a3a640a7378812f836d33b816087f03bdb62e4e0e48380a0090c",
+    "fileHash": "sha256-36e5078e2c007e5b5e5394f547dc3ceafa47f5700f4fed5272f3b3a0192e05d1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 21661,
+    "fileSize": 21662,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7667,7 +7667,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 26,
+    "version": 27,
     "internalName": "RadioIndiaProvider",
     "description": "Radio India Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/RadioIndiaProvider.cs3",
@@ -7820,10 +7820,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Rtally/icon.png",
-    "fileHash": "sha256-97c5854c7060dd3172b1c9782db78204ed0f447d3e9bd18900505a0594a5c087",
+    "fileHash": "sha256-e28c156904f20ab12c5c04554b79cd3b08de187b5a9b0916759ca8e4eeeaf9ac",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 23549,
+    "fileSize": 23548,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7836,7 +7836,7 @@
       "AnimeMovie",
       "AsianDrama"
     ],
-    "version": 40,
+    "version": 41,
     "internalName": "Rtally",
     "description": "Movie and TV Series provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/Rtally.cs3",
@@ -7924,7 +7924,7 @@
       "Miku"
     ],
     "description": "Samehadaku — Streaming Anime Subtitle Indonesia",
-    "fileSize": 30123,
+    "fileSize": 30127,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -7934,7 +7934,7 @@
     ],
     "iconUrl": "https://lh3.googleusercontent.com/zwKn_6sdYOdIiWg6Gtnx-Ar2DrVamlADnPN8BE4f84-a9aRo2Zc7mxbW5Qd26Z8cPFc",
     "apiVersion": 1,
-    "fileHash": "sha256-467e6f6174e4df84cec78ef3f3b62a64b87f83b7813383220f14dc6bf8c89bcd",
+    "fileHash": "sha256-e29c2a0587838c898e11d204890b47e46a573989da11dbc13b75717c20edaa5a",
     "isAdult": false,
     "formattedSize": "29.4 KB",
     "isBroken": false
@@ -8059,10 +8059,10 @@
   },
   {
     "iconUrl": "https://sktechtv.org/wp-content/uploads/2026/05/sktechtv.webp",
-    "fileHash": "sha256-093aa191254cf2a9d0392479cd48c828bf2f0cbdad1f8f3a2e96794768b5ae98",
+    "fileHash": "sha256-6a556fe747f2510a8f8d04ca3835915847b3bcc54b68616e63d7046799b25523",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 111802,
+    "fileSize": 112412,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -8071,13 +8071,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 43,
+    "version": 45,
     "internalName": "SKTechProvider",
     "description": "Watch Live sports and TV channels via SK Tech",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.cs3",
     "name": "SKTechProvider",
     "isAdult": false,
-    "formattedSize": "109.2 KB",
+    "formattedSize": "109.8 KB",
     "isBroken": false
   },
   {
@@ -8155,10 +8155,10 @@
   },
   {
     "iconUrl": "https://sportzxlive.com/wp-content/uploads/2026/04/cropped-logo-1-2048x1611-1-1024x806.png",
-    "fileHash": "sha256-84dd408c974c6407efda748c47fdc4ef609b1274d623be0a822f72458535672e",
+    "fileHash": "sha256-3208f69cebeb06fc659fe95958ce769ec4584795ce31f0d5d7948b1721b7aca5",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 105790,
+    "fileSize": 106042,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -8167,13 +8167,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 6,
+    "version": 8,
     "internalName": "SportzxProvider",
     "description": "Watch Live Sports Events via SportzX",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SportzxProvider.cs3",
     "name": "SportzxProvider",
     "isAdult": false,
-    "formattedSize": "103.3 KB",
+    "formattedSize": "103.6 KB",
     "isBroken": false
   },
   {
@@ -8201,7 +8201,7 @@
   },
   {
     "iconUrl": "https://play-lh.googleusercontent.com/7geBQBtW_yN70BU81Oi2SoZvYsj5VoYrI4FmUNdqWQlchtExJb7XE_1BQysGzgJ6mBU",
-    "fileHash": "sha256-a9534461e27137355d99c6ce58da723abcdc23c4de7f19771b350169b19d77dd",
+    "fileHash": "sha256-daf29bb7d594b21c5c342a7c5214db652b5b5904a3b0d234c64c92cf97c984c4",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 51281,
@@ -8215,7 +8215,7 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 27,
+    "version": 28,
     "internalName": "StreamFlixProvider",
     "description": "StreamFlix Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/StreamFlixProvider.cs3",
@@ -8327,10 +8327,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
-    "fileHash": "sha256-ba4df02ab6accf58aba3e2d9b40ac3285ddd70545c6f9e4df3d25595e4f1df36",
+    "fileHash": "sha256-f4dec0c69c0ed032742d07383099a211f850142cf8d841362f954f788a4e97f5",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 17431,
+    "fileSize": 17433,
     "status": 1,
     "authors": [
       "NivinCNC"
@@ -8339,7 +8339,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "SubscriptionManager",
     "description": "Manage your CNCVerse subscription — remove ads with a premium plan",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SubscriptionManager.cs3",
@@ -8564,7 +8564,7 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/TamilDhoolProvider/icon.png",
-    "fileHash": "sha256-84d1573108f8fa7a6149683fd5347617c80528dc6cb5dc68ce400b0abacf54de",
+    "fileHash": "sha256-121e3cdc10c923b31a389b424cdef8ef0ea6b7486d5bab75840391d5c006fd0a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 28063,
@@ -8576,7 +8576,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 30,
+    "version": 31,
     "internalName": "TamilDhoolProvider",
     "description": "Tamil Tv Serial/Shows Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/TamilDhoolProvider.cs3",
@@ -8587,7 +8587,7 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tamilian.io&sz=%size%",
-    "fileHash": "sha256-c7bf3dc612cbcc73771b33a3832c87266655ade2443a0dba04aec35f18bb500d",
+    "fileHash": "sha256-253af603f2772dd245dd09a6231761f7bec1f0510cf916550fa8f44c03e07063",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 22748,
@@ -8599,7 +8599,7 @@
     "tvTypes": [
       "Movies"
     ],
-    "version": 25,
+    "version": 26,
     "internalName": "Tamilian",
     "description": "Movies (Tamil)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/Tamilian.cs3",
@@ -8610,10 +8610,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/TamilUltraProvider/icon.png",
-    "fileHash": "sha256-4768845ab0232b43bb8434b0c50b34cf4a572d4b3cd5eb3e3bbf8ee2c77b7090",
+    "fileHash": "sha256-8f7dc5fb8c3b692ad49ed20ba20cb9ed208515f75df245dc1b5eaa4e9b1441cb",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 21035,
+    "fileSize": 21036,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -8622,7 +8622,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 33,
+    "version": 34,
     "internalName": "TamilUltraProvider",
     "description": "Indian Live TV Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/TamilUltraProvider.cs3",
@@ -9027,22 +9027,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 60,
+    "version": 61,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19470,
+    "fileSize": 19469,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub94.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub95.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-521ae57b030466b71aec4154cdbde5fdf7e726f0697a0f028b78636b13a15093",
+    "fileHash": "sha256-b9f87b65b1bde59590504640de3d5c333f2d67af722335f57d65629f9bf7ebe4",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -9118,22 +9118,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 112,
+    "version": 113,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34272,
+    "fileSize": 34268,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno19.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno20.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e607b40cb9c8e7bfdfe3deba89065c499559ae096c5859f00af6dea121d24bb0",
+    "fileHash": "sha256-fd5e767be3c8c03c7996b045f13792e342283e9d072f1b7eb25aefb38944300a",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
@@ -9232,14 +9232,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
     "status": 2,
-    "version": 55,
+    "version": 56,
     "name": "Ultima",
     "internalName": "Ultima",
     "authors": [
       "RowdyRushya,Phisher98"
     ],
     "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-    "fileSize": 243704,
+    "fileSize": 243889,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -9247,9 +9247,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-4453f0dc3059b23cebcb0b2d6c8ebb637bb16975c03b1503c27ce4974a4462dd",
+    "fileHash": "sha256-f63d1ecbc6ab2f65983ad34b0ff081c085dec969f908e96198dc4398fc58b552",
     "isAdult": false,
-    "formattedSize": "238 KB",
+    "formattedSize": "238.2 KB",
     "isBroken": false
   },
   {
@@ -9440,7 +9440,7 @@
   },
   {
     "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
-    "fileHash": "sha256-765bbca0fa11b52af562bc7f7f285dfd5dd7551a72f4a15a86efc20601b7303e",
+    "fileHash": "sha256-db21e94aa3fead35bbec2aad82a064af7ab09319a81781b90e49f6a35365ce99",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 36453,
@@ -9453,7 +9453,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 27,
+    "version": 28,
     "internalName": "Watch32",
     "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/Watch32.cs3",
@@ -9673,14 +9673,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/XDMovies.cs3",
     "status": 1,
-    "version": 4,
+    "version": 6,
     "name": "XDMovies",
     "internalName": "XDMovies",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch Latest Movies",
-    "fileSize": 108414,
+    "fileSize": 108627,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -9693,9 +9693,9 @@
     ],
     "iconUrl": "https://top.xdmovies.wtf/assets/logo1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d9ecf919af99daf53cfe33cc2c32b967cff86bb1d7f0c02f4670482707d53934",
+    "fileHash": "sha256-457f1278fa69b1ffc9ecb50cc282cfca361e180215fa26597c96923cc194675a",
     "isAdult": false,
-    "formattedSize": "105.9 KB",
+    "formattedSize": "106.1 KB",
     "isBroken": false
   },
   {
@@ -9884,7 +9884,7 @@
   },
   {
     "iconUrl": "https://play-lh.googleusercontent.com/zVq_wAus2snoO-ggyI6IomlsCzfybAozQOGYpBrv71r1--rOYOYWsr_N7DWwVp9t7ro=s248-rw",
-    "fileHash": "sha256-1b52006c7f33ddb268997892049be75890b2d4d855933dcde9a605f40cd54cc6",
+    "fileHash": "sha256-2e7a90a886e7bc0204cd65fdc77bf6f0381779f4256bd687168f8a0443df02ad",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 49037,
@@ -9898,7 +9898,7 @@
       "Movie",
       "Anime"
     ],
-    "version": 28,
+    "version": 29,
     "internalName": "XonProvider",
     "description": "Xon Provider for Anime and Cartoons - Tamil, Hindi, Telugu, English, Japanese",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/XonProvider.cs3",
