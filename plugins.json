@@ -260,14 +260,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllWish.cs3",
     "status": 1,
-    "version": 12,
+    "version": 14,
     "name": "AllWish",
     "internalName": "AllWish",
     "authors": [
       "Phisher98"
     ],
     "description": "Anime from all-wish.me",
-    "fileSize": 42620,
+    "fileSize": 42602,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -275,10 +275,10 @@
     ],
     "iconUrl": "https://all-wish.me/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7edbc1db9eea4d03a50e4149e57713b5decae30d242b457041384f87cd5f604c",
-    "jarFileSize": 167822,
+    "fileHash": "sha256-a261d5d6ce4fc99e4b50219b7c0666b2256fe8745d6c818dd97e33f838e4ad6b",
+    "jarFileSize": 167666,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllWish.jar",
-    "jarHash": "sha256-b9f8e1976bba95236f508a7c263da1611920a5348dd6539bb66138c7268ae5e7",
+    "jarHash": "sha256-998934aa223c756ca2ac9be75806db38f8933fb8438d273592c34326598f8405",
     "isAdult": false,
     "formattedSize": "41.6 KB",
     "isBroken": false
@@ -1630,14 +1630,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 469,
+    "version": 470,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 729861,
+    "fileSize": 738291,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1649,9 +1649,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-171a824618810500a4429a1665c6be3d55a688444d1227c68140fd45d426c8c9",
+    "fileHash": "sha256-923c40add13946ecdb21b43d1f23696ad7c860da7f88fc311d49a52f9769c5c8",
     "isAdult": false,
-    "formattedSize": "712.8 KB",
+    "formattedSize": "721 KB",
     "isBroken": false
   },
   {
@@ -5930,14 +5930,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "Movies4u",
     "internalName": "Movies4u",
     "authors": [
       "Phisher98"
     ],
     "description": "Movies4u",
-    "fileSize": 73611,
+    "fileSize": 74014,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -5946,12 +5946,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
     "apiVersion": 1,
-    "fileHash": "sha256-11086c08af3a4050fbe900f312bb168376cbf4f7c3fdfa5f371f0cfb0c17701a",
-    "jarFileSize": 365701,
+    "fileHash": "sha256-3b685b35874423c2705f579ef36d1759f9c2ff19bbe5f3fa48a846bd9e62291e",
+    "jarFileSize": 368382,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.jar",
-    "jarHash": "sha256-116a2147cf9f8964cd0d87f7aac5d8ca0591539af6617d1142c61f2a36cde153",
+    "jarHash": "sha256-0d8a6c230bb8e671af77d4b17098b52c9b6ce90462b26cce107d79418d8c0f1d",
     "isAdult": false,
-    "formattedSize": "71.9 KB",
+    "formattedSize": "72.3 KB",
     "isBroken": false
   },
   {
@@ -6007,10 +6007,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/master/MoviezwapProvider/icon.png",
-    "fileHash": "sha256-35a389f8005bc19ff8d8c3d2a7f31587c9b677a641b2fde268297d689e7a473c",
+    "fileHash": "sha256-96cdbd264a21b1d7394140e8d602df538cd45727bd7e87ee3e9e13cc74b114c6",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 24545,
+    "fileSize": 25484,
     "status": 1,
     "language": "te",
     "authors": [
@@ -6019,13 +6019,13 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 25,
+    "version": 26,
     "internalName": "MoviezwapProvider",
     "description": "Telugu Movies Provider - Moviezwap",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MoviezwapProvider.cs3",
     "name": "MoviezwapProvider",
     "isAdult": false,
-    "formattedSize": "24 KB",
+    "formattedSize": "24.9 KB",
     "isBroken": false
   },
   {
@@ -6563,14 +6563,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/OnePace.cs3",
     "status": 1,
-    "version": 19,
+    "version": 21,
     "name": "OnePace",
     "internalName": "OnePace",
     "authors": [
       "Phisher98"
     ],
     "description": "One Pace",
-    "fileSize": 34461,
+    "fileSize": 40363,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -6578,12 +6578,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/onepace.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d9343e54d3b0f48d3ba1f32ba68e1670544aeb9aec9aeb548c8d3c0bfdc1b4dd",
-    "jarFileSize": 153948,
+    "fileHash": "sha256-25074252da91ed1719a9e117f76e58674b26c459f641f4c7a71b29c3bfef777c",
+    "jarFileSize": 186486,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/OnePace.jar",
-    "jarHash": "sha256-22c6b6436632c87aa6893b8b1a85e56f0bae8c7bf2ba3a28e0b6d511a6c36bf9",
+    "jarHash": "sha256-48efb2d49a1a98d43e2da4eba8cf39400e25335f320c02a56aaeb4659b3bef2e",
     "isAdult": false,
-    "formattedSize": "33.7 KB",
+    "formattedSize": "39.4 KB",
     "isBroken": false
   },
   {
@@ -7843,10 +7843,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Rtally/icon.png",
-    "fileHash": "sha256-e28c156904f20ab12c5c04554b79cd3b08de187b5a9b0916759ca8e4eeeaf9ac",
+    "fileHash": "sha256-87fcfc44d8a048398db0bedf1bb9f27242a4b6be23e13c4ca66bbfbad0d43feb",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 23548,
+    "fileSize": 24109,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7859,13 +7859,13 @@
       "AnimeMovie",
       "AsianDrama"
     ],
-    "version": 41,
+    "version": 42,
     "internalName": "Rtally",
     "description": "Movie and TV Series provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/Rtally.cs3",
     "name": "Rtally",
     "isAdult": false,
-    "formattedSize": "23 KB",
+    "formattedSize": "23.5 KB",
     "isBroken": false
   },
   {
@@ -8130,14 +8130,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Sokuja.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Sokuja",
     "internalName": "Sokuja",
     "authors": [
       "ByAyzen"
     ],
     "description": "SOKUJA menyediakan koleksi anime subtitle Indonesia terlengkap. Nonton streaming dan download anime sub Indo HD gratis, update episode baru setiap hari.",
-    "fileSize": 20305,
+    "fileSize": 20312,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "id",
     "tvTypes": [
@@ -8146,7 +8146,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://x5.sokuja.uk/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-5b19231707dd6749d55a833c32a055dd3789f07d81f1e58cb129b9d556baed29",
+    "fileHash": "sha256-69313f41ee65b9878f73f5003692b7d98b9a9dc6e1b92c6d3c49743d32fd3933",
     "isAdult": false,
     "formattedSize": "19.8 KB",
     "isBroken": false
@@ -8202,10 +8202,10 @@
   },
   {
     "iconUrl": "https://sportzxlive.com/wp-content/uploads/2026/04/cropped-logo-1-2048x1611-1-1024x806.png",
-    "fileHash": "sha256-3208f69cebeb06fc659fe95958ce769ec4584795ce31f0d5d7948b1721b7aca5",
+    "fileHash": "sha256-c86ebc22f75b1b575b7eb3c51230973c4dc9f7bc4c3709c501c64a5eee7001dc",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 106042,
+    "fileSize": 106102,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -8214,7 +8214,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "SportzxProvider",
     "description": "Watch Live Sports Events via SportzX",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SportzxProvider.cs3",
@@ -8873,14 +8873,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Toonstream.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Toonstream",
     "internalName": "Toonstream",
     "authors": [
       "Phisher98"
     ],
     "description": "ToonStream Multi Language",
-    "fileSize": 30823,
+    "fileSize": 37698,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -8890,12 +8890,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/toonstream.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7dd801fb0cb1876788d7b11ab27e4ad308efa4010a1ed49d56df7b81d3606814",
-    "jarFileSize": 131515,
+    "fileHash": "sha256-74747b052cf726c43584469374b11586e4ac720bf3f5bf201817c4b26637302a",
+    "jarFileSize": 167755,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Toonstream.jar",
-    "jarHash": "sha256-2f961f4ee9afa1fa51c0fd7ca850af51683d1c9900a89424846f99d95ec54cf2",
+    "jarHash": "sha256-52ff7534c02ce1579a07064a81adb50c6a1b6008aebc27b9bebc77a9c0021432",
     "isAdult": false,
-    "formattedSize": "30.1 KB",
+    "formattedSize": "36.8 KB",
     "isBroken": false
   },
   {
@@ -9530,6 +9530,29 @@
     "name": "Watch32",
     "isAdult": false,
     "formattedSize": "35.6 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/WatchHentai.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "WatchHentai",
+    "internalName": "WatchHentai",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "Watch hentai online and free download hd. stream online, daily releases uncensored, english subbed and dubbed, anime hentai porn in 720p and 1080p.",
+    "fileSize": 14202,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://watchhentai.net&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-6fd89a23caca5e391afab3256bb61260470241c8529cc643e612f1b2a26597c7",
+    "isAdult": true,
+    "formattedSize": "13.9 KB",
     "isBroken": false
   },
   {
