@@ -1805,7 +1805,7 @@
       "Phisher98"
     ],
     "description": "Movies,Series and Anime French Extension ",
-    "fileSize": 29922,
+    "fileSize": 28011,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "fr",
     "tvTypes": [
@@ -1814,12 +1814,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Coflix.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e1c84cf9dc6aa2485711d21501f3a44c0a1aaac090d1a775b49acffe808a89e0",
-    "jarFileSize": 129724,
+    "fileHash": "sha256-bf1e59e2058463953105284632d89274c57e42d92ed920deef45d1de82e04921",
+    "jarFileSize": 122082,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.jar",
-    "jarHash": "sha256-34008a6ed67cfd3cf5eb58cf596eb21fddbf08499668eaf1b9d547d47ec85520",
+    "jarHash": "sha256-850f1b7491263bf3d2430c4808965dd88838d2b773da8a50f93b0933cbc4fa93",
     "isAdult": false,
-    "formattedSize": "29.2 KB",
+    "formattedSize": "27.4 KB",
     "isBroken": false
   },
   {
@@ -1920,10 +1920,10 @@
   },
   {
     "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
-    "fileHash": "sha256-b8dc24d9befecbb8a6a04f5477f1383881645ca93a99e4217b0528924cca8787",
+    "fileHash": "sha256-ddb70d450d4f0c05661ae86820befbe872cb5479202529ff51a4be0b4254259b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 102943,
+    "fileSize": 103017,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1932,13 +1932,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 60,
+    "version": 61,
     "internalName": "CricifyProvider",
     "description": "Watch Live sports and TV channels",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.cs3",
     "name": "CricifyProvider",
     "isAdult": false,
-    "formattedSize": "100.5 KB",
+    "formattedSize": "100.6 KB",
     "isBroken": false
   },
   {
@@ -5329,10 +5329,10 @@
   },
   {
     "iconUrl": "https://www.livxow.site/logo.jpg",
-    "fileHash": "sha256-0ccb7091f6a43785d3e97dd4a855adaaa59bf8255737ec20a956398b6dbb49bb",
+    "fileHash": "sha256-c3a784c0bb1597a09900191743a4e17e1c8616dfd27f9a8d77ba9845e5dc0835",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 112852,
+    "fileSize": 112851,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5341,7 +5341,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "LivXowProvider",
     "description": "Watch Live Sports and TV Channels via LivXow",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/LivXowProvider.cs3",
@@ -7186,11 +7186,11 @@
     "isBroken": false
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/PlayZTVProvider/logo.jpg",
-    "fileHash": "sha256-b6536d4189868fc1d4a617e792c825112ca83e43baadee4a6650f9d9ce067477",
+    "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/PlayFyTvProvider/playfy-tv-4.webp",
+    "fileHash": "sha256-1a83ac2391545f369a7460bae1445ea31c44505d1e098e932565692ca6adb4ee",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 91434,
+    "fileSize": 93342,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7199,7 +7199,30 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 28,
+    "version": 1,
+    "internalName": "PlayFyProvider",
+    "description": "Watch Live sports and TV channels via PlayFy",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PlayFyProvider.cs3",
+    "name": "PlayFyProvider",
+    "isAdult": false,
+    "formattedSize": "91.2 KB",
+    "isBroken": false
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/PlayZTVProvider/logo.jpg",
+    "fileHash": "sha256-114adacb33402735ef97f5b25d6b1a874f96f16600ca70ce3ffa01635f93e3bf",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "fileSize": 91467,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "NivinCNC"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 29,
     "internalName": "PlayZTVProvider",
     "description": "Watch Live TV channels & sports via PlayZTV",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PlayZTVProvider.cs3",
@@ -8082,10 +8105,10 @@
   },
   {
     "iconUrl": "https://sktechtv.org/wp-content/uploads/2026/05/sktechtv.webp",
-    "fileHash": "sha256-732b36f88cac951e433a234c45c7c41d9177ae4091178df067cfb329f637c06d",
+    "fileHash": "sha256-0e4e0f7810d12cd1a2ed242e77c0bedcbf75a8d4ac90a5c239cf3d0159d342f6",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 112412,
+    "fileSize": 112453,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -8094,7 +8117,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 47,
+    "version": 48,
     "internalName": "SKTechProvider",
     "description": "Watch Live sports and TV channels via SK Tech",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.cs3",
@@ -8202,10 +8225,10 @@
   },
   {
     "iconUrl": "https://sportzxlive.com/wp-content/uploads/2026/04/cropped-logo-1-2048x1611-1-1024x806.png",
-    "fileHash": "sha256-c86ebc22f75b1b575b7eb3c51230973c4dc9f7bc4c3709c501c64a5eee7001dc",
+    "fileHash": "sha256-3959ef0e0b3784622215d704ffc8849b2d3da4e530ac2c617e2a3287297589b3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 106102,
+    "fileSize": 106101,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -8214,7 +8237,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "SportzxProvider",
     "description": "Watch Live Sports Events via SportzX",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SportzxProvider.cs3",
@@ -9074,22 +9097,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 61,
+    "version": 62,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19469,
+    "fileSize": 19472,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub95.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub96.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b9f87b65b1bde59590504640de3d5c333f2d67af722335f57d65629f9bf7ebe4",
+    "fileHash": "sha256-4de5b6513d41951b3be6bb9948c0a4941b32c4b6874cfebc36e51246232e5a0d",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -9165,22 +9188,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 113,
+    "version": 114,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34268,
+    "fileSize": 34271,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno20.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno21.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-fd5e767be3c8c03c7996b045f13792e342283e9d072f1b7eb25aefb38944300a",
+    "fileHash": "sha256-bc34354070d1f30c1f15eee025f1387fb322c9e8f812cc1a9328dae584b6735e",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
@@ -9279,14 +9302,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
     "status": 2,
-    "version": 56,
+    "version": 57,
     "name": "Ultima",
     "internalName": "Ultima",
     "authors": [
       "RowdyRushya,Phisher98"
     ],
     "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-    "fileSize": 170852,
+    "fileSize": 170742,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -9294,9 +9317,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-a8c89c395f6631b8156a8a4510cadb057c0a78d7ed3a25fb28d08743def1aa33",
+    "fileHash": "sha256-483d4a4e22cbfcfa84a289db035d016c8d6dac7df4f4a8948adb100199608c7d",
     "isAdult": false,
-    "formattedSize": "166.8 KB",
+    "formattedSize": "166.7 KB",
     "isBroken": false
   },
   {
