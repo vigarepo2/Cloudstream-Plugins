@@ -390,7 +390,7 @@
       "Phisher98"
     ],
     "description": "Animes",
-    "fileSize": 56270,
+    "fileSize": 56557,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -400,9 +400,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anidb.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c44f3d31395a88ac6117a29e6ddf95281c7af5b413ae81dc3039bfa83ef3bd1d",
+    "fileHash": "sha256-edeb8b199f2e7aaa723696499a87d3c1d6e03d7456e438f8c293d1925ded9015",
     "isAdult": false,
-    "formattedSize": "55 KB",
+    "formattedSize": "55.2 KB",
     "isBroken": false
   },
   {
@@ -1559,14 +1559,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
     "status": 1,
-    "version": 17,
+    "version": 18,
     "name": "Cinemacity",
     "internalName": "Cinemacity",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-    "fileSize": 72959,
+    "fileSize": 73029,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1575,9 +1575,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-e8dfd2cdb738b2174d95400c4679d570bf80240e413869c8937571a762ef8d26",
+    "fileHash": "sha256-0165bf3a7e06ced81dfa3ac86a10353a91579c1f46283b36823a0b80c45c460e",
     "isAdult": false,
-    "formattedSize": "71.2 KB",
+    "formattedSize": "71.3 KB",
     "isBroken": false
   },
   {
@@ -5329,10 +5329,10 @@
   },
   {
     "iconUrl": "https://www.livxow.site/logo.jpg",
-    "fileHash": "sha256-c3a784c0bb1597a09900191743a4e17e1c8616dfd27f9a8d77ba9845e5dc0835",
+    "fileHash": "sha256-4a02f549b0fa0079408a13aa8ef93cce6fbaf2099f7f087047cb8bbbc8a6af16",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 112851,
+    "fileSize": 112855,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5341,7 +5341,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "LivXowProvider",
     "description": "Watch Live Sports and TV Channels via LivXow",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/LivXowProvider.cs3",
@@ -7187,10 +7187,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/PlayFyTvProvider/playfy-tv-4.webp",
-    "fileHash": "sha256-1a83ac2391545f369a7460bae1445ea31c44505d1e098e932565692ca6adb4ee",
+    "fileHash": "sha256-bbb9d80f9d9bb5be70ea1e24b7efbf8bda245477b707ecc569fd8c43264766f8",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 93342,
+    "fileSize": 93351,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7199,7 +7199,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": 3,
     "internalName": "PlayFyProvider",
     "description": "Watch Live sports and TV channels via PlayFy",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PlayFyProvider.cs3",
@@ -8225,10 +8225,10 @@
   },
   {
     "iconUrl": "https://sportzxlive.com/wp-content/uploads/2026/04/cropped-logo-1-2048x1611-1-1024x806.png",
-    "fileHash": "sha256-3959ef0e0b3784622215d704ffc8849b2d3da4e530ac2c617e2a3287297589b3",
+    "fileHash": "sha256-8b7b2dd8d72c8b12b2b0ec7e78a83a899524aabea61c48deaf277382cb8a81c1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 106101,
+    "fileSize": 105679,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -8237,13 +8237,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 10,
+    "version": 13,
     "internalName": "SportzxProvider",
     "description": "Watch Live Sports Events via SportzX",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SportzxProvider.cs3",
     "name": "SportzxProvider",
     "isAdult": false,
-    "formattedSize": "103.6 KB",
+    "formattedSize": "103.2 KB",
     "isBroken": false
   },
   {
@@ -9097,22 +9097,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 62,
+    "version": 63,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19472,
+    "fileSize": 19469,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub96.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub97.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-4de5b6513d41951b3be6bb9948c0a4941b32c4b6874cfebc36e51246232e5a0d",
+    "fileHash": "sha256-36a10261f31f62625c06caa0f8d3abb54e076691e2f56f5527dccc112f1ca949",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -9188,22 +9188,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 114,
+    "version": 115,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34271,
+    "fileSize": 34273,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno21.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno22.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-bc34354070d1f30c1f15eee025f1387fb322c9e8f812cc1a9328dae584b6735e",
+    "fileHash": "sha256-f224c6a4a593ca1bdc1b4113f2b482d3a4fc9504f2b36869b0082afa7147d59d",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
