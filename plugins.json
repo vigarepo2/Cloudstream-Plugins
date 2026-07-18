@@ -193,7 +193,7 @@
       "Phisher98"
     ],
     "description": "Indian MultiLanguage Provider (Mostly Hindi)",
-    "fileSize": 37628,
+    "fileSize": 36787,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -203,12 +203,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c09315b4e8dd3e2eb76e6e1722fae5b63dccaaced58aae3ee93dfea692d3ddb4",
-    "jarFileSize": 158895,
+    "fileHash": "sha256-8e9e380ed609587abbdadf4902d800ea0f5e77744da48c4b0f2ed2b1932cdd95",
+    "jarFileSize": 155786,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.jar",
-    "jarHash": "sha256-4d3dc1991b79e473e4ea1dd0c0be24a1a22b637d3c363aa0c8dccd6036f24be3",
+    "jarHash": "sha256-0fb475995dd81c60307995c28735877789ecd5395fc1e3c21f718d241a29e480",
     "isAdult": false,
-    "formattedSize": "36.7 KB",
+    "formattedSize": "35.9 KB",
     "isBroken": false
   },
   {
@@ -528,7 +528,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeAV.cs3",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "AnimeAV",
     "internalName": "AnimeAV",
     "authors": [
@@ -536,7 +536,7 @@
       "ByAyzen"
     ],
     "description": "Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
-    "fileSize": 27886,
+    "fileSize": 27467,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -544,9 +544,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
     "apiVersion": 1,
-    "fileHash": "sha256-1aa8e5c4a79d94542c9b11066cb51e22fbc5486900fc89213d6485ab494e4a9a",
+    "fileHash": "sha256-8e4e401846c88d1598804919b947882cd075145b8a70d18fa3f05abb9f9f4166",
     "isAdult": false,
-    "formattedSize": "27.2 KB",
+    "formattedSize": "26.8 KB",
     "isBroken": false
   },
   {
@@ -1559,14 +1559,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
     "status": 1,
-    "version": 18,
+    "version": 19,
     "name": "Cinemacity",
     "internalName": "Cinemacity",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-    "fileSize": 73029,
+    "fileSize": 75809,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1575,9 +1575,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-0165bf3a7e06ced81dfa3ac86a10353a91579c1f46283b36823a0b80c45c460e",
+    "fileHash": "sha256-bd47f6200e037cb82d2a2cf238a47c3305cd969e286c7038be038fc8a839d47d",
     "isAdult": false,
-    "formattedSize": "71.3 KB",
+    "formattedSize": "74 KB",
     "isBroken": false
   },
   {
@@ -1630,14 +1630,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 470,
+    "version": 471,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 738291,
+    "fileSize": 729189,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1649,9 +1649,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-923c40add13946ecdb21b43d1f23696ad7c860da7f88fc311d49a52f9769c5c8",
+    "fileHash": "sha256-16dc9028acc2b89c82b6c0d907994bce6856bb5a4125c5211cac2fb024362e4f",
     "isAdult": false,
-    "formattedSize": "721 KB",
+    "formattedSize": "712.1 KB",
     "isBroken": false
   },
   {
@@ -1749,10 +1749,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
-    "fileHash": "sha256-3fdc8212ac15b6c5cb5cd9018279d146f88268372503680bd4bf9b6a6080b42d",
+    "fileHash": "sha256-6af711e934aabe174ea5b4a2306e228f41664f139852e5671655985bc9a27e7e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 90187,
+    "fileSize": 90212,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1762,7 +1762,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 97,
+    "version": 98,
     "internalName": "CNC Verse",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
@@ -2275,14 +2275,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DoraBash.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "DoraBash",
     "internalName": "DoraBash",
     "authors": [
       "Phisher98"
     ],
     "description": "Doremon Show in Hindi",
-    "fileSize": 55275,
+    "fileSize": 82140,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -2292,9 +2292,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dorabash.in&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-2bea5d0e851b840f57a86db8ea4334a11e4ed274349d1116c028967b50de855a",
+    "fileHash": "sha256-23ba7412c384d93b43a1552b2ede5529c34d339f7af5d14d09177393a54c4b89",
     "isAdult": false,
-    "formattedSize": "54 KB",
+    "formattedSize": "80.2 KB",
     "isBroken": false
   },
   {
@@ -2838,13 +2838,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fibwatch.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "Fibwatch",
     "internalName": "Fibwatch",
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 40226,
+    "fileSize": 42345,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -2853,9 +2853,9 @@
     ],
     "iconUrl": "https://f.pondit.xyz/fibwatch-logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-284045549b0f19d593a56801133cb287a632f0a69eb1ccd2416c9a511bdb5bc6",
+    "fileHash": "sha256-08b70684d89f34b446b4755f07dd987e0200799adf6bf7b0ae09462100842d5c",
     "isAdult": false,
-    "formattedSize": "39.3 KB",
+    "formattedSize": "41.4 KB",
     "isBroken": false
   },
   {
@@ -3119,7 +3119,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Full4kizle.cs3",
     "status": 1,
-    "version": 17,
+    "version": 18,
     "name": "Full4kizle",
     "internalName": "Full4kizle",
     "authors": [
@@ -3133,9 +3133,9 @@
       "Movie",
       "AsianDrama"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plusizle.com&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://izleplus.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b10488826e473a90b0d78a83747fe26736f44f4aa76076712ebce63fd80d73f8",
+    "fileHash": "sha256-8a0d428155a5e4bf977c0ab5b926d53b3bde7a5af95cc3dfff0795eb8e6dccc0",
     "isAdult": false,
     "formattedSize": "22.5 KB",
     "isBroken": false
@@ -5182,7 +5182,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/LayarKaca.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "LayarKaca",
     "internalName": "LayarKaca",
     "authors": [
@@ -5191,16 +5191,16 @@
       "Hexated"
     ],
     "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
-    "fileSize": 30518,
+    "fileSize": 30520,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "id",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv11.lk21official.cc&size=256",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv12.lk21official.cc&size=256",
     "apiVersion": 1,
-    "fileHash": "sha256-54f0c80aca2344d40a9b551304788836bbe4ecd8cd0c89e8be099f46017c5755",
+    "fileHash": "sha256-6a4aed622b007a880764d43b09f5dd9bac504c8a177ea277f8118f549002fad7",
     "isAdult": false,
     "formattedSize": "29.8 KB",
     "isBroken": false
@@ -8153,23 +8153,23 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Sokuja.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Sokuja",
     "internalName": "Sokuja",
     "authors": [
       "ByAyzen"
     ],
     "description": "SOKUJA menyediakan koleksi anime subtitle Indonesia terlengkap. Nonton streaming dan download anime sub Indo HD gratis, update episode baru setiap hari.",
-    "fileSize": 20312,
+    "fileSize": 20310,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "id",
     "tvTypes": [
       "Anime",
       "AnimeMovie"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://x5.sokuja.uk/&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://x6.sokuja.uk&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-69313f41ee65b9878f73f5003692b7d98b9a9dc6e1b92c6d3c49743d32fd3933",
+    "fileHash": "sha256-fa1f27c10183c4d1986633b3be1a0dc80722941c05a32828b65d8447a263f6d1",
     "isAdult": false,
     "formattedSize": "19.8 KB",
     "isBroken": false
@@ -8305,7 +8305,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 954174,
+    "fileSize": 954741,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8318,9 +8318,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-d6e72c9c6ecc6eebee12d8f3982659c41e18f817d63848b34ac0ee6927ff52b3",
+    "fileHash": "sha256-e857464e0733c899f4fc6945c002a0c6112a1fe66787d6d6555b5b2b41880483",
     "isAdult": false,
-    "formattedSize": "931.8 KB",
+    "formattedSize": "932.4 KB",
     "isBroken": false
   },
   {
