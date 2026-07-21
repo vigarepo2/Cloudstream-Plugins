@@ -1630,14 +1630,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 473,
+    "version": 474,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 717340,
+    "fileSize": 715428,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1649,9 +1649,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-98dc9ee28aa02c9bdc680667355073c86a66f393a9cae23f053fe04b24cca1f0",
+    "fileHash": "sha256-8bb905e334f5dc506d9e1333d09b3f6c40ad5bd3e4c15aacda6497590fc7d8ad",
     "isAdult": false,
-    "formattedSize": "700.5 KB",
+    "formattedSize": "698.7 KB",
     "isBroken": false
   },
   {
@@ -1749,10 +1749,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
-    "fileHash": "sha256-7e6ee1bfb45b9f4cb4056f569e338032817571557aaebf71cc90a2150132382b",
+    "fileHash": "sha256-f908007ad5495f7dcb6710a8110324e44994c2bfb0a96ecbd3aca3f25797c1cf",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 95516,
+    "fileSize": 98004,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1762,13 +1762,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 104,
+    "version": 107,
     "internalName": "CNC Verse",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
     "name": "CNC Verse",
     "isAdult": false,
-    "formattedSize": "93.3 KB",
+    "formattedSize": "95.7 KB",
     "isBroken": false
   },
   {
@@ -6164,7 +6164,7 @@
       "Miku"
     ],
     "description": "NekoPoi — Streaming Hentai, Porn and JAV Subtitle Indonesia",
-    "fileSize": 41343,
+    "fileSize": 39520,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6172,9 +6172,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=nekopoi.care&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-54889975c4f69eadebab4d5f6f737e41fe90c8334805c4e607873e37b63985ef",
+    "fileHash": "sha256-efafb69a350fd289b89379a020cc57dc84658170b7f7223fd58fe20d3ba2312a",
     "isAdult": true,
-    "formattedSize": "40.4 KB",
+    "formattedSize": "38.6 KB",
     "isBroken": false
   },
   {
@@ -7187,7 +7187,7 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/PlayFyTvProvider/playfy-tv-4.webp",
-    "fileHash": "sha256-7675bc47713c2c5c8fbbd37ed3f21a27d14772ffec9263beac64759e2fb106b2",
+    "fileHash": "sha256-133635f59ab7dc5b3e9d9c678fea99c4a4fc7986cb3c38bd680f99d61c858192",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
     "fileSize": 93351,
@@ -7199,7 +7199,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "PlayFyProvider",
     "description": "Watch Live sports and TV channels via PlayFy",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PlayFyProvider.cs3",
