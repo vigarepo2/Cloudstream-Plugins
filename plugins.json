@@ -1,28 +1,5 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/__New.cs3",
-    "status": 1,
-    "version": 0,
-    "name": "__New",
-    "internalName": "__New",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "DESCRIPTIONDONOTFORGET",
-    "fileSize": 12496,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "en",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=https://",
-    "apiVersion": 1,
-    "fileHash": "sha256-63ea77793f2eeaaebe9d0a49ee8b509722cb216b5632100faef3cd88027fff8e",
-    "isAdult": false,
-    "formattedSize": "12.2 KB",
-    "isBroken": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/18EU.cs3",
     "status": 1,
     "version": 2,
@@ -390,7 +367,7 @@
       "Phisher98"
     ],
     "description": "Animes",
-    "fileSize": 56584,
+    "fileSize": 56599,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -400,7 +377,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anidb.png",
     "apiVersion": 1,
-    "fileHash": "sha256-fb2bf18609589085f692b6a37f6301416b89350ea6d26588804e0ac110776f2c",
+    "fileHash": "sha256-b0e6729e57b291945c7815707b32c651f7d7cac2c9a16240ba97688d31a40b54",
     "isAdult": false,
     "formattedSize": "55.3 KB",
     "isBroken": false
@@ -559,7 +536,7 @@
       "Phisher98"
     ],
     "description": "(Mexican) Anime Extension",
-    "fileSize": 18796,
+    "fileSize": 18762,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "mx",
     "tvTypes": [
@@ -569,9 +546,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animeav1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5946817af7df36cd3eef0a5ecf37a474bb19acea114279e792eb36de921dad93",
+    "fileHash": "sha256-abd1f614a6fcaa904018a89c9be5f627df5b0c2747edf00adf4448bd43796b55",
+    "jarFileSize": 82240,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animeav1.jar",
+    "jarHash": "sha256-0f765b9831d0d60bc2cd9c3bedc3c9b412e709315607d8e747a8bfc7ed7f580e",
     "isAdult": false,
-    "formattedSize": "18.4 KB",
+    "formattedSize": "18.3 KB",
     "isBroken": false
   },
   {
@@ -610,7 +590,7 @@
       "Phisher98"
     ],
     "description": "Includes AnimeDekho,OnePace(DUB,SUB) and HindiSubAnime",
-    "fileSize": 71989,
+    "fileSize": 71904,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -620,12 +600,12 @@
     ],
     "iconUrl": "https://animedekho.app/wp-content/uploads/2023/07/AnimeDekho-Logo-300x-1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-aefd6135965b0fd71680971207956ab4b070d89fc675c634892d68dcc59b27a2",
-    "jarFileSize": 378516,
+    "fileHash": "sha256-1a3e251259366d77c4d344838945a01551e129b2220ea875b7b5bbde56b41e42",
+    "jarFileSize": 378442,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeDekhoProvider.jar",
-    "jarHash": "sha256-bb94a651332b4b748e8373f09f0d112ee4fe689490ca7c7bc191cb43c8d677dc",
+    "jarHash": "sha256-a57d296ef632d5bc7cd0f1e24aef4619191d927ebe96e7efa2f8b0462d893c50",
     "isAdult": false,
-    "formattedSize": "70.3 KB",
+    "formattedSize": "70.2 KB",
     "isBroken": false
   },
   {
@@ -788,7 +768,7 @@
       "Cloudburst,Lorem Ipsum,Phisher98"
     ],
     "description": "Animes (SUB/DUB)",
-    "fileSize": 79233,
+    "fileSize": 79435,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -798,9 +778,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-dae1c10533af5d126dd70945fdb38ae0d284c788cb12963852d98a7323477ecf",
+    "fileHash": "sha256-d9723b69f1bd4268729d56adb33b7a7f48b27afd4f2afd80f6fa95356b30cc22",
     "isAdult": false,
-    "formattedSize": "77.4 KB",
+    "formattedSize": "77.6 KB",
     "isBroken": false
   },
   {
@@ -936,7 +916,7 @@
       "Phisher98"
     ],
     "description": "Anime and Movies",
-    "fileSize": 14921,
+    "fileSize": 14993,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -946,10 +926,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animexin.dev&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-3b7683c21ab6b44941f30452e2293cddd44d33849aac8c06bdc056aef86a00dd",
-    "jarFileSize": 60362,
+    "fileHash": "sha256-89ce4d0cd6bb2e31e73b54bcb879fca0746418c50f708e47b6f1de0dc60ffe63",
+    "jarFileSize": 60540,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.jar",
-    "jarHash": "sha256-fb8b4be12e1181403ef0cabd5433b87e390595906ce9c90553b70705f6e7c648",
+    "jarHash": "sha256-fbfb17c34938bc002c1cf3aabefca78ca65ac1a095288ae6a93f37d5b6db8b99",
     "isAdult": false,
     "formattedSize": "14.6 KB",
     "isBroken": false
@@ -1040,7 +1020,7 @@
       "Phisher98,Hexated"
     ],
     "description": "Include: Serienstream (Login Required under Extension Settings)",
-    "fileSize": 54002,
+    "fileSize": 54008,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "de",
     "tvTypes": [
@@ -1050,7 +1030,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-7d7b5d5875ee43cc445e7ba55304a44fd9d34ed786323a22145b945b0744370f",
+    "fileHash": "sha256-3f4799b70474a2f0dd587dbc60e0a7d8a89a779abf7fc09b4bfee25cf56dcde8",
     "isAdult": false,
     "formattedSize": "52.7 KB",
     "isBroken": false
@@ -1538,7 +1518,7 @@
       "Phisher98"
     ],
     "description": "Bangla/Hindi Movies/Series",
-    "fileSize": 68258,
+    "fileSize": 68310,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "bn",
     "tvTypes": [
@@ -1548,10 +1528,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e9df0eef9e631b8daa9ce79ccdd606b2ee235d454a88a450075c4a8fc51feb1e",
-    "jarFileSize": 312912,
+    "fileHash": "sha256-243ccda30d59f428a0b38763f397d3ab5774fe5474361da56796e4d6581d4dbb",
+    "jarFileSize": 313399,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.jar",
-    "jarHash": "sha256-5c42cc8620d838ec2142039fc4c34bd298b2486aa9f687f370c2f87b055ba9ec",
+    "jarHash": "sha256-b359a7ae6a865417aff8666b311f45f92d08bddfe4ea61ede881d46a3025b364",
     "isAdult": false,
     "formattedSize": "66.7 KB",
     "isBroken": false
@@ -1566,7 +1546,7 @@
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-    "fileSize": 75788,
+    "fileSize": 76031,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1575,9 +1555,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-b4fb2fb4756afbcbf8c93028f3f4ab22a39aed4185de596d4c671d1a4046d1eb",
+    "fileHash": "sha256-1bc48c3c0179cb8d6fdca4026739aa263ee4d6e8642b588a979afee015979769",
     "isAdult": false,
-    "formattedSize": "74 KB",
+    "formattedSize": "74.2 KB",
     "isBroken": false
   },
   {
@@ -1734,7 +1714,7 @@
       "Phisher98"
     ],
     "description": "CloudPlay Live TV Extension",
-    "fileSize": 30954,
+    "fileSize": 31014,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1742,9 +1722,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cloudplay.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-3fc53d342d962fb3b7070be3c647d50eaf08b1cb7d468fa0c021a64e3ead85b7",
+    "fileHash": "sha256-7c68d19bf4129261666385fc8e4679b8579627794ea239eaef5ee1761e5cef74",
     "isAdult": false,
-    "formattedSize": "30.2 KB",
+    "formattedSize": "30.3 KB",
     "isBroken": false
   },
   {
@@ -1805,7 +1785,7 @@
       "Phisher98"
     ],
     "description": "Movies,Series and Anime French Extension ",
-    "fileSize": 28011,
+    "fileSize": 27963,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "fr",
     "tvTypes": [
@@ -1814,12 +1794,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Coflix.png",
     "apiVersion": 1,
-    "fileHash": "sha256-bf1e59e2058463953105284632d89274c57e42d92ed920deef45d1de82e04921",
-    "jarFileSize": 122082,
+    "fileHash": "sha256-dded9ca803f12d3679ed80e66581905b812524dc700aa5daf78b40e969d18a65",
+    "jarFileSize": 121993,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.jar",
-    "jarHash": "sha256-850f1b7491263bf3d2430c4808965dd88838d2b773da8a50f93b0933cbc4fa93",
+    "jarHash": "sha256-3385128130e34ba136a538d45b7b3bc55891d1a03d095dbc154fde56f57de424",
     "isAdult": false,
-    "formattedSize": "27.4 KB",
+    "formattedSize": "27.3 KB",
     "isBroken": false
   },
   {
@@ -1975,7 +1955,7 @@
       "Phisher98"
     ],
     "description": "Contains BollyZone",
-    "fileSize": 40018,
+    "fileSize": 40071,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -1984,10 +1964,10 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://desicinemas.to&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-fe27eb786b7bbf60b0dc91a4e801de27622c6f4ec2fee484f34ae4b9591c9bbf",
-    "jarFileSize": 197400,
+    "fileHash": "sha256-1144ec4fc9e99c9609c11401a9d48066a9d28547ad21f6609a5fdebfcf701e4b",
+    "jarFileSize": 197571,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Desicinemas.jar",
-    "jarHash": "sha256-f69765f34482ca4fb1f36b1ff58b0c612ac1d3b4773199395327ba69a7d1e3ce",
+    "jarHash": "sha256-3c67fab93da0c8dd95a1c5d002945d4fb8f7cbcf592f13537f3a94673be86bd0",
     "isAdult": false,
     "formattedSize": "39.1 KB",
     "isBroken": false
@@ -2231,7 +2211,7 @@
       "Phisher98"
     ],
     "description": "Contains SeaTV (Chinese)",
-    "fileSize": 37897,
+    "fileSize": 38044,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "zh",
     "tvTypes": [
@@ -2239,12 +2219,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Kohi-den/extensions-source/927f9c68fd64ce52f6212ae633d0f0585eca3545/src/en/donghuastream/res/mipmap-xxxhdpi/ic_launcher.png",
     "apiVersion": 1,
-    "fileHash": "sha256-53f6a3a8816348c72f9234f89f0d734cd20a750ddf139a092dd7fc86531cc3a9",
-    "jarFileSize": 191993,
+    "fileHash": "sha256-fce2d8f4147d04a3a336bb749bf6c9dc8707d7957ca6ebe5df29fd8e55b27c50",
+    "jarFileSize": 192381,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Donghuastream.jar",
-    "jarHash": "sha256-ead349bc3fa2ef3ed63b2e344fc7c378ae889f394e98a4f5ab9cf088fe3e38bb",
+    "jarHash": "sha256-ad95109a218d9e7e4d7360f61f98429a2ca52fc78dc1ee1f15705b9102a4921b",
     "isAdult": false,
-    "formattedSize": "37 KB",
+    "formattedSize": "37.2 KB",
     "isBroken": false
   },
   {
@@ -2282,7 +2262,7 @@
       "Phisher98"
     ],
     "description": "Doremon Show in Hindi",
-    "fileSize": 82159,
+    "fileSize": 82207,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -2292,9 +2272,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dorabash.in&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-c31f781f07d57ace80e05437e4f3651ddc3d2454a5e8fec83dbe18b4fa7ffce6",
+    "fileHash": "sha256-dd1ad48db1e75d27c91e83c106e3f58addc40604c46cf1a0b921936ae8cbaa4a",
     "isAdult": false,
-    "formattedSize": "80.2 KB",
+    "formattedSize": "80.3 KB",
     "isBroken": false
   },
   {
@@ -2518,7 +2498,7 @@
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang)",
-    "fileSize": 63963,
+    "fileSize": 63865,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -2527,9 +2507,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/dudefilms.png",
     "apiVersion": 1,
-    "fileHash": "sha256-eb981d1aab85c55e48db867be106bfeb081fed067d0b2b309240c3974c355659",
+    "fileHash": "sha256-8f083020d02634c8694d0bba7faa707829ca776b38fdd8eb5ad006ffdf8d41bf",
+    "jarFileSize": 340328,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DudeFilms.jar",
+    "jarHash": "sha256-4476cb81b6032bb4cc3d66c1a0ba0743d10a56fa5132bf77176fa54c33ca2207",
     "isAdult": false,
-    "formattedSize": "62.5 KB",
+    "formattedSize": "62.4 KB",
     "isBroken": false
   },
   {
@@ -2844,7 +2827,7 @@
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 42346,
+    "fileSize": 42324,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -2853,9 +2836,12 @@
     ],
     "iconUrl": "https://f.pondit.xyz/fibwatch-logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-20d3e3c84b67e3f902aee12241754ab8a78b3fd71527b883c9340dff6d731979",
+    "fileHash": "sha256-7b1b243b91f51bb55934be1717b92872c547d482ccac9bb4fec8e7b77b4dcbf5",
+    "jarFileSize": 198561,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fibwatch.jar",
+    "jarHash": "sha256-7d6722decd22a867643437df9bc162b87a84ef2a945b9c3bcfca6dfeeb386dde",
     "isAdult": false,
-    "formattedSize": "41.4 KB",
+    "formattedSize": "41.3 KB",
     "isBroken": false
   },
   {
@@ -3033,7 +3019,7 @@
       "Phisher98"
     ],
     "description": "4K Movies Extension by HDHUB4U",
-    "fileSize": 66913,
+    "fileSize": 66777,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -3042,9 +3028,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-02225cb188ff016b045b8edd7441616b0e5b65bdfac7ee9ef7e31d7aff529213",
+    "fileHash": "sha256-dce52b8489773e3a89a034f5c8828dfa30b9cbf49c5a51006f1749fb819833b9",
+    "jarFileSize": 292973,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.jar",
+    "jarHash": "sha256-e22c59cbebe48dffc822e2d40935f52b05e5c72534c4af3fd4ff5f3b3039ad70",
     "isAdult": false,
-    "formattedSize": "65.3 KB",
+    "formattedSize": "65.2 KB",
     "isBroken": false
   },
   {
@@ -3119,23 +3108,23 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Full4kizle.cs3",
     "status": 1,
-    "version": 18,
+    "version": 19,
     "name": "Full4kizle",
     "internalName": "Full4kizle",
     "authors": [
       "ByAyzen"
     ],
     "description": "Filmci Baba, film izleme sitesi 4k Full film izle, 1080p ve 4k (yalan) kalite de sinema filmleri ve dizileri, tek parça hd kalitede türkçe dublajlı filmler seyret.",
-    "fileSize": 23011,
+    "fileSize": 23014,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "tr",
     "tvTypes": [
       "Movie",
       "AsianDrama"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://izleplus.com&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plusizle.co&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8a0d428155a5e4bf977c0ab5b926d53b3bde7a5af95cc3dfff0795eb8e6dccc0",
+    "fileHash": "sha256-8272058394463ebf4e50d8ed4fb7aa4c1abcae95dbfaab7b6f845360714871f2",
     "isAdult": false,
     "formattedSize": "22.5 KB",
     "isBroken": false
@@ -3454,7 +3443,7 @@
       "Phisher98"
     ],
     "description": "Movies and Series (Mostly 720p)",
-    "fileSize": 43828,
+    "fileSize": 43751,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -3463,12 +3452,12 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=goojara.to/&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-75ed54f55902733281503e2a38aa7dbe1718a295111200c7be35631de1e629dd",
-    "jarFileSize": 175759,
+    "fileHash": "sha256-71213b075e1093734d71cfbc0db512f1b0ba6fbfed782aea6be409f557fe0534",
+    "jarFileSize": 175454,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Goojara.jar",
-    "jarHash": "sha256-8e093c4ce953058f12ab0e80239d2b661cf7744b4cf7f297f334c7e53428320a",
+    "jarHash": "sha256-4856b72cd9bbad59a1fe6bcf493fc910d6b99ee02fc08aa37dbb4b66676f4ab8",
     "isAdult": false,
-    "formattedSize": "42.8 KB",
+    "formattedSize": "42.7 KB",
     "isBroken": false
   },
   {
@@ -3596,7 +3585,7 @@
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 79901,
+    "fileSize": 79800,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -3606,9 +3595,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b85acb2a2f21259f529d6a325667feff30f5a816c9f22b82156901e309d05e46",
+    "fileHash": "sha256-b27a093c5c68c59f6ecf0ef734656a6f4861bf1080c67e5fb3fb3ce790d9d6e3",
     "isAdult": false,
-    "formattedSize": "78 KB",
+    "formattedSize": "77.9 KB",
     "isBroken": false
   },
   {
@@ -3924,7 +3913,7 @@
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang)",
-    "fileSize": 52804,
+    "fileSize": 52868,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -3933,7 +3922,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/hindmoviez.png",
     "apiVersion": 1,
-    "fileHash": "sha256-95f5c731679b228d8c4ebe80be11c54ba0b20bc961e500502b233161166420f9",
+    "fileHash": "sha256-cac6c1b5bbe82585ab5c6ec705dd3888e6c4b5afa86e8576ad5111855d4084a8",
     "isAdult": false,
     "formattedSize": "51.6 KB",
     "isBroken": false
@@ -4063,7 +4052,7 @@
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 57320,
+    "fileSize": 57068,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "id",
     "tvTypes": [
@@ -4074,9 +4063,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/idlix.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6456cf5c3894a8c4ad7792125a6ec65e2e4602e1eb391589cc0e8652f5be36fd",
+    "fileHash": "sha256-05d1d8dc927ce463b43f4e22c2a5f162d11ca4e88c04848b5f641a08d4d57604",
+    "jarFileSize": 234180,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.jar",
+    "jarHash": "sha256-ddd8b176fffe879ad2185838b72a758da37ed1cc3f3d7984d395f12d80dbfe1c",
     "isAdult": false,
-    "formattedSize": "56 KB",
+    "formattedSize": "55.7 KB",
     "isBroken": false
   },
   {
@@ -4281,7 +4273,7 @@
       "Phisher98"
     ],
     "description": "Movies/Series/Anime",
-    "fileSize": 48828,
+    "fileSize": 48783,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -4294,9 +4286,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/streamflare.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b62e1bb5c76fbe3db8dde7bb232d8ef66e8e0eecab4d8891d86ec8b4ff560b19",
+    "fileHash": "sha256-6a430ca6345604ccdce9a140e724f427f2618f6d3be11aff82d97fa7e0b44812",
     "isAdult": false,
-    "formattedSize": "47.7 KB",
+    "formattedSize": "47.6 KB",
     "isBroken": false
   },
   {
@@ -5751,7 +5743,7 @@
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
     "apiVersion": 1,
     "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9",
     "isAdult": false,
@@ -6008,14 +6000,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 27,
+    "version": 28,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 120807,
+    "fileSize": 123452,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -6025,9 +6017,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-90aad3a9ff940c6c4dfca5d9612b674256a8967848c5bed438f9a0f5a2e4af9f",
+    "fileHash": "sha256-4c784b58bc12938be76ede7f37d32af68c63aff6414cb2df44bbb716af499d0d",
     "isAdult": false,
-    "formattedSize": "118 KB",
+    "formattedSize": "120.6 KB",
     "isBroken": false
   },
   {
@@ -9165,22 +9157,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 119,
+    "version": 120,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34270,
+    "fileSize": 34274,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno27.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno28.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-3909ffe64772bd4fdeeb3352765776ab5051334043c887bc3f74e5db27b71a78",
+    "fileHash": "sha256-a47889845ceddbee6eda2064ac1c48c975bbcb58c7e1aa82494a865a2b1da809",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
