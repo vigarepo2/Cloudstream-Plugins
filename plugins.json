@@ -962,22 +962,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "AnimeYTX",
     "internalName": "AnimeYTX",
     "authors": [
       "ByAyzen"
     ],
     "description": "Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
-    "fileSize": 28245,
+    "fileSize": 28244,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
       "Anime"
     ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeytx.net/&size=128",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-0d7de7353335f6203f378cc418d95df9f9f51f0ab476a78b7134f78fabeeb771",
+    "fileHash": "sha256-834a33c49cb901a062c9a69a474f9d674ff4e94dcef4b6345985a6bd6d3197af",
     "isAdult": false,
     "formattedSize": "27.6 KB",
     "isBroken": false
@@ -1610,14 +1610,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 476,
+    "version": 477,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 722337,
+    "fileSize": 727411,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1629,9 +1629,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0cdc5c6e498d454c31badcda9481daaf823e143834dd48d674094001c7447d2b",
+    "fileHash": "sha256-939fd4047359b34141e341e97fc946a2f6e7573551795d8e2b9205f582f88601",
     "isAdult": false,
-    "formattedSize": "705.4 KB",
+    "formattedSize": "710.4 KB",
     "isBroken": false
   },
   {
@@ -5174,7 +5174,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/LayarKaca.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "LayarKaca",
     "internalName": "LayarKaca",
     "authors": [
@@ -5183,7 +5183,7 @@
       "Hexated"
     ],
     "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
-    "fileSize": 30520,
+    "fileSize": 30522,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "id",
     "tvTypes": [
@@ -5192,7 +5192,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv12.lk21official.cc&size=256",
     "apiVersion": 1,
-    "fileHash": "sha256-6a4aed622b007a880764d43b09f5dd9bac504c8a177ea277f8118f549002fad7",
+    "fileHash": "sha256-175aef4c15512b737786a99303de0abe52c67a4af24b22a07604f4be04affea8",
     "isAdult": false,
     "formattedSize": "29.8 KB",
     "isBroken": false
@@ -8266,7 +8266,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 654,
+    "version": 656,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8274,7 +8274,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 967243,
+    "fileSize": 999387,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8287,9 +8287,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-c9dddbd935d713aa05264aeb6b004ffcabc122c99ba6b237e5296b927114a1dc",
+    "fileHash": "sha256-ee8e493f7dc4489b011a2ee7a6ae06cf4acec1e152bf7c4eaf51e3b8d3570221",
     "isAdult": false,
-    "formattedSize": "944.6 KB",
+    "formattedSize": "976 KB",
     "isBroken": false
   },
   {
