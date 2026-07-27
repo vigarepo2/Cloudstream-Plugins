@@ -1610,14 +1610,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 477,
+    "version": 478,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 727411,
+    "fileSize": 727416,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1629,7 +1629,7 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-939fd4047359b34141e341e97fc946a2f6e7573551795d8e2b9205f582f88601",
+    "fileHash": "sha256-99da882ea3d111854bd6ba2fea0204feb9d264905e4db4edc7bfff221b0da5b3",
     "isAdult": false,
     "formattedSize": "710.4 KB",
     "isBroken": false
@@ -3598,6 +3598,33 @@
     "fileHash": "sha256-b27a093c5c68c59f6ecf0ef734656a6f4861bf1080c67e5fb3fb3ce790d9d6e3",
     "isAdult": false,
     "formattedSize": "77.9 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hdmovie2.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Hdmovie2",
+    "internalName": "Hdmovie2",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Hdmovie2",
+    "fileSize": 42518,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "hi",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/hdmovie2.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-bca11656fa004048e7ef2d3a15eb9ccd87382cd4ddd8881008087769bdfdefbb",
+    "jarFileSize": 179205,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hdmovie2.jar",
+    "jarHash": "sha256-199e56bdcea44e8e1bb565adf3b6cfd1e71b1d6b2d396a105a325d671caaf67a",
+    "isAdult": false,
+    "formattedSize": "41.5 KB",
     "isBroken": false
   },
   {
@@ -5847,33 +5874,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movierulzhd.cs3",
-    "status": 1,
-    "version": 155,
-    "name": "Movierulzhd",
-    "internalName": "Movierulzhd",
-    "authors": [
-      "Phisher98,hexated"
-    ],
-    "description": "Includes: Hdmovie2,hdmovie6",
-    "fileSize": 59244,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "hi",
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/Movierulzhd/faviconV2.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-622d5b579857d19541e368dc20147f525c30c904c980a46215ee3470e0cb806d",
-    "jarFileSize": 303847,
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movierulzhd.jar",
-    "jarHash": "sha256-9962f40d3c14e87f0b0a1cdb021263b84e1fd84152919d9802c20bb8796da439",
-    "isAdult": false,
-    "formattedSize": "57.9 KB",
-    "isBroken": false
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=movierulzhd.best&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
@@ -5888,10 +5888,10 @@
       "Movie"
     ],
     "version": 65,
-    "internalName": "Movierulzhd_2",
+    "internalName": "Movierulzhd",
     "description": "Includes: Hdmovie2, Animesaga",
     "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Movierulzhd.cs3",
-    "name": "Movierulzhd (2)",
+    "name": "Movierulzhd",
     "isAdult": false,
     "formattedSize": "26.2 KB",
     "isBroken": false
@@ -6242,15 +6242,15 @@
     "isBroken": false
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
-    "fileHash": "sha256-128532c82a7d06dba05da09d7cc4c34245e612c07185b48990200d474685b381",
+    "iconUrl": "https://raw.githubusercontent.com/nirmaleeswar30/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
+    "fileHash": "sha256-e53fa0f0be1c8ed1518c4fed95e85ae8af96a85b86cd3d6f10c5befe2056b467",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-    "fileSize": 64565,
+    "fileSize": 37594,
     "status": 1,
     "language": "hi",
     "authors": [
-      "Sushan64"
+      "nirmaleeswar30"
     ],
     "tvTypes": [
       "Movie",
@@ -6262,7 +6262,7 @@
     "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
     "name": "Netmirror",
     "isAdult": false,
-    "formattedSize": "63.1 KB",
+    "formattedSize": "36.7 KB",
     "isBroken": false
   },
   {
@@ -8274,7 +8274,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 999387,
+    "fileSize": 1000740,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8287,9 +8287,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-ee8e493f7dc4489b011a2ee7a6ae06cf4acec1e152bf7c4eaf51e3b8d3570221",
+    "fileHash": "sha256-c451f5d9aeba261c3ad2d2703596d27deaf11ac757685026caa8635d5b8216a9",
     "isAdult": false,
-    "formattedSize": "976 KB",
+    "formattedSize": "977.3 KB",
     "isBroken": false
   },
   {
@@ -9066,22 +9066,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 66,
+    "version": 67,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19468,
+    "fileSize": 19469,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub100.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub101.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8dcfbbbe2ee76581eb23a9be2d3abd0d50e112187c537add45d0c0f2277e709b",
+    "fileHash": "sha256-dc94e5e200ee9ea4f18b841b7788fa343414f701461b67afd39127b21ec71940",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
