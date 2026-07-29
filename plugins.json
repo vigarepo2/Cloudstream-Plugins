@@ -288,13 +288,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anichi.cs3",
     "status": 1,
-    "version": 23,
+    "version": 24,
     "name": "Anichi",
     "internalName": "Anichi",
     "authors": [
       "Hexated,Phisher98"
     ],
-    "fileSize": 120893,
+    "fileSize": 137615,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -304,9 +304,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Allanime.png",
     "apiVersion": 1,
-    "fileHash": "sha256-afbec402c8a8fdd8c6f9fe6a6c44f11b47b74bdd0ee5f8cfdd1da36c26365b08",
+    "fileHash": "sha256-edffd82ed108cb1aed018e4dfe27792ee6c991d62eb39e2be82d4bd9c9f6129f",
     "isAdult": false,
-    "formattedSize": "118.1 KB",
+    "formattedSize": "134.4 KB",
     "isBroken": false
   },
   {
@@ -1610,14 +1610,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 478,
+    "version": 479,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 726936,
+    "fileSize": 731294,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1629,9 +1629,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-be77e538a4577cfc7ce30046ecfc00d1428d36e7e93554d29540f1ce50650266",
+    "fileHash": "sha256-041d459626596937b11eadad8963fb2ccb2c8c617764502031c655a310851f69",
     "isAdult": false,
-    "formattedSize": "709.9 KB",
+    "formattedSize": "714.2 KB",
     "isBroken": false
   },
   {
@@ -2255,14 +2255,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DoraBash.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "DoraBash",
     "internalName": "DoraBash",
     "authors": [
       "Phisher98"
     ],
     "description": "Doremon Show in Hindi",
-    "fileSize": 82207,
+    "fileSize": 80661,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -2272,9 +2272,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dorabash.in&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-dd1ad48db1e75d27c91e83c106e3f58addc40604c46cf1a0b921936ae8cbaa4a",
+    "fileHash": "sha256-3d5b95882e59b666acb3f7859c5848c060aca1fec30f9f4c7e17fd670c4aba8a",
     "isAdult": false,
-    "formattedSize": "80.3 KB",
+    "formattedSize": "78.8 KB",
     "isBroken": false
   },
   {
@@ -9084,29 +9084,6 @@
     "fileHash": "sha256-02541fb9ed197a0c998f5c16fe59402c72dd5281e502db3fd8ff5a81e443a70b",
     "isAdult": true,
     "formattedSize": "19 KB",
-    "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Turkifsahub.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "Turkifsahub",
-    "internalName": "Turkifsahub",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "Türk İfşa Hub üzerinde en güncel ve ücretsiz VIP Türk İfşa videolarına ücretsiz ulaşın.",
-    "fileSize": 13571,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
-    "language": "tr",
-    "tvTypes": [
-      "NSFW"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkifsahub.com/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-1e2c8506952ab3fa94c4d50e63110b8b83bc8878f6def033c6cb53870628c163",
-    "isAdult": true,
-    "formattedSize": "13.3 KB",
     "isBroken": false
   },
   {
