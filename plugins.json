@@ -434,10 +434,10 @@
   },
   {
     "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
-    "fileHash": "sha256-25acaedb4b8a60d620ca21be8d72923dee73382892001c2c732dceff90a1b892",
+    "fileHash": "sha256-a4f9dd580d475e62dad9227dec7def8a0ab98d19e16517fe84431c2e9b4bcfea",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 53653,
+    "fileSize": 53651,
     "status": 1,
     "language": "en",
     "authors": [
@@ -861,10 +861,10 @@
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animesuge.cz&size=64",
-    "fileHash": "sha256-116174586c79edcbe808fa781c79aabe0497d4f0d4cfef02e53b1c72c2dcc999",
+    "fileHash": "sha256-685f6a40deb90ce109dbf8facd6839ecf43f8e7e500b348d8968bf5b375e1a8d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 40333,
+    "fileSize": 40332,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1729,10 +1729,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
-    "fileHash": "sha256-f908007ad5495f7dcb6710a8110324e44994c2bfb0a96ecbd3aca3f25797c1cf",
+    "fileHash": "sha256-a44395ea69ab6e14733b81158f255928e0af73bb1ffdd8098e31207093d575f6",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 98004,
+    "fileSize": 98002,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1753,10 +1753,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse%20Mobile/logo.jpeg",
-    "fileHash": "sha256-ac9fccebd2d74d563325505801cded7af27cf7c9a80657a20d9cf74764d9e9f6",
+    "fileHash": "sha256-5f8412d67561a43c8a9dc964b52edca57884ee0525253dc680680ff4376c67fd",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 91400,
+    "fileSize": 91398,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5779,10 +5779,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProvider/icon.png",
-    "fileHash": "sha256-1571bd8e13b5c24b5367d583e68962a40dd29e75388c725298413e31b951dd1c",
+    "fileHash": "sha256-d55f4efa785c9646b84f989d7659feab93ecd3fabf2f144306153a930b407242",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 84103,
+    "fileSize": 84109,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5792,7 +5792,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 44,
+    "version": 45,
     "internalName": "MovieBoxProvider_2",
     "description": "Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
@@ -5803,10 +5803,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProviderIN/icon.png",
-    "fileHash": "sha256-bd2aa3e9047340636470d6ab60f220b382b20b9ea2cb40f22e97448b19c16c6c",
+    "fileHash": "sha256-45c7560e89b88e369e15297b3c042ea958f0acfc951ec0feef3961cafe13d1c3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 81093,
+    "fileSize": 81095,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5816,7 +5816,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 46,
+    "version": 47,
     "internalName": "MovieBoxProviderIN",
     "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
@@ -6242,15 +6242,15 @@
     "isBroken": false
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/nirmaleeswar30/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
-    "fileHash": "sha256-e53fa0f0be1c8ed1518c4fed95e85ae8af96a85b86cd3d6f10c5befe2056b467",
+    "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
+    "fileHash": "sha256-78d9927188c63293e5ad3a421bfc6062e58a0f9bc0302c57b04c53de02026518",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-    "fileSize": 37594,
+    "fileSize": 56636,
     "status": 1,
     "language": "hi",
     "authors": [
-      "nirmaleeswar30"
+      "Sushan64"
     ],
     "tvTypes": [
       "Movie",
@@ -6262,7 +6262,7 @@
     "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
     "name": "Netmirror",
     "isAdult": false,
-    "formattedSize": "36.7 KB",
+    "formattedSize": "55.3 KB",
     "isBroken": false
   },
   {
