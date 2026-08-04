@@ -1610,14 +1610,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 479,
+    "version": 480,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 731294,
+    "fileSize": 730499,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1629,9 +1629,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-041d459626596937b11eadad8963fb2ccb2c8c617764502031c655a310851f69",
+    "fileHash": "sha256-44f60181676e767095bdbb828379f4a7cfdda2c41431806ea9cf6a0d238f7eb6",
     "isAdult": false,
-    "formattedSize": "714.2 KB",
+    "formattedSize": "713.4 KB",
     "isBroken": false
   },
   {
@@ -5952,14 +5952,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Moviesmod.cs3",
     "status": 1,
-    "version": 32,
+    "version": 33,
     "name": "Moviesmod",
     "internalName": "Moviesmod",
     "authors": [
       "megix"
     ],
     "description": "Includes Topmovies",
-    "fileSize": 44386,
+    "fileSize": 44518,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "tvTypes": [
       "TvSeries",
@@ -5969,9 +5969,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-77020d682ea18f42f026f933c810fe3a7279da0ba57489dc8553241f03f93998",
+    "fileHash": "sha256-9433fd970480a53f52f3ec4b49d3213c7bda5a26b109dc80ef82cd2ec13a37a7",
     "isAdult": false,
-    "formattedSize": "43.3 KB",
+    "formattedSize": "43.5 KB",
     "isBroken": false
   },
   {
