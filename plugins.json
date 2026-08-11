@@ -1729,10 +1729,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
-    "fileHash": "sha256-a44395ea69ab6e14733b81158f255928e0af73bb1ffdd8098e31207093d575f6",
+    "fileHash": "sha256-b72e7802bb68ecab7a599a1a744cd52321d230256485ba3125413b725e42a0b1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 98002,
+    "fileSize": 98583,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1742,13 +1742,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 107,
+    "version": 108,
     "internalName": "CNC Verse",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
     "name": "CNC Verse",
     "isAdult": false,
-    "formattedSize": "95.7 KB",
+    "formattedSize": "96.3 KB",
     "isBroken": false
   },
   {
@@ -3320,10 +3320,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=%size%",
-    "fileHash": "sha256-45498c3927178b5e7418f686ca6bd38a4dbf7d83e70246da020bd77f67e7990f",
+    "fileHash": "sha256-2136b88b99355fcf80a23b42e55db40c0617020c49556375fce54450f034cae1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 22997,
+    "fileSize": 23438,
     "status": 1,
     "language": "en",
     "authors": [
@@ -3332,13 +3332,13 @@
     "tvTypes": [
       "Others"
     ],
-    "version": 30,
+    "version": 31,
     "internalName": "GoldenAudiobook",
     "description": "Audiobooks - Use Picture in Picture or VLC as external player",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/GoldenAudiobook.cs3",
     "name": "GoldenAudiobook",
     "isAdult": false,
-    "formattedSize": "22.5 KB",
+    "formattedSize": "22.9 KB",
     "isBroken": false
   },
   {
@@ -5849,10 +5849,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/movielinkbd.webp",
-    "fileHash": "sha256-c25e4ac46e39d3ee513b07cbcf9e723a9104a181bf4966aa4a7820a001746121",
+    "fileHash": "sha256-b686796d287efb855097436b58fc6b4cfb17de7f85f4f56cfebf2f5725e6ab18",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 48450,
+    "fileSize": 56401,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -5864,13 +5864,13 @@
       "AnimeMovie",
       "AsianDrama"
     ],
-    "version": 15,
+    "version": 16,
     "internalName": "MovieLinkBDProvider",
     "description": "MovieLinkBD - Largest Movie Download Site in Bangladesh",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieLinkBDProvider.cs3",
     "name": "MovieLinkBDProvider",
     "isAdult": false,
-    "formattedSize": "47.3 KB",
+    "formattedSize": "55.1 KB",
     "isBroken": false
   },
   {
@@ -7835,10 +7835,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/Rtally/icon.png",
-    "fileHash": "sha256-670aa4836e362632dd3d6070103fba698901a8a7a15b03411e82e4496a7bbd90",
+    "fileHash": "sha256-50dc308a2f2a3d4f539e315a2cd0efa91dddcdf02cdaf559b57f16b74d3be271",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 24109,
+    "fileSize": 28551,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7851,13 +7851,13 @@
       "AnimeMovie",
       "AsianDrama"
     ],
-    "version": 46,
+    "version": 47,
     "internalName": "Rtally",
     "description": "Movie and TV Series provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/Rtally.cs3",
     "name": "Rtally",
     "isAdult": false,
-    "formattedSize": "23.5 KB",
+    "formattedSize": "27.9 KB",
     "isBroken": false
   },
   {
@@ -9066,22 +9066,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 69,
+    "version": 70,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19471,
+    "fileSize": 19467,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub103.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub104.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8cde0be6bf17128472c6586e08ac8d9d6ebc49b360c204e0f93a09574cbcd569",
+    "fileHash": "sha256-b10d35ccf88c3313d01bb713de03084ab664ef1d01b82eb78c0d40ca055c2594",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -9134,22 +9134,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 122,
+    "version": 123,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34273,
+    "fileSize": 34272,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno30.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno31.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8d1851ebf0ac55c6841ffa9d1b9643b0e095e6bd9ecc69402a9267f7da84a2c8",
+    "fileHash": "sha256-08ff4731ec2174db1304080d2da74f57671cee321a53465e0c1d32d6e3886baf",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
