@@ -8194,10 +8194,10 @@
   },
   {
     "iconUrl": "https://sportzxlive.com/wp-content/uploads/2026/04/cropped-logo-1-2048x1611-1-1024x806.png",
-    "fileHash": "sha256-1aa4c1c604f78f30bfb453e4c5a2037a7663280c3e6bd7f5df4ee22b114a61b7",
+    "fileHash": "sha256-28290bfc3afec39a324db4de9e4c49c91d44b74665d9cf333c23f59feefa1a68",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 105679,
+    "fileSize": 106709,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -8206,13 +8206,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "SportzxProvider",
     "description": "Watch Live Sports Events via SportzX",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SportzxProvider.cs3",
     "name": "SportzxProvider",
     "isAdult": false,
-    "formattedSize": "103.2 KB",
+    "formattedSize": "104.2 KB",
     "isBroken": false
   },
   {
@@ -8603,10 +8603,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/TamilDhoolProvider/icon.png",
-    "fileHash": "sha256-a9b8f90bbc9582b1fd27914dd6c5b0a76ec5365c513460c2ca18675bfa85ae69",
+    "fileHash": "sha256-05bd33a046a28362db72d9942fc004d7f93a926115a7e8b91fcbd80dc1485b7a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 28063,
+    "fileSize": 35156,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -8615,13 +8615,13 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 35,
+    "version": 36,
     "internalName": "TamilDhoolProvider",
     "description": "Tamil Tv Serial/Shows Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/TamilDhoolProvider.cs3",
     "name": "TamilDhoolProvider",
     "isAdult": false,
-    "formattedSize": "27.4 KB",
+    "formattedSize": "34.3 KB",
     "isBroken": false
   },
   {
@@ -9066,22 +9066,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 70,
+    "version": 71,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19467,
+    "fileSize": 19469,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub104.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub105.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b10d35ccf88c3313d01bb713de03084ab664ef1d01b82eb78c0d40ca055c2594",
+    "fileHash": "sha256-312b85654b13bf1e9341835c4f321227686b1a04a0bc5854db3d7140c30b5d28",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -9134,22 +9134,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 123,
+    "version": 124,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34272,
+    "fileSize": 34275,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno31.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno32.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-08ff4731ec2174db1304080d2da74f57671cee321a53465e0c1d32d6e3886baf",
+    "fileHash": "sha256-4f558c0f1ef8c6b95637361c94d25be28fff9a54f3f9cfa7581e85f651f9ce23",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
