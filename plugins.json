@@ -433,6 +433,30 @@
     "isBroken": false
   },
   {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniKoto.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "AniKoto",
+    "internalName": "AniKoto",
+    "authors": [
+      "phisher98"
+    ],
+    "description": "AniKoto",
+    "fileSize": 41595,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-6032aeba37c8e4b02f74d0d400daab2c4bf2a587b738ebdc8db24b77a7a2f39f",
+    "isAdult": false,
+    "formattedSize": "40.6 KB",
+    "isBroken": false
+  },
+  {
     "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
     "fileHash": "sha256-a4f9dd580d475e62dad9227dec7def8a0ab98d19e16517fe84431c2e9b4bcfea",
     "apiVersion": 1,
@@ -449,9 +473,9 @@
       "OVA"
     ],
     "version": 7,
-    "internalName": "AniKoto",
+    "internalName": "AniKoto_2",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/AniKoto.cs3",
-    "name": "AniKoto",
+    "name": "AniKoto (2)",
     "isAdult": false,
     "formattedSize": "52.4 KB",
     "isBroken": false
@@ -4841,13 +4865,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
     "status": 1,
-    "version": 19,
+    "version": 20,
     "name": "KisskhProvider",
     "internalName": "KisskhProvider",
     "authors": [
       "Phisher98,Hexated,Peerless"
     ],
-    "fileSize": 39516,
+    "fileSize": 39518,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -4858,10 +4882,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-11928a21db21e8d87029bd2428cd2b5c90ec759e9fb7df4af0cf1f43cb79c7c3",
+    "fileHash": "sha256-2af599bb6e6209c3a230c6de5b7adb6f2ac1db63a8580791cd89e3ed679e1e6c",
     "jarFileSize": 156754,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
-    "jarHash": "sha256-3e8fed4817a89251fb49d18ad5add32d452aaaafe494b30f3a2f1d508a2454c0",
+    "jarHash": "sha256-fa01d3df3e645a012f1dbc6230113d5040ccb004ebc2e9d020aef7fed1c9721d",
     "isAdult": false,
     "formattedSize": "38.6 KB",
     "isBroken": false
@@ -8266,7 +8290,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 658,
+    "version": 659,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8274,7 +8298,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1003473,
+    "fileSize": 1002794,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8287,9 +8311,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-e6655d26146851000b73d1fbd8aeb33a1043ef447eb2e2195bdcef75543fedcb",
+    "fileHash": "sha256-f27198a590c8a1728db2ea7f6d99c9226feee10b6f3f7756d95fca7cc6850d3e",
     "isAdult": false,
-    "formattedSize": "980 KB",
+    "formattedSize": "979.3 KB",
     "isBroken": false
   },
   {
@@ -8993,14 +9017,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/TorraStream.cs3",
     "status": 1,
-    "version": 91,
+    "version": 92,
     "name": "TorraStream",
     "internalName": "TorraStream",
     "authors": [
       "Phisher98"
     ],
     "description": "#1 Best Extension – MultiAPI-Based with 4K Torrent Support (Debian) Use Extension Settings",
-    "fileSize": 192148,
+    "fileSize": 192127,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -9012,7 +9036,7 @@
     ],
     "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-547c85bfc6bf95052f340f1d4813d9b1dd91143350236ace590e980f276b82d3",
+    "fileHash": "sha256-e6f6a4d9910dbc4b775d7ddafb6c3a262e31942a430d853b5a41a392205450f8",
     "isAdult": false,
     "formattedSize": "187.6 KB",
     "isBroken": false
@@ -9134,22 +9158,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 124,
+    "version": 125,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34275,
+    "fileSize": 34274,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno32.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno33.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-4f558c0f1ef8c6b95637361c94d25be28fff9a54f3f9cfa7581e85f651f9ce23",
+    "fileHash": "sha256-a354df74d8a68a79e2274e310df1cd70e27e2da164cc26b82c06e17ffdf03eec",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
