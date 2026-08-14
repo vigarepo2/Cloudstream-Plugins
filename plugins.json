@@ -1563,14 +1563,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
     "status": 1,
-    "version": 19,
+    "version": 20,
     "name": "Cinemacity",
     "internalName": "Cinemacity",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-    "fileSize": 75851,
+    "fileSize": 95453,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1579,9 +1579,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-c205bcfedc91bb6124d014d418f8ad18f75354d2a38ee97ecbc866e320c1a23b",
+    "fileHash": "sha256-b996ed3ab6caf7bfeb165a8163b5184014ea4db017733877e4a1d62fac21949b",
     "isAdult": false,
-    "formattedSize": "74.1 KB",
+    "formattedSize": "93.2 KB",
     "isBroken": false
   },
   {
@@ -7153,14 +7153,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Piratexplay.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Piratexplay",
     "internalName": "Piratexplay",
     "authors": [
       "Phisher98"
     ],
     "description": "Anime/Cartoon in Hindi",
-    "fileSize": 33045,
+    "fileSize": 65121,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -7170,12 +7170,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/piratexplay.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d387a463e4cbc54e3456859a8ec8983517cdb9fd31125ecdf78c8428710dc503",
-    "jarFileSize": 132564,
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Piratexplay.jar",
-    "jarHash": "sha256-0723de828c965629a067a08b4d94c40899530da0a573d53425befd5c6065d7e8",
+    "fileHash": "sha256-28f5b8bacff77ceac00a89f9a1d02625321f7f4a2bf655619db7df96270efcf3",
     "isAdult": false,
-    "formattedSize": "32.3 KB",
+    "formattedSize": "63.6 KB",
     "isBroken": false
   },
   {
@@ -9090,22 +9087,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 71,
+    "version": 72,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19469,
+    "fileSize": 19470,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub105.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub106.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-312b85654b13bf1e9341835c4f321227686b1a04a0bc5854db3d7140c30b5d28",
+    "fileHash": "sha256-be0d6ce9ff718a537afcffe66201de14ef9a5e806b5c8217bb9976920c3d410c",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -9158,22 +9155,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 125,
+    "version": 126,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34274,
+    "fileSize": 34268,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno33.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno34.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-a354df74d8a68a79e2274e310df1cd70e27e2da164cc26b82c06e17ffdf03eec",
+    "fileHash": "sha256-e38b6e6b908d60d161d31977ab263edcede3f86d8c7adb57eaa88a258aabdf1a",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
