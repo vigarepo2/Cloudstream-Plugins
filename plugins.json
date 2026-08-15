@@ -9087,22 +9087,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 72,
+    "version": 73,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19470,
+    "fileSize": 19471,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub106.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub130.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-be0d6ce9ff718a537afcffe66201de14ef9a5e806b5c8217bb9976920c3d410c",
+    "fileHash": "sha256-2db8a3019ac452c2eeec44b6c737993d8784200ed24bee4a8658d45dcb101dd5",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -9155,22 +9155,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 126,
+    "version": 127,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34268,
+    "fileSize": 34274,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno34.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno35.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e38b6e6b908d60d161d31977ab263edcede3f86d8c7adb57eaa88a258aabdf1a",
+    "fileHash": "sha256-d41f331ffb023955446266c8dad53f4320e67a9c5c453abaaff15882077ea874",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
