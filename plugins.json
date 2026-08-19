@@ -5828,10 +5828,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProvider/icon.png",
-    "fileHash": "sha256-d55f4efa785c9646b84f989d7659feab93ecd3fabf2f144306153a930b407242",
+    "fileHash": "sha256-ad242e2a3eacf2bdda7817c00720e8cf00273068b307c9f3d54b463c878c1416",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 84109,
+    "fileSize": 84105,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5841,7 +5841,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 45,
+    "version": 46,
     "internalName": "MovieBoxProvider_2",
     "description": "Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
@@ -5852,10 +5852,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProviderIN/icon.png",
-    "fileHash": "sha256-45c7560e89b88e369e15297b3c042ea958f0acfc951ec0feef3961cafe13d1c3",
+    "fileHash": "sha256-0c0bce1ac01fd2c3a28048e8a2427bb6317ab5ed7e91d4b8d4dd03befce08ac2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 81095,
+    "fileSize": 81093,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5865,7 +5865,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 47,
+    "version": 48,
     "internalName": "MovieBoxProviderIN",
     "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
@@ -7225,10 +7225,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/PlayZTVProvider/logo.jpg",
-    "fileHash": "sha256-b3cbd1b7ea10aee472c8f88ce79987750efb36d24e8749039da06c69e07b734e",
+    "fileHash": "sha256-a66d99fab3f733bc75664bfd7f85a42d0e355828f7a79bd69bb0eb872424da69",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 91467,
+    "fileSize": 91216,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7237,13 +7237,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 33,
+    "version": 34,
     "internalName": "PlayZTVProvider",
     "description": "Watch Live TV channels & sports via PlayZTV",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PlayZTVProvider.cs3",
     "name": "PlayZTVProvider",
     "isAdult": false,
-    "formattedSize": "89.3 KB",
+    "formattedSize": "89.1 KB",
     "isBroken": false
   },
   {
@@ -8098,14 +8098,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/SimpCity.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "SimpCity",
     "internalName": "SimpCity",
     "authors": [
       "kraptor"
     ],
     "description": "SimpCity: supports photos and videos with gallery",
-    "fileSize": 85222,
+    "fileSize": 89648,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -8113,9 +8113,9 @@
     ],
     "iconUrl": "http://www.google.com/s2/favicons?domain=https://simpcity.cr/",
     "apiVersion": 1,
-    "fileHash": "sha256-7cf22b7edae4de5bbb81c80c0aad3fcab8a14a473b746caa53185aa780800516",
+    "fileHash": "sha256-31157c72379473cc903d2198b44714c6c8e71eb537aacef704cf03d8472e13fc",
     "isAdult": true,
-    "formattedSize": "83.2 KB",
+    "formattedSize": "87.5 KB",
     "isBroken": false
   },
   {
@@ -9475,10 +9475,10 @@
   },
   {
     "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
-    "fileHash": "sha256-b75af421ba3992863f5fdeaa5c46d2eac40602b5067b61e7fba618f1dabc4902",
+    "fileHash": "sha256-0ab795d24c40936d792d6b9626a25906b17fe7b59e6cceb1b9297f8f0230c475",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 36452,
+    "fileSize": 36443,
     "status": 1,
     "language": "en",
     "authors": [
