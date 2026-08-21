@@ -8265,10 +8265,10 @@
   },
   {
     "iconUrl": "https://sportzxlive.com/wp-content/uploads/2026/04/cropped-logo-1-2048x1611-1-1024x806.png",
-    "fileHash": "sha256-28290bfc3afec39a324db4de9e4c49c91d44b74665d9cf333c23f59feefa1a68",
+    "fileHash": "sha256-094a5af60e39a0c837856e92e3e1c9c74dd968cdc9bc995b853f5f588d5ab834",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 106709,
+    "fileSize": 110106,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -8277,13 +8277,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 18,
+    "version": 19,
     "internalName": "SportzxProvider",
     "description": "Watch Live Sports Events via SportzX",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SportzxProvider.cs3",
     "name": "SportzxProvider",
     "isAdult": false,
-    "formattedSize": "104.2 KB",
+    "formattedSize": "107.5 KB",
     "isBroken": false
   },
   {
