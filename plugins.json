@@ -865,7 +865,7 @@
       "Miku"
     ],
     "description": "AnimeSail — Streaming Anime, Donghua Subtitle Indonesia",
-    "fileSize": 35446,
+    "fileSize": 35701,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -875,9 +875,9 @@
     ],
     "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
     "apiVersion": 1,
-    "fileHash": "sha256-747e01c15a6e56f7c1709367541627dd33671de20b7b998b88b4a0d84dad1848",
+    "fileHash": "sha256-4d960c064e9c8b37cc151ee1dd5dabbac68e170ac93c66d577ca3d6e41d935cf",
     "isAdult": false,
-    "formattedSize": "34.6 KB",
+    "formattedSize": "34.9 KB",
     "isBroken": false
   },
   {
