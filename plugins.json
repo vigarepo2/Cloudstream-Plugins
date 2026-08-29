@@ -504,6 +504,31 @@
     "isBroken": false
   },
   {
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anilight.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Anilight",
+    "internalName": "Anilight",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Anilight Anime Provider",
+    "fileSize": 31962,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "OVA"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anilight.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-1bd5a7bd3445a1857ccdfe279a17541578c4d31f53b2f522b8132dba6aced45d",
+    "isAdult": false,
+    "formattedSize": "31.2 KB",
+    "isBroken": false
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=animasu.cc&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
@@ -2205,14 +2230,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Domlepen.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "Domlepen",
     "internalName": "Domlepen",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Porno videolarını takılma ve donma olmadan bedava, hd kalitede kesintisiz izle. Her gün eklenen en yeni, en kaliteli porno filmlerinin keyfini çıkart.",
-    "fileSize": 16556,
+    "fileSize": 16559,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -2220,7 +2245,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.creativewoodtrade.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-46935aacf6c30ee1e25dd432a970b4384c1fc9daa0e98cdfc7561ce02e1dbfe9",
+    "fileHash": "sha256-01ee44e1feb7c8d4e41d83afb62ce1d22d68e7b69b644907f4c9db92fe966f33",
     "isAdult": true,
     "formattedSize": "16.2 KB",
     "isBroken": false
@@ -2370,29 +2395,6 @@
     "name": "DramaidProvider",
     "isAdult": false,
     "formattedSize": "20.7 KB",
-    "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Dramaizle.cs3",
-    "status": 1,
-    "version": 11,
-    "name": "Dramaizle",
-    "internalName": "Dramaizle",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "Reels formatında Çin, Kore ve Japon mini dizileri! Her gün güncellenen bölümler, Türkçe altyazı seçenekleriyle seni bekliyor. Hemen izle!",
-    "fileSize": 24513,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dramaizle.net&size=16",
-    "apiVersion": 1,
-    "fileHash": "sha256-d49be5fa23d39bb22cbee355dbfbe2a824a94dd14f23edfd53c797f2f811c3c7",
-    "isAdult": false,
-    "formattedSize": "23.9 KB",
     "isBroken": false
   },
   {
@@ -2869,29 +2871,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Filmmirasım.cs3",
-    "status": 1,
-    "version": 4,
-    "name": "Filmmirasım",
-    "internalName": "Filmmirasım",
-    "authors": [
-      "byayzen"
-    ],
-    "description": "Kültür ve Turizm Bakanlığı, kültürel mirasımızın görsel belleğini oluşturan filmlerin muhafazası ve gelecek kuşaklara aktarılması amacıyla Sinema Genel Müdürlüğü bünyesinde oluşturduğu arşivdeki filmleri dijital ortama aktarmakta ve restore etmektedir. ",
-    "fileSize": 15199,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "tr",
-    "tvTypes": [
-      "Documentary"
-    ],
-    "iconUrl": "https://filmmirasim.ktb.gov.tr/favicon-r.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-68abdea39a7739549d4e8432946f07c7b9e3943554a8228476b8c2928108ea46",
-    "isAdult": false,
-    "formattedSize": "14.8 KB",
-    "isBroken": false
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmpalast.to&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
@@ -3127,30 +3106,6 @@
     "fileHash": "sha256-20d889bacdfc260f06c4aa036653b232edec463a864e1a4405901d9da572f46f",
     "isAdult": true,
     "formattedSize": "11.3 KB",
-    "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Full4kizle.cs3",
-    "status": 1,
-    "version": 20,
-    "name": "Full4kizle",
-    "internalName": "Full4kizle",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "Filmci Baba, film izleme sitesi 4k Full film izle, 1080p ve 4k (yalan) kalite de sinema filmleri ve dizileri, tek parça hd kalitede türkçe dublajlı filmler seyret.",
-    "fileSize": 23011,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "AsianDrama"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plusizle.net&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-56eaf9ee7c790d5d95dbcf5d5b990ab1714f118a4b6ef5b43b5a6156cb55f1f3",
-    "isAdult": false,
-    "formattedSize": "22.5 KB",
     "isBroken": false
   },
   {
@@ -4652,22 +4607,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/JPFilms.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "JPFilms",
     "internalName": "JPFilms",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch online The Yagyu Code: Secret Scrolls on Japanese Classic Movies and TVSeries (https://jp-films.com) with English Subtitle.",
-    "fileSize": 17281,
+    "fileSize": 17285,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
       "AsianDrama"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://jp-films.com&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kodasusaka.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-cd3ab14cc4ab717595b09e11cbc93dc3ae1683e04fb136a7a0615c5fad06f574",
+    "fileHash": "sha256-10c81032a8b8f4f2da52772f207a9ad46203024db2f6682b1a852e42096a7a79",
     "isAdult": false,
     "formattedSize": "16.9 KB",
     "isBroken": false
@@ -8313,14 +8268,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Streamed.cs3",
     "status": 1,
-    "version": 27,
+    "version": 28,
     "name": "Streamed",
     "internalName": "Streamed",
     "authors": [
       "kraptor"
     ],
     "description": "Streamed ile Canlı Spor Yayınlarını İzleyebilirsiniz.",
-    "fileSize": 32077,
+    "fileSize": 33098,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -8328,9 +8283,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d18942e5cf2402660d89ed9636d6e483fe057ed4eb86a4c005d69fb176acec84",
+    "fileHash": "sha256-8c4b286dd43e077d8d820779c0dd100d32e768e1637c3ee5e13d860f9a84dcab",
     "isAdult": false,
-    "formattedSize": "31.3 KB",
+    "formattedSize": "32.3 KB",
     "isBroken": false
   },
   {
@@ -9111,22 +9066,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 75,
+    "version": 76,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19468,
+    "fileSize": 19469,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub132.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub133.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-98fb428167ab42a15fa5f34d3b8d4656008f5f64d4187ef3e3ce5ce61877ed21",
+    "fileHash": "sha256-b5a0f78b098f6ca236c17a88620ff7e9d9558318180a78b5ce1ecafc50516c92",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -9179,22 +9134,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 129,
+    "version": 130,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34273,
+    "fileSize": 34271,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno37.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno38.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e76a9fec49395854fd6accd684abbc1f5c744e07feed0e820996fca9b36b4e61",
+    "fileHash": "sha256-5df137021ea13c3553f4bfc3f33c99022c0fe6b3610be44dd3ee2c146e42dc0e",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
