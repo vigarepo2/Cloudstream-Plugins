@@ -1666,7 +1666,7 @@
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 731446,
+    "fileSize": 716815,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1678,9 +1678,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0bae959eca25630f9c738c4286c8bd82d010def0d9b2af8a88180184fcb56893",
+    "fileHash": "sha256-94685cb5238277b0086701f9c7fe0512ee742a0127c161e3fe73e15470a8a232",
     "isAdult": false,
-    "formattedSize": "714.3 KB",
+    "formattedSize": "700 KB",
     "isBroken": false
   },
   {
@@ -3228,29 +3228,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/GDIndex.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "GDIndex",
-    "internalName": "GDIndex",
-    "authors": [
-      "Horis"
-    ],
-    "fileSize": 18257,
-    "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "language": "en",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/GDIndex/icon.ico",
-    "apiVersion": 1,
-    "fileHash": "sha256-d6c6b8e49b1f98552fa81615c0a57218e2602eb52c261871e3290bb3d73e1c29",
-    "isAdult": false,
-    "formattedSize": "17.8 KB",
-    "isBroken": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Girlsswallowed.cs3",
     "status": 1,
     "version": 1,
@@ -3583,14 +3560,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hdmovie2.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Hdmovie2",
     "internalName": "Hdmovie2",
     "authors": [
       "Phisher98"
     ],
     "description": "Hdmovie2",
-    "fileSize": 42525,
+    "fileSize": 42972,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -3599,12 +3576,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/hdmovie2.png",
     "apiVersion": 1,
-    "fileHash": "sha256-349e48475c5e0530d86b17ba4451d45d5638bac5bee2a41b847580d2d27fc976",
-    "jarFileSize": 179320,
+    "fileHash": "sha256-ffafeebb74fdbd9e4412dc02d9f158ff628862994bbf98eddaba1d1fa55a82ae",
+    "jarFileSize": 180975,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hdmovie2.jar",
-    "jarHash": "sha256-2be6c622ba37adb24314d401e5dc9a62200f87eae8166d84d369324689e6b60e",
+    "jarHash": "sha256-06f62ac447fb3c0facb8e4ecccaa9e0adbbcfc215f75e2b692afbcf936ff3c5e",
     "isAdult": false,
-    "formattedSize": "41.5 KB",
+    "formattedSize": "42 KB",
     "isBroken": false
   },
   {
@@ -6611,30 +6588,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/OnlineMoviesHinditProvider.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "OnlineMoviesHinditProvider",
-    "internalName": "OnlineMoviesHinditProvider",
-    "authors": [
-      "megix"
-    ],
-    "description": "Use VPN",
-    "fileSize": 11950,
-    "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "language": "hi",
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/OnlineMoviesHinditProvider/icon.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-577919ca8bbf01ded9e9299851431447c5964e979a9c4eb73ffd82ca8733ae2d",
-    "isAdult": false,
-    "formattedSize": "11.7 KB",
-    "isBroken": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Onlyjerk.cs3",
     "status": 1,
     "version": 10,
@@ -6893,26 +6846,26 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pencurimovie.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Pencurimovie",
     "internalName": "Pencurimovie",
     "authors": [
       "Phisher98"
     ],
     "description": "Pencurimovie ",
-    "fileSize": 13757,
+    "fileSize": 13755,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "id",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww21.pencurimovie.sbs&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-498530d105363370af597871998336801770dfd6cd3f513382754a5342be648c",
-    "jarFileSize": 53324,
+    "fileHash": "sha256-ce94a7d34b4520fb36e0fdace9014408990b8b0c97a87afdc23241fc0b2bc1f4",
+    "jarFileSize": 53313,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pencurimovie.jar",
-    "jarHash": "sha256-cc160de42b72e6587c2da8885bd8fd9cd56dd1d34689ea6ab9694cddc718b745",
+    "jarHash": "sha256-7ff0d13104223e31554d3d4b3a2885e02d983b6d532cf6eb4b636914e00cb78a",
     "isAdult": false,
     "formattedSize": "13.4 KB",
     "isBroken": false
@@ -8324,7 +8277,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1020168,
+    "fileSize": 1020707,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8337,9 +8290,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-98f5bfae9c689d425b1e59f88cc841d30bb9ee3d2a2a9cb65c564bdb2c7008fd",
+    "fileHash": "sha256-2862fae1c1ad59284965b8b975d1e488c7d52f52cb1762344de5d66d25583fce",
     "isAdult": false,
-    "formattedSize": "996.3 KB",
+    "formattedSize": "996.8 KB",
     "isBroken": false
   },
   {
