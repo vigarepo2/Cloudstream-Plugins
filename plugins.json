@@ -958,14 +958,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.cs3",
     "status": 1,
-    "version": 11,
+    "version": 13,
     "name": "Animexin",
     "internalName": "Animexin",
     "authors": [
       "Phisher98"
     ],
     "description": "Anime and Movies",
-    "fileSize": 14993,
+    "fileSize": 42827,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -975,12 +975,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animexin.dev&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-89ce4d0cd6bb2e31e73b54bcb879fca0746418c50f708e47b6f1de0dc60ffe63",
-    "jarFileSize": 60540,
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.jar",
-    "jarHash": "sha256-fbfb17c34938bc002c1cf3aabefca78ca65ac1a095288ae6a93f37d5b6db8b99",
+    "fileHash": "sha256-368b952b05b60756fd1176523027398d8caa050921c58a5e4b5dcd59b24833b1",
     "isAdult": false,
-    "formattedSize": "14.6 KB",
+    "formattedSize": "41.8 KB",
     "isBroken": false
   },
   {
@@ -1134,14 +1131,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anizone.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "Anizone",
     "internalName": "Anizone",
     "authors": [
       "ycngmn"
     ],
     "description": "Anizone.to streams latest anime content in multiple language.",
-    "fileSize": 27568,
+    "fileSize": 25850,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1149,9 +1146,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/icons/anizone.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3c5303d8f3708fe72b2447d44e523ac12e9ad312e6d384b40b3b64ddc81508ec",
+    "fileHash": "sha256-4f8705c8acdaf5b7975327020c70865512778109ce8087998df1bba83d482fe9",
     "isAdult": false,
-    "formattedSize": "26.9 KB",
+    "formattedSize": "25.2 KB",
     "isBroken": false
   },
   {
@@ -1659,14 +1656,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 481,
+    "version": 483,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 716815,
+    "fileSize": 730242,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1678,9 +1675,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-94685cb5238277b0086701f9c7fe0512ee742a0127c161e3fe73e15470a8a232",
+    "fileHash": "sha256-cc95a8f184fce6fe3904742a703cbcb72ecd7b4a44ca957117c4097d0811f44d",
     "isAdult": false,
-    "formattedSize": "700 KB",
+    "formattedSize": "713.1 KB",
     "isBroken": false
   },
   {
@@ -4680,13 +4677,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kickassanime.cs3",
     "status": 1,
-    "version": 24,
+    "version": 25,
     "name": "Kickassanime",
     "internalName": "Kickassanime",
     "authors": [
       "Phisher98,Hexated"
     ],
-    "fileSize": 56163,
+    "fileSize": 59945,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -4696,12 +4693,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/KAA.png",
     "apiVersion": 1,
-    "fileHash": "sha256-94acac0d8673f6a4e8df8a1c49effaf98b58bcdeb00c52c2e07fc6ad0f206c49",
-    "jarFileSize": 262968,
+    "fileHash": "sha256-e4c484041f02fd723a8424454c79ea4fb9710de080f87017e2866ecfca50b439",
+    "jarFileSize": 275206,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kickassanime.jar",
-    "jarHash": "sha256-a3a809a77775c37154df91b234c2b726f27d40af80395c9a3414402ae985dcee",
+    "jarHash": "sha256-aa3ff2130f57ee2a625eea0699210564807e8eebb1aa8bce37e65421cc59df29",
     "isAdult": false,
-    "formattedSize": "54.8 KB",
+    "formattedSize": "58.5 KB",
     "isBroken": false
   },
   {
@@ -7159,10 +7156,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/PlayZTVProvider/logo.jpg",
-    "fileHash": "sha256-a66d99fab3f733bc75664bfd7f85a42d0e355828f7a79bd69bb0eb872424da69",
+    "fileHash": "sha256-80e4656cdab5f70f4384adef3a46f9cd1f0e37755c577faa348dd5cba6ad8c90",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 91216,
+    "fileSize": 97677,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -7171,13 +7168,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 34,
+    "version": 35,
     "internalName": "PlayZTVProvider",
     "description": "Watch Live TV channels & sports via PlayZTV",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PlayZTVProvider.cs3",
     "name": "PlayZTVProvider",
     "isAdult": false,
-    "formattedSize": "89.1 KB",
+    "formattedSize": "95.4 KB",
     "isBroken": false
   },
   {
