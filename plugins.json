@@ -883,14 +883,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animesalt.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "Animesalt",
     "internalName": "Animesalt",
     "authors": [
       "Phisher98"
     ],
     "description": "Anime/Cartoon in Hindi",
-    "fileSize": 41254,
+    "fileSize": 41222,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -900,10 +900,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animesalt.ac&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-735c1730814a16fb6f65a37d03db4f7e6995124ccab9337cc44157ccda1bbe49",
-    "jarFileSize": 172668,
+    "fileHash": "sha256-df1ef3fdb23f5a3888cbb8ed54ba51bcf6390f60277646affbe62d59ab5341ed",
+    "jarFileSize": 172666,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animesalt.jar",
-    "jarHash": "sha256-aca415157cf446d6c4fe04544fb5e705d69e0c4c343086f89bd61f86bda2ad48",
+    "jarHash": "sha256-617a0c71fc5ec102480e5a7fb73e183f065d8b8e1d65f26ce7cfba52288d7284",
     "isAdult": false,
     "formattedSize": "40.3 KB",
     "isBroken": false
@@ -2797,7 +2797,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/FamilyPorn.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "FamilyPorn",
     "internalName": "FamilyPorn",
     "authors": [
@@ -2805,7 +2805,7 @@
       "kerimmkirac"
     ],
     "description": "FamilyPornHD It's a natural mix of the neighborhood stepmoms, older stepdads, barely legal stepsisters, and even the college going stepbrother falling into some serious family fun.",
-    "fileSize": 20971,
+    "fileSize": 21051,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -2813,9 +2813,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=familypornhd.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-7cb04c3aeae6de5c1b14d2d6dc961ccc35b5339ac70c38d0d38197ab28e7d817",
+    "fileHash": "sha256-7a169df01445aef230f41da32e0ba509eacc78e393e340f122d8cfab7e602592",
     "isAdult": true,
-    "formattedSize": "20.5 KB",
+    "formattedSize": "20.6 KB",
     "isBroken": false
   },
   {
@@ -3154,7 +3154,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FullRaces.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "FullRaces",
     "internalName": "FullRaces",
     "authors": [
@@ -3162,7 +3162,7 @@
       "kerimmkirac"
     ],
     "description": "Formula 1 is one of the most popular and dramatic sports in the world. You can watch Formula One races replays videos online and enjoy every moment of this exciting sports event. We offer to watch F1 Full Races replays FREE in HD",
-    "fileSize": 33798,
+    "fileSize": 34037,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -3170,9 +3170,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullraces.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-b139cb370328df95ff860c30d18503dd4d3f4728226413e50d51030d5b0a5c39",
+    "fileHash": "sha256-2f4adffc73587d42e5c65c5575948b5c3a4b28ef93b8624d432f448f0c7386df",
     "isAdult": false,
-    "formattedSize": "33 KB",
+    "formattedSize": "33.2 KB",
     "isBroken": false
   },
   {
@@ -8266,7 +8266,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 661,
+    "version": 662,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8274,7 +8274,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1020707,
+    "fileSize": 1021429,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8287,9 +8287,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-2862fae1c1ad59284965b8b975d1e488c7d52f52cb1762344de5d66d25583fce",
+    "fileHash": "sha256-8d730150de33e906799ae04fc4127914de0b0ee7dac7b8d783e6cd775588500f",
     "isAdult": false,
-    "formattedSize": "996.8 KB",
+    "formattedSize": "997.5 KB",
     "isBroken": false
   },
   {
@@ -9016,22 +9016,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 76,
+    "version": 77,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19469,
+    "fileSize": 19467,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub133.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub134.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b5a0f78b098f6ca236c17a88620ff7e9d9558318180a78b5ce1ecafc50516c92",
+    "fileHash": "sha256-16057a765dc4a36c45fdd5f1e3064081c3159570cdb7b4b34a4251edaeaed0b0",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -9084,7 +9084,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 130,
+    "version": 131,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
@@ -9097,9 +9097,9 @@
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno38.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno39.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-5df137021ea13c3553f4bfc3f33c99022c0fe6b3610be44dd3ee2c146e42dc0e",
+    "fileHash": "sha256-e4f34db8a79f761e80f46d5e5f837a9e36108bf4cf103a71f670efb5ad05d6d2",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
