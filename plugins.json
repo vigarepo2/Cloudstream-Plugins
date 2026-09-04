@@ -3154,7 +3154,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FullRaces.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "FullRaces",
     "internalName": "FullRaces",
     "authors": [
@@ -3162,7 +3162,7 @@
       "kerimmkirac"
     ],
     "description": "Formula 1 is one of the most popular and dramatic sports in the world. You can watch Formula One races replays videos online and enjoy every moment of this exciting sports event. We offer to watch F1 Full Races replays FREE in HD",
-    "fileSize": 34037,
+    "fileSize": 34030,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -3170,7 +3170,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullraces.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-2f4adffc73587d42e5c65c5575948b5c3a4b28ef93b8624d432f448f0c7386df",
+    "fileHash": "sha256-d1282bc383a08689af87b75b569f74071ea2bc68662d19fc4dccb74bdb808d1b",
     "isAdult": false,
     "formattedSize": "33.2 KB",
     "isBroken": false
@@ -3533,13 +3533,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
     "status": 1,
-    "version": 51,
+    "version": 52,
     "name": "HDhub4u",
     "internalName": "HDhub4u",
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 79824,
+    "fileSize": 79859,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -3549,7 +3549,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0af4ef03c2b6cf25f4d803987b08becaca18cdc1118fad2948306cdee033d546",
+    "fileHash": "sha256-50d0828d50fb33aece00ce9224ca81a29b21bbbeefc0202c8f8fba2020ac9824",
     "isAdult": false,
     "formattedSize": "78 KB",
     "isBroken": false
@@ -6489,14 +6489,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/OK.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "OK",
     "internalName": "OK",
     "authors": [
       "ByAyzen"
     ],
     "description": "OKRU Videos.",
-    "fileSize": 25762,
+    "fileSize": 33919,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "ru",
     "tvTypes": [
@@ -6505,9 +6505,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ok.ru/video/c12842395&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-2e2296ca953ef1529c7042483f1e142e006f8be2a0a0d978b58c657a3c68ca22",
+    "fileHash": "sha256-7a30fdc4e39e484a21c192e8019ac9045503d047548bf5a4e1ed7bf3728cd8de",
     "isAdult": false,
-    "formattedSize": "25.2 KB",
+    "formattedSize": "33.1 KB",
     "isBroken": false
   },
   {
@@ -9016,22 +9016,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 78,
+    "version": 79,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19468,
+    "fileSize": 19467,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub135.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub136.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-32774ee9fd0094281c4c7ce7d27a444ad1c69628b196c6ef6ac60b7fef13a719",
+    "fileHash": "sha256-8a09814378c434c5bd8407008eaed1ba62254de96f984b97cf1db3d355c734fe",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -9084,22 +9084,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 132,
+    "version": 133,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34274,
+    "fileSize": 34272,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno40.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno41.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e72d45c70fd57aecff5f477fe36d3b70b65eb330e65dc218346ab2d38a6a55e3",
+    "fileHash": "sha256-9ef03501f55ba91d8313f003ea90142bbce6baca1d3848c6f69a142f816413d0",
     "isAdult": true,
     "formattedSize": "33.5 KB",
     "isBroken": false
