@@ -810,14 +810,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.cs3",
     "status": 1,
-    "version": 34,
+    "version": 36,
     "name": "AnimePahe",
     "internalName": "AnimePahe",
     "authors": [
       "Cloudburst,Lorem Ipsum,Phisher98"
     ],
     "description": "Animes (SUB/DUB)",
-    "fileSize": 80124,
+    "fileSize": 81187,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -827,9 +827,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-296fa807b5ecc16e6373e12de9d0eacd47dd6582e0ba3cfa826e30d1a0d373fe",
+    "fileHash": "sha256-38680cb66778ce1b0b69cfd5be4e7c76499797fc1b156a79bbb8e7d33d21836d",
     "isAdult": false,
-    "formattedSize": "78.2 KB",
+    "formattedSize": "79.3 KB",
     "isBroken": false
   },
   {
@@ -1008,14 +1008,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "AnimeYTX",
     "internalName": "AnimeYTX",
     "authors": [
       "ByAyzen"
     ],
     "description": "Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
-    "fileSize": 39103,
+    "fileSize": 44138,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -1023,9 +1023,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ffa6f188d9900efd86ce4e212369600d05cd783ff100425c284a3bb426c13395",
+    "fileHash": "sha256-fb045c98eeb0eec1380317ca9d3bbdd6226a21dddaa123634edf7f11156ec959",
     "isAdult": false,
-    "formattedSize": "38.2 KB",
+    "formattedSize": "43.1 KB",
     "isBroken": false
   },
   {
@@ -1656,14 +1656,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 484,
+    "version": 486,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 684467,
+    "fileSize": 696484,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1675,9 +1675,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-fac628c4d8f6c25a928638264fd7347cbabf8e28e8e0f4b84b194eb3c06b951a",
+    "fileHash": "sha256-e63d24d8a0d24ed164fa15b5236078cd09d54301a3cba7b7d35ce24225d05905",
     "isAdult": false,
-    "formattedSize": "668.4 KB",
+    "formattedSize": "680.2 KB",
     "isBroken": false
   },
   {
@@ -2227,14 +2227,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Domlepen.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "Domlepen",
     "internalName": "Domlepen",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Porno videolarını takılma ve donma olmadan bedava, hd kalitede kesintisiz izle. Her gün eklenen en yeni, en kaliteli porno filmlerinin keyfini çıkart.",
-    "fileSize": 16559,
+    "fileSize": 16550,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -2242,7 +2242,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.creativewoodtrade.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-01ee44e1feb7c8d4e41d83afb62ce1d22d68e7b69b644907f4c9db92fe966f33",
+    "fileHash": "sha256-7778c6278f696bb8b2a0e5d939aaf1b0a8534f5e64c51103f8a4abc062fb8777",
     "isAdult": true,
     "formattedSize": "16.2 KB",
     "isBroken": false
@@ -4224,14 +4224,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IStreamFlare.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "IStreamFlare",
     "internalName": "IStreamFlare",
     "authors": [
       "Phisher98"
     ],
     "description": "Movies/Series/Anime",
-    "fileSize": 48783,
+    "fileSize": 50212,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -4244,9 +4244,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/streamflare.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6a430ca6345604ccdce9a140e724f427f2618f6d3be11aff82d97fa7e0b44812",
+    "fileHash": "sha256-7a1d85e93eb10d69cc3d7434874cac64890f0fedef5b6d04cadaadebfee5e702",
     "isAdult": false,
-    "formattedSize": "47.6 KB",
+    "formattedSize": "49 KB",
     "isBroken": false
   },
   {
@@ -5737,14 +5737,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
     "status": 1,
-    "version": 26,
+    "version": 27,
     "name": "MovieBoxProvider",
     "internalName": "MovieBoxProvider",
     "authors": [
       "NivinCNC,Phisher98"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 72427,
+    "fileSize": 75841,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -5753,17 +5753,17 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9",
+    "fileHash": "sha256-c7be20e879907b8fb926f2d1ca82981e3198da0b80cb9c7e4822c62c8549b8ac",
     "isAdult": false,
-    "formattedSize": "70.7 KB",
+    "formattedSize": "74.1 KB",
     "isBroken": false
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProvider/icon.png",
-    "fileHash": "sha256-ad242e2a3eacf2bdda7817c00720e8cf00273068b307c9f3d54b463c878c1416",
+    "fileHash": "sha256-5ddbfba13f10d1bb92df74d475c6c04a7c11dc108a91d72230a33aa71352b98c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 84105,
+    "fileSize": 82602,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5773,21 +5773,21 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 46,
+    "version": 47,
     "internalName": "MovieBoxProvider_2",
     "description": "Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
     "name": "MovieBoxProvider (2)",
     "isAdult": false,
-    "formattedSize": "82.1 KB",
+    "formattedSize": "80.7 KB",
     "isBroken": false
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProviderIN/icon.png",
-    "fileHash": "sha256-0c0bce1ac01fd2c3a28048e8a2427bb6317ab5ed7e91d4b8d4dd03befce08ac2",
+    "fileHash": "sha256-d27ad09e5d22ab02fa61b88ec974ac957fb8164ac8e5126d4effc4f44817645c",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 81093,
+    "fileSize": 80505,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5797,13 +5797,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 48,
+    "version": 49,
     "internalName": "MovieBoxProviderIN",
     "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
     "name": "MovieBoxProviderIN",
     "isAdult": false,
-    "formattedSize": "79.2 KB",
+    "formattedSize": "78.6 KB",
     "isBroken": false
   },
   {
@@ -6081,6 +6081,29 @@
     "jarHash": "sha256-d683d219944df55a04e7e88438e5e79cf6993611b0db21657bf7975be7439fa0",
     "isAdult": false,
     "formattedSize": "44.9 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Nekokun.cs3",
+    "status": 1,
+    "version": 4,
+    "name": "Nekokun",
+    "internalName": "Nekokun",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "Nekokun adalah tempat nonton dan streaming animu favoritmu! Di sini tersedia berbagai resolusi untuk kalian download mulai dari 480p, 720p, dan 1080p. Selain bisa download kalian juga langsung bisa streaming dengan lancar dan tanpa lag!",
+    "fileSize": 25417,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "language": "id",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nekokun.my.id&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-e27f007a1c32cfd3c1851a9c40e5411dafa0363fe3443acd4f643f689be81457",
+    "isAdult": false,
+    "formattedSize": "24.8 KB",
     "isBroken": false
   },
   {
@@ -6489,14 +6512,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/OK.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "OK",
     "internalName": "OK",
     "authors": [
       "ByAyzen"
     ],
     "description": "OKRU Videos.",
-    "fileSize": 33919,
+    "fileSize": 33194,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "ru",
     "tvTypes": [
@@ -6505,9 +6528,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ok.ru/video/c12842395&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-7a30fdc4e39e484a21c192e8019ac9045503d047548bf5a4e1ed7bf3728cd8de",
+    "fileHash": "sha256-858d1d49702ff47ec597ad99b6764e62e99bb6f45913108df7fb02d27e2a1148",
     "isAdult": false,
-    "formattedSize": "33.1 KB",
+    "formattedSize": "32.4 KB",
     "isBroken": false
   },
   {
@@ -8266,7 +8289,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 662,
+    "version": 663,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8274,7 +8297,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1021429,
+    "fileSize": 1051619,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8287,9 +8310,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-8d730150de33e906799ae04fc4127914de0b0ee7dac7b8d783e6cd775588500f",
+    "fileHash": "sha256-43f7c44f3d556d29bc0313233759fe36d3464246ba852d4585568b533410687d",
     "isAdult": false,
-    "formattedSize": "997.5 KB",
+    "formattedSize": "1 MB",
     "isBroken": false
   },
   {
