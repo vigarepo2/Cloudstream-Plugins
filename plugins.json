@@ -402,13 +402,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anikage.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "Anikage",
     "internalName": "Anikage",
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 66514,
+    "fileSize": 66396,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -418,9 +418,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=https://anikage.cc/",
     "apiVersion": 1,
-    "fileHash": "sha256-e5c30be302a8a276156428d2b6e3ef9cf6742290b96655659864e62e31756212",
+    "fileHash": "sha256-0850e18eb338076d2d143e65da1cc93b621801349204761b4b3197911fe7db81",
     "isAdult": false,
-    "formattedSize": "65 KB",
+    "formattedSize": "64.8 KB",
     "isBroken": false
   },
   {
@@ -1575,14 +1575,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Chikianimation.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Chikianimation",
     "internalName": "Chikianimation",
     "authors": [
       "Phisher98"
     ],
     "description": "English anime and donghua from chikianimation.com",
-    "fileSize": 79526,
+    "fileSize": 87507,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "zh",
     "tvTypes": [
@@ -1591,9 +1591,9 @@
     ],
     "iconUrl": "https://chikianimation.com/wp-content/uploads/2026/03/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-13cb6f53e49842a70abd7561d5e782b36e89812e2874f7d8dc8cd94d4e867fec",
+    "fileHash": "sha256-d899af0353f083f9854be83d439263a08143a272973a34d9b3a919378a2a1c04",
     "isAdult": false,
-    "formattedSize": "77.7 KB",
+    "formattedSize": "85.5 KB",
     "isBroken": false
   },
   {
@@ -1695,14 +1695,14 @@
   {
     "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
     "status": 1,
-    "version": 486,
+    "version": 487,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
     ],
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "fileSize": 698468,
+    "fileSize": 695013,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
     "language": "en",
     "tvTypes": [
@@ -1714,9 +1714,9 @@
     ],
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d5c653a27879f5b947465a53b202fd18d8506849b7c1113a7314936e15c9d6aa",
+    "fileHash": "sha256-30dc643628702d6b2fe139339e59996783c95a0c1d41efe0a31872ae4d10908b",
     "isAdult": false,
-    "formattedSize": "682.1 KB",
+    "formattedSize": "678.7 KB",
     "isBroken": false
   },
   {
@@ -4252,14 +4252,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IStreamFlare.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "IStreamFlare",
     "internalName": "IStreamFlare",
     "authors": [
       "Phisher98"
     ],
     "description": "Movies/Series/Anime",
-    "fileSize": 84641,
+    "fileSize": 92462,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -4272,9 +4272,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/streamflare.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e9de127a5860424af713e7805f603cfbb89ba89e36438acc1cc433588b382117",
+    "fileHash": "sha256-477a1ba8e5adfb0e1f64e5cd2099bd8b278c530e7cfc1ac8f478930c9f79de8f",
     "isAdult": false,
-    "formattedSize": "82.7 KB",
+    "formattedSize": "90.3 KB",
     "isBroken": false
   },
   {
