@@ -1005,14 +1005,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "AnimeYTX",
     "internalName": "AnimeYTX",
     "authors": [
       "ByAyzen"
     ],
     "description": "Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
-    "fileSize": 44160,
+    "fileSize": 52269,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -1020,9 +1020,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-111b67b7f8163644234fcab7103f334fa5d9eb3228003cb90630f929a79a3ef7",
+    "fileHash": "sha256-f912ec57c85b928ddd6a9626bb4fedeb82e3ab76f71b5b3c17dcc925d8ded227",
     "isAdult": false,
-    "formattedSize": "43.1 KB",
+    "formattedSize": "51 KB",
     "isBroken": false
   },
   {
@@ -2237,14 +2237,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Domlepen.cs3",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "Domlepen",
     "internalName": "Domlepen",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Porno videolarını takılma ve donma olmadan bedava, hd kalitede kesintisiz izle. Her gün eklenen en yeni, en kaliteli porno filmlerinin keyfini çıkart.",
-    "fileSize": 16505,
+    "fileSize": 16502,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -2252,7 +2252,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.creativewoodtrade.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-aadbf67a8e431e953d18f96a870ebbbcde25ab9aeefc608abce11c0527d09c53",
+    "fileHash": "sha256-513c3da7ed2b89d62d24b271a9ba1f09e24a8f33c9366c2117a4d20eb55ceeac",
     "isAdult": true,
     "formattedSize": "16.1 KB",
     "isBroken": false
@@ -2340,7 +2340,7 @@
       "ByAyzen"
     ],
     "description": "Doramas en Audio Español Latino y Subtitulado.",
-    "fileSize": 30455,
+    "fileSize": 30684,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -2348,9 +2348,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramaslatinox.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d91e82e60f2f1d93f97d2bfda2271a4c1175940d2d8fb640f54f130396e2b61b",
+    "fileHash": "sha256-432f079bfa4b9efe2812084e43667a80f9fcf8adc5b1dff267b04a4f31bf6d44",
     "isAdult": false,
-    "formattedSize": "29.7 KB",
+    "formattedSize": "30 KB",
     "isBroken": false
   },
   {
@@ -2776,29 +2776,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/F1FullRaces.cs3",
-    "status": 1,
-    "version": 10,
-    "name": "F1FullRaces",
-    "internalName": "F1FullRaces",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "F1FullRaces",
-    "fileSize": 25608,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "en",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://i.imgur.com/CcDyv7Z.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-60c6d9e12f52a852887e88530098cf6f7c7061480d3ea571dace17da4e2d1f9f",
-    "isAdult": false,
-    "formattedSize": "25 KB",
-    "isBroken": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/FamilyPorn.cs3",
     "status": 1,
     "version": 9,
@@ -3172,7 +3149,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FullRaces.cs3",
     "status": 1,
-    "version": 11,
+    "version": 13,
     "name": "FullRaces",
     "internalName": "FullRaces",
     "authors": [
@@ -3180,17 +3157,18 @@
       "kerimmkirac"
     ],
     "description": "Formula 1 is one of the most popular and dramatic sports in the world. You can watch Formula One races replays videos online and enjoy every moment of this exciting sports event. We offer to watch F1 Full Races replays FREE in HD",
-    "fileSize": 42704,
+    "fileSize": 42757,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
-      "Movie"
+      "Live",
+      "Others"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullraces.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-31b09e183787b8b34dbdf2c73519539eef5b4411cd587fa6698ad68562fd566d",
+    "fileHash": "sha256-dfd6ce5f70d3a26c1a12e05939ecbc289edec285fc873374a66606ed806650db",
     "isAdult": false,
-    "formattedSize": "41.7 KB",
+    "formattedSize": "41.8 KB",
     "isBroken": false
   },
   {
@@ -3268,14 +3246,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Gnulahd.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "Gnulahd",
     "internalName": "Gnulahd",
     "authors": [
       "ByAyzen"
     ],
     "description": "GnulaHD",
-    "fileSize": 33309,
+    "fileSize": 37159,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -3285,9 +3263,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww3.gnulahd.nu/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-1990284f109d284242542dd7c80f18ad3078d4b5d31f8356e5d8410cb69aea99",
+    "fileHash": "sha256-a8be877d161ef649cc7ba25c70beb0c0dcbe1786d491889f8e6b883eb23f622f",
     "isAdult": false,
-    "formattedSize": "32.5 KB",
+    "formattedSize": "36.3 KB",
     "isBroken": false
   },
   {
@@ -4750,7 +4728,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/KissKH.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "KissKH",
     "internalName": "KissKH",
     "authors": [
@@ -4758,7 +4736,7 @@
       "ByAyzen"
     ],
     "description": "Watch drama online in high quality. Free download high quality drama. Various formats from 240p to 720p HD (or even 1080p). Feel Free To Watch!",
-    "fileSize": 40074,
+    "fileSize": 40566,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -4766,9 +4744,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kisskh.id/&size=256",
     "apiVersion": 1,
-    "fileHash": "sha256-d3350a99347d8eaf32c453130e5f900143ae5ade9b5731edbbdc5719a6b2fcec",
+    "fileHash": "sha256-8b34a684dfdec534d2bfca1a747ac3babdeeda183cdadbde49e67e62244da7c7",
     "isAdult": false,
-    "formattedSize": "39.1 KB",
+    "formattedSize": "39.6 KB",
     "isBroken": false
   },
   {
@@ -5131,7 +5109,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/LayarKaca.cs3",
     "status": 1,
-    "version": 14,
+    "version": 15,
     "name": "LayarKaca",
     "internalName": "LayarKaca",
     "authors": [
@@ -5140,7 +5118,7 @@
       "Hexated"
     ],
     "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
-    "fileSize": 35722,
+    "fileSize": 35953,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "id",
     "tvTypes": [
@@ -5149,9 +5127,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv12.lk21official.cc&size=256",
     "apiVersion": 1,
-    "fileHash": "sha256-b12c84577e673af0870a4bd3133f4cb63b0563935ca468eeb3df2d9da343ec10",
+    "fileHash": "sha256-2cd1759976cceacf73766fce19c3f9e3a6b977b0bbf5e892c137f92c3f6f91b9",
     "isAdult": false,
-    "formattedSize": "34.9 KB",
+    "formattedSize": "35.1 KB",
     "isBroken": false
   },
   {
@@ -5965,14 +5943,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 29,
+    "version": 31,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 150993,
+    "fileSize": 171190,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5982,9 +5960,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.fun/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b7afc32cad4be7c47a63e31e355327d81cf8859e02aede9aa88f65e77014c85e",
+    "fileHash": "sha256-58e02ed47a33521752195f95fd7a0a7accde30c851c4e55e326e660d33f4a642",
     "isAdult": false,
-    "formattedSize": "147.5 KB",
+    "formattedSize": "167.2 KB",
     "isBroken": false
   },
   {
