@@ -71,14 +71,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/AdultDeepFakes.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "AdultDeepFakes",
     "internalName": "AdultDeepFakes",
     "authors": [
       "kraptor"
     ],
     "description": "!Fake Videos! We are the best source of deepfake porn videos. We have the largest collection of celebrity porn deepfakes, featuring celebrities, youtubers, kpop singers, etc.",
-    "fileSize": 18220,
+    "fileSize": 30830,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -86,9 +86,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://adultdeepfakes.com",
     "apiVersion": 1,
-    "fileHash": "sha256-e5d7c3ebbebdf595bb04faa0285456048892ab0f09ecacd798eb8fc6911caccc",
+    "fileHash": "sha256-7ad2a06fe2a3c0a2a13e1d140740cb3ba17ac90c82e436a1dd25058098edf841",
     "isAdult": true,
-    "formattedSize": "17.8 KB",
+    "formattedSize": "30.1 KB",
     "isBroken": false
   },
   {
@@ -140,14 +140,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/AllClassicPorn.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "AllClassicPorn",
     "internalName": "AllClassicPorn",
     "authors": [
       "kraptor"
     ],
     "description": "Exclusive downloadable retro porn videos on AllClassic.porn. Full movies and best hardcore compilations from the old days. Hottest pornstars and antique homemade porn from all over the world.",
-    "fileSize": 18889,
+    "fileSize": 31413,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -155,9 +155,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://allclassic.porn&size=48",
     "apiVersion": 1,
-    "fileHash": "sha256-2300893c3d1b4598685f9d708ec74e95686fc4b13133fdce2bb9018852eb48d1",
+    "fileHash": "sha256-5dbb49f23eadd7cfca081740de2420a3058588cadb2687492816adb4817d9d19",
     "isAdult": true,
-    "formattedSize": "18.4 KB",
+    "formattedSize": "30.7 KB",
     "isBroken": false
   },
   {
@@ -257,14 +257,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/AlqanimeProvider.cs3",
     "status": 1,
-    "version": 1,
+    "version": 5,
     "name": "AlqanimeProvider",
     "internalName": "AlqanimeProvider",
     "authors": [
       "Miku"
     ],
     "description": "Alqanime — Streaming Anime, Donghua Subtitle Indonesia",
-    "fileSize": 72056,
+    "fileSize": 91125,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -274,9 +274,9 @@
     ],
     "iconUrl": "https://cloudstream.zvlz.my.id/icon/alqanime.png",
     "apiVersion": 1,
-    "fileHash": "sha256-45151087653d2a071c82409e64d3f5de1f4a70c2c72abdd0ae4fabc4bca69546",
+    "fileHash": "sha256-3b0d1b23545f0c219a3afa512d6f655e0984e4fe617002c300217eacf43823be",
     "isAdult": false,
-    "formattedSize": "70.4 KB",
+    "formattedSize": "89 KB",
     "isBroken": false
   },
   {
@@ -330,14 +330,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/AnichinProvider.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "AnichinProvider",
     "internalName": "AnichinProvider",
     "authors": [
       "Miku"
     ],
     "description": "Anichin — Streaming Donghua Subtitle Indonesia",
-    "fileSize": 34703,
+    "fileSize": 57844,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -347,9 +347,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-a75958e7b626c3bf24024fae30ed303923b91480a663e175656ad700bb084a16",
+    "fileHash": "sha256-cf99a6fbe9752b8fac59847ff6f9d7264e59651390144c9d4e027ba7b37301cd",
     "isAdult": false,
-    "formattedSize": "33.9 KB",
+    "formattedSize": "56.5 KB",
     "isBroken": false
   },
   {
@@ -859,14 +859,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/AnimeSailProvider.cs3",
     "status": 1,
-    "version": 6,
+    "version": 10,
     "name": "AnimeSailProvider (2)",
     "internalName": "AnimeSailProvider_2",
     "authors": [
       "Miku"
     ],
     "description": "AnimeSail — Streaming Anime, Donghua Subtitle Indonesia",
-    "fileSize": 36946,
+    "fileSize": 41230,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -876,9 +876,9 @@
     ],
     "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
     "apiVersion": 1,
-    "fileHash": "sha256-cd3e88525b5bd8cd5d6e74ba83ee4da5b97c9074dc2ef563b6acfba52c937978",
+    "fileHash": "sha256-86a5e8ed923ab08c838bbcc51f2f6c26b50fd41718a8bf2f23b53d1b04c32cb9",
     "isAdult": false,
-    "formattedSize": "36.1 KB",
+    "formattedSize": "40.3 KB",
     "isBroken": false
   },
   {
@@ -988,7 +988,7 @@
       "Miku"
     ],
     "description": "Animexin — Streaming Donghua Subtitle Indonesia",
-    "fileSize": 14790,
+    "fileSize": 14794,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -998,7 +998,7 @@
     ],
     "iconUrl": "https://animexin.dev/wp-content/uploads/2020/06/animexinv1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-022eac4cbddbff8fce317b43b40ac082d8edb0809ede22a1573674edf6a34ca9",
+    "fileHash": "sha256-553c4e46b02c4f69513d9c79528bc462e6e7c1deccd6f9f075afa52d6af59d43",
     "isAdult": false,
     "formattedSize": "14.4 KB",
     "isBroken": false
@@ -1201,14 +1201,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/AnoboyProvider.cs3",
     "status": 1,
-    "version": 1,
+    "version": 4,
     "name": "AnoboyProvider",
     "internalName": "AnoboyProvider",
     "authors": [
       "Miku"
     ],
     "description": "AnoBoy — Streaming Anime Subtitle Indonesia",
-    "fileSize": 57520,
+    "fileSize": 72572,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -1218,9 +1218,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anoboy.be&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-8df4e99a08364fdaee6bffb7f86e0ba31ff6d4dcdd9c00cc3f31c664d6f56ab9",
+    "fileHash": "sha256-6477911c8161528f926e806b1b253acd8203cb1b71f08d6699baf16d2749b194",
     "isAdult": false,
-    "formattedSize": "56.2 KB",
+    "formattedSize": "70.9 KB",
     "isBroken": false
   },
   {
@@ -2287,14 +2287,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Domlepen.cs3",
     "status": 1,
-    "version": 16,
+    "version": 17,
     "name": "Domlepen",
     "internalName": "Domlepen",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Porno videolarını takılma ve donma olmadan bedava, hd kalitede kesintisiz izle. Her gün eklenen en yeni, en kaliteli porno filmlerinin keyfini çıkart.",
-    "fileSize": 16502,
+    "fileSize": 16506,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
@@ -2302,7 +2302,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.creativewoodtrade.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-513c3da7ed2b89d62d24b271a9ba1f09e24a8f33c9366c2117a4d20eb55ceeac",
+    "fileHash": "sha256-08ca7df09e92f628227831682983ab72a48294db1f89f006dad31e1c8c976e96",
     "isAdult": true,
     "formattedSize": "16.1 KB",
     "isBroken": false
@@ -2666,14 +2666,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/ePawg.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "ePawg",
     "internalName": "ePawg",
     "authors": [
       "kraptor"
     ],
     "description": "Enjoy a huge selection of custom porn videos starring sexy amateur models from OnlyFans and Snapchat. Real girls posting sex videos in dozens of categories!",
-    "fileSize": 18361,
+    "fileSize": 29566,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -2681,9 +2681,9 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://epawg.com/&size=32",
     "apiVersion": 1,
-    "fileHash": "sha256-547d67e99a5ebfec88afcc85499718f5624e17f2c821372f1a27aeacea8ee8a0",
+    "fileHash": "sha256-02e9ebf2c838709ef1660dd7cd44b294206bb87924387ba36f48e66dbb51a99d",
     "isAdult": true,
-    "formattedSize": "17.9 KB",
+    "formattedSize": "28.9 KB",
     "isBroken": false
   },
   {
@@ -2852,14 +2852,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/FapGoat.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "FapGoat",
     "internalName": "FapGoat",
     "authors": [
       "ByAyzen"
     ],
     "description": "Free HD porn on FapGoat,  no sign-up, no paywall. Thousands of hand-picked scenes across every category and your favourite pornstars. Hit play and fap like a GOAT.",
-    "fileSize": 15521,
+    "fileSize": 31353,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -2867,9 +2867,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fapgoat.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b539064f0a9be9acc91548dc1f3282a65b945c06b6ba7f2e261ceec3889e1c69",
+    "fileHash": "sha256-1fb83d587916a4462765e361e73ab99cab229955658a3cda7f0515ec1f6278ce",
     "isAdult": true,
-    "formattedSize": "15.2 KB",
+    "formattedSize": "30.6 KB",
     "isBroken": false
   },
   {
@@ -2916,6 +2916,29 @@
     "fileHash": "sha256-8d329f2e8a8211b5e4037c6896a8df0c193081e1cf58fe8a879ff097393ca4c9",
     "isAdult": false,
     "formattedSize": "79.1 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Film1K.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Film1K",
+    "internalName": "Film1K",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Stream the largest collection of full-length erotic movies, uncut softcore classics, and international thrillers for free. Watch in HD on any device. No registration required.",
+    "fileSize": 46729,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=https://www.film1k.com",
+    "apiVersion": 1,
+    "fileHash": "sha256-c528f9898ad078bb24e6d4f03ef148282cf800b84c1fcedaaa8f62bd1d9fa5c7",
+    "isAdult": true,
+    "formattedSize": "45.6 KB",
     "isBroken": false
   },
   {
@@ -3902,14 +3925,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/HidoriStreamProvider.cs3",
     "status": 1,
-    "version": 3,
+    "version": 6,
     "name": "HidoriStreamProvider",
     "internalName": "HidoriStreamProvider",
     "authors": [
       "Miku"
     ],
     "description": "HidoriStream — Streaming Anime Subtitle Indonesia",
-    "fileSize": 48481,
+    "fileSize": 58188,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -3919,9 +3942,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v2.hidoristream.online&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-bcd04258798a3b774270c768f384426985f7605f4f2e7cb875ff8ddbc0cf429b",
+    "fileHash": "sha256-42a1a5b93d3d77e732284f080240fc2246112b814606f244d07d1ae69497fb6e",
     "isAdult": false,
-    "formattedSize": "47.3 KB",
+    "formattedSize": "56.8 KB",
     "isBroken": false
   },
   {
@@ -5060,14 +5083,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/KuramanimeProvider.cs3",
     "status": 1,
-    "version": 1,
+    "version": 5,
     "name": "KuramanimeProvider (2)",
     "internalName": "KuramanimeProvider_2",
     "authors": [
       "Miku"
     ],
     "description": "Kuramanime — Streaming Anime Subtitle Indonesia",
-    "fileSize": 36278,
+    "fileSize": 55451,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -5077,9 +5100,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-323e7c34cf6f40e404477692ee2f71cf94eec85fea0e35d1a9c1ce8d8e52a813",
+    "fileHash": "sha256-a251fa65b9f353aed4e1cd5bc62b3103ab8abfd62a8ddfc3b36e2eed843c52fe",
     "isAdult": false,
-    "formattedSize": "35.4 KB",
+    "formattedSize": "54.2 KB",
     "isBroken": false
   },
   {
@@ -5108,14 +5131,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/KuronimeProvider.cs3",
     "status": 1,
-    "version": 3,
+    "version": 6,
     "name": "KuronimeProvider (2)",
     "internalName": "KuronimeProvider_2",
     "authors": [
       "Miku"
     ],
     "description": "Kuronime — Streaming Anime Subtitle Indonesia",
-    "fileSize": 39462,
+    "fileSize": 48474,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -5125,9 +5148,9 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/EFMkS1T-8txjLFIl9QxjcTRLa7a7Muv08C04b7ongYgodoY_b2T3GpxzGAQEx-eitfQ=w256",
     "apiVersion": 1,
-    "fileHash": "sha256-3dd02365736fe45b72cdce98bd165129c97c71f0b29df8135c675bfcd784d98b",
+    "fileHash": "sha256-828e6a5c0187e8d2ad5c7c481440a65ae568e708f25748c66be08aa7dde2ea57",
     "isAdult": false,
-    "formattedSize": "38.5 KB",
+    "formattedSize": "47.3 KB",
     "isBroken": false
   },
   {
@@ -5279,14 +5302,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/LayarKacaProvider.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "LayarKacaProvider (3)",
     "internalName": "LayarKacaProvider_3",
     "authors": [
       "Miku"
     ],
     "description": "LayarKaca — Streaming Movie Subtitle Indonesia",
-    "fileSize": 34852,
+    "fileSize": 39715,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -5296,9 +5319,9 @@
     ],
     "iconUrl": "https://assets.lk21.party/favicons/apple-icon-144x144.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9e92e02935cb6678d6aab3175e99f8ece1aed9b33c48ceea9044612ffc13076b",
+    "fileHash": "sha256-9a4665499346fd1c6baf6bd5a95a5a9b570bdada26220f57c7ab6ce579b2a56e",
     "isAdult": false,
-    "formattedSize": "34 KB",
+    "formattedSize": "38.8 KB",
     "isBroken": false
   },
   {
@@ -5699,10 +5722,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/MLSBD-Logo.png",
-    "fileHash": "sha256-ab584f3bf487c6301517c82eaf1e3af35daefd4cbaa6afab8b068fc7ba39787a",
+    "fileHash": "sha256-325ba3020344f48e3d18b7f877b7eb9c3aad1dbf2b94dd74ed541507b151900f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 71313,
+    "fileSize": 114887,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -5714,13 +5737,13 @@
       "AnimeMovie",
       "AsianDrama"
     ],
-    "version": 32,
+    "version": 33,
     "internalName": "MLSBDProvider",
     "description": "The largest movie link store in Bangladesh",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MLSBDProvider.cs3",
     "name": "MLSBDProvider",
     "isAdult": false,
-    "formattedSize": "69.6 KB",
+    "formattedSize": "112.2 KB",
     "isBroken": false
   },
   {
@@ -5775,14 +5798,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
     "status": 1,
-    "version": 32,
+    "version": 33,
     "name": "MovieBoxProvider",
     "internalName": "MovieBoxProvider",
     "authors": [
       "NivinCNC,Phisher98"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 128285,
+    "fileSize": 128635,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -5791,17 +5814,17 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9684ff00fbed8c70347bcaa6ec8d65f7b3680a3a54b606c6e78be7bdce69ab9e",
+    "fileHash": "sha256-a3031411dd24fe63c96f9af916c8e5a872e783ea395ece1177ba32dd08e3608f",
     "isAdult": false,
-    "formattedSize": "125.3 KB",
+    "formattedSize": "125.6 KB",
     "isBroken": false
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProvider/icon.png",
-    "fileHash": "sha256-50d003cdc70e486e6e7ff5a0bf3f7ec9aedeb9e1f6e5f4d71279ac65c8e33382",
+    "fileHash": "sha256-0af4536a0caf731c7699f2029b00fd24f76bd1be3c8f547714bbc82a57224eb9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 97538,
+    "fileSize": 97158,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5811,21 +5834,21 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 49,
+    "version": 50,
     "internalName": "MovieBoxProvider_2",
     "description": "Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
     "name": "MovieBoxProvider (2)",
     "isAdult": false,
-    "formattedSize": "95.3 KB",
+    "formattedSize": "94.9 KB",
     "isBroken": false
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProviderIN/icon.png",
-    "fileHash": "sha256-f7780a8302e7d71095a0c9b4d7b8a152bda41d1571322c91f43294998225abd8",
+    "fileHash": "sha256-9a761c9a80fcf9108f11eef21cccc0bf2b3a3251d037b4130aadef32f225a017",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 94974,
+    "fileSize": 94592,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5835,13 +5858,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 51,
+    "version": 52,
     "internalName": "MovieBoxProviderIN",
     "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
     "name": "MovieBoxProviderIN",
     "isAdult": false,
-    "formattedSize": "92.7 KB",
+    "formattedSize": "92.4 KB",
     "isBroken": false
   },
   {
@@ -6166,7 +6189,7 @@
       "Miku"
     ],
     "description": "NekoPoi — Streaming Hentai, Porn and JAV Subtitle Indonesia",
-    "fileSize": 39520,
+    "fileSize": 42682,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6174,9 +6197,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=nekopoi.care&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-efafb69a350fd289b89379a020cc57dc84658170b7f7223fd58fe20d3ba2312a",
+    "fileHash": "sha256-5237b0fba480c37e90f560f01705a304871b47b1616346d9ca43854d4ce6bbc0",
     "isAdult": true,
-    "formattedSize": "38.6 KB",
+    "formattedSize": "41.7 KB",
     "isBroken": false
   },
   {
@@ -6346,14 +6369,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/NimegamiProvider.cs3",
     "status": 1,
-    "version": 1,
+    "version": 6,
     "name": "NimegamiProvider",
     "internalName": "NimegamiProvider",
     "authors": [
       "Hexated"
     ],
     "description": "Nimegami — Streaming Anime Subtitle Indonesia",
-    "fileSize": 25126,
+    "fileSize": 49371,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6363,9 +6386,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-954285e82e582b6be1eda9e0e3e17c193cff9ce616d67190480642e318332a32",
+    "fileHash": "sha256-77b984816af69d58a22bc233352542ed4b2a5019eda8f8118eda22aebd6ad907",
     "isAdult": false,
-    "formattedSize": "24.5 KB",
+    "formattedSize": "48.2 KB",
     "isBroken": false
   },
   {
@@ -6419,14 +6442,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/NontonAnimeIDProvider.cs3",
     "status": 1,
-    "version": 3,
+    "version": 6,
     "name": "NontonAnimeIDProvider (2)",
     "internalName": "NontonAnimeIDProvider_2",
     "authors": [
       "Miku"
     ],
     "description": "NontonAnimeID — Streaming Anime Subtitle Indonesia",
-    "fileSize": 41785,
+    "fileSize": 51035,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6436,9 +6459,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://s11.nontonanimeid.boats&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-352925fc0af8640639736ed45645df80f2a911a56303d51234df342e281430c9",
+    "fileHash": "sha256-2fecd0659d5728c3355f65b68dd5497fdc09da804534f22bf72839e5c6bf3778",
     "isAdult": false,
-    "formattedSize": "40.8 KB",
+    "formattedSize": "49.8 KB",
     "isBroken": false
   },
   {
@@ -6840,14 +6863,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/OtakudesuProvider.cs3",
     "status": 1,
-    "version": 4,
+    "version": 7,
     "name": "OtakudesuProvider (2)",
     "internalName": "OtakudesuProvider_2",
     "authors": [
       "Miku"
     ],
     "description": "OtakuDesu — Streaming Anime Subtitle Indonesia",
-    "fileSize": 36060,
+    "fileSize": 44976,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6857,9 +6880,9 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-sfek8gXmLpcAppEpaYbUDVtndQbCm_boh1-E91QrmSvsw-2l3-s2JOP&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-673141d6e8747ccb35a00610567d2058bb2093d886cd5359370ecba1fcb8efa0",
+    "fileHash": "sha256-cc1c2898aa4b3b47ad073950d63720e318bae5e3b44326d0ce8ffdb5c874e943",
     "isAdult": false,
-    "formattedSize": "35.2 KB",
+    "formattedSize": "43.9 KB",
     "isBroken": false
   },
   {
@@ -6941,7 +6964,7 @@
       "Miku"
     ],
     "description": "PencuriMovie — Streaming Movie and TV Series",
-    "fileSize": 15283,
+    "fileSize": 15279,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -6950,7 +6973,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-b30b532b04974a77d13eb1461bc46abe06182fa5564e72ce7e426885cf2d43e1",
+    "fileHash": "sha256-d2da5a893e034d50267408c61daac253125cc3f76cd2ef363decc14743db5e28",
     "isAdult": false,
     "formattedSize": "14.9 KB",
     "isBroken": false
@@ -7100,14 +7123,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Pimpbunny.cs3",
     "status": 1,
-    "version": 11,
+    "version": 16,
     "name": "Pimpbunny",
     "internalName": "Pimpbunny",
     "authors": [
       "ByAyzen"
     ],
     "description": "Looking for the hottest content on the internet? PimpBunny brings you the hottest porn videos and lets you chat with the content creators.",
-    "fileSize": 32250,
+    "fileSize": 36660,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -7115,9 +7138,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pimpbunny.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b6e69659b8b000e5a7f5295c734e2590a5b26ef5eceb5478b68580b580da99e0",
+    "fileHash": "sha256-ecab5b3bc190b9f8cb3ac7ddd6724339208ed81b6e91fd66f08ad4dff3fcb614",
     "isAdult": true,
-    "formattedSize": "31.5 KB",
+    "formattedSize": "35.8 KB",
     "isBroken": false
   },
   {
@@ -7288,7 +7311,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Porn00.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "Porn00",
     "internalName": "Porn00",
     "authors": [
@@ -7296,7 +7319,7 @@
       "kerimmkirac"
     ],
     "description": "Porn00 provides hd porn videos for fee. And we're offering latest 720p porn, xxx and sex videos at porn00.",
-    "fileSize": 20155,
+    "fileSize": 29438,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -7304,9 +7327,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.porn00.org&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-cb76b3daeac51ef2347e4061d428bb8605bdf985b9842f749f22f91947cded69",
+    "fileHash": "sha256-b7290c0a086fcd08c6b0cbf0d08d81aca7b81f09a3804af7ffbaeef1636b6b07",
     "isAdult": true,
-    "formattedSize": "19.7 KB",
+    "formattedSize": "28.7 KB",
     "isBroken": false
   },
   {
@@ -7942,14 +7965,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Rule34video.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Rule34video",
     "internalName": "Rule34video",
     "authors": [
       "ByAyzen"
     ],
     "description": "Rule 34 - If it exists, there is porn of it. We aspire to be the biggest video archive of rule34 content.",
-    "fileSize": 14574,
+    "fileSize": 29837,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -7957,9 +7980,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rule34video.com/video/3822977/shorekeeper-akt/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-620f23bfaa59cffd32bdff19fc1656db7432ade24c3f446b679ef2d796032c59",
+    "fileHash": "sha256-5b6904de5e5760a1c4f17997c5590488874d867620b792a798068eb13b2e4260",
     "isAdult": true,
-    "formattedSize": "14.2 KB",
+    "formattedSize": "29.1 KB",
     "isBroken": false
   },
   {
@@ -8011,14 +8034,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/SamehadakuProvider.cs3",
     "status": 1,
-    "version": 3,
+    "version": 6,
     "name": "SamehadakuProvider",
     "internalName": "SamehadakuProvider",
     "authors": [
       "Miku"
     ],
     "description": "Samehadaku — Streaming Anime Subtitle Indonesia",
-    "fileSize": 30127,
+    "fileSize": 39543,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
     "language": "id",
     "tvTypes": [
@@ -8028,9 +8051,9 @@
     ],
     "iconUrl": "https://lh3.googleusercontent.com/zwKn_6sdYOdIiWg6Gtnx-Ar2DrVamlADnPN8BE4f84-a9aRo2Zc7mxbW5Qd26Z8cPFc",
     "apiVersion": 1,
-    "fileHash": "sha256-e29c2a0587838c898e11d204890b47e46a573989da11dbc13b75717c20edaa5a",
+    "fileHash": "sha256-9a22523584518435c7a6d6ba64094de1a0549e032e1c3c5a4862c374728135b5",
     "isAdult": false,
-    "formattedSize": "29.4 KB",
+    "formattedSize": "38.6 KB",
     "isBroken": false
   },
   {
@@ -8368,7 +8391,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 671,
+    "version": 672,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8376,7 +8399,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1616289,
+    "fileSize": 1616437,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8389,7 +8412,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-384f0c835a06384d12d28a89d74bee80f4043e04b7503ac4bf8af4bc8627fe8e",
+    "fileHash": "sha256-3b403dfa456d498eb2b6fbeb57e9585c95f40d31471a1b2bd2cede353574fe73",
     "isAdult": false,
     "formattedSize": "1.5 MB",
     "isBroken": false
@@ -9331,14 +9354,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/UnusualPornX.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "UnusualPornX",
     "internalName": "UnusualPornX",
     "authors": [
       "kraptor"
     ],
     "description": "Warning: Contains Disgusting Content Free unusual porn: tentacle sex, parasite infection, futanari, mind control, time stop, vampires, zombies and more. Daily HD updates - the real taboo shit for you.",
-    "fileSize": 21082,
+    "fileSize": 29921,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -9346,9 +9369,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=https://unusualpornx.com",
     "apiVersion": 1,
-    "fileHash": "sha256-660c120292c3e8d94eea74a2beb19ba1aa8b602d7121009dd2083042ff87ad5f",
+    "fileHash": "sha256-3e759369e94fdb965b3a8a8c591fefa492301db1731a3504df7abbc0b7af62a0",
     "isAdult": true,
-    "formattedSize": "20.6 KB",
+    "formattedSize": "29.2 KB",
     "isBroken": false
   },
   {
@@ -9424,14 +9447,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/VideoCelebs.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "VideoCelebs",
     "internalName": "VideoCelebs",
     "authors": [
       "kraptor"
     ],
     "description": "Database of streaming videos with nude celebs",
-    "fileSize": 20544,
+    "fileSize": 29668,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -9439,9 +9462,9 @@
     ],
     "iconUrl": "http://www.google.com/s2/favicons?domain=https://videocelebs.net",
     "apiVersion": 1,
-    "fileHash": "sha256-314dad303bd430f2f7360a6fb5194b549a3f78f5511c7e654f7e7580924becf7",
+    "fileHash": "sha256-634e66661580c796e5f15c4704aa5b068946fe43db986593f47d7b0ed83c722f",
     "isAdult": true,
-    "formattedSize": "20.1 KB",
+    "formattedSize": "29 KB",
     "isBroken": false
   },
   {
@@ -9541,14 +9564,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/WatchPorn.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "WatchPorn",
     "internalName": "WatchPorn",
     "authors": [
       "kraptor"
     ],
     "description": "High quality family porn from all over the world especially from manyvids, onlyfans, missax,tabooheat,adulttime and many more. Enjoy MILFs and stepmother with big tits and a lot of mommy roleplay action.",
-    "fileSize": 18427,
+    "fileSize": 31138,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -9556,9 +9579,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://watchporn.to/&size=32",
     "apiVersion": 1,
-    "fileHash": "sha256-0e7f8b2bfd71b3eaab1a23ab6dc7212eb0d508ec65e9c290d9552a8b9406f4ef",
+    "fileHash": "sha256-dc42a4eb85d29e87edcd82e149dcb1ad6980beeafd88c32b89467d6aa1fe8962",
     "isAdult": true,
-    "formattedSize": "18 KB",
+    "formattedSize": "30.4 KB",
     "isBroken": false
   },
   {
@@ -9658,14 +9681,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Whoreshub.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Whoreshub (2)",
     "internalName": "Whoreshub_2",
     "authors": [
       "ByAyzen"
     ],
     "description": "Discover all the porn categories available on WhoresHub! Here you will find a big variety of sex categories. Watch and download porn videos in High-Definition.",
-    "fileSize": 14334,
+    "fileSize": 30185,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -9673,9 +9696,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://whoreshub.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-1217601a4610506ee53e17f81614c6c673b6feb7e23c27dc2ba561ef460159c0",
+    "fileHash": "sha256-e541ca8d696c4bf9de640133580a0ad6b4d35feac9d4ce300e2ec69f1684586a",
     "isAdult": true,
-    "formattedSize": "14 KB",
+    "formattedSize": "29.5 KB",
     "isBroken": false
   },
   {
@@ -10196,14 +10219,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Yesporn.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Yesporn",
     "internalName": "Yesporn",
     "authors": [
       "ByAyzen"
     ],
     "description": "Discover the hottest USA free HD porn videos on YesPorn VIP. Stream explicit XXX sex movies, hardcore clips with busty American sluts, big asses, wet pussies, and raw fucking action for premium adult entertainment online.",
-    "fileSize": 26562,
+    "fileSize": 30374,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -10211,9 +10234,9 @@
     ],
     "iconUrl": "https://yesporn.vip/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-75d6e6c2fd41d064b65ca35e562d049b8e35901d355bef7128101bd6e0af4023",
+    "fileHash": "sha256-cd5779b3ba839d215dbc25b713c4e9a50c128ee43acb8c70d2b3c2a4b458f61c",
     "isAdult": true,
-    "formattedSize": "25.9 KB",
+    "formattedSize": "29.7 KB",
     "isBroken": false
   },
   {
