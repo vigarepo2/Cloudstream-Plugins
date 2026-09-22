@@ -257,14 +257,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/AlqanimeProvider.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "AlqanimeProvider",
     "internalName": "AlqanimeProvider",
     "authors": [
       "Miku"
     ],
     "description": "Alqanime — Streaming Anime, Donghua Subtitle Indonesia",
-    "fileSize": 91127,
+    "fileSize": 92656,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -274,9 +274,9 @@
     ],
     "iconUrl": "https://cloudstream.zvlz.my.id/icon/alqanime.png",
     "apiVersion": 1,
-    "fileHash": "sha256-be03e3b74101b0fdfaea14dcbdbaf0ed252fc6a6100748b4e17b1ea0a3282b84",
+    "fileHash": "sha256-80cb741d9bfbba8b1e08078eb16d6a1a3292a7296acc2672f62aae8741bbd13d",
     "isAdult": false,
-    "formattedSize": "89 KB",
+    "formattedSize": "90.5 KB",
     "isBroken": false
   },
   {
@@ -330,14 +330,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/AnichinProvider.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "AnichinProvider",
     "internalName": "AnichinProvider",
     "authors": [
       "Miku"
     ],
     "description": "Anichin — Streaming Donghua Subtitle Indonesia",
-    "fileSize": 57844,
+    "fileSize": 57909,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -347,9 +347,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-cf99a6fbe9752b8fac59847ff6f9d7264e59651390144c9d4e027ba7b37301cd",
+    "fileHash": "sha256-89becc626d7ad2bcdcbd03fec164cd5389e28da08931a5faa7172bfaf725eaf9",
     "isAdult": false,
-    "formattedSize": "56.5 KB",
+    "formattedSize": "56.6 KB",
     "isBroken": false
   },
   {
@@ -541,6 +541,31 @@
     "name": "Animasu",
     "isAdult": false,
     "formattedSize": "21.1 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/AnimasuProvider.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "AnimasuProvider",
+    "internalName": "AnimasuProvider",
+    "authors": [
+      "Miku"
+    ],
+    "description": "Animasu — Streaming Anime Subtitle Indonesia",
+    "fileSize": 60437,
+    "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
+    "language": "id",
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "OVA"
+    ],
+    "iconUrl": "https://1.bp.blogspot.com/-713bWoqV1B8/XcKqwjGjsZI/AAAAAAAAFiM/3nA8P_d50FcCWEnw6uhSeVEtPzKDH6_eQCLcBGAsYHQ/s1600/animasu.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-5c6d23e02093e47c7262e5daaf9a32d7ee639e6a51923d4133fdc59511904305",
+    "isAdult": false,
+    "formattedSize": "59 KB",
     "isBroken": false
   },
   {
@@ -859,14 +884,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/AnimeSailProvider.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "AnimeSailProvider (2)",
     "internalName": "AnimeSailProvider_2",
     "authors": [
       "Miku"
     ],
     "description": "AnimeSail — Streaming Anime, Donghua Subtitle Indonesia",
-    "fileSize": 41237,
+    "fileSize": 42906,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -876,9 +901,9 @@
     ],
     "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
     "apiVersion": 1,
-    "fileHash": "sha256-710e20c3a327096a2e9b0a26164db89fdf972db2bce76e7b1011406fe330c03b",
+    "fileHash": "sha256-a1b79a126e3a39b357c76b5391b3387ddadb0b239c337b2ad6c31d2603771d6b",
     "isAdult": false,
-    "formattedSize": "40.3 KB",
+    "formattedSize": "41.9 KB",
     "isBroken": false
   },
   {
@@ -981,14 +1006,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/AnimexinProvider.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "AnimexinProvider",
     "internalName": "AnimexinProvider",
     "authors": [
       "Miku"
     ],
     "description": "Animexin — Streaming Donghua Subtitle Indonesia",
-    "fileSize": 17096,
+    "fileSize": 17093,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -998,7 +1023,7 @@
     ],
     "iconUrl": "https://animexin.dev/wp-content/uploads/2020/06/animexinv1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ee934183221807e70642054ce8cc48952a69b7395ad76f65a9aaf60872b6e18e",
+    "fileHash": "sha256-b729781fad2b7f809266a937c7dbbfa4369b3742ec2c4e13eb84c04daaf996bd",
     "isAdult": false,
     "formattedSize": "16.7 KB",
     "isBroken": false
@@ -1201,14 +1226,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/AnoboyProvider.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "AnoboyProvider",
     "internalName": "AnoboyProvider",
     "authors": [
       "Miku"
     ],
     "description": "AnoBoy — Streaming Anime Subtitle Indonesia",
-    "fileSize": 72572,
+    "fileSize": 73712,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -1218,9 +1243,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anoboy.be&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-6477911c8161528f926e806b1b253acd8203cb1b71f08d6699baf16d2749b194",
+    "fileHash": "sha256-66ce783fd9fc2ef0405eb96e66fe2d941be913171fb0f5731129a2f93c77a579",
     "isAdult": false,
-    "formattedSize": "70.9 KB",
+    "formattedSize": "72 KB",
     "isBroken": false
   },
   {
@@ -1792,10 +1817,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
-    "fileHash": "sha256-3ffa92ac07ad7aad9d552354146342a6167abab16fb016558deb63284d224f20",
+    "fileHash": "sha256-4a31abaf8a99fd966880d60c355998286c441034c14b5d348d65b09408e8c2ea",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 104840,
+    "fileSize": 92075,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1805,13 +1830,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 111,
+    "version": 112,
     "internalName": "CNC Verse",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
     "name": "CNC Verse",
     "isAdult": false,
-    "formattedSize": "102.4 KB",
+    "formattedSize": "89.9 KB",
     "isBroken": false
   },
   {
@@ -2308,14 +2333,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/DonghubProvider.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "DonghubProvider",
     "internalName": "DonghubProvider",
     "authors": [
       "Miku"
     ],
     "description": "Donghub — Streaming Donghua Subtitle Indonesia",
-    "fileSize": 20520,
+    "fileSize": 20526,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -2325,7 +2350,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghub.vip&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-389c39e44ac7f6a9ef4dc52eb70cca6126f509f66ba8b5de796aba31a3ec11eb",
+    "fileHash": "sha256-dd049032bf837b0f6b31401cc5044b32d9aedecec4b379f4d7d404e69d92c33a",
     "isAdult": false,
     "formattedSize": "20 KB",
     "isBroken": false
@@ -2472,14 +2497,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/DubbindoProvider.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "DubbindoProvider",
     "internalName": "DubbindoProvider",
     "authors": [
       "Miku"
     ],
     "description": "Dubbindo — Streaming Anime, Movie and TV Series",
-    "fileSize": 33136,
+    "fileSize": 33113,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -2490,9 +2515,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dubbindo.site&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-4e753074b6c5d5f932bbde02fa878ded5c4e65e259848c1aa7d1f85e3585b1cb",
+    "fileHash": "sha256-365f09022ff0d97ad17166c9167d29323d4449c9eb7cccff5bc33aadd0c3cd9d",
     "isAdult": false,
-    "formattedSize": "32.4 KB",
+    "formattedSize": "32.3 KB",
     "isBroken": false
   },
   {
@@ -3848,31 +3873,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/HidoriStreamProvider.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "HidoriStreamProvider",
-    "internalName": "HidoriStreamProvider",
-    "authors": [
-      "Miku"
-    ],
-    "description": "HidoriStream — Streaming Anime Subtitle Indonesia",
-    "fileSize": 58222,
-    "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
-    "language": "id",
-    "tvTypes": [
-      "AnimeMovie",
-      "OVA",
-      "Anime"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v2.hidoristream.online&size=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-c4a5d4d192bf2fce8aa570b28cbec64fb933521068ef3d074c59ff2c8e2b9646",
-    "isAdult": false,
-    "formattedSize": "56.9 KB",
-    "isBroken": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hindmoviez.cs3",
     "status": 1,
     "version": 17,
@@ -4910,14 +4910,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/KuramanimeProvider.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "KuramanimeProvider (2)",
     "internalName": "KuramanimeProvider_2",
     "authors": [
       "Miku"
     ],
     "description": "Kuramanime — Streaming Anime Subtitle Indonesia",
-    "fileSize": 60680,
+    "fileSize": 62329,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -4927,9 +4927,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-59a0498ac7b1a15ff9d1b6f09f5d3f7e4808de8d209087f8b36923e257d8948a",
+    "fileHash": "sha256-aad2a4caf0571ce61e07e02ed30fec4ad19d8f554abc84329040c741bee73e76",
     "isAdult": false,
-    "formattedSize": "59.3 KB",
+    "formattedSize": "60.9 KB",
     "isBroken": false
   },
   {
@@ -4958,14 +4958,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/KuronimeProvider.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "KuronimeProvider (2)",
     "internalName": "KuronimeProvider_2",
     "authors": [
       "Miku"
     ],
     "description": "Kuronime — Streaming Anime Subtitle Indonesia",
-    "fileSize": 48468,
+    "fileSize": 50140,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -4975,9 +4975,9 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/EFMkS1T-8txjLFIl9QxjcTRLa7a7Muv08C04b7ongYgodoY_b2T3GpxzGAQEx-eitfQ=w256",
     "apiVersion": 1,
-    "fileHash": "sha256-e4ab49bb6b06d3b79e0a97690e84036a96b7db4d63adfcefa3d9cb3d7e918df2",
+    "fileHash": "sha256-c0cacc9e25e9c073d6edd4d6c1bff4c6e523e03053426a7de6d26779cc8b06ea",
     "isAdult": false,
-    "formattedSize": "47.3 KB",
+    "formattedSize": "49 KB",
     "isBroken": false
   },
   {
@@ -5642,10 +5642,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/movielinkbd.webp",
-    "fileHash": "sha256-db5055c6b8d59a8c1e988f35c4b31170a2d7f425b81fc19d6ef0057357bb917a",
+    "fileHash": "sha256-9874eab8f55c589a19110f2997299f9f9722ac865cbb308e1a4731bd0110e6f9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 77757,
+    "fileSize": 79476,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -5657,13 +5657,13 @@
       "AnimeMovie",
       "AsianDrama"
     ],
-    "version": 19,
+    "version": 20,
     "internalName": "MovieLinkBDProvider",
     "description": "MovieLinkBD - Largest Movie Download Site in Bangladesh",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieLinkBDProvider.cs3",
     "name": "MovieLinkBDProvider",
     "isAdult": false,
-    "formattedSize": "75.9 KB",
+    "formattedSize": "77.6 KB",
     "isBroken": false
   },
   {
@@ -5933,14 +5933,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/NekopoiProvider.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "NekopoiProvider",
     "internalName": "NekopoiProvider",
     "authors": [
       "Miku"
     ],
     "description": "NekoPoi — Streaming Hentai, Porn and JAV Subtitle Indonesia",
-    "fileSize": 42799,
+    "fileSize": 42820,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -5948,7 +5948,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=nekopoi.care&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-ae11146c25827e4419984bf259ee1aa0548394f78a48a97ad9ca43b4e77f3fd1",
+    "fileHash": "sha256-953734b5f45d609520f25a8a6f462ab8bb2902d44c8398dc0e3d3a88d8c44ecc",
     "isAdult": true,
     "formattedSize": "41.8 KB",
     "isBroken": false
@@ -6095,14 +6095,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/NimegamiProvider.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "NimegamiProvider",
     "internalName": "NimegamiProvider",
     "authors": [
       "Hexated"
     ],
     "description": "Nimegami — Streaming Anime Subtitle Indonesia",
-    "fileSize": 49363,
+    "fileSize": 51134,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -6112,9 +6112,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-1327c6632ef4f8b796261083f0b0186500a63d2714221b60e172c3a7d434f9f2",
+    "fileHash": "sha256-94fc6e3590324fcfb66ab84b6635132bea15067789d4bc617f23a5da47c3905d",
     "isAdult": false,
-    "formattedSize": "48.2 KB",
+    "formattedSize": "49.9 KB",
     "isBroken": false
   },
   {
@@ -6143,14 +6143,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/NontonAnimeIDProvider.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "NontonAnimeIDProvider (2)",
     "internalName": "NontonAnimeIDProvider_2",
     "authors": [
       "Miku"
     ],
     "description": "NontonAnimeID — Streaming Anime Subtitle Indonesia",
-    "fileSize": 51019,
+    "fileSize": 53126,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -6160,9 +6160,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://s11.nontonanimeid.boats&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-b907e67f8d285265c035421f3cdede57e025af01f4e0925a79ed97475167d72d",
+    "fileHash": "sha256-efd32851f01de6f72332b0246481059a0ab01f8c9f8ec276a81af5d36af9bbe0",
     "isAdult": false,
-    "formattedSize": "49.8 KB",
+    "formattedSize": "51.9 KB",
     "isBroken": false
   },
   {
@@ -6539,14 +6539,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/OtakudesuProvider.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "OtakudesuProvider (2)",
     "internalName": "OtakudesuProvider_2",
     "authors": [
       "Miku"
     ],
     "description": "OtakuDesu — Streaming Anime Subtitle Indonesia",
-    "fileSize": 44971,
+    "fileSize": 46598,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -6556,9 +6556,9 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-sfek8gXmLpcAppEpaYbUDVtndQbCm_boh1-E91QrmSvsw-2l3-s2JOP&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-e11da5b72fe5002e029400cc7dffb7b9ac1eff98c9e6f54128ce7902525d16c8",
+    "fileHash": "sha256-7af1f286703519f5ba9455e95203a6da8d1e935ebe73e2af644c0c915b13e775",
     "isAdult": false,
-    "formattedSize": "43.9 KB",
+    "formattedSize": "45.5 KB",
     "isBroken": false
   },
   {
@@ -7686,14 +7686,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/SamehadakuProvider.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "SamehadakuProvider",
     "internalName": "SamehadakuProvider",
     "authors": [
       "Miku"
     ],
     "description": "Samehadaku — Streaming Anime Subtitle Indonesia",
-    "fileSize": 39514,
+    "fileSize": 41162,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -7703,9 +7703,9 @@
     ],
     "iconUrl": "https://lh3.googleusercontent.com/zwKn_6sdYOdIiWg6Gtnx-Ar2DrVamlADnPN8BE4f84-a9aRo2Zc7mxbW5Qd26Z8cPFc",
     "apiVersion": 1,
-    "fileHash": "sha256-0b811fab71b46aa5e874fcc2d9a00b768a0e04544dace2ef5851970aa137bee2",
+    "fileHash": "sha256-f7a04eaed66dc20fac5048e9e62f5dccadad15983f6aaacdc83fabca73636858",
     "isAdult": false,
-    "formattedSize": "38.6 KB",
+    "formattedSize": "40.2 KB",
     "isBroken": false
   },
   {
@@ -8755,7 +8755,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 82,
+    "version": 84,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
@@ -8768,9 +8768,9 @@
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub139.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub141.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e206ff29fd3f604177446dabc8a9795b25741279b7f9bf65d0294c180697543d",
+    "fileHash": "sha256-a20ec26f333482ffe083f1e8e809bf2e4ebac827ef8df6881230034b1866cbce",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -8823,22 +8823,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 136,
+    "version": 138,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 34639,
+    "fileSize": 34641,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno44.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno46.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-92611cc251e3a1f0ac93eb696ae579f3b6f1d6324506fdac2ca9e8d0ee90a86a",
+    "fileHash": "sha256-ee205b384bc5a78b19ff4ed93da6c81eec47b19cec2687186b35a0a371a9fc53",
     "isAdult": true,
     "formattedSize": "33.8 KB",
     "isBroken": false
@@ -9356,14 +9356,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/WinbuProvider.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "WinbuProvider",
     "internalName": "WinbuProvider",
     "authors": [
       "Miku"
     ],
     "description": "Winbu — Streaming Anime & Series with Indonesian Subtitles",
-    "fileSize": 52779,
+    "fileSize": 53132,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -9374,9 +9374,9 @@
     ],
     "iconUrl": "https://winbu.org/wp-content/uploads/2025/04/file-0000000068a051f6aed60f781c75581b-conversation-id-67ef899f-e0f8-8011-8643-02848517c045-message-i-1-e1744432620825.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f2a1f5b7dc432c996d843b7b549c27a2d40e77fc151882c27658757aefb2ef16",
+    "fileHash": "sha256-a732328a039b25d64f07e0bddbfc49206e92688e2f7fae91afd601bba9d2de3c",
     "isAdult": false,
-    "formattedSize": "51.5 KB",
+    "formattedSize": "51.9 KB",
     "isBroken": false
   },
   {
@@ -9473,14 +9473,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/XDMovies.cs3",
     "status": 1,
-    "version": 17,
+    "version": 18,
     "name": "XDMovies",
     "internalName": "XDMovies",
     "authors": [
       "Phisher98"
     ],
     "description": "Watch Latest Movies",
-    "fileSize": 169296,
+    "fileSize": 181506,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -9493,9 +9493,9 @@
     ],
     "iconUrl": "https://top.xdmovies.wtf/assets/logo1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-776567233eaffecd30dcefb2b6afdf93a92d57c0d947d4b7cbf8a4d561fffa0d",
+    "fileHash": "sha256-066e65e2f2cdf0462c2d1b24ea5383206c6f3bbe92fe45950de82e05c398fcb8",
     "isAdult": false,
-    "formattedSize": "165.3 KB",
+    "formattedSize": "177.3 KB",
     "isBroken": false
   },
   {
