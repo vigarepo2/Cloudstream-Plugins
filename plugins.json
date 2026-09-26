@@ -909,14 +909,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/AnimeSailProvider.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "AnimeSailProvider (2)",
     "internalName": "AnimeSailProvider_2",
     "authors": [
       "Miku"
     ],
     "description": "AnimeSail — Streaming Anime, Donghua Subtitle Indonesia",
-    "fileSize": 42906,
+    "fileSize": 66988,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -926,9 +926,9 @@
     ],
     "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a1b79a126e3a39b357c76b5391b3387ddadb0b239c337b2ad6c31d2603771d6b",
+    "fileHash": "sha256-2b77b9936cbe733fe9748230a045135818ddc6de7bdc53cf1ef167be729f832e",
     "isAdult": false,
-    "formattedSize": "41.9 KB",
+    "formattedSize": "65.4 KB",
     "isBroken": false
   },
   {
@@ -1675,14 +1675,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "Cinefreak",
     "internalName": "Cinefreak",
     "authors": [
       "Phisher98"
     ],
     "description": "Bangla/Hindi Movies/Series",
-    "fileSize": 111431,
+    "fileSize": 119231,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "bn",
     "tvTypes": [
@@ -1692,9 +1692,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
     "apiVersion": 1,
-    "fileHash": "sha256-359d0eb8184a66d720c18729add55ba40c2fae3b7cc2a4db6aba47316ba426e4",
+    "fileHash": "sha256-5f21d445b3e6d4b325d876a85cbdd51f68c1b2c031ecdc31058e4fe3db9afa07",
     "isAdult": false,
-    "formattedSize": "108.8 KB",
+    "formattedSize": "116.4 KB",
     "isBroken": false
   },
   {
@@ -1842,10 +1842,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
-    "fileHash": "sha256-1c6c276b1f28e95538fa4cec9bbce8c9e1e5396b060ece24c2e787a08ae34a66",
+    "fileHash": "sha256-61dce8378f02424fb50a214f4b7b5fd62ab62c36736432627ff808b245043507",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 92054,
+    "fileSize": 92713,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1855,13 +1855,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 113,
+    "version": 114,
     "internalName": "CNC Verse",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
     "name": "CNC Verse",
     "isAdult": false,
-    "formattedSize": "89.9 KB",
+    "formattedSize": "90.5 KB",
     "isBroken": false
   },
   {
@@ -2082,14 +2082,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Desicinemas.cs3",
     "status": 1,
-    "version": 16,
+    "version": 17,
     "name": "Desicinemas",
     "internalName": "Desicinemas",
     "authors": [
       "Phisher98"
     ],
     "description": "Contains BollyZone",
-    "fileSize": 74192,
+    "fileSize": 76850,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -2098,9 +2098,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://desicinemas.to&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-cfbf62242cd60274639f5fa29b03789977b7f633d7f40bd93807613f3f4980fa",
+    "fileHash": "sha256-e91c711c9ec47a908931603b68cb95c8f2e891fb30b7993056e65f99d23045ae",
     "isAdult": false,
-    "formattedSize": "72.5 KB",
+    "formattedSize": "75 KB",
     "isBroken": false
   },
   {
@@ -6964,14 +6964,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pmsm.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "Pmsm",
     "internalName": "Pmsm",
     "authors": [
       "Phisher98,Duro92"
     ],
     "description": "PMSM (Pencuri Movie Sub Malay)",
-    "fileSize": 59635,
+    "fileSize": 66792,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "id",
     "tvTypes": [
@@ -6980,9 +6980,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww192.pencurimoviesubmalay.motorcycles&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-80489f5e427f247c62bae5b3f0a5b57d9948c6a329e991d6e35c32491120c4dc",
+    "fileHash": "sha256-6970ec21d8a98a5da2150d831e4264e9ddf3f2390e0638ebcba5db87ba86ad10",
     "isAdult": false,
-    "formattedSize": "58.2 KB",
+    "formattedSize": "65.2 KB",
     "isBroken": false
   },
   {
@@ -8091,7 +8091,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 673,
+    "version": 676,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8099,7 +8099,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1620376,
+    "fileSize": 1674669,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8112,9 +8112,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-b7ec0b64528c9fdff487209d262d1c098e1caf958843b535635d5c16dc869e7e",
+    "fileHash": "sha256-0d364a1eca8d3992fea1135b002f70550afd23c764bdff9a65ed01c9e83ec934",
     "isAdult": false,
-    "formattedSize": "1.5 MB",
+    "formattedSize": "1.6 MB",
     "isBroken": false
   },
   {
@@ -8382,14 +8382,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "Tamilblasters",
     "internalName": "Tamilblasters",
     "authors": [
       "rockhero1234,phisher98"
     ],
     "description": "Movies & Series",
-    "fileSize": 52314,
+    "fileSize": 64348,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "ta",
     "tvTypes": [
@@ -8398,9 +8398,9 @@
     ],
     "iconUrl": "https://i.postimg.cc/FRwFFtyT/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7eb2b81974bcee3a82ec5580fadb3b99f230de99dc9555d724ba038017f9ecc3",
+    "fileHash": "sha256-3ca2ec27d7a548e7bd42781351fb3d3db1a11778b360300369198725ba00a37e",
     "isAdult": false,
-    "formattedSize": "51.1 KB",
+    "formattedSize": "62.8 KB",
     "isBroken": false
   },
   {
@@ -8821,6 +8821,29 @@
     "fileHash": "sha256-dde28dbcac51922e2cbeec01a2cf0add85d0a59972f4f7aaf68041576a723540",
     "isAdult": true,
     "formattedSize": "19 KB",
+    "isBroken": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkifsaBlog.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "TurkifsaBlog",
+    "internalName": "TurkifsaBlog",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "En güncel Turk ifşa videoları ve sızıntı arşivini kesintisiz full HD kalitede ücretsiz izleyin.",
+    "fileSize": 11467,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "tr",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkifsa.blog/category/turk-ifsa&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-8f1defe1ba94407ba7a39465b034dc243fc1dcc928ca6c01fae1295f393fbe24",
+    "isAdult": true,
+    "formattedSize": "11.2 KB",
     "isBroken": false
   },
   {
@@ -9894,29 +9917,6 @@
     "fileHash": "sha256-6adf7f133e28702d7c2d8f5e7a875cbb213b9cc82468247bc41e6fb44944610a",
     "isAdult": true,
     "formattedSize": "15.7 KB",
-    "isBroken": false
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/XXXParodyHD.cs3",
-    "status": 1,
-    "version": 10,
-    "name": "XXXParodyHD",
-    "internalName": "XXXParodyHD",
-    "authors": [
-      "Kraptor"
-    ],
-    "description": "Enjoy high-quality adult parodies online for free. Browse our extensive collection of the latest parody porn movies available for streaming in HD. Explore the biggest database of adult films from 2023 and 2024 - watch now!",
-    "fileSize": 86230,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
-    "language": "en",
-    "tvTypes": [
-      "NSFW"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://xxxparodyhd.net/&size=16",
-    "apiVersion": 1,
-    "fileHash": "sha256-fb63689829328450bc794a67c99b9ea819e2fbe724898bce42b546d9e84944b8",
-    "isAdult": true,
-    "formattedSize": "84.2 KB",
     "isBroken": false
   },
   {
