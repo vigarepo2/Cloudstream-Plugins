@@ -909,14 +909,14 @@
   {
     "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/builds/AnimeSailProvider.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "AnimeSailProvider (2)",
     "internalName": "AnimeSailProvider_2",
     "authors": [
       "Miku"
     ],
     "description": "AnimeSail — Streaming Anime, Donghua Subtitle Indonesia",
-    "fileSize": 66988,
+    "fileSize": 42911,
     "repositoryUrl": "https://github.com/HatsuneMikuUwU/AnimeX",
     "language": "id",
     "tvTypes": [
@@ -926,9 +926,9 @@
     ],
     "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2b77b9936cbe733fe9748230a045135818ddc6de7bdc53cf1ef167be729f832e",
+    "fileHash": "sha256-faa56d54de8e179aa209791e811ea3043c4a28cbf689d1fa4b1b8dbd57925019",
     "isAdult": false,
-    "formattedSize": "65.4 KB",
+    "formattedSize": "41.9 KB",
     "isBroken": false
   },
   {
@@ -1228,14 +1228,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anizone.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "Anizone",
     "internalName": "Anizone",
     "authors": [
       "ycngmn"
     ],
     "description": "Anizone.to streams latest anime content in multiple language.",
-    "fileSize": 65893,
+    "fileSize": 65917,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -1243,9 +1243,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anizone.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9a9a819c188d3a4e86e60c3e80402f1ab2e83f54b6b68d3891154dfae19042a1",
+    "fileHash": "sha256-1b26e83137951351ab9a65d26c75c8ac3a755b770260ff17cfd720ffa126003f",
     "isAdult": false,
-    "formattedSize": "64.3 KB",
+    "formattedSize": "64.4 KB",
     "isBroken": false
   },
   {
@@ -2082,14 +2082,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Desicinemas.cs3",
     "status": 1,
-    "version": 17,
+    "version": 19,
     "name": "Desicinemas",
     "internalName": "Desicinemas",
     "authors": [
       "Phisher98"
     ],
     "description": "Contains BollyZone",
-    "fileSize": 76850,
+    "fileSize": 78212,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -2098,9 +2098,9 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://desicinemas.to&size=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-e91c711c9ec47a908931603b68cb95c8f2e891fb30b7993056e65f99d23045ae",
+    "fileHash": "sha256-36847f62870c8b149ce23675c7f2678572721360856869f468ad05f9cb39343e",
     "isAdult": false,
-    "formattedSize": "75 KB",
+    "formattedSize": "76.4 KB",
     "isBroken": false
   },
   {
@@ -5620,10 +5620,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProvider/icon.png",
-    "fileHash": "sha256-0af4536a0caf731c7699f2029b00fd24f76bd1be3c8f547714bbc82a57224eb9",
+    "fileHash": "sha256-e67f16e6638e57670e0364d72bfb627c12d577f81e28cf7ae534e9041d7bce81",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 97158,
+    "fileSize": 93548,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5633,21 +5633,21 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 50,
+    "version": 51,
     "internalName": "MovieBoxProvider_2",
     "description": "Multi Language Movies and Series Provider",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
     "name": "MovieBoxProvider (2)",
     "isAdult": false,
-    "formattedSize": "94.9 KB",
+    "formattedSize": "91.4 KB",
     "isBroken": false
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProviderIN/icon.png",
-    "fileHash": "sha256-9a761c9a80fcf9108f11eef21cccc0bf2b3a3251d037b4130aadef32f225a017",
+    "fileHash": "sha256-c5b59a26780983de2b53694a0858fa115fe2dbd8cedb79a6afa482cf1945c882",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 94592,
+    "fileSize": 92031,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -5657,13 +5657,13 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 52,
+    "version": 53,
     "internalName": "MovieBoxProviderIN",
     "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
     "name": "MovieBoxProviderIN",
     "isAdult": false,
-    "formattedSize": "92.4 KB",
+    "formattedSize": "89.9 KB",
     "isBroken": false
   },
   {
@@ -5740,14 +5740,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.cs3",
     "status": 1,
-    "version": 16,
+    "version": 17,
     "name": "Movies4u",
     "internalName": "Movies4u",
     "authors": [
       "Phisher98"
     ],
     "description": "Movies4u",
-    "fileSize": 119352,
+    "fileSize": 121537,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -5756,9 +5756,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5d708b8a070c349533383816f29dc802f6f3cec7afac4925a5f08fb7301306a8",
+    "fileHash": "sha256-0a9250fa15680b9062b161b4a3c7eec8c6c4449e16e6b2fe6b988edd3bde1897",
     "isAdult": false,
-    "formattedSize": "116.6 KB",
+    "formattedSize": "118.7 KB",
     "isBroken": false
   },
   {
@@ -6940,10 +6940,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/PlayZTVProvider/logo.jpg",
-    "fileHash": "sha256-9f1ac7089d94c280357e732971b85f0a63ab0bb7da8c5ff0b7634a9bf043f226",
+    "fileHash": "sha256-957fddfdacf390ffbc367ab0015d04dec4954599a91153e5aa1f5b5805c427db",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 111704,
+    "fileSize": 113796,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -6952,13 +6952,13 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 37,
+    "version": 38,
     "internalName": "PlayZTVProvider",
     "description": "Watch Live TV channels & sports via PlayZTV",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PlayZTVProvider.cs3",
     "name": "PlayZTVProvider",
     "isAdult": false,
-    "formattedSize": "109.1 KB",
+    "formattedSize": "111.1 KB",
     "isBroken": false
   },
   {
@@ -8091,7 +8091,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 676,
+    "version": 678,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8099,7 +8099,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1674669,
+    "fileSize": 1725266,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8112,7 +8112,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-0d364a1eca8d3992fea1135b002f70550afd23c764bdff9a65ed01c9e83ec934",
+    "fileHash": "sha256-01c6f397e8ef1b881c30798b58670789824eaade2e34cff8d2e6557112f77468",
     "isAdult": false,
     "formattedSize": "1.6 MB",
     "isBroken": false
@@ -8984,14 +8984,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
     "status": 1,
-    "version": 40,
+    "version": 41,
     "name": "UHDmoviesProvider",
     "internalName": "UHDmoviesProvider",
     "authors": [
       "Phisher98"
     ],
     "description": "Indian Multi-language 4K Provider",
-    "fileSize": 85969,
+    "fileSize": 91192,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -9000,9 +9000,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-cf865ee19fe115ba70d817b1b0c2ef4036d30a686663091b10f03063384291fd",
+    "fileHash": "sha256-851fcceb58ed47033ecd90bc922b1ad856de724b859869d9396b254abc4a5b38",
     "isAdult": false,
-    "formattedSize": "84 KB",
+    "formattedSize": "89.1 KB",
     "isBroken": false
   },
   {
