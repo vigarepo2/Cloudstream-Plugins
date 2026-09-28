@@ -117,14 +117,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Aki.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Aki",
     "internalName": "Aki",
     "authors": [
       "ByAyzen"
     ],
     "description": "Dream or Enjoy The Hentai you re looking for is here. Find the Hentai you re looking for in video and 3D or Asmr with 1080p or 720p quality. Watch on any device today",
-    "fileSize": 20438,
+    "fileSize": 20450,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -132,7 +132,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aki-h.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b4ac392487f0c2a8b7451e17688638b72e6a0605276962f6f450928351949f8f",
+    "fileHash": "sha256-95ba682afe8517aea510a53d7eb5042d051085c73c22c65668cc963efc060a4b",
     "isAdult": true,
     "formattedSize": "20 KB",
     "isBroken": false
@@ -934,14 +934,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animesalt.cs3",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "Animesalt",
     "internalName": "Animesalt",
     "authors": [
       "Phisher98"
     ],
     "description": "Anime/Cartoon in Hindi",
-    "fileSize": 77740,
+    "fileSize": 80556,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -951,9 +951,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animesalt.ac&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-0f37ac640ed0a09333cd968b8e0412da4986a7de4de0e4ddebc0d330a5364286",
+    "fileHash": "sha256-4641792527acafc78b873fade0f966555c159cec52580cd1e7cb58e9a265749f",
     "isAdult": false,
-    "formattedSize": "75.9 KB",
+    "formattedSize": "78.7 KB",
     "isBroken": false
   },
   {
@@ -5597,14 +5597,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
     "status": 1,
-    "version": 33,
+    "version": 35,
     "name": "MovieBoxProvider",
     "internalName": "MovieBoxProvider",
     "authors": [
       "NivinCNC,Phisher98"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 123865,
+    "fileSize": 164786,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -5613,9 +5613,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b51b74a70ae669f81304cc1a41fb2a1f09e220226bc3b69c73e6067f69b14956",
+    "fileHash": "sha256-09dd993773319a1dd60593678151f5811ecd874936cda3abc20f6f65edc1ce8d",
     "isAdult": false,
-    "formattedSize": "121 KB",
+    "formattedSize": "160.9 KB",
     "isBroken": false
   },
   {
@@ -8091,7 +8091,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 678,
+    "version": 680,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8099,7 +8099,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1725266,
+    "fileSize": 1747326,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8112,9 +8112,9 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-01c6f397e8ef1b881c30798b58670789824eaade2e34cff8d2e6557112f77468",
+    "fileHash": "sha256-8ef21fb77d060cfd7cd8326eae5bf069a983b996a74aa4de66d684cfc6a65e56",
     "isAdult": false,
-    "formattedSize": "1.6 MB",
+    "formattedSize": "1.7 MB",
     "isBroken": false
   },
   {
