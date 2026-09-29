@@ -353,31 +353,6 @@
     "isBroken": false
   },
   {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniDb.cs3",
-    "status": 1,
-    "version": 16,
-    "name": "AniDb",
-    "internalName": "AniDb",
-    "authors": [
-      "Phisher98"
-    ],
-    "description": "Animes",
-    "fileSize": 100920,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anidb.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-8cc5d15adbbd9754ed1142103a8aa5df0b95665073fa1ae6437a297875b53106",
-    "isAdult": false,
-    "formattedSize": "98.6 KB",
-    "isBroken": false
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=anifreakz.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
@@ -5597,14 +5572,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
     "status": 1,
-    "version": 35,
+    "version": 36,
     "name": "MovieBoxProvider",
     "internalName": "MovieBoxProvider",
     "authors": [
       "NivinCNC,Phisher98"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 164786,
+    "fileSize": 164521,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -5613,9 +5588,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-09dd993773319a1dd60593678151f5811ecd874936cda3abc20f6f65edc1ce8d",
+    "fileHash": "sha256-ca21d1b09a83421960cf4e31cbd89ac211f59e0431484a24a19280814711cfc0",
     "isAdult": false,
-    "formattedSize": "160.9 KB",
+    "formattedSize": "160.7 KB",
     "isBroken": false
   },
   {
@@ -8091,7 +8066,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 680,
+    "version": 681,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8099,7 +8074,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1747326,
+    "fileSize": 1763849,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8112,7 +8087,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-8ef21fb77d060cfd7cd8326eae5bf069a983b996a74aa4de66d684cfc6a65e56",
+    "fileHash": "sha256-97b385e05aa6d074a505f7b3712b63129547af1111553bee012da182995013a9",
     "isAdult": false,
     "formattedSize": "1.7 MB",
     "isBroken": false
@@ -8803,22 +8778,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkHub.cs3",
     "status": 1,
-    "version": 87,
+    "version": 88,
     "name": "TurkHub",
     "internalName": "TurkHub",
     "authors": [
       "kraptor"
     ],
     "description": "TurkHub.",
-    "fileSize": 19478,
+    "fileSize": 19481,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub144.cfd&size=128",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub145.cfd&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-dde28dbcac51922e2cbeec01a2cf0add85d0a59972f4f7aaf68041576a723540",
+    "fileHash": "sha256-b93195b6b1b4ff5aa4c1fa3e602ab9f659e946449562a7e312887417cb9b07dd",
     "isAdult": true,
     "formattedSize": "19 KB",
     "isBroken": false
@@ -8894,22 +8869,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 142,
+    "version": 143,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 37290,
+    "fileSize": 37285,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno49.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno50.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-912d132adadbb15d1c0014babf13e7af4046fe313efa247ab74ea31695620eda",
+    "fileHash": "sha256-64071048ae5eeb62c425eeb58810be22bb7cb7f60e01b2e9590d657605e82ed0",
     "isAdult": true,
     "formattedSize": "36.4 KB",
     "isBroken": false
