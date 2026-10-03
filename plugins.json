@@ -546,7 +546,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeAV.cs3",
     "status": 1,
-    "version": 17,
+    "version": 18,
     "name": "AnimeAV",
     "internalName": "AnimeAV",
     "authors": [
@@ -554,7 +554,7 @@
       "ByAyzen"
     ],
     "description": "Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
-    "fileSize": 27726,
+    "fileSize": 49899,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -562,9 +562,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
     "apiVersion": 1,
-    "fileHash": "sha256-fcf47ba472388c30843a5878f370987f58ceea462597afcadf913dd0ad1d6798",
+    "fileHash": "sha256-e1cef148fb5d86cfaf7dc4ff181acf71d64be901dd91f7db080eeb5aa3847c9a",
     "isAdult": false,
-    "formattedSize": "27.1 KB",
+    "formattedSize": "48.7 KB",
     "isBroken": false
   },
   {
@@ -836,14 +836,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.cs3",
     "status": 1,
-    "version": 40,
+    "version": 42,
     "name": "AnimePahe",
     "internalName": "AnimePahe",
     "authors": [
       "Cloudburst,Lorem Ipsum,Phisher98"
     ],
     "description": "Animes (SUB/DUB)",
-    "fileSize": 132509,
+    "fileSize": 150784,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -853,9 +853,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0fd30c994f8ab87c2b0cedf13d96a00e4abfb0c32589dc29e3a7dcf251dd492b",
+    "fileHash": "sha256-4345226de8221195cd1495a7507338d6f6b663ca8ec61daa6156a32294947858",
     "isAdult": false,
-    "formattedSize": "129.4 KB",
+    "formattedSize": "147.3 KB",
     "isBroken": false
   },
   {
@@ -2729,23 +2729,23 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Esheaq.cs3",
     "status": 1,
-    "version": 18,
+    "version": 21,
     "name": "Esheaq",
     "internalName": "Esheaq",
     "authors": [
       "kraptor"
     ],
     "description": "قصة عشق الأصلي لأحدث المسلسلات التركية والدراما المترجمة علي قصه عشق ، يمكنك من خلال موقع قصة عشق مشاهدة كل جديد في عالم الدراما التركية",
-    "fileSize": 17196,
+    "fileSize": 17197,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "ar",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://esk.onl&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://esheeq.my&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-4850240c4030928ef14f9ded503359c141d188e6576123073996905adecff2e3",
+    "fileHash": "sha256-611b9d4cd00722bd5859fce476591d1dfe71d5cf2731f56ef4f54dcf86cc20f9",
     "isAdult": false,
     "formattedSize": "16.8 KB",
     "isBroken": false
@@ -3595,14 +3595,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hdmovie2.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Hdmovie2",
     "internalName": "Hdmovie2",
     "authors": [
       "Phisher98"
     ],
     "description": "Hdmovie2",
-    "fileSize": 78605,
+    "fileSize": 80829,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -3611,9 +3611,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/hdmovie2.png",
     "apiVersion": 1,
-    "fileHash": "sha256-57f73c026a6d2352ec696cea6eaecd2a8c71ee03fe11f00a9ab04660c6e73beb",
+    "fileHash": "sha256-7a743282ec27b67f072acd7b30de31a8eff1788a27cee23a868c3910a0ca9ce8",
     "isAdult": false,
-    "formattedSize": "76.8 KB",
+    "formattedSize": "78.9 KB",
     "isBroken": false
   },
   {
@@ -7443,7 +7443,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Reanime.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Reanime",
     "internalName": "Reanime",
     "authors": [
@@ -7459,7 +7459,7 @@
     ],
     "iconUrl": "https://reanime.to/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-d131b111e596f5214850ee8c3bf402e6dfcf22998c80a1fb60c0267e61657ae4",
+    "fileHash": "sha256-b98b547555906d832c3693d63b94c1c8000bfd16c7e8714f7945b683209b4383",
     "isAdult": false,
     "formattedSize": "110.5 KB",
     "isBroken": false
@@ -8064,7 +8064,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 684,
+    "version": 685,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8072,7 +8072,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1891998,
+    "fileSize": 1907877,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8085,7 +8085,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-362c758605553806cf4fa622f08614cbaa5116ae9f9a4665b1cb0bd96cd92d53",
+    "fileHash": "sha256-7e6ca5f25a444e1c8d7c642b677f16e34cecaf877c710c3a76dbd9ca334ce913",
     "isAdult": false,
     "formattedSize": "1.8 MB",
     "isBroken": false
@@ -8867,22 +8867,22 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/TurkPorno.cs3",
     "status": 1,
-    "version": 144,
+    "version": 145,
     "name": "TurkPorno",
     "internalName": "TurkPorno",
     "authors": [
       "Kraptor"
     ],
     "description": "Türk ifşa.",
-    "fileSize": 37284,
+    "fileSize": 37287,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "tr",
     "tvTypes": [
       "NSFW"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno51.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno52.lat&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ebffa5a1121016074625c789c1bae4fd099b216cb59472a6bd46bca583b07a96",
+    "fileHash": "sha256-0b1abe46ea0efcd6f27b0b081952b28fa66041c2fb6338e124551cfc0606cba5",
     "isAdult": true,
     "formattedSize": "36.4 KB",
     "isBroken": false
