@@ -546,7 +546,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeAV.cs3",
     "status": 1,
-    "version": 18,
+    "version": 19,
     "name": "AnimeAV",
     "internalName": "AnimeAV",
     "authors": [
@@ -554,7 +554,7 @@
       "ByAyzen"
     ],
     "description": "Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
-    "fileSize": 49899,
+    "fileSize": 50592,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -562,9 +562,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
     "apiVersion": 1,
-    "fileHash": "sha256-e1cef148fb5d86cfaf7dc4ff181acf71d64be901dd91f7db080eeb5aa3847c9a",
+    "fileHash": "sha256-f49cbe0eb57a13b9749bcc41950b4ddf798d23abf51accab42d7dda1069f5cff",
     "isAdult": false,
-    "formattedSize": "48.7 KB",
+    "formattedSize": "49.4 KB",
     "isBroken": false
   },
   {
@@ -836,14 +836,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.cs3",
     "status": 1,
-    "version": 42,
+    "version": 43,
     "name": "AnimePahe",
     "internalName": "AnimePahe",
     "authors": [
       "Cloudburst,Lorem Ipsum,Phisher98"
     ],
     "description": "Animes (SUB/DUB)",
-    "fileSize": 150784,
+    "fileSize": 155629,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -853,9 +853,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-4345226de8221195cd1495a7507338d6f6b663ca8ec61daa6156a32294947858",
+    "fileHash": "sha256-e3155be2aaf782f8ed03d6807698c2cc5d63ac6061b894ec4853d5a5c11dd166",
     "isAdult": false,
-    "formattedSize": "147.3 KB",
+    "formattedSize": "152 KB",
     "isBroken": false
   },
   {
@@ -1365,14 +1365,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Beeg.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Beeg",
     "internalName": "Beeg",
     "authors": [
       "kraptor"
     ],
     "description": "Beeg.com is a free porn website that features a wide variety of adult videos. It has a large selection of videos from various genres.",
-    "fileSize": 26981,
+    "fileSize": 32717,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -1380,9 +1380,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://beeg.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-a92fc55b5c64f1726bf594deead5cb28250b170a913a9376054f3f2b79e2707b",
+    "fileHash": "sha256-9c5fdf6228285738790e62dd50a6d8b31c99c997b0714b500b237156fa11ec5d",
     "isAdult": true,
-    "formattedSize": "26.3 KB",
+    "formattedSize": "32 KB",
     "isBroken": false
   },
   {
@@ -3170,7 +3170,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FullRaces.cs3",
     "status": 1,
-    "version": 13,
+    "version": 14,
     "name": "FullRaces",
     "internalName": "FullRaces",
     "authors": [
@@ -3178,7 +3178,7 @@
       "kerimmkirac"
     ],
     "description": "Formula 1 is one of the most popular and dramatic sports in the world. You can watch Formula One races replays videos online and enjoy every moment of this exciting sports event. We offer to watch F1 Full Races replays FREE in HD",
-    "fileSize": 42757,
+    "fileSize": 47066,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -3187,9 +3187,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullraces.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-dfd6ce5f70d3a26c1a12e05939ecbc289edec285fc873374a66606ed806650db",
+    "fileHash": "sha256-c1d96d8217df9f25f7ee94ffed1cd6ddee949833168948153aba02658c46b955",
     "isAdult": false,
-    "formattedSize": "41.8 KB",
+    "formattedSize": "46 KB",
     "isBroken": false
   },
   {
@@ -3571,13 +3571,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
     "status": 1,
-    "version": 56,
+    "version": 57,
     "name": "HDhub4u",
     "internalName": "HDhub4u",
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 119457,
+    "fileSize": 122852,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -3587,9 +3587,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6a308da17b16798b9319bef8b820117bf79365c958c1aba7fdd7227dbf9cad05",
+    "fileHash": "sha256-ae9668b4de9849d1f60558f867ecc3a48dbe5a964b4f651b6e886bd42578a8eb",
     "isAdult": false,
-    "formattedSize": "116.7 KB",
+    "formattedSize": "120 KB",
     "isBroken": false
   },
   {
@@ -7968,7 +7968,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Speedporn.cs3",
     "status": 1,
-    "version": 29,
+    "version": 30,
     "name": "Speedporn",
     "internalName": "Speedporn",
     "authors": [
@@ -7977,7 +7977,7 @@
       "HindiProvider"
     ],
     "description": "SpeedPorn",
-    "fileSize": 106079,
+    "fileSize": 106009,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -7985,9 +7985,9 @@
     ],
     "iconUrl": "https://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b00b2a9eeeca4e0d8af2917f015a52e5a847793dc484deedd47de3d23af8ed62",
+    "fileHash": "sha256-5bd363c8bacd0d5355ee3b10750fd1faba4b28d0a4c0fca711ac13c7f9d18906",
     "isAdult": true,
-    "formattedSize": "103.6 KB",
+    "formattedSize": "103.5 KB",
     "isBroken": false
   },
   {
@@ -8064,7 +8064,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 685,
+    "version": 686,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -8072,7 +8072,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1907877,
+    "fileSize": 1920719,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8085,7 +8085,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-7e6ca5f25a444e1c8d7c642b677f16e34cecaf877c710c3a76dbd9ca334ce913",
+    "fileHash": "sha256-0d0e141755af58814af275e57b2514a8d453f86f8b9c3dc9a7c8fcb90366f6bd",
     "isAdult": false,
     "formattedSize": "1.8 MB",
     "isBroken": false
