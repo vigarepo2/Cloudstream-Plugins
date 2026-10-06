@@ -1031,14 +1031,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "AnimeYTX",
     "internalName": "AnimeYTX",
     "authors": [
       "ByAyzen"
     ],
     "description": "Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
-    "fileSize": 52269,
+    "fileSize": 52609,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "mx",
     "tvTypes": [
@@ -1046,9 +1046,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-f912ec57c85b928ddd6a9626bb4fedeb82e3ab76f71b5b3c17dcc925d8ded227",
+    "fileHash": "sha256-0e465f5dfa9bd3bed6022335321daa933c89630fb565f29ccb64cc8c636ebd22",
     "isAdult": false,
-    "formattedSize": "51 KB",
+    "formattedSize": "51.4 KB",
     "isBroken": false
   },
   {
@@ -1625,14 +1625,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
     "status": 1,
-    "version": 16,
+    "version": 17,
     "name": "Cinefreak",
     "internalName": "Cinefreak",
     "authors": [
       "Phisher98"
     ],
     "description": "Bangla/Hindi Movies/Series",
-    "fileSize": 120839,
+    "fileSize": 124078,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "bn",
     "tvTypes": [
@@ -1642,9 +1642,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
     "apiVersion": 1,
-    "fileHash": "sha256-8d9c6d484c78c35bdcebe0e96d8adb82da3bda7152281a55250c641fcc339675",
+    "fileHash": "sha256-9c9ea66e1b6be84115ba17e18d1eb52e6995e8848e925edb1ad8e7d141b1cb6b",
     "isAdult": false,
-    "formattedSize": "118 KB",
+    "formattedSize": "121.2 KB",
     "isBroken": false
   },
   {
@@ -2736,7 +2736,7 @@
       "kraptor"
     ],
     "description": "قصة عشق الأصلي لأحدث المسلسلات التركية والدراما المترجمة علي قصه عشق ، يمكنك من خلال موقع قصة عشق مشاهدة كل جديد في عالم الدراما التركية",
-    "fileSize": 17197,
+    "fileSize": 17199,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "ar",
     "tvTypes": [
@@ -2745,7 +2745,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://esheeq.my&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-611b9d4cd00722bd5859fce476591d1dfe71d5cf2731f56ef4f54dcf86cc20f9",
+    "fileHash": "sha256-826f9fa3b1a1886559f6274eb38d5e40c2cf963020c1b29233e22558d92292b3",
     "isAdult": false,
     "formattedSize": "16.8 KB",
     "isBroken": false
@@ -3170,7 +3170,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FullRaces.cs3",
     "status": 1,
-    "version": 14,
+    "version": 15,
     "name": "FullRaces",
     "internalName": "FullRaces",
     "authors": [
@@ -3178,7 +3178,7 @@
       "kerimmkirac"
     ],
     "description": "Formula 1 is one of the most popular and dramatic sports in the world. You can watch Formula One races replays videos online and enjoy every moment of this exciting sports event. We offer to watch F1 Full Races replays FREE in HD",
-    "fileSize": 47066,
+    "fileSize": 54111,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -3187,9 +3187,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullraces.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-c1d96d8217df9f25f7ee94ffed1cd6ddee949833168948153aba02658c46b955",
+    "fileHash": "sha256-c292f779282f526ccca6f21bd8adafccb5d733ef2c00d20058c8bce32d9ce015",
     "isAdult": false,
-    "formattedSize": "46 KB",
+    "formattedSize": "52.8 KB",
     "isBroken": false
   },
   {
@@ -5763,14 +5763,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
-    "version": 31,
+    "version": 32,
     "name": "Movix",
     "internalName": "Movix",
     "authors": [
       "ByAyzen"
     ],
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 171190,
+    "fileSize": 184697,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "fr",
     "tvTypes": [
@@ -5780,9 +5780,9 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.fun/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-58e02ed47a33521752195f95fd7a0a7accde30c851c4e55e326e660d33f4a642",
+    "fileHash": "sha256-496660b4e9d444dbaaa86b45d92fe77de93b8c814454acc88cd2895937239b28",
     "isAdult": false,
-    "formattedSize": "167.2 KB",
+    "formattedSize": "180.4 KB",
     "isBroken": false
   },
   {
@@ -5837,14 +5837,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
     "status": 1,
-    "version": 54,
+    "version": 55,
     "name": "MultiMoviesProvider",
     "internalName": "MultiMoviesProvider",
     "authors": [
       "Phisher98"
     ],
     "description": "Indian Multi-language HD Provider",
-    "fileSize": 138506,
+    "fileSize": 151434,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -5854,9 +5854,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3ff243f468611d0995c5186811aeeabacfad1739ca0b4fe96a678b1e5afcddba",
+    "fileHash": "sha256-ce2eda6e5c023df55eed57488aafded9533808642a7cb891b8c4c9ce2a328e24",
     "isAdult": false,
-    "formattedSize": "135.3 KB",
+    "formattedSize": "147.9 KB",
     "isBroken": false
   },
   {
@@ -6397,14 +6397,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/OnShort.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "OnShort",
     "internalName": "OnShort",
     "authors": [
       "kraptor"
     ],
     "description": "Discover dubbed and subtitled short dramas from multiple platforms and open every available episode on ONShort.",
-    "fileSize": 22078,
+    "fileSize": 21396,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -6412,9 +6412,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=https://onshort.net",
     "apiVersion": 1,
-    "fileHash": "sha256-e7db73e98313edb13f010adb433f650d9f554f848ef05d1b48edd6e9dbaea26e",
+    "fileHash": "sha256-6e87e9b6ad2422698829c07e4262f987605fb71339434061d898faf78e589aad",
     "isAdult": false,
-    "formattedSize": "21.6 KB",
+    "formattedSize": "20.9 KB",
     "isBroken": false
   },
   {
@@ -8072,7 +8072,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1920719,
+    "fileSize": 1932040,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8085,7 +8085,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-0d0e141755af58814af275e57b2514a8d453f86f8b9c3dc9a7c8fcb90366f6bd",
+    "fileHash": "sha256-47eb93026809c343e29874440ce6014d8be1bab761515b50cc1c99500b8c7c49",
     "isAdult": false,
     "formattedSize": "1.8 MB",
     "isBroken": false
