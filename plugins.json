@@ -1625,14 +1625,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
     "status": 1,
-    "version": 17,
+    "version": 18,
     "name": "Cinefreak",
     "internalName": "Cinefreak",
     "authors": [
       "Phisher98"
     ],
     "description": "Bangla/Hindi Movies/Series",
-    "fileSize": 124078,
+    "fileSize": 136561,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "bn",
     "tvTypes": [
@@ -1642,9 +1642,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9c9ea66e1b6be84115ba17e18d1eb52e6995e8848e925edb1ad8e7d141b1cb6b",
+    "fileHash": "sha256-cae18f9c1daf231a2dc8864e8f91fae7c9cdb7e7c3fdf7348c500bd4513ee49a",
     "isAdult": false,
-    "formattedSize": "121.2 KB",
+    "formattedSize": "133.4 KB",
     "isBroken": false
   },
   {
@@ -4036,13 +4036,13 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.cs3",
     "status": 1,
-    "version": 16,
+    "version": 17,
     "name": "IdlixProvider",
     "internalName": "IdlixProvider",
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 92061,
+    "fileSize": 99794,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "id",
     "tvTypes": [
@@ -4053,9 +4053,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/idlix.png",
     "apiVersion": 1,
-    "fileHash": "sha256-332395846879d696da3f944ce89a1d90eda204f1c9fc2b01f6921c6f9e4eb67c",
+    "fileHash": "sha256-70b163c3d4a898d2f6d59d5f96b924d35678f89869aad44c0f65d82effcb65da",
     "isAdult": false,
-    "formattedSize": "89.9 KB",
+    "formattedSize": "97.5 KB",
     "isBroken": false
   },
   {
@@ -8072,7 +8072,7 @@
       "Hexated"
     ],
     "description": "#1 best extention based on MultiAPI",
-    "fileSize": 1932040,
+    "fileSize": 1934736,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -8085,7 +8085,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-47eb93026809c343e29874440ce6014d8be1bab761515b50cc1c99500b8c7c49",
+    "fileHash": "sha256-cab14bece21d74ff20b6d388497f9d9531ce492d58ba837affb61c2d401a3d0c",
     "isAdult": false,
     "formattedSize": "1.8 MB",
     "isBroken": false
