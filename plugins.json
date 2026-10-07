@@ -2,14 +2,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/18EU.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "18EU",
     "internalName": "18EU",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch full EURO Movies with Full Frontal Nudity",
-    "fileSize": 16561,
+    "fileSize": 16546,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -17,7 +17,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://18eu.net&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-818361790ee897e20066f87675b7fc012e76bbf1d7461000b6e132cbfe46ea49",
+    "fileHash": "sha256-d031bf9e9800646ba71481f460b2d6bf8c3e8b201f809b6de6f1db1bae98d6c9",
     "isAdult": true,
     "formattedSize": "16.2 KB",
     "isBroken": false
@@ -618,14 +618,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeDekhoProvider.cs3",
     "status": 1,
-    "version": 70,
+    "version": 71,
     "name": "AnimeDekhoProvider",
     "internalName": "AnimeDekhoProvider",
     "authors": [
       "Phisher98"
     ],
     "description": "Includes AnimeDekho,OnePace(DUB,SUB) and HindiSubAnime",
-    "fileSize": 107624,
+    "fileSize": 123407,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -635,9 +635,9 @@
     ],
     "iconUrl": "https://animedekho.app/wp-content/uploads/2023/07/AnimeDekho-Logo-300x-1.png",
     "apiVersion": 1,
-    "fileHash": "sha256-504d0f45339eea5ebd944fd5e37f3d0d6a44fffc1a1b3903cad411c13b2c6014",
+    "fileHash": "sha256-6e9b9bf288f82d30c33eadcc09c4f68895cdc88abb2e635c3fe6aec30fea969c",
     "isAdult": false,
-    "formattedSize": "105.1 KB",
+    "formattedSize": "120.5 KB",
     "isBroken": false
   },
   {
@@ -1459,6 +1459,29 @@
     "isBroken": false
   },
   {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/BrazzPW.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "BrazzPW",
+    "internalName": "BrazzPW",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "BrazzPW.COM no PassWord required; Premium brazzers videos for free.",
+    "fileSize": 13658,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=brazzpw.xyz",
+    "apiVersion": 1,
+    "fileHash": "sha256-b743823adc4c41f70fe99bb70b04039d0621642c904e6c08f4a55b014037f712",
+    "isAdult": true,
+    "formattedSize": "13.3 KB",
+    "isBroken": false
+  },
+  {
     "url": "https://raw.githubusercontent.com/phisher98/CXXX/builds/Cam4.cs3",
     "status": 1,
     "version": 1,
@@ -2008,7 +2031,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Cumlouder.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "Cumlouder",
     "internalName": "Cumlouder",
     "authors": [
@@ -2016,7 +2039,7 @@
       "Kraptor"
     ],
     "description": "Cumlouder, Internet is for porn!",
-    "fileSize": 13387,
+    "fileSize": 13376,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -2024,7 +2047,7 @@
     ],
     "iconUrl": "http://www.google.com/s2/favicons?domain=cumlouder.com",
     "apiVersion": 1,
-    "fileHash": "sha256-e57b45e8dcbe82f51e3473da1eeceb2df393f7203ab63bc13d0c45a08231d434",
+    "fileHash": "sha256-214b749a3cf8482cec29e56d103cc1584f3ed1b9390e2a77dce40582a4e53139",
     "isAdult": true,
     "formattedSize": "13.1 KB",
     "isBroken": false
@@ -2846,24 +2869,24 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fibwatch.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "Fibwatch",
     "internalName": "Fibwatch",
     "authors": [
       "Phisher98"
     ],
-    "fileSize": 77894,
+    "fileSize": 80253,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "hi",
+    "language": "bn",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://f.pondit.xyz/fibwatch-logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7d5a5a824f897d955f3ff4a344218ead2bb56b972cebf29d65e9880552705de7",
+    "fileHash": "sha256-9fc3e9bc05ae8292fbadc2b2a95688efe216b0735d211f377ced0feeccdfe9f7",
     "isAdult": false,
-    "formattedSize": "76.1 KB",
+    "formattedSize": "78.4 KB",
     "isBroken": false
   },
   {
@@ -3804,14 +3827,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Hentaila.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "Hentaila",
     "internalName": "Hentaila",
     "authors": [
       "ByAyzen"
     ],
     "description": "porn",
-    "fileSize": 29444,
+    "fileSize": 29443,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "mx",
     "tvTypes": [
@@ -3819,7 +3842,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://hentaila.tv&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-235c480e65d628852588a5486822db9f28b2ac3de538214ee1a49f7d6a86d161",
+    "fileHash": "sha256-550e4f537646e863b9c11347ce47aad9086f0b432da2f02a677d2233e98bf87e",
     "isAdult": true,
     "formattedSize": "28.8 KB",
     "isBroken": false
@@ -6771,14 +6794,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Pinkueiga.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "Pinkueiga",
     "internalName": "Pinkueiga",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch Full Pinku Eiga, Japan movies 18+",
-    "fileSize": 16564,
+    "fileSize": 16552,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -6786,7 +6809,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinkueiga.net&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-fbf5568dff4d0a20ac26c24deb66317cc99746e2e90eaf6803debbb7b56b1756",
+    "fileHash": "sha256-928bfb6e50d591cf830382d079bd5775f4ef67b6cab7c5ae2a009fb63ae94c45",
     "isAdult": true,
     "formattedSize": "16.2 KB",
     "isBroken": false
@@ -9237,14 +9260,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/WatchHentai.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "WatchHentai",
     "internalName": "WatchHentai",
     "authors": [
       "ByAyzen"
     ],
     "description": "Watch hentai online and free download hd. stream online, daily releases uncensored, english subbed and dubbed, anime hentai porn in 720p and 1080p.",
-    "fileSize": 14508,
+    "fileSize": 14505,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -9252,7 +9275,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://watchhentai.net&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-036a4c36b7cea74b9e8fb1cbba36c7d8c75363305c4b9eed554e1575ab02ce6b",
+    "fileHash": "sha256-612856e232531ed7a64114659c1466e27bb514fafcc04b8f7df62adc7d7700aa",
     "isAdult": true,
     "formattedSize": "14.2 KB",
     "isBroken": false
@@ -9306,7 +9329,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Wcoflix.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "Wcoflix",
     "internalName": "Wcoflix",
     "authors": [
@@ -9314,7 +9337,7 @@
       "kraptor"
     ],
     "description": "We have wide range of cartoons and anime that you can watch in HD and High quality for free.",
-    "fileSize": 22311,
+    "fileSize": 23834,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -9323,9 +9346,9 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.wcoflix.tv/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-3a44e6944851c296e597ef5b4a41a0c9e9a66d8be37348dc152af371df469637",
+    "fileHash": "sha256-8f2556de6d18188f43070de47bd4fd5177282e9f58642530083d66d1ca06e4a4",
     "isAdult": false,
-    "formattedSize": "21.8 KB",
+    "formattedSize": "23.3 KB",
     "isBroken": false
   },
   {
@@ -9567,7 +9590,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/Xhamster.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "Xhamster (2)",
     "internalName": "Xhamster_2",
     "authors": [
@@ -9576,7 +9599,7 @@
       "SIX"
     ],
     "description": "(VPN) 5 milyondan fazla Porno Videosunu ücretsiz izleyin.",
-    "fileSize": 21039,
+    "fileSize": 21126,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -9584,9 +9607,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=xhamster.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-b099ff51513c9c8e91845d96fba423cc5717c03a3c13ccb4d8b35dcf88a3ab35",
+    "fileHash": "sha256-84adf1ca45cb0b27e3c726c6cd60f4db23d5e24a30335c68ed117db8bbc999bd",
     "isAdult": true,
-    "formattedSize": "20.5 KB",
+    "formattedSize": "20.6 KB",
     "isBroken": false
   },
   {
@@ -10033,14 +10056,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/builds/YouJizz.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "YouJizz",
     "internalName": "YouJizz",
     "authors": [
       "kraptor"
     ],
     "description": "Youjizz Porn Tube! Free porn movies and sex videos on your desktop or mobile phone.",
-    "fileSize": 13347,
+    "fileSize": 13337,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-GizliKeyif",
     "language": "en",
     "tvTypes": [
@@ -10048,7 +10071,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=youjizz.com",
     "apiVersion": 1,
-    "fileHash": "sha256-7add3cedf16700d1b18c9948cbe207699c9cc0e522a4160d277150f6690b759b",
+    "fileHash": "sha256-b808cadbdb2d53d049658fece713f2a9443fb9e5cda096d175d4cddd9890f33a",
     "isAdult": true,
     "formattedSize": "13 KB",
     "isBroken": false
